@@ -1,7 +1,6 @@
 import { Article } from "@/types";
 import winkNLP from "wink-nlp";
 import model from "wink-eng-lite-web-model";
-import { its } from "wink-nlp";
 
 const nlp = winkNLP(model);
 
