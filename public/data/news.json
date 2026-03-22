@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-22T11:07:06.748Z",
+  "generatedAt": "2026-03-22T12:08:18.970Z",
   "stats": {
-    "articleCount": 136,
+    "articleCount": 134,
     "sourceCount": 5,
     "topicCount": 8
   },
@@ -10,6 +10,54 @@
       "articleCount": 33,
       "sourceCount": 5,
       "articles": [
+        {
+          "id": "New York Times:https://www.nytimes.com/2026/03/22/theater/antigone-theater-art-sophocles-adaptations.html",
+          "title": "Who Is Antigone? The 2500-Year-Old Rebel With a Cause.",
+          "url": "https://www.nytimes.com/2026/03/22/theater/antigone-theater-art-sophocles-adaptations.html",
+          "source": "New York Times",
+          "publishedAt": "2026-03-22T11:39:15.000Z",
+          "description": "“Antigone” gave us the original “bad girl,” but its themes go beyond that. How do adaptations keep making Sophocles’ ideas about democracy and theater new?",
+          "imageUrl": null,
+          "categories": [
+            "Theater",
+            "Theater (Off Broadway)",
+            "Antigone (Play)",
+            "Sophocles",
+            "Books and Literature",
+            "Law and Legislation"
+          ]
+        },
+        {
+          "id": "New York Times:https://www.nytimes.com/2026/03/22/world/europe/pierre-eduoard-sterin-france-far-right.html",
+          "title": "The Billionaire Funding France’s Far Right",
+          "url": "https://www.nytimes.com/2026/03/22/world/europe/pierre-eduoard-sterin-france-far-right.html",
+          "source": "New York Times",
+          "publishedAt": "2026-03-22T11:35:09.000Z",
+          "description": "Pierre-Édouard Stérin is financing projects to make France less Muslim, more Catholic and more capitalist. He says his program has trained thousands running for municipal office on Sunday.",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22int-France-Billionaire-tlhc/22int-France-Billionaire-tlhc-mediumSquareAt3X-v3.jpg",
+          "categories": [
+            "Sterin, Pierre-Edouard",
+            "Religion-State Relations",
+            "Right-Wing Extremism and Alt-Right",
+            "Budgets and Budgeting",
+            "Politics and Government",
+            "Philanthropy",
+            "Muslim Veiling",
+            "Immigration and Emigration",
+            "Muslims and Islam",
+            "Discrimination",
+            "High Net Worth Individuals",
+            "Mayors",
+            "Computer and Video Games",
+            "Elections, Mayors",
+            "Fringe Groups and Movements",
+            "Entrepreneurship",
+            "National Rally (France)",
+            "Roman Catholic Church",
+            "France",
+            "Belgium"
+          ]
+        },
         {
           "id": "New York Times:https://www.nytimes.com/video/us/elections/100000010785480/how-the-supreme-court-could-change-voting-by-mail.html",
           "title": "How the Supreme Court Could Change Voting by Mail",
@@ -102,54 +150,6 @@
             "Marseille (France)",
             "Le Pen, Marine",
             "Bardella, Jordan (1995- )"
-          ]
-        },
-        {
-          "id": "New York Times:https://www.nytimes.com/2026/03/22/pierre-eduoard-sterin-france-far-right.html",
-          "title": "The Billionaire Funding France’s Far Right",
-          "url": "https://www.nytimes.com/2026/03/22/pierre-eduoard-sterin-france-far-right.html",
-          "source": "New York Times",
-          "publishedAt": "2026-03-22T04:01:17.000Z",
-          "description": "Pierre-Édouard Stérin is financing projects to make France less Muslim, more Catholic and more capitalist. He says his program has trained thousands running for municipal office on Sunday.",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22int-France-Billionaire-tlhc/22int-France-Billionaire-tlhc-mediumSquareAt3X-v3.jpg",
-          "categories": [
-            "Sterin, Pierre-Edouard",
-            "Religion-State Relations",
-            "Right-Wing Extremism and Alt-Right",
-            "Budgets and Budgeting",
-            "Politics and Government",
-            "Philanthropy",
-            "Muslim Veiling",
-            "Immigration and Emigration",
-            "Muslims and Islam",
-            "Discrimination",
-            "High Net Worth Individuals",
-            "Mayors",
-            "Computer and Video Games",
-            "Elections, Mayors",
-            "Fringe Groups and Movements",
-            "Entrepreneurship",
-            "National Rally (France)",
-            "Roman Catholic Church",
-            "France",
-            "Belgium"
-          ]
-        },
-        {
-          "id": "New York Times:https://www.nytimes.com/2026/03/22/theater/antigone-theater-art-sophocles-adaptations.html",
-          "title": "Who Is Antigone? The 2500-Year-Old Rebel With a Cause.",
-          "url": "https://www.nytimes.com/2026/03/22/theater/antigone-theater-art-sophocles-adaptations.html",
-          "source": "New York Times",
-          "publishedAt": "2026-03-22T04:01:13.000Z",
-          "description": "“Antigone” gave us the original “bad girl,” but its themes go beyond that. How do adaptations keep making Sophocles’ ideas about democracy and theater new?",
-          "imageUrl": null,
-          "categories": [
-            "Theater",
-            "Theater (Off Broadway)",
-            "Antigone (Play)",
-            "Sophocles",
-            "Books and Literature",
-            "Law and Legislation"
           ]
         },
         {
@@ -505,7 +505,7 @@
         }
       ],
       "subtopics": {
-        "Supreme Court Voting by Mail Rulings": [
+        "Supreme Court and Voting by Mail Controversy": [
           {
             "id": "New York Times:https://www.nytimes.com/video/us/elections/100000010785480/how-the-supreme-court-could-change-voting-by-mail.html",
             "title": "How the Supreme Court Could Change Voting by Mail",
@@ -537,7 +537,86 @@
             ]
           }
         ],
-        "US-Iran Conflict and Trump Ultimatums": [
+        "France and Italy Political Elections and Referendums": [
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/22/world/europe/pierre-eduoard-sterin-france-far-right.html",
+            "title": "The Billionaire Funding France’s Far Right",
+            "url": "https://www.nytimes.com/2026/03/22/world/europe/pierre-eduoard-sterin-france-far-right.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-22T11:35:09.000Z",
+            "description": "Pierre-Édouard Stérin is financing projects to make France less Muslim, more Catholic and more capitalist. He says his program has trained thousands running for municipal office on Sunday.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22int-France-Billionaire-tlhc/22int-France-Billionaire-tlhc-mediumSquareAt3X-v3.jpg",
+            "categories": [
+              "Sterin, Pierre-Edouard",
+              "Religion-State Relations",
+              "Right-Wing Extremism and Alt-Right",
+              "Budgets and Budgeting",
+              "Politics and Government",
+              "Philanthropy",
+              "Muslim Veiling",
+              "Immigration and Emigration",
+              "Muslims and Islam",
+              "Discrimination",
+              "High Net Worth Individuals",
+              "Mayors",
+              "Computer and Video Games",
+              "Elections, Mayors",
+              "Fringe Groups and Movements",
+              "Entrepreneurship",
+              "National Rally (France)",
+              "Roman Catholic Church",
+              "France",
+              "Belgium"
+            ]
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/22/world/europe/france-mayors-elections-far-right.html",
+            "title": "France Is Voting for Thousands of New Mayors. Here’s Why It Matters.",
+            "url": "https://www.nytimes.com/2026/03/22/world/europe/france-mayors-elections-far-right.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-22T04:01:22.000Z",
+            "description": "The far-right party had first-round successes in several cities, but so did the far left. Sunday’s second round may clarify who has real momentum.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22int-france-elections-ckvl/22int-france-elections-ckvl-mediumSquareAt3X.jpg",
+            "categories": [
+              "Europe",
+              "France",
+              "Allisio, Franck",
+              "Payan, Benoit",
+              "Politics and Government",
+              "Elections",
+              "National Rally (France)",
+              "Macron, Emmanuel (1977- )",
+              "Hidalgo, Anne (1959- )",
+              "Marseille (France)",
+              "Le Pen, Marine",
+              "Bardella, Jordan (1995- )"
+            ]
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/22/world/europe/italy-referendum-judiciary-meloni.html",
+            "title": "Italy’s Leader Wants to Change the Constitution. Italians Don’t Get It.",
+            "url": "https://www.nytimes.com/2026/03/22/world/europe/italy-referendum-judiciary-meloni.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-22T04:01:07.000Z",
+            "description": "Voting starts Sunday on a referendum to overhaul Italy’s judiciary. Many people don’t understand the complex proposal — and it could hurt Prime Minister Giorgia Meloni.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22int-Italy-Referendum-01-qfkw/22int-Italy-Referendum-01-qfkw-mediumSquareAt3X.jpg",
+            "categories": [
+              "Italy",
+              "Meloni, Giorgia (1977- )"
+            ]
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cm29n1lvp64o?at_medium=RSS&at_campaign=rss",
+            "title": "Italy is voting on whether to change its constitution. What does this mean for Meloni?",
+            "url": "https://www.bbc.com/news/articles/cm29n1lvp64o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T00:10:15.000Z",
+            "description": "The dry subject matter of this weekend's vote seems obscure but for many it is a vote on the PM.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/979c/live/e80fb280-2481-11f1-b297-95b0a0a8331e.jpg",
+            "categories": []
+          }
+        ],
+        "US-Iran Tensions and Military Threats": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/c5yljdgwppzo?at_medium=RSS&at_campaign=rss",
             "title": "Foreign secretary denounces 'reckless Iran threats' after missiles fired at Diego Garcia",
@@ -621,88 +700,7 @@
             "categories": []
           }
         ],
-        "Italian Referendum on Judiciary Reform": [
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/22/world/europe/italy-referendum-judiciary-meloni.html",
-            "title": "Italy’s Leader Wants to Change the Constitution. Italians Don’t Get It.",
-            "url": "https://www.nytimes.com/2026/03/22/world/europe/italy-referendum-judiciary-meloni.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-22T04:01:07.000Z",
-            "description": "Voting starts Sunday on a referendum to overhaul Italy’s judiciary. Many people don’t understand the complex proposal — and it could hurt Prime Minister Giorgia Meloni.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22int-Italy-Referendum-01-qfkw/22int-Italy-Referendum-01-qfkw-mediumSquareAt3X.jpg",
-            "categories": [
-              "Italy",
-              "Meloni, Giorgia (1977- )"
-            ]
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cm29n1lvp64o?at_medium=RSS&at_campaign=rss",
-            "title": "Italy is voting on whether to change its constitution. What does this mean for Meloni?",
-            "url": "https://www.bbc.com/news/articles/cm29n1lvp64o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T00:10:15.000Z",
-            "description": "The dry subject matter of this weekend's vote seems obscure but for many it is a vote on the PM.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/979c/live/e80fb280-2481-11f1-b297-95b0a0a8331e.jpg",
-            "categories": []
-          }
-        ],
-        "French Local Elections and Far-Right Influence": [
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/22/world/europe/france-mayors-elections-far-right.html",
-            "title": "France Is Voting for Thousands of New Mayors. Here’s Why It Matters.",
-            "url": "https://www.nytimes.com/2026/03/22/world/europe/france-mayors-elections-far-right.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-22T04:01:22.000Z",
-            "description": "The far-right party had first-round successes in several cities, but so did the far left. Sunday’s second round may clarify who has real momentum.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22int-france-elections-ckvl/22int-france-elections-ckvl-mediumSquareAt3X.jpg",
-            "categories": [
-              "Europe",
-              "France",
-              "Allisio, Franck",
-              "Payan, Benoit",
-              "Politics and Government",
-              "Elections",
-              "National Rally (France)",
-              "Macron, Emmanuel (1977- )",
-              "Hidalgo, Anne (1959- )",
-              "Marseille (France)",
-              "Le Pen, Marine",
-              "Bardella, Jordan (1995- )"
-            ]
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/22/pierre-eduoard-sterin-france-far-right.html",
-            "title": "The Billionaire Funding France’s Far Right",
-            "url": "https://www.nytimes.com/2026/03/22/pierre-eduoard-sterin-france-far-right.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-22T04:01:17.000Z",
-            "description": "Pierre-Édouard Stérin is financing projects to make France less Muslim, more Catholic and more capitalist. He says his program has trained thousands running for municipal office on Sunday.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22int-France-Billionaire-tlhc/22int-France-Billionaire-tlhc-mediumSquareAt3X-v3.jpg",
-            "categories": [
-              "Sterin, Pierre-Edouard",
-              "Religion-State Relations",
-              "Right-Wing Extremism and Alt-Right",
-              "Budgets and Budgeting",
-              "Politics and Government",
-              "Philanthropy",
-              "Muslim Veiling",
-              "Immigration and Emigration",
-              "Muslims and Islam",
-              "Discrimination",
-              "High Net Worth Individuals",
-              "Mayors",
-              "Computer and Video Games",
-              "Elections, Mayors",
-              "Fringe Groups and Movements",
-              "Entrepreneurship",
-              "National Rally (France)",
-              "Roman Catholic Church",
-              "France",
-              "Belgium"
-            ]
-          }
-        ],
-        "US Domestic Politics and Political Figures": [
+        "Trump, GOP Politics, and Conservative Perspectives": [
           {
             "id": "Fox News:https://www.foxnews.com/politics/pence-trump-upended-some-aspects-gop-agenda-hasnt-really-changed-republican-party",
             "title": "Pence: Trump upended ‘some aspects’ of GOP agenda but ‘hasn't really changed the Republican Party’",
@@ -796,6 +794,29 @@
             ]
           },
           {
+            "id": "Fox News:https://www.foxnews.com/politics/trump-administration-urges-judge-dissolve-injunction-blocking-abrego-garcias-deportation-liberia",
+            "title": "Trump administration urges judge to dissolve injunction blocking Abrego Garcia's deportation to Liberia",
+            "url": "https://www.foxnews.com/politics/trump-administration-urges-judge-dissolve-injunction-blocking-abrego-garcias-deportation-liberia",
+            "source": "Fox News",
+            "publishedAt": "2026-03-21T22:18:04.000Z",
+            "description": "The DOJ urged a judge to dissolve an injunction blocking Kilmar Abrego Garcia's detention, claiming the court's own order is the sole impediment to his deportation to Liberia.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/kilmar-abrego-garcia-maryland-district-court-fox-news-001.jpg?ve=1&tl=1",
+            "categories": [
+              "40814588-a3e4-510d-8c24-0d60c3953cb7",
+              "fnc",
+              "Fox News",
+              "fox-news/politics/justice-department",
+              "fox-news/politics/judiciary/federal-courts",
+              "fox-news/politics/federal-judges",
+              "fox-news/us/immigration",
+              "fox-news/politics",
+              "fox-news/politics/executive/white-house",
+              "fox-news/person/donald-trump",
+              "fox-news/politics",
+              "article"
+            ]
+          },
+          {
             "id": "New York Times:https://www.nytimes.com/2026/03/20/us/politics/california-primary-gop-governors-race.html",
             "title": "California Could Elect a Republican Governor Thanks to the ‘Jungle Primary’",
             "url": "https://www.nytimes.com/2026/03/20/us/politics/california-primary-gop-governors-race.html",
@@ -829,13 +850,23 @@
             ]
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/talarico-says-illegal-immigrant-students-are-the-most-patriotic",
-            "title": "Talarico Says Illegal Immigrant Students Are The ‘Most Patriotic’",
-            "url": "https://www.dailywire.com/news/talarico-says-illegal-immigrant-students-are-the-most-patriotic",
+            "id": "Daily Wire:https://www.dailywire.com/news/president-trump-drops-the-greatest-one-liner-in-press-conference-history",
+            "title": "President Trump Drops The Greatest One Liner In Press Conference History",
+            "url": "https://www.dailywire.com/news/president-trump-drops-the-greatest-one-liner-in-press-conference-history",
             "source": "Daily Wire",
-            "publishedAt": "2026-03-20T12:20:32.000Z",
-            "description": "James Talarico, the Democratic Senate nominee in Texas, claimed Thursday that the “undocumented students” he previously taught were the “most patriotic.” Talarico, who previously taught sixth-grade language arts at Rhodes Middle School in San Antonio, made the remarks during a live taping of The Bulwark podcast in Dallas with host Tim Miller, where he also ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2266143630.jpg",
+            "publishedAt": "2026-03-20T18:51:13.000Z",
+            "description": "The following is an edited transcript excerpt from The Michael Knowles Show. * * * President Trump just gave the finest one liner in the history of press conferences. So here is President Trump, sitting in the Oval Office yesterday with the Japanese prime minister, who seems to adore him. When she arrives at the ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2266853932.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/pilots-dont-mince-words-as-they-issue-stark-warning-on-homeland-safety",
+            "title": "Pilots Don’t Mince Words As They Issue Stark Warning On Homeland Safety",
+            "url": "https://www.dailywire.com/news/pilots-dont-mince-words-as-they-issue-stark-warning-on-homeland-safety",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T14:55:51.000Z",
+            "description": "WASHINGTON — Over a month into the Democrat-led Department of Homeland Security shutdown, the largest independent pilots union in the United States is calling for Congress to end the shutdown and pay Transportation Security Administration (TSA) workers. “Congress must act immediately to end the Department of Homeland Security shutdown and ensure TSA officers are paid,” ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267037579.jpg",
             "categories": []
           },
           {
@@ -859,13 +890,45 @@
             "categories": []
           }
         ],
+        "Domestic US Political and Social Issues": [
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/talarico-says-illegal-immigrant-students-are-the-most-patriotic",
+            "title": "Talarico Says Illegal Immigrant Students Are The ‘Most Patriotic’",
+            "url": "https://www.dailywire.com/news/talarico-says-illegal-immigrant-students-are-the-most-patriotic",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T12:20:32.000Z",
+            "description": "James Talarico, the Democratic Senate nominee in Texas, claimed Thursday that the “undocumented students” he previously taught were the “most patriotic.” Talarico, who previously taught sixth-grade language arts at Rhodes Middle School in San Antonio, made the remarks during a live taping of The Bulwark podcast in Dallas with host Tim Miller, where he also ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2266143630.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/your-tax-dollars-could-still-be-on-the-line-in-fight-over-trans-surgeries-for-kids",
+            "title": "Your Tax Dollars Could Still Be On The Line In Fight Over Trans Surgeries for Kids",
+            "url": "https://www.dailywire.com/news/your-tax-dollars-could-still-be-on-the-line-in-fight-over-trans-surgeries-for-kids",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T11:47:15.000Z",
+            "description": "A Biden-appointed judge in Oregon on Thursday said he would block a Trump administration declaration stating that transgender medical procedures for children are not “safe” or “effective.” U.S. District Judge Mustafa Kasubhai sided with more than a dozen Democratic attorneys general who challenged the policy issued by Health and Human Services Secretary Robert F. Kennedy ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2262712196.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/transient-politics-versus-eternal-values-inside-the-catholic-civil-war",
+            "title": "‘Transient Politics Versus Eternal Values’: Inside The Catholic Civil War",
+            "url": "https://www.dailywire.com/news/transient-politics-versus-eternal-values-inside-the-catholic-civil-war",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T04:00:16.000Z",
+            "description": "WASHINGTON—The mood at the National Catholic Prayer Breakfast was reverent, polished, and familiar: suits and ties, rosaries tucked into jacket pockets, speeches invoking faith and public life. But just beneath the surface, a different conversation was unfolding. As bleary-eyed folks chatted at tables before the early-morning event, a growing divide within the conservative Catholic movement ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2202496695.jpg",
+            "categories": []
+          }
+        ],
         "Other Coverage": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/22/theater/antigone-theater-art-sophocles-adaptations.html",
             "title": "Who Is Antigone? The 2500-Year-Old Rebel With a Cause.",
             "url": "https://www.nytimes.com/2026/03/22/theater/antigone-theater-art-sophocles-adaptations.html",
             "source": "New York Times",
-            "publishedAt": "2026-03-22T04:01:13.000Z",
+            "publishedAt": "2026-03-22T11:39:15.000Z",
             "description": "“Antigone” gave us the original “bad girl,” but its themes go beyond that. How do adaptations keep making Sophocles’ ideas about democracy and theater new?",
             "imageUrl": null,
             "categories": [
@@ -893,29 +956,6 @@
               "fox-news/us",
               "fox-news/us/crime/police-and-law-enforcement",
               "fox-news/us",
-              "article"
-            ]
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/politics/trump-administration-urges-judge-dissolve-injunction-blocking-abrego-garcias-deportation-liberia",
-            "title": "Trump administration urges judge to dissolve injunction blocking Abrego Garcia's deportation to Liberia",
-            "url": "https://www.foxnews.com/politics/trump-administration-urges-judge-dissolve-injunction-blocking-abrego-garcias-deportation-liberia",
-            "source": "Fox News",
-            "publishedAt": "2026-03-21T22:18:04.000Z",
-            "description": "The DOJ urged a judge to dissolve an injunction blocking Kilmar Abrego Garcia's detention, claiming the court's own order is the sole impediment to his deportation to Liberia.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/kilmar-abrego-garcia-maryland-district-court-fox-news-001.jpg?ve=1&tl=1",
-            "categories": [
-              "40814588-a3e4-510d-8c24-0d60c3953cb7",
-              "fnc",
-              "Fox News",
-              "fox-news/politics/justice-department",
-              "fox-news/politics/judiciary/federal-courts",
-              "fox-news/politics/federal-judges",
-              "fox-news/us/immigration",
-              "fox-news/politics",
-              "fox-news/politics/executive/white-house",
-              "fox-news/person/donald-trump",
-              "fox-news/politics",
               "article"
             ]
           },
@@ -960,26 +1000,6 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/president-trump-drops-the-greatest-one-liner-in-press-conference-history",
-            "title": "President Trump Drops The Greatest One Liner In Press Conference History",
-            "url": "https://www.dailywire.com/news/president-trump-drops-the-greatest-one-liner-in-press-conference-history",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T18:51:13.000Z",
-            "description": "The following is an edited transcript excerpt from The Michael Knowles Show. * * * President Trump just gave the finest one liner in the history of press conferences. So here is President Trump, sitting in the Oval Office yesterday with the Japanese prime minister, who seems to adore him. When she arrives at the ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2266853932.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/pilots-dont-mince-words-as-they-issue-stark-warning-on-homeland-safety",
-            "title": "Pilots Don’t Mince Words As They Issue Stark Warning On Homeland Safety",
-            "url": "https://www.dailywire.com/news/pilots-dont-mince-words-as-they-issue-stark-warning-on-homeland-safety",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T14:55:51.000Z",
-            "description": "WASHINGTON — Over a month into the Democrat-led Department of Homeland Security shutdown, the largest independent pilots union in the United States is calling for Congress to end the shutdown and pay Transportation Security Administration (TSA) workers. “Congress must act immediately to end the Department of Homeland Security shutdown and ensure TSA officers are paid,” ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267037579.jpg",
-            "categories": []
-          },
-          {
             "id": "Daily Wire:https://www.dailywire.com/news/rip-chuck-norris-the-man-who-never-let-hollywood-smother-his-beliefs",
             "title": "RIP Chuck Norris: The Man Who Never Let Hollywood Smother His Beliefs",
             "url": "https://www.dailywire.com/news/rip-chuck-norris-the-man-who-never-let-hollywood-smother-his-beliefs",
@@ -987,26 +1007,6 @@
             "publishedAt": "2026-03-20T14:20:04.000Z",
             "description": "Even as he grew famous for his martial arts prowess and adrenaline-pumping movies, Chuck Norris stayed true to his Christian faith and conservative political values for decades in a deeply liberal Hollywood. Norris, who died Thursday, was the rare Christian conservative in Hollywood. He advocated for Republican politicians, supported gun rights, pushed for the Bible ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-692121198.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/your-tax-dollars-could-still-be-on-the-line-in-fight-over-trans-surgeries-for-kids",
-            "title": "Your Tax Dollars Could Still Be On The Line In Fight Over Trans Surgeries for Kids",
-            "url": "https://www.dailywire.com/news/your-tax-dollars-could-still-be-on-the-line-in-fight-over-trans-surgeries-for-kids",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T11:47:15.000Z",
-            "description": "A Biden-appointed judge in Oregon on Thursday said he would block a Trump administration declaration stating that transgender medical procedures for children are not “safe” or “effective.” U.S. District Judge Mustafa Kasubhai sided with more than a dozen Democratic attorneys general who challenged the policy issued by Health and Human Services Secretary Robert F. Kennedy ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2262712196.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/transient-politics-versus-eternal-values-inside-the-catholic-civil-war",
-            "title": "‘Transient Politics Versus Eternal Values’: Inside The Catholic Civil War",
-            "url": "https://www.dailywire.com/news/transient-politics-versus-eternal-values-inside-the-catholic-civil-war",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T04:00:16.000Z",
-            "description": "WASHINGTON—The mood at the National Catholic Prayer Breakfast was reverent, polished, and familiar: suits and ties, rosaries tucked into jacket pockets, speeches invoking faith and public life. But just beneath the surface, a different conversation was unfolding. As bleary-eyed folks chatted at tables before the early-morning event, a growing divide within the conservative Catholic movement ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2202496695.jpg",
             "categories": []
           }
         ]
@@ -1016,6 +1016,26 @@
       "articleCount": 16,
       "sourceCount": 5,
       "articles": [
+        {
+          "id": "Fox News:https://www.foxnews.com/world/churchill-shakespeare-uk-flag-all-under-siege-modern-britain-commentators-say",
+          "title": "Churchill, Shakespeare and the UK flag all under siege in modern Britain, commentators say",
+          "url": "https://www.foxnews.com/world/churchill-shakespeare-uk-flag-all-under-siege-modern-britain-commentators-say",
+          "source": "Fox News",
+          "publishedAt": "2026-03-22T11:00:11.000Z",
+          "description": "Britain's statues, flags, and icons like Churchill and Shakespeare are under attack, as commentators warn DEI ideology is erasing the nation's history.",
+          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/09/931/523/uk_flag.jpg?ve=1&tl=1",
+          "categories": [
+            "c750d65c-dbe1-5b67-80fd-afbe2541864d",
+            "fnc",
+            "Fox News",
+            "fox-news/world/world-regions/united-kingdom",
+            "fox-news/topic/woke",
+            "fox-news/dei",
+            "fox-news/world/world-regions/europe",
+            "fox-news/world",
+            "article"
+          ]
+        },
         {
           "id": "Fox News:https://www.foxnews.com/us/jewish-security-organization-working-keep-its-community-safe-amid-elevated-terror-threat",
           "title": "Jewish security organization working to keep its community safe amid elevated terror threat",
@@ -1136,28 +1156,6 @@
           ]
         },
         {
-          "id": "Fox News:https://www.foxnews.com/world/trump-proven-right-irans-long-range-missile-capability-regime-targets-us-uk-base-experts-say",
-          "title": "Trump proven right on Iran's long-range missile capability as regime targets US-UK base, experts say",
-          "url": "https://www.foxnews.com/world/trump-proven-right-irans-long-range-missile-capability-regime-targets-us-uk-base-experts-say",
-          "source": "Fox News",
-          "publishedAt": "2026-03-21T22:07:28.000Z",
-          "description": "Experts say Iran's Diego Garcia missile launch exposes deception about range limits, and analysts warn Europe now faces a direct ballistic threat.",
-          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iran-missile-range.jpg?ve=1&tl=1",
-          "categories": [
-            "024aa024-9e6a-5d49-9e22-e0a89b64d300",
-            "fnc",
-            "Fox News",
-            "fox-news/politics/defense/wars/war-with-iran",
-            "fox-news/world/world-regions/israel",
-            "fox-news/person/donald-trump",
-            "fox-news/world/conflicts",
-            "fox-news/world/terrorism",
-            "fox-news/world/world-regions/united-kingdom",
-            "fox-news/world",
-            "article"
-          ]
-        },
-        {
           "id": "NPR:https://www.npr.org/sections/the-picture-show/2026/03/21/nx-s1-5753923/nowruz-iraqi-kurds-photos",
           "title": "Iraqi Kurds mark Nowruz, celebrating light over darkness",
           "url": "https://www.npr.org/sections/the-picture-show/2026/03/21/nx-s1-5753923/nowruz-iraqi-kurds-photos",
@@ -1249,7 +1247,7 @@
         }
       ],
       "subtopics": {
-        "US-Israel-Iran Conflict and Analysis": [
+        "US-Israel-Iran Conflict and War Developments": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
             "title": "Why did US and Israel attack Iran and how long could the war last?",
@@ -1293,28 +1291,6 @@
               "Bessent, Scott",
               "Oil (Petroleum) and Gasoline",
               "Ships and Shipping"
-            ]
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/world/trump-proven-right-irans-long-range-missile-capability-regime-targets-us-uk-base-experts-say",
-            "title": "Trump proven right on Iran's long-range missile capability as regime targets US-UK base, experts say",
-            "url": "https://www.foxnews.com/world/trump-proven-right-irans-long-range-missile-capability-regime-targets-us-uk-base-experts-say",
-            "source": "Fox News",
-            "publishedAt": "2026-03-21T22:07:28.000Z",
-            "description": "Experts say Iran's Diego Garcia missile launch exposes deception about range limits, and analysts warn Europe now faces a direct ballistic threat.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iran-missile-range.jpg?ve=1&tl=1",
-            "categories": [
-              "024aa024-9e6a-5d49-9e22-e0a89b64d300",
-              "fnc",
-              "Fox News",
-              "fox-news/politics/defense/wars/war-with-iran",
-              "fox-news/world/world-regions/israel",
-              "fox-news/person/donald-trump",
-              "fox-news/world/conflicts",
-              "fox-news/world/terrorism",
-              "fox-news/world/world-regions/united-kingdom",
-              "fox-news/world",
-              "article"
             ]
           },
           {
@@ -1368,7 +1344,7 @@
             "categories": []
           }
         ],
-        "Security Concerns for Jewish Communities Amid Middle East Conflict": [
+        "Security Threats and Community Safety Efforts": [
           {
             "id": "Fox News:https://www.foxnews.com/us/jewish-security-organization-working-keep-its-community-safe-amid-elevated-terror-threat",
             "title": "Jewish security organization working to keep its community safe amid elevated terror threat",
@@ -1401,19 +1377,7 @@
             "categories": []
           }
         ],
-        "Humanitarian Crisis in Sudan from Hospital Strike": [
-          {
-            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5756283/strike-hospital-sudan-killed-64",
-            "title": "A strike on a hospital in Sudan killed at least 64 people, WHO says",
-            "url": "https://www.npr.org/2026/03/22/nx-s1-5756283/strike-hospital-sudan-killed-64",
-            "source": "NPR",
-            "publishedAt": "2026-03-22T08:04:16.000Z",
-            "description": "At least 64 people were killed, including at least 13 children, in a strike on a hospital in Sudan's western Darfur region last week, the World Health Organization said Saturday.",
-            "imageUrl": null,
-            "categories": []
-          }
-        ],
-        "Custody Battle Over Autistic Son in Iceland and Social Controversy": [
+        "Human Rights and Custody Disputes Involving Gender Identity": [
           {
             "id": "Fox News:https://www.foxnews.com/world/dad-loses-custody-autistic-son-fighting-sex-change-gets-support-elon-musk",
             "title": "Dad loses custody of autistic son after fighting sex change, gets support from Elon Musk",
@@ -1438,7 +1402,17 @@
             ]
           }
         ],
-        "Other International and Cultural News": [
+        "Global Incidents and Tragedies: Sudan Airstrike and Airline Death": [
+          {
+            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5756283/strike-hospital-sudan-killed-64",
+            "title": "A strike on a hospital in Sudan killed at least 64 people, WHO says",
+            "url": "https://www.npr.org/2026/03/22/nx-s1-5756283/strike-hospital-sudan-killed-64",
+            "source": "NPR",
+            "publishedAt": "2026-03-22T08:04:16.000Z",
+            "description": "At least 64 people were killed, including at least 13 children, in a strike on a hospital in Sudan's western Darfur region last week, the World Health Organization said Saturday.",
+            "imageUrl": null,
+            "categories": []
+          },
           {
             "id": "Fox News:https://www.foxnews.com/us/dead-passenger-allegedly-stored-heated-galley-13-hours-british-airways-flight-foul-smell-reported",
             "title": "Dead passenger allegedly stored in heated galley for 13 hours on British Airways flight, 'foul smell' reported",
@@ -1456,6 +1430,28 @@
               "fox-news/travel/general/airports",
               "fox-news/world/disasters/transportation",
               "fox-news/us",
+              "article"
+            ]
+          }
+        ],
+        "Cultural and Climate Reflections in the Modern World": [
+          {
+            "id": "Fox News:https://www.foxnews.com/world/churchill-shakespeare-uk-flag-all-under-siege-modern-britain-commentators-say",
+            "title": "Churchill, Shakespeare and the UK flag all under siege in modern Britain, commentators say",
+            "url": "https://www.foxnews.com/world/churchill-shakespeare-uk-flag-all-under-siege-modern-britain-commentators-say",
+            "source": "Fox News",
+            "publishedAt": "2026-03-22T11:00:11.000Z",
+            "description": "Britain's statues, flags, and icons like Churchill and Shakespeare are under attack, as commentators warn DEI ideology is erasing the nation's history.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/09/931/523/uk_flag.jpg?ve=1&tl=1",
+            "categories": [
+              "c750d65c-dbe1-5b67-80fd-afbe2541864d",
+              "fnc",
+              "Fox News",
+              "fox-news/world/world-regions/united-kingdom",
+              "fox-news/topic/woke",
+              "fox-news/dei",
+              "fox-news/world/world-regions/europe",
+              "fox-news/world",
               "article"
             ]
           },
@@ -1497,6 +1493,21 @@
       "sourceCount": 3,
       "articles": [
         {
+          "id": "New York Times:https://www.nytimes.com/2026/03/22/briefing/introducing-the-robot-umpire.html",
+          "title": "Introducing the Robot Umpire",
+          "url": "https://www.nytimes.com/2026/03/22/briefing/introducing-the-robot-umpire.html",
+          "source": "New York Times",
+          "publishedAt": "2026-03-22T11:35:52.000Z",
+          "description": "We explain a technological change that’s about to transform baseball.",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22themorning-nl-ABS-02-hjlk/22themorning-nl-ABS-02-hjlk-mediumSquareAt3X.jpg",
+          "categories": [
+            "internal-storyline-no",
+            "Baseball",
+            "Major League Baseball",
+            "Robots and Robotics"
+          ]
+        },
+        {
           "id": "BBC:https://www.bbc.com/news/videos/cj94jp3jmv8o?at_medium=RSS&at_campaign=rss",
           "title": "Watch: BBC in Cuba as island plunged into darkness",
           "url": "https://www.bbc.com/news/videos/cj94jp3jmv8o?at_medium=RSS&at_campaign=rss",
@@ -1515,27 +1526,6 @@
           "description": "Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/374e/live/100efcf0-23b0-11f1-934f-036468834728.png",
           "categories": []
-        },
-        {
-          "id": "Fox News:https://www.foxnews.com/us/texas-suspect-allegedly-hurled-stolen-human-remains-fbi-dallas-property-chilling-youtube-video-reveals",
-          "title": "Texas suspect allegedly hurled stolen human remains into FBI Dallas property, chilling YouTube video reveals",
-          "url": "https://www.foxnews.com/us/texas-suspect-allegedly-hurled-stolen-human-remains-fbi-dallas-property-chilling-youtube-video-reveals",
-          "source": "Fox News",
-          "publishedAt": "2026-03-21T22:08:08.000Z",
-          "description": "A Texas man accused of throwing stolen human bones over an FBI Dallas fence allegedly posted a YouTube video saying he aimed to summon agents by force.",
-          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/michael-fry-split.png?ve=1&tl=1",
-          "categories": [
-            "086e24d3-f320-5073-9979-b3c0030d0567",
-            "fnc",
-            "Fox News",
-            "fox-news/us/us-regions/southwest/texas",
-            "fox-news/crime",
-            "fox-news/us/crime/police-and-law-enforcement",
-            "fox-news/tech/topics/fbi",
-            "fox-news/us",
-            "fox-news/us",
-            "article"
-          ]
         },
         {
           "id": "Daily Wire:https://www.dailywire.com/news/publisher-yanks-horror-novel-over-suspected-ai-use",
@@ -1579,7 +1569,7 @@
         }
       ],
       "subtopics": {
-        "AI misuse and content regulation on social media": [
+        "AI and Ethics in Digital Content": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/c070e283k8vo?at_medium=RSS&at_campaign=rss",
             "title": "AI videos of sexualised black women removed from TikTok after BBC investigation",
@@ -1589,9 +1579,7 @@
             "description": "Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/374e/live/100efcf0-23b0-11f1-934f-036468834728.png",
             "categories": []
-          }
-        ],
-        "AI-generated content controversies in publishing": [
+          },
           {
             "id": "Daily Wire:https://www.dailywire.com/news/publisher-yanks-horror-novel-over-suspected-ai-use",
             "title": "Publisher Yanks Horror Novel Over Suspected AI Use",
@@ -1603,7 +1591,24 @@
             "categories": []
           }
         ],
-        "Cybersecurity actions against Iranian cyber threats": [
+        "Technological Innovations in Sports": [
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/22/briefing/introducing-the-robot-umpire.html",
+            "title": "Introducing the Robot Umpire",
+            "url": "https://www.nytimes.com/2026/03/22/briefing/introducing-the-robot-umpire.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-22T11:35:52.000Z",
+            "description": "We explain a technological change that’s about to transform baseball.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22themorning-nl-ABS-02-hjlk/22themorning-nl-ABS-02-hjlk-mediumSquareAt3X.jpg",
+            "categories": [
+              "internal-storyline-no",
+              "Baseball",
+              "Major League Baseball",
+              "Robots and Robotics"
+            ]
+          }
+        ],
+        "Cybersecurity and Digital Threats from Iran": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/doj-seizes-iranian-domains-behind-cyberattacks-death-threats",
             "title": "Iran’s Digital Terror Playbook Exposed As DOJ Just Took Out Key Pieces",
@@ -1615,7 +1620,7 @@
             "categories": []
           }
         ],
-        "Technology in geopolitical and defense sectors": [
+        "Defense Industry Priorities Amid Geopolitical Tensions": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/americas-defense-sector-is-ditching-dei-at-the-best-possible-moment",
             "title": "America’s Defense Sector Is Ditching DEI At The Best Possible Moment",
@@ -1627,7 +1632,7 @@
             "categories": []
           }
         ],
-        "Miscellaneous technology-related news": [
+        "Power Grid Failures and Infrastructure Challenges": [
           {
             "id": "BBC:https://www.bbc.com/news/videos/cj94jp3jmv8o?at_medium=RSS&at_campaign=rss",
             "title": "Watch: BBC in Cuba as island plunged into darkness",
@@ -1637,28 +1642,9 @@
             "description": "More than 10 million people are enduring power cuts after Cuba's national electrical grid collapsed again.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb5d/live/4a0ef590-25c7-11f1-b1ce-2dccb029f244.jpg",
             "categories": []
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/us/texas-suspect-allegedly-hurled-stolen-human-remains-fbi-dallas-property-chilling-youtube-video-reveals",
-            "title": "Texas suspect allegedly hurled stolen human remains into FBI Dallas property, chilling YouTube video reveals",
-            "url": "https://www.foxnews.com/us/texas-suspect-allegedly-hurled-stolen-human-remains-fbi-dallas-property-chilling-youtube-video-reveals",
-            "source": "Fox News",
-            "publishedAt": "2026-03-21T22:08:08.000Z",
-            "description": "A Texas man accused of throwing stolen human bones over an FBI Dallas fence allegedly posted a YouTube video saying he aimed to summon agents by force.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/michael-fry-split.png?ve=1&tl=1",
-            "categories": [
-              "086e24d3-f320-5073-9979-b3c0030d0567",
-              "fnc",
-              "Fox News",
-              "fox-news/us/us-regions/southwest/texas",
-              "fox-news/crime",
-              "fox-news/us/crime/police-and-law-enforcement",
-              "fox-news/tech/topics/fbi",
-              "fox-news/us",
-              "fox-news/us",
-              "article"
-            ]
-          },
+          }
+        ],
+        "Other Coverage": [
           {
             "id": "BBC:https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
             "title": "BBC News app",
@@ -1673,9 +1659,19 @@
       }
     },
     "Business": {
-      "articleCount": 7,
+      "articleCount": 8,
       "sourceCount": 4,
       "articles": [
+        {
+          "id": "BBC:https://www.bbc.com/news/articles/c77mx575k4vo?at_medium=RSS&at_campaign=rss",
+          "title": "Energy bills rise 'inescapable' if prices stay high, says British Gas boss",
+          "url": "https://www.bbc.com/news/articles/c77mx575k4vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "publishedAt": "2026-03-22T11:54:01.000Z",
+          "description": "The boss of Centrica says it is \"too early\" to speculate but if oil costs continue to rise, homes will be hit.",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/455a/live/e86f77b0-25df-11f1-9146-735d3f71509a.jpg",
+          "categories": []
+        },
         {
           "id": "New York Times:https://www.nytimes.com/2026/03/22/business/india-economy-middle-east.html",
           "title": "As War Disrupts India’s Gulf Ties, Economy Faces ‘New Broadside’",
@@ -1759,7 +1755,19 @@
         }
       ],
       "subtopics": {
-        "Impact of Gulf Conflict on Indian Economy": [
+        "Energy Prices Impacting Households": [
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/c77mx575k4vo?at_medium=RSS&at_campaign=rss",
+            "title": "Energy bills rise 'inescapable' if prices stay high, says British Gas boss",
+            "url": "https://www.bbc.com/news/articles/c77mx575k4vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T11:54:01.000Z",
+            "description": "The boss of Centrica says it is \"too early\" to speculate but if oil costs continue to rise, homes will be hit.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/455a/live/e86f77b0-25df-11f1-9146-735d3f71509a.jpg",
+            "categories": []
+          }
+        ],
+        "Economic Effects of Middle East Conflict on India": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/22/business/india-economy-middle-east.html",
             "title": "As War Disrupts India’s Gulf Ties, Economy Faces ‘New Broadside’",
@@ -1779,7 +1787,7 @@
             ]
           }
         ],
-        "Airport Security Challenges Amid DHS Shutdown": [
+        "Airport Security Delays Amid Government Shutdown": [
           {
             "id": "NPR:https://www.npr.org/2026/03/21/nx-s1-5755796/airport-security-tsa-lines-travel-tips",
             "title": "Airport security lines are long. Here's what to know if you're flying",
@@ -1801,7 +1809,29 @@
             "categories": []
           }
         ],
-        "Success Stories in Commercial Real Estate: Shopping Malls": [
+        "Workplace Legal and Policy Issues": [
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/firm-must-pay-22-5m-to-woman-whose-baby-died-after-work-from-home-request-denial",
+            "title": "Firm Must Pay $22.5M To Woman Whose Baby Died After Work-From-Home Request Denial",
+            "url": "https://www.dailywire.com/news/firm-must-pay-22-5m-to-woman-whose-baby-died-after-work-from-home-request-denial",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T16:54:41.000Z",
+            "description": "An Ohio company was ordered to pay $22.5 million to a woman whose baby died after her company denied her request to work from home during a high-risk pregnancy. Per NBC News, Chelsea Walsh requested to work from home beginning on February 15, 2021, for her job with Total Quality Logistics, but was denied. Walsh ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Baby-feet.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/its-time-for-schools-to-get-out-of-the-mental-health-business",
+            "title": "It’s Time For Schools To Get Out Of The Mental Health Business",
+            "url": "https://www.dailywire.com/news/its-time-for-schools-to-get-out-of-the-mental-health-business",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T14:07:00.000Z",
+            "description": "This piece is part of MI x DW, a collaboration that brings Daily Wire readers exclusive commentary and research from the Manhattan Institute’s world-class team of scholars. In this piece, Manhattan Institute Fellow Carolyn Gorman urges conservative education reformers to tackle school-based mental health programs. As Gorman explains, these initiatives have done little to improve students’ ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-1455470610.jpg",
+            "categories": []
+          }
+        ],
+        "Real Estate Trends in Shopping Malls": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/21/business/dealbook/shopping-mall-resurgence.html",
             "title": "Not All Malls Are Struggling",
@@ -1814,30 +1844,6 @@
               "Real Estate (Commercial)",
               "Shopping Centers and Malls"
             ]
-          }
-        ],
-        "Workplace Legal Settlements and Employee Rights": [
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/firm-must-pay-22-5m-to-woman-whose-baby-died-after-work-from-home-request-denial",
-            "title": "Firm Must Pay $22.5M To Woman Whose Baby Died After Work-From-Home Request Denial",
-            "url": "https://www.dailywire.com/news/firm-must-pay-22-5m-to-woman-whose-baby-died-after-work-from-home-request-denial",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T16:54:41.000Z",
-            "description": "An Ohio company was ordered to pay $22.5 million to a woman whose baby died after her company denied her request to work from home during a high-risk pregnancy. Per NBC News, Chelsea Walsh requested to work from home beginning on February 15, 2021, for her job with Total Quality Logistics, but was denied. Walsh ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Baby-feet.jpg",
-            "categories": []
-          }
-        ],
-        "Debates Over School-Based Mental Health Programs": [
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/its-time-for-schools-to-get-out-of-the-mental-health-business",
-            "title": "It’s Time For Schools To Get Out Of The Mental Health Business",
-            "url": "https://www.dailywire.com/news/its-time-for-schools-to-get-out-of-the-mental-health-business",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T14:07:00.000Z",
-            "description": "This piece is part of MI x DW, a collaboration that brings Daily Wire readers exclusive commentary and research from the Manhattan Institute’s world-class team of scholars. In this piece, Manhattan Institute Fellow Carolyn Gorman urges conservative education reformers to tackle school-based mental health programs. As Gorman explains, these initiatives have done little to improve students’ ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-1455470610.jpg",
-            "categories": []
           }
         ],
         "Other Coverage": [
@@ -1911,6 +1917,29 @@
       "sourceCount": 3,
       "articles": [
         {
+          "id": "Fox News:https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-costco-cravings-bridal-blooms",
+          "title": "American Culture Quiz: Test yourself on Costco cravings and bridal blooms",
+          "url": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-costco-cravings-bridal-blooms",
+          "source": "Fox News",
+          "publishedAt": "2026-03-22T11:00:24.000Z",
+          "description": "The American Culture Quiz is a weekly test of our national traits, trends, history and people. This time, test your knowledge of Costco cravings, bridal blooms and more.",
+          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/quiz-collage-march22.jpg?ve=1&tl=1",
+          "categories": [
+            "f2f75141-cd1f-56e4-acbd-954746baf736",
+            "fnc",
+            "Fox News",
+            "fox-news/lifestyle/quizzes",
+            "fox-news/lifestyle",
+            "fox-news/travel",
+            "fox-news/food-drink",
+            "fox-news/entertainment",
+            "fox-news/lifestyle/weddings",
+            "fox-news/lifestyle/relationships",
+            "fox-news/lifestyle",
+            "article"
+          ]
+        },
+        {
           "id": "Fox News:https://www.foxnews.com/entertainment/king-charles-chicken-coop-highgrove-has-name-make-you-do-double-take",
           "title": "King Charles' chicken coop at Highgrove has a name that will make you do a double take",
           "url": "https://www.foxnews.com/entertainment/king-charles-chicken-coop-highgrove-has-name-make-you-do-double-take",
@@ -1949,16 +1978,6 @@
             "fox-news/lifestyle",
             "article"
           ]
-        },
-        {
-          "id": "BBC:https://www.bbc.com/news/articles/cvg0lnkkzzxo?at_medium=RSS&at_campaign=rss",
-          "title": "'Iran's missiles can now reach London' and 'Tell us what you know, Fergie'",
-          "url": "https://www.bbc.com/news/articles/cvg0lnkkzzxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-22T07:42:23.000Z",
-          "description": "Several papers are leading on a claim from Israel that Iran has developed missiles that could be capable of striking London.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c2/live/c3fb6bd0-257d-11f1-b297-95b0a0a8331e.png",
-          "categories": []
         },
         {
           "id": "BBC:https://www.bbc.com/news/articles/cedzqdqewn3o?at_medium=RSS&at_campaign=rss",
@@ -2102,49 +2121,7 @@
         }
       ],
       "subtopics": {
-        "Royal and Celebrity Personal Stories": [
-          {
-            "id": "Fox News:https://www.foxnews.com/entertainment/king-charles-chicken-coop-highgrove-has-name-make-you-do-double-take",
-            "title": "King Charles' chicken coop at Highgrove has a name that will make you do a double take",
-            "url": "https://www.foxnews.com/entertainment/king-charles-chicken-coop-highgrove-has-name-make-you-do-double-take",
-            "source": "Fox News",
-            "publishedAt": "2026-03-22T10:00:50.000Z",
-            "description": "King Charles tends to his chickens at Highgrove with renewed energy despite his cancer battle, says royal photographer Chris Jackson, who has a new photo book, \"Modern Majesty.\"",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/king-charles-chickens.jpg?ve=1&tl=1",
-            "categories": [
-              "573b171d-1a92-5e5b-94af-13cb4f4f9826",
-              "fnc",
-              "Fox News",
-              "fox-news/person/king-charles-iii",
-              "fox-news/entertainment/genres/books",
-              "fox-news/world/personalities/british-royals",
-              "fox-news/entertainment",
-              "fox-news/entertainment",
-              "article"
-            ]
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/entertainment/kurt-russell-goldie-hawn-never-married-deciding-43-years-ago-have-fun",
-            "title": "Kurt Russell and Goldie Hawn never married, deciding 43 years ago to 'have fun until we don't'",
-            "url": "https://www.foxnews.com/entertainment/kurt-russell-goldie-hawn-never-married-deciding-43-years-ago-have-fun",
-            "source": "Fox News",
-            "publishedAt": "2026-03-21T23:48:38.000Z",
-            "description": "Kurt Russell and Goldie Hawn have sustained their remarkable 43-year relationship with one guiding motto: \"Let's have fun until we don't,\" he reveals.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/goldie-hawn-kurt-russell-snow-ball.jpg?ve=1&tl=1",
-            "categories": [
-              "21bdb590-baaa-5663-9b23-70c6f241c4aa",
-              "fnc",
-              "Fox News",
-              "fox-news/entertainment",
-              "fox-news/entertainment/events/couples",
-              "fox-news/entertainment/movies",
-              "fox-news/entertainment/tv",
-              "fox-news/entertainment",
-              "article"
-            ]
-          }
-        ],
-        "Reality TV Drama and Celebrity Controversies": [
+        "Reality TV and Celebrity Drama": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/cd9vd35jgqqo?at_medium=RSS&at_campaign=rss",
             "title": "The Bachelorette's messy break-up with its unlikely star Taylor Frankie Paul",
@@ -2166,7 +2143,7 @@
             "categories": []
           }
         ],
-        "Music Events and Artist News": [
+        "Music Stars and Concert Events": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/cj371jr203ko?at_medium=RSS&at_campaign=rss",
             "title": "Pop megastars BTS electrify historic centre of Seoul with comeback concert",
@@ -2198,7 +2175,7 @@
             "categories": []
           }
         ],
-        "TV and Film Industry Stories": [
+        "TV and Film Highlights and Criticism": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/cedzqdqewn3o?at_medium=RSS&at_campaign=rss",
             "title": "Family-friendly TV drama Crookhaven hopes to be latest hit book adaptation",
@@ -2230,26 +2207,26 @@
             "categories": []
           }
         ],
-        "Unique Entertainment and Lifestyle Stories": [
+        "Royal and Lifestyle Stories": [
           {
-            "id": "BBC:https://www.bbc.com/news/articles/cly0krjy57lo?at_medium=RSS&at_campaign=rss",
-            "title": "'Club vibes without the hangover': The twenty-somethings going out - in the gym",
-            "url": "https://www.bbc.com/news/articles/cly0krjy57lo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T00:56:15.000Z",
-            "description": "Young people are driving a gym boom as more fitness spaces are transformed into vibrant hangouts.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c7/live/36421040-1985-11f1-ad8c-2577a14d4f52.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cpd8ww2y6wlo?at_medium=RSS&at_campaign=rss",
-            "title": "Sombr stopped a show over safety - but are concerts in the UK really that risky?",
-            "url": "https://www.bbc.com/news/articles/cpd8ww2y6wlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T00:02:35.000Z",
-            "description": "Musicians are increasingly interrupting their own shows to help fans - but venues might be safer than you think.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1efd/live/bca58640-2528-11f1-bb95-2dc272eaaadd.jpg",
-            "categories": []
+            "id": "Fox News:https://www.foxnews.com/entertainment/king-charles-chicken-coop-highgrove-has-name-make-you-do-double-take",
+            "title": "King Charles' chicken coop at Highgrove has a name that will make you do a double take",
+            "url": "https://www.foxnews.com/entertainment/king-charles-chicken-coop-highgrove-has-name-make-you-do-double-take",
+            "source": "Fox News",
+            "publishedAt": "2026-03-22T10:00:50.000Z",
+            "description": "King Charles tends to his chickens at Highgrove with renewed energy despite his cancer battle, says royal photographer Chris Jackson, who has a new photo book, \"Modern Majesty.\"",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/king-charles-chickens.jpg?ve=1&tl=1",
+            "categories": [
+              "573b171d-1a92-5e5b-94af-13cb4f4f9826",
+              "fnc",
+              "Fox News",
+              "fox-news/person/king-charles-iii",
+              "fox-news/entertainment/genres/books",
+              "fox-news/world/personalities/british-royals",
+              "fox-news/entertainment",
+              "fox-news/entertainment",
+              "article"
+            ]
           },
           {
             "id": "Fox News:https://www.foxnews.com/lifestyle/family-reunited-lost-cat-5-years-later-found-strangers-basement",
@@ -2272,6 +2249,51 @@
             ]
           },
           {
+            "id": "Fox News:https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-costco-cravings-bridal-blooms",
+            "title": "American Culture Quiz: Test yourself on Costco cravings and bridal blooms",
+            "url": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-costco-cravings-bridal-blooms",
+            "source": "Fox News",
+            "publishedAt": "2026-03-22T11:00:24.000Z",
+            "description": "The American Culture Quiz is a weekly test of our national traits, trends, history and people. This time, test your knowledge of Costco cravings, bridal blooms and more.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/quiz-collage-march22.jpg?ve=1&tl=1",
+            "categories": [
+              "f2f75141-cd1f-56e4-acbd-954746baf736",
+              "fnc",
+              "Fox News",
+              "fox-news/lifestyle/quizzes",
+              "fox-news/lifestyle",
+              "fox-news/travel",
+              "fox-news/food-drink",
+              "fox-news/entertainment",
+              "fox-news/lifestyle/weddings",
+              "fox-news/lifestyle/relationships",
+              "fox-news/lifestyle",
+              "article"
+            ]
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cly0krjy57lo?at_medium=RSS&at_campaign=rss",
+            "title": "'Club vibes without the hangover': The twenty-somethings going out - in the gym",
+            "url": "https://www.bbc.com/news/articles/cly0krjy57lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T00:56:15.000Z",
+            "description": "Young people are driving a gym boom as more fitness spaces are transformed into vibrant hangouts.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c7/live/36421040-1985-11f1-ad8c-2577a14d4f52.jpg",
+            "categories": []
+          }
+        ],
+        "Unique Cultural and Social Trends": [
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/hilarious-worlds-most-expensive-chocolate-shop-restricts-arms-exports-to-u-s-over-neutrality",
+            "title": "HILARIOUS: World’s Most Expensive Chocolate Shop Restricts Arms Exports To U.S. Over ‘Neutrality’",
+            "url": "https://www.dailywire.com/news/hilarious-worlds-most-expensive-chocolate-shop-restricts-arms-exports-to-u-s-over-neutrality",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T10:55:12.000Z",
+            "description": "Combining the staggering delusion of a Napoleonic complex with the moral consistency of Swiss cheese — mostly holes — the tiny Alpine nation of Switzerland announced it is officially restricting certain arms exports to the United States. Why? Because the United States is currently engaged in a conflict with Iran — a regime known for ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2228045962.jpg",
+            "categories": []
+          },
+          {
             "id": "BBC:https://www.bbc.com/news/articles/cx2g290ve2vo?at_medium=RSS&at_campaign=rss",
             "title": "Red kite with sausage roll snapped by photographer",
             "url": "https://www.bbc.com/news/articles/cx2g290ve2vo?at_medium=RSS&at_campaign=rss",
@@ -2284,30 +2306,40 @@
         ],
         "Other Coverage": [
           {
-            "id": "BBC:https://www.bbc.com/news/articles/cvg0lnkkzzxo?at_medium=RSS&at_campaign=rss",
-            "title": "'Iran's missiles can now reach London' and 'Tell us what you know, Fergie'",
-            "url": "https://www.bbc.com/news/articles/cvg0lnkkzzxo?at_medium=RSS&at_campaign=rss",
+            "id": "BBC:https://www.bbc.com/news/articles/cpd8ww2y6wlo?at_medium=RSS&at_campaign=rss",
+            "title": "Sombr stopped a show over safety - but are concerts in the UK really that risky?",
+            "url": "https://www.bbc.com/news/articles/cpd8ww2y6wlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
-            "publishedAt": "2026-03-22T07:42:23.000Z",
-            "description": "Several papers are leading on a claim from Israel that Iran has developed missiles that could be capable of striking London.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c2/live/c3fb6bd0-257d-11f1-b297-95b0a0a8331e.png",
+            "publishedAt": "2026-03-22T00:02:35.000Z",
+            "description": "Musicians are increasingly interrupting their own shows to help fans - but venues might be safer than you think.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1efd/live/bca58640-2528-11f1-bb95-2dc272eaaadd.jpg",
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/hilarious-worlds-most-expensive-chocolate-shop-restricts-arms-exports-to-u-s-over-neutrality",
-            "title": "HILARIOUS: World’s Most Expensive Chocolate Shop Restricts Arms Exports To U.S. Over ‘Neutrality’",
-            "url": "https://www.dailywire.com/news/hilarious-worlds-most-expensive-chocolate-shop-restricts-arms-exports-to-u-s-over-neutrality",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T10:55:12.000Z",
-            "description": "Combining the staggering delusion of a Napoleonic complex with the moral consistency of Swiss cheese — mostly holes — the tiny Alpine nation of Switzerland announced it is officially restricting certain arms exports to the United States. Why? Because the United States is currently engaged in a conflict with Iran — a regime known for ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2228045962.jpg",
-            "categories": []
+            "id": "Fox News:https://www.foxnews.com/entertainment/kurt-russell-goldie-hawn-never-married-deciding-43-years-ago-have-fun",
+            "title": "Kurt Russell and Goldie Hawn never married, deciding 43 years ago to 'have fun until we don't'",
+            "url": "https://www.foxnews.com/entertainment/kurt-russell-goldie-hawn-never-married-deciding-43-years-ago-have-fun",
+            "source": "Fox News",
+            "publishedAt": "2026-03-21T23:48:38.000Z",
+            "description": "Kurt Russell and Goldie Hawn have sustained their remarkable 43-year relationship with one guiding motto: \"Let's have fun until we don't,\" he reveals.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/goldie-hawn-kurt-russell-snow-ball.jpg?ve=1&tl=1",
+            "categories": [
+              "21bdb590-baaa-5663-9b23-70c6f241c4aa",
+              "fnc",
+              "Fox News",
+              "fox-news/entertainment",
+              "fox-news/entertainment/events/couples",
+              "fox-news/entertainment/movies",
+              "fox-news/entertainment/tv",
+              "fox-news/entertainment",
+              "article"
+            ]
           }
         ]
       }
     },
     "Sports": {
-      "articleCount": 16,
+      "articleCount": 13,
       "sourceCount": 4,
       "articles": [
         {
@@ -2318,16 +2350,6 @@
           "publishedAt": "2026-03-22T10:00:00.000Z",
           "description": "Cortina d'Ampezzo, the \"Pearl of the Dolomites,\" is a blend of Olympic heritage with celebrity chic, fine dining and Alpine tradition, even as climate change and new tourism reshape the area.",
           "imageUrl": null,
-          "categories": []
-        },
-        {
-          "id": "BBC:https://www.bbc.com/sport/darts/articles/cvg0xzjlvn2o?at_medium=RSS&at_campaign=rss",
-          "title": "Greaves' 114-match winning run ended by Sherrock",
-          "url": "https://www.bbc.com/sport/darts/articles/cvg0xzjlvn2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-22T09:14:04.000Z",
-          "description": "Beau Greaves' record run of 114 consecutive wins in the PDC Women's Series is ended by Fallon Sherrock.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03e7/live/d2bc2350-25cb-11f1-b8dc-6b72e2da2a9a.jpg",
           "categories": []
         },
         {
@@ -2363,7 +2385,7 @@
         },
         {
           "id": "BBC:https://www.bbc.com/sport/football/articles/cvg03xv5qq0o?at_medium=RSS&at_campaign=rss",
-          "title": "Who needs cup final victory most - Arteta or Guardiola?",
+          "title": "Arsenal and Man City meet in cup final with season-defining implications",
           "url": "https://www.bbc.com/sport/football/articles/cvg03xv5qq0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "publishedAt": "2026-03-22T06:09:00.000Z",
@@ -2521,26 +2543,6 @@
           ]
         },
         {
-          "id": "BBC:https://www.bbc.com/sport/football/articles/cede0vvzdgjo?at_medium=RSS&at_campaign=rss",
-          "title": "Outrun and in decline - are Rosenior's Chelsea near crisis point?",
-          "url": "https://www.bbc.com/sport/football/articles/cede0vvzdgjo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-21T22:30:07.000Z",
-          "description": "Chelsea enter freefall after another defeat - 3-0 away at Everton - and have two weeks over the international break to stew on a damaging 10 days.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/348d/live/09354ce0-2577-11f1-a79a-77e93010d956.jpg",
-          "categories": []
-        },
-        {
-          "id": "BBC:https://www.bbc.com/sport/sailing/articles/cde5nzn7420o?at_medium=RSS&at_campaign=rss",
-          "title": "Ineos takes legal steps to get boat off Ainslie",
-          "url": "https://www.bbc.com/sport/sailing/articles/cde5nzn7420o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-21T18:43:37.000Z",
-          "description": "Sir Jim Ratcliffe's Ineos group is taking legal steps to secure the return of a boat used in the last America's Cup by Sir Ben Ainslie's team.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e1/live/98f1e2c0-254b-11f1-be2a-5fc12a566dd9.jpg",
-          "categories": []
-        },
-        {
           "id": "Daily Wire:https://www.dailywire.com/news/trump-threatens-to-deploy-ice-to-airports-if-democrats-wont-fund-dhs",
           "title": "Trump Threatens To Deploy ICE To Airports If Democrats Won’t Fund DHS",
           "url": "https://www.dailywire.com/news/trump-threatens-to-deploy-ice-to-airports-if-democrats-wont-fund-dhs",
@@ -2562,7 +2564,7 @@
         }
       ],
       "subtopics": {
-        "March Madness Tournament Highlights": [
+        "March Madness Sweet 16 Highlights": [
           {
             "id": "Fox News:https://www.foxnews.com/sports/no-12-high-point-falls-short-sweet-sixteen-bid-after-late-run-four-seed-arkansas",
             "title": "No 12 High Point falls short of Sweet Sixteen bid after late run by four-seed Arkansas",
@@ -2649,7 +2651,7 @@
             ]
           }
         ],
-        "Football and Soccer Personalities and Team Challenges": [
+        "Women’s Football Star Alisha Lehmann’s Journey": [
           {
             "id": "BBC:https://www.bbc.com/sport/football/articles/c2lw1172z1qo?at_medium=RSS&at_campaign=rss",
             "title": "'They think I just go home and make TikToks - it's not true'",
@@ -2659,38 +2661,84 @@
             "description": "Leicester forward Alisha Lehmann is the most-followed female footballer in the world and says she has learned to cope.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dd7/live/3118b720-2382-11f1-b297-95b0a0a8331e.jpg",
             "categories": []
-          },
+          }
+        ],
+        "Arsenal vs. Manchester City EFL Cup Final Preview": [
           {
             "id": "BBC:https://www.bbc.com/sport/football/articles/cvg03xv5qq0o?at_medium=RSS&at_campaign=rss",
-            "title": "Who needs cup final victory most - Arteta or Guardiola?",
+            "title": "Arsenal and Man City meet in cup final with season-defining implications",
             "url": "https://www.bbc.com/sport/football/articles/cvg03xv5qq0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
             "publishedAt": "2026-03-22T06:09:00.000Z",
             "description": "Premier League leaders Arsenal face title rivals Manchester City in the EFL Cup final on Sunday, but how important could the result prove in title race?",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a455/live/5a4038c0-23bf-11f1-92e7-e70d0571c9f1.png",
             "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/sport/football/articles/cede0vvzdgjo?at_medium=RSS&at_campaign=rss",
-            "title": "Outrun and in decline - are Rosenior's Chelsea near crisis point?",
-            "url": "https://www.bbc.com/sport/football/articles/cede0vvzdgjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-21T22:30:07.000Z",
-            "description": "Chelsea enter freefall after another defeat - 3-0 away at Everton - and have two weeks over the international break to stew on a damaging 10 days.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/348d/live/09354ce0-2577-11f1-a79a-77e93010d956.jpg",
-            "categories": []
           }
         ],
-        "Record-breaking and Controversy in Darts and NFL Commentary": [
+        "Tiger Woods Masters Comeback and Injury Update": [
           {
-            "id": "BBC:https://www.bbc.com/sport/darts/articles/cvg0xzjlvn2o?at_medium=RSS&at_campaign=rss",
-            "title": "Greaves' 114-match winning run ended by Sherrock",
-            "url": "https://www.bbc.com/sport/darts/articles/cvg0xzjlvn2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T09:14:04.000Z",
-            "description": "Beau Greaves' record run of 114 consecutive wins in the PDC Women's Series is ended by Fallon Sherrock.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03e7/live/d2bc2350-25cb-11f1-b8dc-6b72e2da2a9a.jpg",
+            "id": "Fox News:https://www.foxnews.com/sports/tiger-woods-eyes-masters-comeback-admits-lingering-back-problems-bring-good-bad-days",
+            "title": "Tiger Woods eyes Masters comeback, admits lingering back problems bring good and bad days",
+            "url": "https://www.foxnews.com/sports/tiger-woods-eyes-masters-comeback-admits-lingering-back-problems-bring-good-bad-days",
+            "source": "Fox News",
+            "publishedAt": "2026-03-21T23:01:43.000Z",
+            "description": "Tiger Woods says disc replacement is \"not a lot of fun\" as he recovers from a seventh back procedure and has not ruled out playing in the upcoming Masters.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/tiger-woods-tgl-032126.jpg?ve=1&tl=1",
+            "categories": [
+              "0c4d4f62-5332-5609-ae0e-6d291309c089",
+              "fnc",
+              "Fox News",
+              "fox-news/sports/golf",
+              "fox-news/person/tiger-woods",
+              "fox-news/health",
+              "fox-news/sports/golf/the-masters",
+              "fox-news/sports",
+              "fox-news/sports",
+              "article"
+            ]
+          }
+        ],
+        "Unusual Sports and Related Incidents": [
+          {
+            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5726237/cortina-olympic-legacy-alpine-glamour",
+            "title": "Cortina d'Ampezzo mixes Olympic legacy with Alpine glamour",
+            "url": "https://www.npr.org/2026/03/22/nx-s1-5726237/cortina-olympic-legacy-alpine-glamour",
+            "source": "NPR",
+            "publishedAt": "2026-03-22T10:00:00.000Z",
+            "description": "Cortina d'Ampezzo, the \"Pearl of the Dolomites,\" is a blend of Olympic heritage with celebrity chic, fine dining and Alpine tradition, even as climate change and new tourism reshape the area.",
+            "imageUrl": null,
             "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cgl5jlgrdk6o?at_medium=RSS&at_campaign=rss",
+            "title": "I used to be a bouncer - now I'm a UFC title contender",
+            "url": "https://www.bbc.com/news/articles/cgl5jlgrdk6o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-16T18:03:18.000Z",
+            "description": "Ffion Davies, 31, is a leading competitor in Brazilian jiu-jitsu, winning multiple championships.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53dd/live/a255e270-1e3a-11f1-b7fb-092a0008fe58.jpg",
+            "categories": []
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/us/woman-claims-space-rock-smashed-house-after-houston-area-blast-rattles-residents",
+            "title": "Woman claims space rock smashed into house after Houston-area blast rattles residents",
+            "url": "https://www.foxnews.com/us/woman-claims-space-rock-smashed-house-after-houston-area-blast-rattles-residents",
+            "source": "Fox News",
+            "publishedAt": "2026-03-22T02:29:03.000Z",
+            "description": "A Houston-area woman claims a suspected meteorite crashed through her roof after a mysterious boom rattled the region, leaving a football-sized rock.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/meteor-tx.png?ve=1&tl=1",
+            "categories": [
+              "9d4b5098-b226-5832-9b35-f7e38e502a88",
+              "fnc",
+              "Fox News",
+              "fox-news/us/us-regions/southwest/texas",
+              "fox-news/weather",
+              "fox-news/science/air-and-space",
+              "fox-news/us",
+              "fox-news/odd-news",
+              "fox-news/us",
+              "article"
+            ]
           },
           {
             "id": "Fox News:https://www.foxnews.com/sports/giants-cam-skattebo-issues-apology-lapse-judgment-after-downplaying-cte-asthma",
@@ -2714,59 +2762,6 @@
               "fox-news/sports",
               "article"
             ]
-          }
-        ],
-        "Notable Sports Events and Athlete Stories": [
-          {
-            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5726237/cortina-olympic-legacy-alpine-glamour",
-            "title": "Cortina d'Ampezzo mixes Olympic legacy with Alpine glamour",
-            "url": "https://www.npr.org/2026/03/22/nx-s1-5726237/cortina-olympic-legacy-alpine-glamour",
-            "source": "NPR",
-            "publishedAt": "2026-03-22T10:00:00.000Z",
-            "description": "Cortina d'Ampezzo, the \"Pearl of the Dolomites,\" is a blend of Olympic heritage with celebrity chic, fine dining and Alpine tradition, even as climate change and new tourism reshape the area.",
-            "imageUrl": null,
-            "categories": []
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/sports/tiger-woods-eyes-masters-comeback-admits-lingering-back-problems-bring-good-bad-days",
-            "title": "Tiger Woods eyes Masters comeback, admits lingering back problems bring good and bad days",
-            "url": "https://www.foxnews.com/sports/tiger-woods-eyes-masters-comeback-admits-lingering-back-problems-bring-good-bad-days",
-            "source": "Fox News",
-            "publishedAt": "2026-03-21T23:01:43.000Z",
-            "description": "Tiger Woods says disc replacement is \"not a lot of fun\" as he recovers from a seventh back procedure and has not ruled out playing in the upcoming Masters.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/tiger-woods-tgl-032126.jpg?ve=1&tl=1",
-            "categories": [
-              "0c4d4f62-5332-5609-ae0e-6d291309c089",
-              "fnc",
-              "Fox News",
-              "fox-news/sports/golf",
-              "fox-news/person/tiger-woods",
-              "fox-news/health",
-              "fox-news/sports/golf/the-masters",
-              "fox-news/sports",
-              "fox-news/sports",
-              "article"
-            ]
-          },
-          {
-            "id": "BBC:https://www.bbc.com/sport/sailing/articles/cde5nzn7420o?at_medium=RSS&at_campaign=rss",
-            "title": "Ineos takes legal steps to get boat off Ainslie",
-            "url": "https://www.bbc.com/sport/sailing/articles/cde5nzn7420o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-21T18:43:37.000Z",
-            "description": "Sir Jim Ratcliffe's Ineos group is taking legal steps to secure the return of a boat used in the last America's Cup by Sir Ben Ainslie's team.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e1/live/98f1e2c0-254b-11f1-be2a-5fc12a566dd9.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cgl5jlgrdk6o?at_medium=RSS&at_campaign=rss",
-            "title": "I used to be a bouncer - now I'm a UFC title contender",
-            "url": "https://www.bbc.com/news/articles/cgl5jlgrdk6o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-16T18:03:18.000Z",
-            "description": "Ffion Davies, 31, is a leading competitor in Brazilian jiu-jitsu, winning multiple championships.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53dd/live/a255e270-1e3a-11f1-b7fb-092a0008fe58.jpg",
-            "categories": []
           },
           {
             "id": "Fox News:https://www.foxnews.com/sports/mlb-umpire-caught-hot-mic-begging-pitch-please-strike-after-catcher-issues-abs-challenge",
@@ -2789,29 +2784,6 @@
             ]
           }
         ],
-        "Sports-related Unusual News": [
-          {
-            "id": "Fox News:https://www.foxnews.com/us/woman-claims-space-rock-smashed-house-after-houston-area-blast-rattles-residents",
-            "title": "Woman claims space rock smashed into house after Houston-area blast rattles residents",
-            "url": "https://www.foxnews.com/us/woman-claims-space-rock-smashed-house-after-houston-area-blast-rattles-residents",
-            "source": "Fox News",
-            "publishedAt": "2026-03-22T02:29:03.000Z",
-            "description": "A Houston-area woman claims a suspected meteorite crashed through her roof after a mysterious boom rattled the region, leaving a football-sized rock.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/meteor-tx.png?ve=1&tl=1",
-            "categories": [
-              "9d4b5098-b226-5832-9b35-f7e38e502a88",
-              "fnc",
-              "Fox News",
-              "fox-news/us/us-regions/southwest/texas",
-              "fox-news/weather",
-              "fox-news/science/air-and-space",
-              "fox-news/us",
-              "fox-news/odd-news",
-              "fox-news/us",
-              "article"
-            ]
-          }
-        ],
         "Other Coverage": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/trump-threatens-to-deploy-ice-to-airports-if-democrats-wont-fund-dhs",
@@ -2830,6 +2802,56 @@
       "articleCount": 40,
       "sourceCount": 5,
       "articles": [
+        {
+          "id": "BBC:https://www.bbc.com/news/articles/cx230myz673o?at_medium=RSS&at_campaign=rss",
+          "title": "Police officer dies in crash and colleague critically ill",
+          "url": "https://www.bbc.com/news/articles/cx230myz673o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "publishedAt": "2026-03-22T11:50:48.000Z",
+          "description": "PC Bradley Corke, 27, had been critically injured in a collision on Thursday, said Kent Police.",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa87/live/476c06c0-25e0-11f1-9146-735d3f71509a.jpg",
+          "categories": []
+        },
+        {
+          "id": "Fox News:https://www.foxnews.com/us/nancy-guthries-family-urges-renewed-attention-wont-cease-until-shes-brought-final-place-rest",
+          "title": "Nancy Guthrie’s family urges renewed attention, won't cease until she's 'brought to a final place of rest'",
+          "url": "https://www.foxnews.com/us/nancy-guthries-family-urges-renewed-attention-wont-cease-until-shes-brought-final-place-rest",
+          "source": "Fox News",
+          "publishedAt": "2026-03-22T11:33:28.000Z",
+          "description": "The family of missing Nancy Guthrie, 84, mother of NBC \"Today\" co-host Savannah Guthrie, pleads for community help as the search enters its seventh week.",
+          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/nancy-guthrie-updates-split-image.png?ve=1&tl=1",
+          "categories": [
+            "320e6649-d512-5450-a1cf-920d2cfd8337",
+            "fnc",
+            "Fox News",
+            "fox-news/person/nancy-guthrie",
+            "fox-news/crime",
+            "fox-news/us/crime/police-and-law-enforcement",
+            "fox-news/us/crime/manhunt",
+            "fox-news/us",
+            "article"
+          ]
+        },
+        {
+          "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5756308/trump-threatens-obliterate-irans-power-plants-iran-strikes-2-israeli-cities",
+          "title": "Trump threatens to 'obliterate' Iran's power plants as Iran strikes 2 Israeli cities",
+          "url": "https://www.npr.org/2026/03/22/nx-s1-5756308/trump-threatens-obliterate-irans-power-plants-iran-strikes-2-israeli-cities",
+          "source": "NPR",
+          "publishedAt": "2026-03-22T11:22:57.000Z",
+          "description": "Iran launched missiles at two southern Israeli cities that lie close to the country's main nuclear research center, while President Trump gave Iran 48 hours to reopen the Strait of Hormuz.",
+          "imageUrl": null,
+          "categories": []
+        },
+        {
+          "id": "BBC:https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss",
+          "title": "No assessment Iran could strike London, UK minister says",
+          "url": "https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "publishedAt": "2026-03-22T11:11:43.000Z",
+          "description": "Steve Reed says there is \"no specific assessment\" Iran is capable of hitting the UK, after Israel claimed it now could.",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7621/live/79b063d0-25d9-11f1-965f-2f5aaeeadad7.jpg",
+          "categories": []
+        },
         {
           "id": "New York Times:https://www.nytimes.com/2026/03/22/opinion/fashion-odesa-ukraine-war.html",
           "title": "In Odesa, Dressing Up Is Living",
@@ -2862,7 +2884,7 @@
         },
         {
           "id": "BBC:https://www.bbc.com/news/articles/cwydl214dplo?at_medium=RSS&at_campaign=rss",
-          "title": "Meningitis cases falling in Kent outbreak",
+          "title": "Meningitis cases fall in Kent outbreak",
           "url": "https://www.bbc.com/news/articles/cwydl214dplo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "publishedAt": "2026-03-22T10:40:55.000Z",
@@ -2925,16 +2947,6 @@
           "publishedAt": "2026-03-22T08:00:00.000Z",
           "description": "NPR spent time inside a Minnesota school talking with educators, parents, and children as it tries to help kids feel safe again after the ICE surge.",
           "imageUrl": null,
-          "categories": []
-        },
-        {
-          "id": "BBC:https://www.bbc.com/news/articles/c5yve15lvgko?at_medium=RSS&at_campaign=rss",
-          "title": "I spent five months in a mother and baby mental health unit - here's what I want mums to know",
-          "url": "https://www.bbc.com/news/articles/c5yve15lvgko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-22T07:09:49.000Z",
-          "description": "Sofii Lewis was diagnosed with postpartum psychosis tendencies and OCD after giving birth.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f2/live/a265b950-1edc-11f1-aedd-0da0e866b1f3.jpg",
           "categories": []
         },
         {
@@ -3016,29 +3028,6 @@
           ]
         },
         {
-          "id": "Fox News:https://www.foxnews.com/health/top-5-states-most-hospitals-ranked-among-safest-us",
-          "title": "Top 5 states with the highest number of safe hospitals, according to new report",
-          "url": "https://www.foxnews.com/health/top-5-states-most-hospitals-ranked-among-safest-us",
-          "source": "Fox News",
-          "publishedAt": "2026-03-21T22:02:42.000Z",
-          "description": "Healthgrades chose 438 hospitals in 40 states for 2026 Patient Safety Excellence Awards, and Texas and Florida were among the top-performing states.",
-          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/hospital-doctor-top-patient-safety.jpg?ve=1&tl=1",
-          "categories": [
-            "d89c8a7a-60c0-532b-a0ff-9c8c908713fd",
-            "fnc",
-            "Fox News",
-            "fox-news/health",
-            "fox-news/health/health-care",
-            "fox-news/us/us-regions/southwest/texas",
-            "fox-news/us/us-regions/southeast/florida",
-            "fox-news/us/us-regions/west/california",
-            "fox-news/us/us-regions/midwest/ohio",
-            "fox-news/us/us-regions/northeast/pennsylvania",
-            "fox-news/health",
-            "article"
-          ]
-        },
-        {
           "id": "Daily Wire:https://www.dailywire.com/news/video-iranian-missile-screams-over-israel-explosion-injures-dozens",
           "title": "VIDEO: Iranian Missile Screams Over Israel, Explosion Injures Dozens, Including Children",
           "url": "https://www.dailywire.com/news/video-iranian-missile-screams-over-israel-explosion-injures-dozens",
@@ -3109,16 +3098,6 @@
           "categories": []
         },
         {
-          "id": "NPR:https://www.npr.org/2026/03/21/nx-s1-5716061/dutch-art-detective-arthur-brand",
-          "title": "Meet the Dutch art detective who tracks down stolen masterpieces",
-          "url": "https://www.npr.org/2026/03/21/nx-s1-5716061/dutch-art-detective-arthur-brand",
-          "source": "NPR",
-          "publishedAt": "2026-03-21T11:00:00.000Z",
-          "description": "For 20 years, Dutch art detective Arthur Brand has acted as an intermediary between the police and people who know where stolen artwork might be hiding. He says patience and trust are everything.",
-          "imageUrl": null,
-          "categories": []
-        },
-        {
           "id": "Daily Wire:https://www.dailywire.com/news/the-part-of-childhood-the-no-gift-trend-misses",
           "title": "The Part Of Childhood The No-Gift Trend Misses",
           "url": "https://www.dailywire.com/news/the-part-of-childhood-the-no-gift-trend-misses",
@@ -3156,16 +3135,6 @@
           "publishedAt": "2026-03-20T19:03:39.000Z",
           "description": "A federal judge on Friday blocked the Trump administration’s restrictive Pentagon press access policy, which threatens journalists with being ​branded security risks if they seek information not authorized for public release. The lawsuit by the New York Times in Washington, D.C., federal court alleged that policy changes by the Defense Department last year gave it free ...",
           "imageUrl": "https://dw-wp-production.imgix.net/2024/12/GettyImages-2166909246-e1734116346984.jpg",
-          "categories": []
-        },
-        {
-          "id": "BBC:https://www.bbc.com/news/videos/c62k8xgjkggo?at_medium=RSS&at_campaign=rss",
-          "title": "Watch: Israeli strike next to British journalist is not AI-generated",
-          "url": "https://www.bbc.com/news/videos/c62k8xgjkggo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-20T18:52:38.000Z",
-          "description": "The video of the strike, hitting just metres from RT's Steve Sweeney and his crew, was recorded on Thursday in southern Lebanon.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f54/live/c9fed050-248b-11f1-934f-036468834728.jpg",
           "categories": []
         },
         {
@@ -3300,7 +3269,17 @@
         }
       ],
       "subtopics": {
-        "Iranian missile attacks and related conflicts": [
+        "Iran-Israel Conflict and Missile Attacks": [
+          {
+            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5756308/trump-threatens-obliterate-irans-power-plants-iran-strikes-2-israeli-cities",
+            "title": "Trump threatens to 'obliterate' Iran's power plants as Iran strikes 2 Israeli cities",
+            "url": "https://www.npr.org/2026/03/22/nx-s1-5756308/trump-threatens-obliterate-irans-power-plants-iran-strikes-2-israeli-cities",
+            "source": "NPR",
+            "publishedAt": "2026-03-22T11:22:57.000Z",
+            "description": "Iran launched missiles at two southern Israeli cities that lie close to the country's main nuclear research center, while President Trump gave Iran 48 hours to reopen the Strait of Hormuz.",
+            "imageUrl": null,
+            "categories": []
+          },
           {
             "id": "BBC:https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
             "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
@@ -3309,6 +3288,16 @@
             "publishedAt": "2026-03-22T10:57:44.000Z",
             "description": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c825/live/d7fc6990-25c3-11f1-b1ce-2dccb029f244.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cwydl214dplo?at_medium=RSS&at_campaign=rss",
+            "title": "Meningitis cases fall in Kent outbreak",
+            "url": "https://www.bbc.com/news/articles/cwydl214dplo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T10:40:55.000Z",
+            "description": "Number of confirmed cases drops, says UKHSA, as suspected case linked to another Kent college.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a081/live/d9bfe420-25c6-11f1-b1ce-2dccb029f244.jpg",
             "categories": []
           },
           {
@@ -3332,13 +3321,13 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/red-state-pauses-gas-tax-to-ease-pain-of-iran-war-price-increase",
-            "title": "Red State Pauses Gas Tax To Ease Pain Of Iran War Price Increase",
-            "url": "https://www.dailywire.com/news/red-state-pauses-gas-tax-to-ease-pain-of-iran-war-price-increase",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T17:14:25.000Z",
-            "description": "Georgia Governor Brian Kemp on Friday suspended the state’s gas tax amid rising fuel prices as the U.S.-Israeli war in Iran enters its third week. The move – the first such relief offered by a U.S. state since the war started on February 28 – suspends Georgia’s tax of 33.3 cents per gallon on gas ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2025/10/GettyImages-2222971592.jpg",
+            "id": "BBC:https://www.bbc.com/news/articles/cx230myz673o?at_medium=RSS&at_campaign=rss",
+            "title": "Police officer dies in crash and colleague critically ill",
+            "url": "https://www.bbc.com/news/articles/cx230myz673o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T11:50:48.000Z",
+            "description": "PC Bradley Corke, 27, had been critically injured in a collision on Thursday, said Kent Police.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa87/live/476c06c0-25e0-11f1-9146-735d3f71509a.jpg",
             "categories": []
           },
           {
@@ -3352,17 +3341,17 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/joe-kent-bomb-bomb-bomb-bomb-bomb-iran",
-            "title": "JOE KENT: Bomb Bomb Bomb, Bomb Bomb Iran",
-            "url": "https://www.dailywire.com/news/joe-kent-bomb-bomb-bomb-bomb-bomb-iran",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T09:42:33.000Z",
-            "description": "The war with Iran talk is very black & white in a grey world. October 7th b/c happened [sic] Biden/Harris gave Iran access to over 100 billion. Trump used diplomacy to build the Abraham accords, cut off Iran’s funding & killed key terrorists. America & our allies were safe & there was less war. I ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2250672523-1.jpg",
+            "id": "BBC:https://www.bbc.com/news/articles/cy413ke31d8o?at_medium=RSS&at_campaign=rss",
+            "title": "Food prices likely to rise due to Iran war, farmers' union says",
+            "url": "https://www.bbc.com/news/articles/cy413ke31d8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-21T18:41:31.000Z",
+            "description": "The National Farmers' Union says the price of cucumbers, tomatoes and peppers could rise over the next six weeks.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6c1/live/894e46e0-2561-11f1-8591-ff4ca11e439b.jpg",
             "categories": []
           }
         ],
-        "Robert Mueller's death and reactions": [
+        "Robert Mueller's Death and Legacy": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
             "title": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
@@ -3394,35 +3383,7 @@
             "categories": []
           }
         ],
-        "Pentagon press access policy and court ruling": [
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/21/business/media/pentagon-press-access.html",
-            "title": "News Outlets Pressure Pentagon to Restore Access After Court Ruling",
-            "url": "https://www.nytimes.com/2026/03/21/business/media/pentagon-press-access.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-22T00:42:33.000Z",
-            "description": "A federal judge ruled on Friday that key parts of the Pentagon’s press policy were unconstitutional.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/21/multimedia/21BIZ-PENTAGON-PRESS-gblh/21BIZ-PENTAGON-PRESS-gblh-mediumSquareAt3X.jpg",
-            "categories": [
-              "Decisions and Verdicts",
-              "United States Defense and Military Forces",
-              "Freedom of the Press",
-              "Defense Department",
-              "New York Times"
-            ]
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/pentagon-pushes-back-after-judge-rules-press-access-limits-unconstitutional",
-            "title": "Pentagon Pushes Back After Judge Rules Press Access Limits Unconstitutional",
-            "url": "https://www.dailywire.com/news/pentagon-pushes-back-after-judge-rules-press-access-limits-unconstitutional",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T19:03:39.000Z",
-            "description": "A federal judge on Friday blocked the Trump administration’s restrictive Pentagon press access policy, which threatens journalists with being ​branded security risks if they seek information not authorized for public release. The lawsuit by the New York Times in Washington, D.C., federal court alleged that policy changes by the Defense Department last year gave it free ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2024/12/GettyImages-2166909246-e1734116346984.jpg",
-            "categories": []
-          }
-        ],
-        "Local US incidents involving crime and education": [
+        "US Domestic Crime and Legal Cases": [
           {
             "id": "Fox News:https://www.foxnews.com/us/man-found-not-guilty-reason-insanity-killing-pregnant-seattle-woman-unborn-child",
             "title": "Man found not guilty by reason of insanity in killing of pregnant Seattle woman, unborn child",
@@ -3466,16 +3427,6 @@
             ]
           },
           {
-            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5704351/minnesota-school-ice-surge-children-trauma",
-            "title": "How one Minnesota school is bouncing back after the ICE surge",
-            "url": "https://www.npr.org/2026/03/22/nx-s1-5704351/minnesota-school-ice-surge-children-trauma",
-            "source": "NPR",
-            "publishedAt": "2026-03-22T08:00:00.000Z",
-            "description": "NPR spent time inside a Minnesota school talking with educators, parents, and children as it tries to help kids feel safe again after the ICE surge.",
-            "imageUrl": null,
-            "categories": []
-          },
-          {
             "id": "Daily Wire:https://www.dailywire.com/news/a-childs-tip-to-ice-may-have-saved-her-moms-life-from-monster",
             "title": "A Child’s Tip To ICE May Have Saved Her Mom’s Life From ‘Monster’",
             "url": "https://www.dailywire.com/news/a-childs-tip-to-ice-may-have-saved-her-moms-life-from-monster",
@@ -3486,7 +3437,35 @@
             "categories": []
           }
         ],
-        "Cultural and lifestyle human interest stories": [
+        "Pentagon Press Access and Media Freedom": [
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/21/business/media/pentagon-press-access.html",
+            "title": "News Outlets Pressure Pentagon to Restore Access After Court Ruling",
+            "url": "https://www.nytimes.com/2026/03/21/business/media/pentagon-press-access.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-22T00:42:33.000Z",
+            "description": "A federal judge ruled on Friday that key parts of the Pentagon’s press policy were unconstitutional.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/21/multimedia/21BIZ-PENTAGON-PRESS-gblh/21BIZ-PENTAGON-PRESS-gblh-mediumSquareAt3X.jpg",
+            "categories": [
+              "Decisions and Verdicts",
+              "United States Defense and Military Forces",
+              "Freedom of the Press",
+              "Defense Department",
+              "New York Times"
+            ]
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/pentagon-pushes-back-after-judge-rules-press-access-limits-unconstitutional",
+            "title": "Pentagon Pushes Back After Judge Rules Press Access Limits Unconstitutional",
+            "url": "https://www.dailywire.com/news/pentagon-pushes-back-after-judge-rules-press-access-limits-unconstitutional",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T19:03:39.000Z",
+            "description": "A federal judge on Friday blocked the Trump administration’s restrictive Pentagon press access policy, which threatens journalists with being ​branded security risks if they seek information not authorized for public release. The lawsuit by the New York Times in Washington, D.C., federal court alleged that policy changes by the Defense Department last year gave it free ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2024/12/GettyImages-2166909246-e1734116346984.jpg",
+            "categories": []
+          }
+        ],
+        "Human Interest and Cultural Stories": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/22/opinion/fashion-odesa-ukraine-war.html",
             "title": "In Odesa, Dressing Up Is Living",
@@ -3508,13 +3487,33 @@
             ]
           },
           {
-            "id": "NPR:https://www.npr.org/2026/03/21/nx-s1-5716061/dutch-art-detective-arthur-brand",
-            "title": "Meet the Dutch art detective who tracks down stolen masterpieces",
-            "url": "https://www.npr.org/2026/03/21/nx-s1-5716061/dutch-art-detective-arthur-brand",
+            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5704351/minnesota-school-ice-surge-children-trauma",
+            "title": "How one Minnesota school is bouncing back after the ICE surge",
+            "url": "https://www.npr.org/2026/03/22/nx-s1-5704351/minnesota-school-ice-surge-children-trauma",
             "source": "NPR",
-            "publishedAt": "2026-03-21T11:00:00.000Z",
-            "description": "For 20 years, Dutch art detective Arthur Brand has acted as an intermediary between the police and people who know where stolen artwork might be hiding. He says patience and trust are everything.",
+            "publishedAt": "2026-03-22T08:00:00.000Z",
+            "description": "NPR spent time inside a Minnesota school talking with educators, parents, and children as it tries to help kids feel safe again after the ICE surge.",
             "imageUrl": null,
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/c1kgk9pmpelo?at_medium=RSS&at_campaign=rss",
+            "title": "Mum 'so proud' of deafblind son's Eastenders debut",
+            "url": "https://www.bbc.com/news/articles/c1kgk9pmpelo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-19T08:40:51.000Z",
+            "description": "Five-year-old Harvey Hind, from Clitheroe, Lancashire, appeared on the BBC One soap on Wednesday.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f29/live/a312f6d0-239e-11f1-934f-036468834728.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cx2g83l3zqpo?at_medium=RSS&at_campaign=rss",
+            "title": "Artist uses eyelash to paint Peaky Blinders microsculpture",
+            "url": "https://www.bbc.com/news/articles/cx2g83l3zqpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-16T16:36:14.000Z",
+            "description": "Sculptor Dr Willard Wigan made the miniature Tommy Shelby artwork as part of a charity exhibition.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f8c/live/084f4680-2141-11f1-939b-9fc757948eef.jpg",
             "categories": []
           },
           {
@@ -3538,13 +3537,13 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/taylor-frankie-paul-caught-on-camera-attacking-boyfriend-what-it-says-about-who-we-believe",
-            "title": "Taylor Frankie Paul Caught On Camera Attacking Boyfriend. What It Says About Who We Believe",
-            "url": "https://www.dailywire.com/news/taylor-frankie-paul-caught-on-camera-attacking-boyfriend-what-it-says-about-who-we-believe",
+            "id": "Daily Wire:https://www.dailywire.com/news/why-kicking-your-kids-out-at-18-is-actually-insane",
+            "title": "Why Kicking Your Kids Out At 18 Is Actually Insane",
+            "url": "https://www.dailywire.com/news/why-kicking-your-kids-out-at-18-is-actually-insane",
             "source": "Daily Wire",
-            "publishedAt": "2026-03-20T14:42:11.000Z",
-            "description": "This article is part of Upstream, The Daily Wire’s new home for culture and lifestyle. Real human insight and human stories — from our featured writers to you. *** “This is called physical abuse,” Dakota Mortensen says in leaked cellphone footage as his then-girlfriend, “The Secret Lives of Mormon Wives” star Taylor Frankie Paul, can be ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2266317919.jpg",
+            "publishedAt": "2026-03-20T17:54:50.000Z",
+            "description": "A few days ago I did something you’re not supposed to do on social media: I changed my mind about something. In particular, I had a change of heart on an issue that’s very contentious for millions of people. I wrote that, while I used to be in the camp that said you should kick ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2191706482.jpg",
             "categories": []
           },
           {
@@ -3558,13 +3557,13 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/why-kicking-your-kids-out-at-18-is-actually-insane",
-            "title": "Why Kicking Your Kids Out At 18 Is Actually Insane",
-            "url": "https://www.dailywire.com/news/why-kicking-your-kids-out-at-18-is-actually-insane",
+            "id": "Daily Wire:https://www.dailywire.com/news/action-star-chuck-norris-dies-at-86",
+            "title": "Action Star Chuck Norris Dies At 86",
+            "url": "https://www.dailywire.com/news/action-star-chuck-norris-dies-at-86",
             "source": "Daily Wire",
-            "publishedAt": "2026-03-20T17:54:50.000Z",
-            "description": "A few days ago I did something you’re not supposed to do on social media: I changed my mind about something. In particular, I had a change of heart on an issue that’s very contentious for millions of people. I wrote that, while I used to be in the camp that said you should kick ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2191706482.jpg",
+            "publishedAt": "2026-03-20T09:21:46.000Z",
+            "description": "Iconic action star Chuck Norris has died at the age of 86. The news was shared on his Instagram page Friday morning with an update from his family. “It is with heavy hearts that our family shares the sudden passing of our beloved Chuck Norris yesterday morning,” the statement said. “While we would like to ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Chuck-Norris.jpg",
             "categories": []
           },
           {
@@ -3578,35 +3577,45 @@
             "categories": []
           },
           {
-            "id": "BBC:https://www.bbc.com/news/articles/cx2g83l3zqpo?at_medium=RSS&at_campaign=rss",
-            "title": "Artist uses eyelash to paint Peaky Blinders microsculpture",
-            "url": "https://www.bbc.com/news/articles/cx2g83l3zqpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-16T16:36:14.000Z",
-            "description": "Sculptor Dr Willard Wigan made the miniature Tommy Shelby artwork as part of a charity exhibition.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f8c/live/084f4680-2141-11f1-939b-9fc757948eef.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/c1kgk9pmpelo?at_medium=RSS&at_campaign=rss",
-            "title": "Mum 'so proud' of deafblind son's Eastenders debut",
-            "url": "https://www.bbc.com/news/articles/c1kgk9pmpelo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-19T08:40:51.000Z",
-            "description": "Five-year-old Harvey Hind, from Clitheroe, Lancashire, appeared on the BBC One soap on Wednesday.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f29/live/a312f6d0-239e-11f1-934f-036468834728.jpg",
+            "id": "Daily Wire:https://www.dailywire.com/news/taylor-frankie-paul-caught-on-camera-attacking-boyfriend-what-it-says-about-who-we-believe",
+            "title": "Taylor Frankie Paul Caught On Camera Attacking Boyfriend. What It Says About Who We Believe",
+            "url": "https://www.dailywire.com/news/taylor-frankie-paul-caught-on-camera-attacking-boyfriend-what-it-says-about-who-we-believe",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T14:42:11.000Z",
+            "description": "This article is part of Upstream, The Daily Wire’s new home for culture and lifestyle. Real human insight and human stories — from our featured writers to you. *** “This is called physical abuse,” Dakota Mortensen says in leaked cellphone footage as his then-girlfriend, “The Secret Lives of Mormon Wives” star Taylor Frankie Paul, can be ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2266317919.jpg",
             "categories": []
           }
         ],
         "Other Coverage": [
           {
-            "id": "BBC:https://www.bbc.com/news/articles/cwydl214dplo?at_medium=RSS&at_campaign=rss",
-            "title": "Meningitis cases falling in Kent outbreak",
-            "url": "https://www.bbc.com/news/articles/cwydl214dplo?at_medium=RSS&at_campaign=rss",
+            "id": "Fox News:https://www.foxnews.com/us/nancy-guthries-family-urges-renewed-attention-wont-cease-until-shes-brought-final-place-rest",
+            "title": "Nancy Guthrie’s family urges renewed attention, won't cease until she's 'brought to a final place of rest'",
+            "url": "https://www.foxnews.com/us/nancy-guthries-family-urges-renewed-attention-wont-cease-until-shes-brought-final-place-rest",
+            "source": "Fox News",
+            "publishedAt": "2026-03-22T11:33:28.000Z",
+            "description": "The family of missing Nancy Guthrie, 84, mother of NBC \"Today\" co-host Savannah Guthrie, pleads for community help as the search enters its seventh week.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/nancy-guthrie-updates-split-image.png?ve=1&tl=1",
+            "categories": [
+              "320e6649-d512-5450-a1cf-920d2cfd8337",
+              "fnc",
+              "Fox News",
+              "fox-news/person/nancy-guthrie",
+              "fox-news/crime",
+              "fox-news/us/crime/police-and-law-enforcement",
+              "fox-news/us/crime/manhunt",
+              "fox-news/us",
+              "article"
+            ]
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss",
+            "title": "No assessment Iran could strike London, UK minister says",
+            "url": "https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
-            "publishedAt": "2026-03-22T10:40:55.000Z",
-            "description": "Number of confirmed cases drops, says UKHSA, as suspected case linked to another Kent college.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a081/live/d9bfe420-25c6-11f1-b1ce-2dccb029f244.jpg",
+            "publishedAt": "2026-03-22T11:11:43.000Z",
+            "description": "Steve Reed says there is \"no specific assessment\" Iran is capable of hitting the UK, after Israel claimed it now could.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7621/live/79b063d0-25d9-11f1-965f-2f5aaeeadad7.jpg",
             "categories": []
           },
           {
@@ -3657,16 +3666,6 @@
             "categories": []
           },
           {
-            "id": "BBC:https://www.bbc.com/news/articles/c5yve15lvgko?at_medium=RSS&at_campaign=rss",
-            "title": "I spent five months in a mother and baby mental health unit - here's what I want mums to know",
-            "url": "https://www.bbc.com/news/articles/c5yve15lvgko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T07:09:49.000Z",
-            "description": "Sofii Lewis was diagnosed with postpartum psychosis tendencies and OCD after giving birth.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f2/live/a265b950-1edc-11f1-aedd-0da0e866b1f3.jpg",
-            "categories": []
-          },
-          {
             "id": "BBC:https://www.bbc.com/news/articles/clyv1j8ne7ko?at_medium=RSS&at_campaign=rss",
             "title": "'Peace is a gradual thing': How land, cattle and identity fuel a deadly Nigerian conflict",
             "url": "https://www.bbc.com/news/articles/clyv1j8ne7ko?at_medium=RSS&at_campaign=rss",
@@ -3677,29 +3676,6 @@
             "categories": []
           },
           {
-            "id": "Fox News:https://www.foxnews.com/health/top-5-states-most-hospitals-ranked-among-safest-us",
-            "title": "Top 5 states with the highest number of safe hospitals, according to new report",
-            "url": "https://www.foxnews.com/health/top-5-states-most-hospitals-ranked-among-safest-us",
-            "source": "Fox News",
-            "publishedAt": "2026-03-21T22:02:42.000Z",
-            "description": "Healthgrades chose 438 hospitals in 40 states for 2026 Patient Safety Excellence Awards, and Texas and Florida were among the top-performing states.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/hospital-doctor-top-patient-safety.jpg?ve=1&tl=1",
-            "categories": [
-              "d89c8a7a-60c0-532b-a0ff-9c8c908713fd",
-              "fnc",
-              "Fox News",
-              "fox-news/health",
-              "fox-news/health/health-care",
-              "fox-news/us/us-regions/southwest/texas",
-              "fox-news/us/us-regions/southeast/florida",
-              "fox-news/us/us-regions/west/california",
-              "fox-news/us/us-regions/midwest/ohio",
-              "fox-news/us/us-regions/northeast/pennsylvania",
-              "fox-news/health",
-              "article"
-            ]
-          },
-          {
             "id": "BBC:https://www.bbc.com/news/videos/cq8g9y5x1llo?at_medium=RSS&at_campaign=rss",
             "title": "Did Australia's under-16s social media ban work?",
             "url": "https://www.bbc.com/news/videos/cq8g9y5x1llo?at_medium=RSS&at_campaign=rss",
@@ -3707,16 +3683,6 @@
             "publishedAt": "2026-03-21T19:06:39.000Z",
             "description": "Three months since it came into effect, teenagers tell the BBC how the world-first law has impacted their lives so far.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2031/live/ed588310-1d0c-11f1-801d-ed3cff6bf876.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cy413ke31d8o?at_medium=RSS&at_campaign=rss",
-            "title": "Food prices likely to rise due to Iran war, farmers' union says",
-            "url": "https://www.bbc.com/news/articles/cy413ke31d8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-21T18:41:31.000Z",
-            "description": "The National Farmers' Union says the price of cucumbers, tomatoes and peppers could rise over the next six weeks.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6c1/live/894e46e0-2561-11f1-8591-ff4ca11e439b.jpg",
             "categories": []
           },
           {
@@ -3740,13 +3706,13 @@
             "categories": []
           },
           {
-            "id": "BBC:https://www.bbc.com/news/videos/c62k8xgjkggo?at_medium=RSS&at_campaign=rss",
-            "title": "Watch: Israeli strike next to British journalist is not AI-generated",
-            "url": "https://www.bbc.com/news/videos/c62k8xgjkggo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-20T18:52:38.000Z",
-            "description": "The video of the strike, hitting just metres from RT's Steve Sweeney and his crew, was recorded on Thursday in southern Lebanon.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f54/live/c9fed050-248b-11f1-934f-036468834728.jpg",
+            "id": "Daily Wire:https://www.dailywire.com/news/red-state-pauses-gas-tax-to-ease-pain-of-iran-war-price-increase",
+            "title": "Red State Pauses Gas Tax To Ease Pain Of Iran War Price Increase",
+            "url": "https://www.dailywire.com/news/red-state-pauses-gas-tax-to-ease-pain-of-iran-war-price-increase",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T17:14:25.000Z",
+            "description": "Georgia Governor Brian Kemp on Friday suspended the state’s gas tax amid rising fuel prices as the U.S.-Israeli war in Iran enters its third week. The move – the first such relief offered by a U.S. state since the war started on February 28 – suspends Georgia’s tax of 33.3 cents per gallon on gas ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2025/10/GettyImages-2222971592.jpg",
             "categories": []
           },
           {
@@ -3770,13 +3736,13 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/action-star-chuck-norris-dies-at-86",
-            "title": "Action Star Chuck Norris Dies At 86",
-            "url": "https://www.dailywire.com/news/action-star-chuck-norris-dies-at-86",
+            "id": "Daily Wire:https://www.dailywire.com/news/joe-kent-bomb-bomb-bomb-bomb-bomb-iran",
+            "title": "JOE KENT: Bomb Bomb Bomb, Bomb Bomb Iran",
+            "url": "https://www.dailywire.com/news/joe-kent-bomb-bomb-bomb-bomb-bomb-iran",
             "source": "Daily Wire",
-            "publishedAt": "2026-03-20T09:21:46.000Z",
-            "description": "Iconic action star Chuck Norris has died at the age of 86. The news was shared on his Instagram page Friday morning with an update from his family. “It is with heavy hearts that our family shares the sudden passing of our beloved Chuck Norris yesterday morning,” the statement said. “While we would like to ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Chuck-Norris.jpg",
+            "publishedAt": "2026-03-20T09:42:33.000Z",
+            "description": "The war with Iran talk is very black & white in a grey world. October 7th b/c happened [sic] Biden/Harris gave Iran access to over 100 billion. Trump used diplomacy to build the Abraham accords, cut off Iran’s funding & killed key terrorists. America & our allies were safe & there was less war. I ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2250672523-1.jpg",
             "categories": []
           }
         ]
@@ -3784,6 +3750,172 @@
     }
   },
   "latestArticles": [
+    {
+      "id": "BBC:https://www.bbc.com/news/articles/c77mx575k4vo?at_medium=RSS&at_campaign=rss",
+      "title": "Energy bills rise 'inescapable' if prices stay high, says British Gas boss",
+      "url": "https://www.bbc.com/news/articles/c77mx575k4vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-03-22T11:54:01.000Z",
+      "description": "The boss of Centrica says it is \"too early\" to speculate but if oil costs continue to rise, homes will be hit.",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/455a/live/e86f77b0-25df-11f1-9146-735d3f71509a.jpg",
+      "categories": []
+    },
+    {
+      "id": "BBC:https://www.bbc.com/news/articles/cx230myz673o?at_medium=RSS&at_campaign=rss",
+      "title": "Police officer dies in crash and colleague critically ill",
+      "url": "https://www.bbc.com/news/articles/cx230myz673o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-03-22T11:50:48.000Z",
+      "description": "PC Bradley Corke, 27, had been critically injured in a collision on Thursday, said Kent Police.",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa87/live/476c06c0-25e0-11f1-9146-735d3f71509a.jpg",
+      "categories": []
+    },
+    {
+      "id": "New York Times:https://www.nytimes.com/2026/03/22/theater/antigone-theater-art-sophocles-adaptations.html",
+      "title": "Who Is Antigone? The 2500-Year-Old Rebel With a Cause.",
+      "url": "https://www.nytimes.com/2026/03/22/theater/antigone-theater-art-sophocles-adaptations.html",
+      "source": "New York Times",
+      "publishedAt": "2026-03-22T11:39:15.000Z",
+      "description": "“Antigone” gave us the original “bad girl,” but its themes go beyond that. How do adaptations keep making Sophocles’ ideas about democracy and theater new?",
+      "imageUrl": null,
+      "categories": [
+        "Theater",
+        "Theater (Off Broadway)",
+        "Antigone (Play)",
+        "Sophocles",
+        "Books and Literature",
+        "Law and Legislation"
+      ]
+    },
+    {
+      "id": "New York Times:https://www.nytimes.com/2026/03/22/briefing/introducing-the-robot-umpire.html",
+      "title": "Introducing the Robot Umpire",
+      "url": "https://www.nytimes.com/2026/03/22/briefing/introducing-the-robot-umpire.html",
+      "source": "New York Times",
+      "publishedAt": "2026-03-22T11:35:52.000Z",
+      "description": "We explain a technological change that’s about to transform baseball.",
+      "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22themorning-nl-ABS-02-hjlk/22themorning-nl-ABS-02-hjlk-mediumSquareAt3X.jpg",
+      "categories": [
+        "internal-storyline-no",
+        "Baseball",
+        "Major League Baseball",
+        "Robots and Robotics"
+      ]
+    },
+    {
+      "id": "New York Times:https://www.nytimes.com/2026/03/22/world/europe/pierre-eduoard-sterin-france-far-right.html",
+      "title": "The Billionaire Funding France’s Far Right",
+      "url": "https://www.nytimes.com/2026/03/22/world/europe/pierre-eduoard-sterin-france-far-right.html",
+      "source": "New York Times",
+      "publishedAt": "2026-03-22T11:35:09.000Z",
+      "description": "Pierre-Édouard Stérin is financing projects to make France less Muslim, more Catholic and more capitalist. He says his program has trained thousands running for municipal office on Sunday.",
+      "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22int-France-Billionaire-tlhc/22int-France-Billionaire-tlhc-mediumSquareAt3X-v3.jpg",
+      "categories": [
+        "Sterin, Pierre-Edouard",
+        "Religion-State Relations",
+        "Right-Wing Extremism and Alt-Right",
+        "Budgets and Budgeting",
+        "Politics and Government",
+        "Philanthropy",
+        "Muslim Veiling",
+        "Immigration and Emigration",
+        "Muslims and Islam",
+        "Discrimination",
+        "High Net Worth Individuals",
+        "Mayors",
+        "Computer and Video Games",
+        "Elections, Mayors",
+        "Fringe Groups and Movements",
+        "Entrepreneurship",
+        "National Rally (France)",
+        "Roman Catholic Church",
+        "France",
+        "Belgium"
+      ]
+    },
+    {
+      "id": "Fox News:https://www.foxnews.com/us/nancy-guthries-family-urges-renewed-attention-wont-cease-until-shes-brought-final-place-rest",
+      "title": "Nancy Guthrie’s family urges renewed attention, won't cease until she's 'brought to a final place of rest'",
+      "url": "https://www.foxnews.com/us/nancy-guthries-family-urges-renewed-attention-wont-cease-until-shes-brought-final-place-rest",
+      "source": "Fox News",
+      "publishedAt": "2026-03-22T11:33:28.000Z",
+      "description": "The family of missing Nancy Guthrie, 84, mother of NBC \"Today\" co-host Savannah Guthrie, pleads for community help as the search enters its seventh week.",
+      "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/nancy-guthrie-updates-split-image.png?ve=1&tl=1",
+      "categories": [
+        "320e6649-d512-5450-a1cf-920d2cfd8337",
+        "fnc",
+        "Fox News",
+        "fox-news/person/nancy-guthrie",
+        "fox-news/crime",
+        "fox-news/us/crime/police-and-law-enforcement",
+        "fox-news/us/crime/manhunt",
+        "fox-news/us",
+        "article"
+      ]
+    },
+    {
+      "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5756308/trump-threatens-obliterate-irans-power-plants-iran-strikes-2-israeli-cities",
+      "title": "Trump threatens to 'obliterate' Iran's power plants as Iran strikes 2 Israeli cities",
+      "url": "https://www.npr.org/2026/03/22/nx-s1-5756308/trump-threatens-obliterate-irans-power-plants-iran-strikes-2-israeli-cities",
+      "source": "NPR",
+      "publishedAt": "2026-03-22T11:22:57.000Z",
+      "description": "Iran launched missiles at two southern Israeli cities that lie close to the country's main nuclear research center, while President Trump gave Iran 48 hours to reopen the Strait of Hormuz.",
+      "imageUrl": null,
+      "categories": []
+    },
+    {
+      "id": "BBC:https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss",
+      "title": "No assessment Iran could strike London, UK minister says",
+      "url": "https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-03-22T11:11:43.000Z",
+      "description": "Steve Reed says there is \"no specific assessment\" Iran is capable of hitting the UK, after Israel claimed it now could.",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7621/live/79b063d0-25d9-11f1-965f-2f5aaeeadad7.jpg",
+      "categories": []
+    },
+    {
+      "id": "Fox News:https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-costco-cravings-bridal-blooms",
+      "title": "American Culture Quiz: Test yourself on Costco cravings and bridal blooms",
+      "url": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-costco-cravings-bridal-blooms",
+      "source": "Fox News",
+      "publishedAt": "2026-03-22T11:00:24.000Z",
+      "description": "The American Culture Quiz is a weekly test of our national traits, trends, history and people. This time, test your knowledge of Costco cravings, bridal blooms and more.",
+      "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/quiz-collage-march22.jpg?ve=1&tl=1",
+      "categories": [
+        "f2f75141-cd1f-56e4-acbd-954746baf736",
+        "fnc",
+        "Fox News",
+        "fox-news/lifestyle/quizzes",
+        "fox-news/lifestyle",
+        "fox-news/travel",
+        "fox-news/food-drink",
+        "fox-news/entertainment",
+        "fox-news/lifestyle/weddings",
+        "fox-news/lifestyle/relationships",
+        "fox-news/lifestyle",
+        "article"
+      ]
+    },
+    {
+      "id": "Fox News:https://www.foxnews.com/world/churchill-shakespeare-uk-flag-all-under-siege-modern-britain-commentators-say",
+      "title": "Churchill, Shakespeare and the UK flag all under siege in modern Britain, commentators say",
+      "url": "https://www.foxnews.com/world/churchill-shakespeare-uk-flag-all-under-siege-modern-britain-commentators-say",
+      "source": "Fox News",
+      "publishedAt": "2026-03-22T11:00:11.000Z",
+      "description": "Britain's statues, flags, and icons like Churchill and Shakespeare are under attack, as commentators warn DEI ideology is erasing the nation's history.",
+      "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/09/931/523/uk_flag.jpg?ve=1&tl=1",
+      "categories": [
+        "c750d65c-dbe1-5b67-80fd-afbe2541864d",
+        "fnc",
+        "Fox News",
+        "fox-news/world/world-regions/united-kingdom",
+        "fox-news/topic/woke",
+        "fox-news/dei",
+        "fox-news/world/world-regions/europe",
+        "fox-news/world",
+        "article"
+      ]
+    },
     {
       "id": "New York Times:https://www.nytimes.com/2026/03/22/opinion/fashion-odesa-ukraine-war.html",
       "title": "In Odesa, Dressing Up Is Living",
@@ -3813,171 +3945,6 @@
       "description": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c825/live/d7fc6990-25c3-11f1-b1ce-2dccb029f244.jpg",
       "categories": []
-    },
-    {
-      "id": "BBC:https://www.bbc.com/news/articles/cwydl214dplo?at_medium=RSS&at_campaign=rss",
-      "title": "Meningitis cases falling in Kent outbreak",
-      "url": "https://www.bbc.com/news/articles/cwydl214dplo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-03-22T10:40:55.000Z",
-      "description": "Number of confirmed cases drops, says UKHSA, as suspected case linked to another Kent college.",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a081/live/d9bfe420-25c6-11f1-b1ce-2dccb029f244.jpg",
-      "categories": []
-    },
-    {
-      "id": "Fox News:https://www.foxnews.com/entertainment/king-charles-chicken-coop-highgrove-has-name-make-you-do-double-take",
-      "title": "King Charles' chicken coop at Highgrove has a name that will make you do a double take",
-      "url": "https://www.foxnews.com/entertainment/king-charles-chicken-coop-highgrove-has-name-make-you-do-double-take",
-      "source": "Fox News",
-      "publishedAt": "2026-03-22T10:00:50.000Z",
-      "description": "King Charles tends to his chickens at Highgrove with renewed energy despite his cancer battle, says royal photographer Chris Jackson, who has a new photo book, \"Modern Majesty.\"",
-      "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/king-charles-chickens.jpg?ve=1&tl=1",
-      "categories": [
-        "573b171d-1a92-5e5b-94af-13cb4f4f9826",
-        "fnc",
-        "Fox News",
-        "fox-news/person/king-charles-iii",
-        "fox-news/entertainment/genres/books",
-        "fox-news/world/personalities/british-royals",
-        "fox-news/entertainment",
-        "fox-news/entertainment",
-        "article"
-      ]
-    },
-    {
-      "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5726237/cortina-olympic-legacy-alpine-glamour",
-      "title": "Cortina d'Ampezzo mixes Olympic legacy with Alpine glamour",
-      "url": "https://www.npr.org/2026/03/22/nx-s1-5726237/cortina-olympic-legacy-alpine-glamour",
-      "source": "NPR",
-      "publishedAt": "2026-03-22T10:00:00.000Z",
-      "description": "Cortina d'Ampezzo, the \"Pearl of the Dolomites,\" is a blend of Olympic heritage with celebrity chic, fine dining and Alpine tradition, even as climate change and new tourism reshape the area.",
-      "imageUrl": null,
-      "categories": []
-    },
-    {
-      "id": "Fox News:https://www.foxnews.com/us/jewish-security-organization-working-keep-its-community-safe-amid-elevated-terror-threat",
-      "title": "Jewish security organization working to keep its community safe amid elevated terror threat",
-      "url": "https://www.foxnews.com/us/jewish-security-organization-working-keep-its-community-safe-amid-elevated-terror-threat",
-      "source": "Fox News",
-      "publishedAt": "2026-03-22T09:39:46.000Z",
-      "description": "Jewish security organizations, like Magen Am, are working to train volunteers on how to respond to an attack as the potential threat rises amid the conflict in the Middle East.",
-      "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/shooting-demo-magen-am-1.jpg?ve=1&tl=1",
-      "categories": [
-        "6e77c7ae-11d8-5a42-a2ad-aa603437b2ec",
-        "fnc",
-        "Fox News",
-        "fox-news/topic/anti-semitism",
-        "fox-news/topic/fox-news-multimedia-reporters",
-        "fox-news/us",
-        "fox-news/world/terrorism",
-        "fox-news/world/religion/judaism",
-        "fox-news/us",
-        "article"
-      ]
-    },
-    {
-      "id": "Fox News:https://www.foxnews.com/lifestyle/family-reunited-lost-cat-5-years-later-found-strangers-basement",
-      "title": "Family reunited with their lost cat 5 years later when she was found in stranger's basement",
-      "url": "https://www.foxnews.com/lifestyle/family-reunited-lost-cat-5-years-later-found-strangers-basement",
-      "source": "Fox News",
-      "publishedAt": "2026-03-22T09:30:16.000Z",
-      "description": "A Maryland family's cat, Artemis, was reunited with her owners after five years missing when the Humane Society of Harford County scanned her microchip.",
-      "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/missing-cat-split.jpg?ve=1&tl=1",
-      "categories": [
-        "98ed2867-1072-501d-960a-d71c19b0ad06",
-        "fnc",
-        "Fox News",
-        "fox-news/lifestyle",
-        "fox-news/lifestyle/pets",
-        "fox-news/odd-news",
-        "fox-news/us/us-regions/northeast/maryland",
-        "fox-news/lifestyle",
-        "article"
-      ]
-    },
-    {
-      "id": "BBC:https://www.bbc.com/sport/darts/articles/cvg0xzjlvn2o?at_medium=RSS&at_campaign=rss",
-      "title": "Greaves' 114-match winning run ended by Sherrock",
-      "url": "https://www.bbc.com/sport/darts/articles/cvg0xzjlvn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-03-22T09:14:04.000Z",
-      "description": "Beau Greaves' record run of 114 consecutive wins in the PDC Women's Series is ended by Fallon Sherrock.",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03e7/live/d2bc2350-25cb-11f1-b8dc-6b72e2da2a9a.jpg",
-      "categories": []
-    },
-    {
-      "id": "Fox News:https://www.foxnews.com/us/colorado-river-management-plans-determined-government-negotiations-stall",
-      "title": "Colorado River management plans to be determined by government after negotiations stall",
-      "url": "https://www.foxnews.com/us/colorado-river-management-plans-determined-government-negotiations-stall",
-      "source": "Fox News",
-      "publishedAt": "2026-03-22T09:07:58.000Z",
-      "description": "The federal government is moving forward with plans on how to manage the Colorado River after negotiations on access stalled between seven Western states and 30 tribal nations.",
-      "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/winter-lettuce.jpg?ve=1&tl=1",
-      "categories": [
-        "70358209-b68d-5997-a5da-d5e539a56639",
-        "fnc",
-        "Fox News",
-        "fox-news/topic/fox-news-multimedia-reporters",
-        "fox-news/us",
-        "fox-news/climate-change",
-        "fox-news/us/environment/water",
-        "fox-news/drought",
-        "fox-news/us",
-        "article"
-      ]
-    },
-    {
-      "id": "New York Times:https://www.nytimes.com/video/us/elections/100000010785480/how-the-supreme-court-could-change-voting-by-mail.html",
-      "title": "How the Supreme Court Could Change Voting by Mail",
-      "url": "https://www.nytimes.com/video/us/elections/100000010785480/how-the-supreme-court-could-change-voting-by-mail.html",
-      "source": "New York Times",
-      "publishedAt": "2026-03-22T09:00:54.000Z",
-      "description": "The Supreme Court is ruling on whether ballots received after Election Day should be disqualified. Our national politics reporter Nick Corasaniti explains how a Supreme Court ruling could affect hundreds of thousands of Americans in rural and urban areas.",
-      "imageUrl": null,
-      "categories": [
-        "Midterm Elections (2026)",
-        "Absentee Voting",
-        "United States Politics and Government",
-        "Politics and Government"
-      ]
-    },
-    {
-      "id": "New York Times:https://www.nytimes.com/2026/03/22/us/politics/the-supreme-court-could-make-it-harder-to-vote-by-mail-in-the-midterms.html",
-      "title": "The Supreme Court Could Make it Harder to Vote by Mail in the Midterms",
-      "url": "https://www.nytimes.com/2026/03/22/us/politics/the-supreme-court-could-make-it-harder-to-vote-by-mail-in-the-midterms.html",
-      "source": "New York Times",
-      "publishedAt": "2026-03-22T09:00:53.000Z",
-      "description": "The Republican National Committee wants to toss ballots arriving after Election Day. Critics say thousands of votes — a majority cast by Democrats — are at stake.",
-      "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22pol-scotusballot-jlqb/22pol-scotusballot-jlqb-mediumSquareAt3X.jpg",
-      "categories": [
-        "Midterm Elections (2026)",
-        "Trump, Donald J",
-        "Supreme Court (US)",
-        "voting rights"
-      ]
-    },
-    {
-      "id": "Fox News:https://www.foxnews.com/world/dad-loses-custody-autistic-son-fighting-sex-change-gets-support-elon-musk",
-      "title": "Dad loses custody of autistic son after fighting sex change, gets support from Elon Musk",
-      "url": "https://www.foxnews.com/world/dad-loses-custody-autistic-son-fighting-sex-change-gets-support-elon-musk",
-      "source": "Fox News",
-      "publishedAt": "2026-03-22T09:00:45.000Z",
-      "description": "Father in Iceland says he lost custody after opposing his 11-year-old autistic son's sex reassignment, claiming courts prioritized ideology over parental rights.",
-      "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/custody-split.png?ve=1&tl=1",
-      "categories": [
-        "0908d939-6fb6-5575-8d0a-37492bfb2298",
-        "fnc",
-        "Fox News",
-        "fox-news/world",
-        "fox-news/world/world-regions/europe",
-        "fox-news/health/healthy-living/childrens-health",
-        "fox-news/health/education/autism",
-        "fox-news/us/education/parents",
-        "fox-news/topic/woke",
-        "fox-news/person/elon-musk",
-        "fox-news/world",
-        "article"
-      ]
     }
   ]
 }
