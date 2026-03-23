@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T04:45:49.529Z",
+  "generatedAt": "2026-03-23T05:33:47.855Z",
   "stats": {
     "articleCount": 145,
     "sourceCount": 5,
@@ -7,7 +7,7 @@
   },
   "topics": {
     "Politics": {
-      "articleCount": 32,
+      "articleCount": 33,
       "sourceCount": 5,
       "articles": [
         {
@@ -364,6 +364,22 @@
           ]
         },
         {
+          "id": "New York Times:https://www.nytimes.com/2026/03/22/opinion/washington-china-officials-visit.html",
+          "title": "Why More U.S. Officials Should Go to China",
+          "url": "https://www.nytimes.com/2026/03/22/opinion/washington-china-officials-visit.html",
+          "source": "New York Times",
+          "publishedAt": "2026-03-22T18:05:02.000Z",
+          "description": "Seeing China firsthand can sharpen U.S. policy, reveal Chinese strengths and weaknesses and reduce costly miscalculations.",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/22qianthomas-hbpc/22qianthomas-hbpc-mediumSquareAt3X.jpg",
+          "categories": [
+            "United States International Relations",
+            "Rubio, Marco",
+            "Trump, Donald J",
+            "China",
+            "United States"
+          ]
+        },
+        {
           "id": "New York Times:https://www.nytimes.com/2026/03/22/us/politics/ogles-republicans-anti-muslim.html",
           "title": "Anti-Muslim Comments by G.O.P. Congressman Reflect a Rising Trend",
           "url": "https://www.nytimes.com/2026/03/22/us/politics/ogles-republicans-anti-muslim.html",
@@ -525,7 +541,7 @@
         }
       ],
       "subtopics": {
-        "Denmark and France Elections Reflecting Political Shifts": [
+        "Denmark and French Elections Reflecting Political Shifts": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/23/world/asia/denmark-elections-frederiksen-hometown.html",
             "title": "In Denmark’s Election, How Will the Woman Who Took On Trump Fare?",
@@ -574,6 +590,16 @@
             ]
           },
           {
+            "id": "BBC:https://www.bbc.com/news/articles/cdxk6dqqp1qo?at_medium=RSS&at_campaign=rss",
+            "title": "Plan to scrap most short jail terms comes into effect",
+            "url": "https://www.bbc.com/news/articles/cdxk6dqqp1qo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T00:05:03.000Z",
+            "description": "The government hopes it will ease the population crisis in prisons.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44d9/live/15eb0490-2485-11f1-a673-e3b236a15253.jpg",
+            "categories": []
+          },
+          {
             "id": "BBC:https://www.bbc.com/news/articles/c393l8w7me2o?at_medium=RSS&at_campaign=rss",
             "title": "Potential sites for Labour's 'new towns' cut to seven",
             "url": "https://www.bbc.com/news/articles/c393l8w7me2o?at_medium=RSS&at_campaign=rss",
@@ -584,7 +610,7 @@
             "categories": []
           }
         ],
-        "US Domestic Politics: Biden, Democrats, and GOP Conflicts": [
+        "US Political Figures and Internal Party Dynamics": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/23/us/politics/obama-strategist-biden-2016-election.html",
             "title": "How Obama’s Strategist Discouraged Biden From Running in 2016",
@@ -608,23 +634,27 @@
             ]
           },
           {
-            "id": "New York Times:https://www.nytimes.com/2026/03/22/us/politics/republicans-democrats-gas-prices-comments-midterms.html",
-            "title": "How the G.O.P. and Democrats Are Talking About the Surge in Gas Prices",
-            "url": "https://www.nytimes.com/2026/03/22/us/politics/republicans-democrats-gas-prices-comments-midterms.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-23T01:03:42.000Z",
-            "description": "Republicans have largely been on defense against Democratic criticism. Here are five arguments advanced by figures in both parties.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22pol-republicans-democrats-gas-promo/22pol-republicans-democrats-gas-jvtw-mediumSquareAt3X.jpg",
+            "id": "Fox News:https://www.foxnews.com/media/texas-democratic-senate-nominee-james-talarico-doubles-down-god-being-beyond-gender-comments",
+            "title": "Texas Democratic Senate nominee James Talarico doubles down on God being \"beyond gender\" comments",
+            "url": "https://www.foxnews.com/media/texas-democratic-senate-nominee-james-talarico-doubles-down-god-being-beyond-gender-comments",
+            "source": "Fox News",
+            "publishedAt": "2026-03-22T23:00:45.000Z",
+            "description": "James Talarico defended his remarks on God and gender during a Thursday podcast appearance while criticizing GOP rivals, calling to end the filibuster, and outlining a Senate campaign focused on coalition-building ahead of the 2026 election.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/gettyimages-2263950903-scaled.jpg?ve=1&tl=1",
             "categories": [
-              "United States Politics and Government",
-              "Midterm Elections (2026)",
-              "Democratic Party",
-              "Republican Party",
-              "Duffy, Sean P",
-              "Kaptur, Marcy",
-              "Schumer, Charles E",
-              "Trump, Donald J",
-              "Tafoya, Michele"
+              "65e6780a-113d-5fea-87e9-4575deb06dda",
+              "fnc",
+              "Fox News",
+              "fox-news/media",
+              "fox-news/us/us-regions/southwest/texas",
+              "fox-news/politics/elections",
+              "fox-news/politics",
+              "fox-news/us/religion",
+              "fox-news/christianity",
+              "fox-news/faith-values/faith",
+              "fox-news/faith-values/family",
+              "fox-news/media",
+              "article"
             ]
           },
           {
@@ -657,43 +687,9 @@
             "description": "Some Democrats who were swept into office last November are grappling with the reality of governing. The new leader of Pennsylvania's Lehigh County says urgency is needed.",
             "imageUrl": null,
             "categories": []
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/media/texas-democratic-senate-nominee-james-talarico-doubles-down-god-being-beyond-gender-comments",
-            "title": "Texas Democratic Senate nominee James Talarico doubles down on God being \"beyond gender\" comments",
-            "url": "https://www.foxnews.com/media/texas-democratic-senate-nominee-james-talarico-doubles-down-god-being-beyond-gender-comments",
-            "source": "Fox News",
-            "publishedAt": "2026-03-22T23:00:45.000Z",
-            "description": "James Talarico defended his remarks on God and gender during a Thursday podcast appearance while criticizing GOP rivals, calling to end the filibuster, and outlining a Senate campaign focused on coalition-building ahead of the 2026 election.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/gettyimages-2263950903-scaled.jpg?ve=1&tl=1",
-            "categories": [
-              "65e6780a-113d-5fea-87e9-4575deb06dda",
-              "fnc",
-              "Fox News",
-              "fox-news/media",
-              "fox-news/us/us-regions/southwest/texas",
-              "fox-news/politics/elections",
-              "fox-news/politics",
-              "fox-news/us/religion",
-              "fox-news/christianity",
-              "fox-news/faith-values/faith",
-              "fox-news/faith-values/family",
-              "fox-news/media",
-              "article"
-            ]
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/talarico-says-illegal-immigrant-students-are-the-most-patriotic",
-            "title": "Talarico Says Illegal Immigrant Students Are The ‘Most Patriotic’",
-            "url": "https://www.dailywire.com/news/talarico-says-illegal-immigrant-students-are-the-most-patriotic",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T12:20:32.000Z",
-            "description": "James Talarico, the Democratic Senate nominee in Texas, claimed Thursday that the “undocumented students” he previously taught were the “most patriotic.” Talarico, who previously taught sixth-grade language arts at Rhodes Middle School in San Antonio, made the remarks during a live taping of The Bulwark podcast in Dallas with host Tim Miller, where he also ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2266143630.jpg",
-            "categories": []
           }
         ],
-        "US Security and Immigration Policies Affecting Airports and DHS Funding": [
+        "US Homeland Security, TSA, and Immigration Enforcement Issues": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html",
             "title": "ICE to Help TSA at Airports Amid Partial Shutdown, Trump’s Border Czar Says",
@@ -742,16 +738,6 @@
             ]
           },
           {
-            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5753842/politics-chat-trumps-mixed-messages-on-the-iran-war-the-latest-on-dhs-funding",
-            "title": "Politics chat: Trump's mixed messages on the Iran war, the latest on DHS funding",
-            "url": "https://www.npr.org/2026/03/22/nx-s1-5753842/politics-chat-trumps-mixed-messages-on-the-iran-war-the-latest-on-dhs-funding",
-            "source": "NPR",
-            "publishedAt": "2026-03-22T12:04:31.000Z",
-            "description": "We look at President Trump's mixed messages on the war with Iran, plus the latest on Department of Homeland Security funding, which Congress has frozen over his immigration enforcement policies.",
-            "imageUrl": null,
-            "categories": []
-          },
-          {
             "id": "Daily Wire:https://www.dailywire.com/news/pilots-dont-mince-words-as-they-issue-stark-warning-on-homeland-safety",
             "title": "Pilots Don’t Mince Words As They Issue Stark Warning On Homeland Safety",
             "url": "https://www.dailywire.com/news/pilots-dont-mince-words-as-they-issue-stark-warning-on-homeland-safety",
@@ -760,9 +746,19 @@
             "description": "WASHINGTON — Over a month into the Democrat-led Department of Homeland Security shutdown, the largest independent pilots union in the United States is calling for Congress to end the shutdown and pay Transportation Security Administration (TSA) workers. “Congress must act immediately to end the Department of Homeland Security shutdown and ensure TSA officers are paid,” ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267037579.jpg",
             "categories": []
+          },
+          {
+            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5753842/politics-chat-trumps-mixed-messages-on-the-iran-war-the-latest-on-dhs-funding",
+            "title": "Politics chat: Trump's mixed messages on the Iran war, the latest on DHS funding",
+            "url": "https://www.npr.org/2026/03/22/nx-s1-5753842/politics-chat-trumps-mixed-messages-on-the-iran-war-the-latest-on-dhs-funding",
+            "source": "NPR",
+            "publishedAt": "2026-03-22T12:04:31.000Z",
+            "description": "We look at President Trump's mixed messages on the war with Iran, plus the latest on Department of Homeland Security funding, which Congress has frozen over his immigration enforcement policies.",
+            "imageUrl": null,
+            "categories": []
           }
         ],
-        "Middle East Tensions and US-Iran Conflict Dynamics": [
+        "US-Iran, Middle East Conflict and International Security": [
           {
             "id": "Fox News:https://www.foxnews.com/world/trump-starmer-agree-strait-hormuz-must-reopen-middle-east-conflict-escalates",
             "title": "Trump, Starmer agree Strait of Hormuz must reopen as Middle East conflict escalates",
@@ -834,7 +830,7 @@
             "categories": []
           }
         ],
-        "Cuba's Political Crisis and Rising Military Preparations": [
+        "Cuba Political and Military Tensions with the US": [
           {
             "id": "Fox News:https://www.foxnews.com/media/cuban-official-reveals-military-preparing-conflict-after-trump-considers-taking-island",
             "title": "Cuban official reveals military 'preparing' for conflict after Trump considers 'taking' island",
@@ -900,6 +896,26 @@
             ]
           },
           {
+            "id": "New York Times:https://www.nytimes.com/2026/03/22/us/politics/republicans-democrats-gas-prices-comments-midterms.html",
+            "title": "How the G.O.P. and Democrats Are Talking About the Surge in Gas Prices",
+            "url": "https://www.nytimes.com/2026/03/22/us/politics/republicans-democrats-gas-prices-comments-midterms.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-23T01:03:42.000Z",
+            "description": "Republicans have largely been on defense against Democratic criticism. Here are five arguments advanced by figures in both parties.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22pol-republicans-democrats-gas-promo/22pol-republicans-democrats-gas-jvtw-mediumSquareAt3X.jpg",
+            "categories": [
+              "United States Politics and Government",
+              "Midterm Elections (2026)",
+              "Democratic Party",
+              "Republican Party",
+              "Duffy, Sean P",
+              "Kaptur, Marcy",
+              "Schumer, Charles E",
+              "Trump, Donald J",
+              "Tafoya, Michele"
+            ]
+          },
+          {
             "id": "New York Times:https://www.nytimes.com/2026/03/22/nyregion/columbia-protester-palestinian-ice-detention-new-jersey.html",
             "title": "Pro-Palestinian Activists Rally in Support of Freed Columbia Protester",
             "url": "https://www.nytimes.com/2026/03/22/nyregion/columbia-protester-palestinian-ice-detention-new-jersey.html",
@@ -917,16 +933,6 @@
               "Sayegh, Andre",
               "Paterson (NJ)"
             ]
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cdxk6dqqp1qo?at_medium=RSS&at_campaign=rss",
-            "title": "Plan to scrap most short jail terms comes into effect",
-            "url": "https://www.bbc.com/news/articles/cdxk6dqqp1qo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T00:05:03.000Z",
-            "description": "The government hopes it will ease the population crisis in prisons.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44d9/live/15eb0490-2485-11f1-a673-e3b236a15253.jpg",
-            "categories": []
           },
           {
             "id": "BBC:https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
@@ -957,6 +963,22 @@
               "Race and Ethnicity",
               "Presidents and Presidency (US)",
               "Government Employees"
+            ]
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/22/opinion/washington-china-officials-visit.html",
+            "title": "Why More U.S. Officials Should Go to China",
+            "url": "https://www.nytimes.com/2026/03/22/opinion/washington-china-officials-visit.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-22T18:05:02.000Z",
+            "description": "Seeing China firsthand can sharpen U.S. policy, reveal Chinese strengths and weaknesses and reduce costly miscalculations.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/22qianthomas-hbpc/22qianthomas-hbpc-mediumSquareAt3X.jpg",
+            "categories": [
+              "United States International Relations",
+              "Rubio, Marco",
+              "Trump, Donald J",
+              "China",
+              "United States"
             ]
           },
           {
@@ -1040,6 +1062,16 @@
             "categories": []
           },
           {
+            "id": "Daily Wire:https://www.dailywire.com/news/talarico-says-illegal-immigrant-students-are-the-most-patriotic",
+            "title": "Talarico Says Illegal Immigrant Students Are The ‘Most Patriotic’",
+            "url": "https://www.dailywire.com/news/talarico-says-illegal-immigrant-students-are-the-most-patriotic",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T12:20:32.000Z",
+            "description": "James Talarico, the Democratic Senate nominee in Texas, claimed Thursday that the “undocumented students” he previously taught were the “most patriotic.” Talarico, who previously taught sixth-grade language arts at Rhodes Middle School in San Antonio, made the remarks during a live taping of The Bulwark podcast in Dallas with host Tim Miller, where he also ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2266143630.jpg",
+            "categories": []
+          },
+          {
             "id": "Daily Wire:https://www.dailywire.com/news/your-tax-dollars-could-still-be-on-the-line-in-fight-over-trans-surgeries-for-kids",
             "title": "Your Tax Dollars Could Still Be On The Line In Fight Over Trans Surgeries for Kids",
             "url": "https://www.dailywire.com/news/your-tax-dollars-could-still-be-on-the-line-in-fight-over-trans-surgeries-for-kids",
@@ -1053,9 +1085,19 @@
       }
     },
     "World": {
-      "articleCount": 18,
+      "articleCount": 17,
       "sourceCount": 5,
       "articles": [
+        {
+          "id": "BBC:https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+          "title": "Asia stocks slide as US and Iran threaten to intensify war",
+          "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "publishedAt": "2026-03-23T05:12:14.000Z",
+          "description": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg",
+          "categories": []
+        },
         {
           "id": "BBC:https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
           "title": "UN issues new climate warning as El Niño looms",
@@ -1064,16 +1106,6 @@
           "publishedAt": "2026-03-23T04:06:22.000Z",
           "description": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says.",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aab8/live/5db64fd0-2487-11f1-a673-e3b236a15253.jpg",
-          "categories": []
-        },
-        {
-          "id": "BBC:https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-          "title": "Asia stocks slide as US and Iran threaten to intensify war",
-          "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-23T03:00:32.000Z",
-          "description": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg",
           "categories": []
         },
         {
@@ -1252,22 +1284,6 @@
           "categories": []
         },
         {
-          "id": "New York Times:https://www.nytimes.com/2026/03/22/opinion/trump-iran-war-memes.html",
-          "title": "Trump Has Made a Fundamental Miscalculation about Iran",
-          "url": "https://www.nytimes.com/2026/03/22/opinion/trump-iran-war-memes.html",
-          "source": "New York Times",
-          "publishedAt": "2026-03-22T05:51:58.000Z",
-          "description": "America shouldn’t fight a war like this.",
-          "imageUrl": null,
-          "categories": [
-            "US and Israeli Attack on Iran (2026)",
-            "United States Defense and Military Forces",
-            "War and Armed Conflicts",
-            "Defense and Military Forces",
-            "Hegseth, Pete"
-          ]
-        },
-        {
           "id": "Daily Wire:https://www.dailywire.com/news/trump-outlines-how-iran-ends-and-epic-fury-is-only-part-of-the-story",
           "title": "Trump Outlines How Iran Ends And ‘Epic Fury’ Is Only Part Of The Story",
           "url": "https://www.dailywire.com/news/trump-outlines-how-iran-ends-and-epic-fury-is-only-part-of-the-story",
@@ -1309,44 +1325,13 @@
         }
       ],
       "subtopics": {
-        "UN Climate Warnings and Reports": [
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
-            "title": "UN issues new climate warning as El Niño looms",
-            "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T04:06:22.000Z",
-            "description": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aab8/live/5db64fd0-2487-11f1-a673-e3b236a15253.jpg",
-            "categories": []
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/22/climate/energy-imbalance-un-report.html",
-            "title": "U.N. Climate Report Finds Growing Energy Imbalance on Earth",
-            "url": "https://www.nytimes.com/2026/03/22/climate/energy-imbalance-un-report.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-23T03:00:04.000Z",
-            "description": "The continued burning of fossil fuels is locking heat in Earth’s atmosphere, oceans and land — instead of allowing it to reflect back into space, a new report finds.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/23/science/23cli-imblance/23cli-imblance-mediumSquareAt3X.jpg",
-            "categories": [
-              "Global Warming",
-              "Research",
-              "Greenhouse Gas Emissions",
-              "Earth",
-              "Oceans and Seas",
-              "Carbon Dioxide",
-              "World Meteorological Organization",
-              "United Nations"
-            ]
-          }
-        ],
-        "Escalating Iran Conflict and Military Tensions": [
+        "Rising Middle East Conflict and Military Actions": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
             "title": "Asia stocks slide as US and Iran threaten to intensify war",
             "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
-            "publishedAt": "2026-03-23T03:00:32.000Z",
+            "publishedAt": "2026-03-23T05:12:14.000Z",
             "description": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg",
             "categories": []
@@ -1456,36 +1441,6 @@
             "description": "NPR's Ayesha Rascoe talks with Martin Wolf, chief economics commentator for the Financial Times, about how the war on Iran is effecting the global economy.",
             "imageUrl": null,
             "categories": []
-          }
-        ],
-        "US and Global Energy Markets Amid Conflict": [
-          {
-            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5752447/the-u-s-is-a-big-oil-exporter-so-why-does-it-import-most-of-the-oil-it-consumes",
-            "title": "The U.S. is a big oil exporter. So why does it import most of the oil it consumes?",
-            "url": "https://www.npr.org/2026/03/22/nx-s1-5752447/the-u-s-is-a-big-oil-exporter-so-why-does-it-import-most-of-the-oil-it-consumes",
-            "source": "NPR",
-            "publishedAt": "2026-03-22T12:04:28.000Z",
-            "description": "NPR's Ayesha Rascoe talks to University of Texas engineering professor Hugh Daigle about why the U.S. imports most of the oil it consumes despite being one of the world's largest oil exporters.",
-            "imageUrl": null,
-            "categories": []
-          }
-        ],
-        "Political Opinions and Commentary on Iran Conflict": [
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/22/opinion/trump-iran-war-memes.html",
-            "title": "Trump Has Made a Fundamental Miscalculation about Iran",
-            "url": "https://www.nytimes.com/2026/03/22/opinion/trump-iran-war-memes.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-22T05:51:58.000Z",
-            "description": "America shouldn’t fight a war like this.",
-            "imageUrl": null,
-            "categories": [
-              "US and Israeli Attack on Iran (2026)",
-              "United States Defense and Military Forces",
-              "War and Armed Conflicts",
-              "Defense and Military Forces",
-              "Hegseth, Pete"
-            ]
           },
           {
             "id": "Daily Wire:https://www.dailywire.com/news/trump-outlines-how-iran-ends-and-epic-fury-is-only-part-of-the-story",
@@ -1518,26 +1473,50 @@
             "categories": []
           }
         ],
-        "Other Global News Stories": [
+        "UN Climate Warnings and Global Energy Imbalance": [
           {
-            "id": "Fox News:https://www.foxnews.com/world/authorities-share-update-circumstances-around-missing-college-student-jimmy-graceys-death",
-            "title": "Authorities share update on circumstances around missing college student Jimmy Gracey's death",
-            "url": "https://www.foxnews.com/world/authorities-share-update-circumstances-around-missing-college-student-jimmy-graceys-death",
-            "source": "Fox News",
-            "publishedAt": "2026-03-22T23:13:57.000Z",
-            "description": "University of Alabama student Jimmy Gracey, 20, went missing in Barcelona during Spring Break. His body was found near a nightclub.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/jimmy-gracey-body-recovered-in-barcelona-port-olimpic.png?ve=1&tl=1",
-            "categories": [
-              "87c1cc78-4524-5357-a867-6797bfb472dc",
-              "fnc",
-              "Fox News",
-              "fox-news/world/world-regions/spain",
-              "fox-news/us/us-regions/southeast/alabama",
-              "fox-news/topic/missing-persons",
-              "fox-news/world",
-              "article"
-            ]
+            "id": "BBC:https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
+            "title": "UN issues new climate warning as El Niño looms",
+            "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T04:06:22.000Z",
+            "description": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aab8/live/5db64fd0-2487-11f1-a673-e3b236a15253.jpg",
+            "categories": []
           },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/22/climate/energy-imbalance-un-report.html",
+            "title": "U.N. Climate Report Finds Growing Energy Imbalance on Earth",
+            "url": "https://www.nytimes.com/2026/03/22/climate/energy-imbalance-un-report.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-23T03:00:04.000Z",
+            "description": "The continued burning of fossil fuels is locking heat in Earth’s atmosphere, oceans and land — instead of allowing it to reflect back into space, a new report finds.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/23/science/23cli-imblance/23cli-imblance-mediumSquareAt3X.jpg",
+            "categories": [
+              "Global Warming",
+              "Research",
+              "Greenhouse Gas Emissions",
+              "Earth",
+              "Oceans and Seas",
+              "Carbon Dioxide",
+              "World Meteorological Organization",
+              "United Nations"
+            ]
+          }
+        ],
+        "US Oil Consumption and Global Energy Market Impact": [
+          {
+            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5752447/the-u-s-is-a-big-oil-exporter-so-why-does-it-import-most-of-the-oil-it-consumes",
+            "title": "The U.S. is a big oil exporter. So why does it import most of the oil it consumes?",
+            "url": "https://www.npr.org/2026/03/22/nx-s1-5752447/the-u-s-is-a-big-oil-exporter-so-why-does-it-import-most-of-the-oil-it-consumes",
+            "source": "NPR",
+            "publishedAt": "2026-03-22T12:04:28.000Z",
+            "description": "NPR's Ayesha Rascoe talks to University of Texas engineering professor Hugh Daigle about why the U.S. imports most of the oil it consumes despite being one of the world's largest oil exporters.",
+            "imageUrl": null,
+            "categories": []
+          }
+        ],
+        "US and Cuba Tensions and Military Preparedness": [
           {
             "id": "Fox News:https://www.foxnews.com/world/carlos-fernandez-de-cossio-cuba-preparing-possibility-military-aggression",
             "title": "Carlos Fernández de Cossío: Cuba 'preparing' for 'possibility of military aggression'",
@@ -1558,7 +1537,30 @@
               "fox-news/world",
               "article"
             ]
-          },
+          }
+        ],
+        "Death of Missing College Student in Barcelona": [
+          {
+            "id": "Fox News:https://www.foxnews.com/world/authorities-share-update-circumstances-around-missing-college-student-jimmy-graceys-death",
+            "title": "Authorities share update on circumstances around missing college student Jimmy Gracey's death",
+            "url": "https://www.foxnews.com/world/authorities-share-update-circumstances-around-missing-college-student-jimmy-graceys-death",
+            "source": "Fox News",
+            "publishedAt": "2026-03-22T23:13:57.000Z",
+            "description": "University of Alabama student Jimmy Gracey, 20, went missing in Barcelona during Spring Break. His body was found near a nightclub.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/jimmy-gracey-body-recovered-in-barcelona-port-olimpic.png?ve=1&tl=1",
+            "categories": [
+              "87c1cc78-4524-5357-a867-6797bfb472dc",
+              "fnc",
+              "Fox News",
+              "fox-news/world/world-regions/spain",
+              "fox-news/us/us-regions/southeast/alabama",
+              "fox-news/topic/missing-persons",
+              "fox-news/world",
+              "article"
+            ]
+          }
+        ],
+        "Other Coverage": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/im-jewish-i-have-no-problem-with-hegseths-prayer",
             "title": "I’m Jewish. I Have No Problem With Hegseth’s Prayer.",
@@ -1628,7 +1630,7 @@
         }
       ],
       "subtopics": {
-        "Heat Pumps and Energy Technology": [
+        "Heat Pumps and Energy Technology Adoption": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/ce358gkx9vpo?at_medium=RSS&at_campaign=rss",
             "title": "Heat pumps work for me - but they're not yet a money saver",
@@ -1640,19 +1642,7 @@
             "categories": []
           }
         ],
-        "Technology Impact on Attention and Media": [
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/c5y9310vyleo?at_medium=RSS&at_campaign=rss",
-            "title": "The Magic Faraway Tree's Andrew Garfield: Our attention is abused by tech companies",
-            "url": "https://www.bbc.com/news/articles/c5y9310vyleo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T00:02:44.000Z",
-            "description": "Garfield stars alongside Claire Foy and Nicola Coughlan in an adaptation of Enid Blyton's The Magic Faraway Tree.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c43/live/ed7414e0-2621-11f1-8055-8da8289aa0e0.jpg",
-            "categories": []
-          }
-        ],
-        "AI Ethics and Publishing Controversy": [
+        "Tech Industry Ethics and AI Concerns": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/publisher-yanks-horror-novel-over-suspected-ai-use",
             "title": "Publisher Yanks Horror Novel Over Suspected AI Use",
@@ -1664,7 +1654,19 @@
             "categories": []
           }
         ],
-        "Military Technology and Policy Debates": [
+        "Technology and Media Influence on Attention": [
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/c5y9310vyleo?at_medium=RSS&at_campaign=rss",
+            "title": "The Magic Faraway Tree's Andrew Garfield: Our attention is abused by tech companies",
+            "url": "https://www.bbc.com/news/articles/c5y9310vyleo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T00:02:44.000Z",
+            "description": "Garfield stars alongside Claire Foy and Nicola Coughlan in an adaptation of Enid Blyton's The Magic Faraway Tree.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c43/live/ed7414e0-2621-11f1-8055-8da8289aa0e0.jpg",
+            "categories": []
+          }
+        ],
+        "Technology in Defense Sector and Policy Shifts": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/americas-defense-sector-is-ditching-dei-at-the-best-possible-moment",
             "title": "America’s Defense Sector Is Ditching DEI At The Best Possible Moment",
@@ -1676,7 +1678,7 @@
             "categories": []
           }
         ],
-        "News Delivery and Apps": [
+        "BBC News App and Digital News Delivery": [
           {
             "id": "BBC:https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
             "title": "BBC News app",
@@ -1691,8 +1693,8 @@
       }
     },
     "Business": {
-      "articleCount": 5,
-      "sourceCount": 3,
+      "articleCount": 4,
+      "sourceCount": 2,
       "articles": [
         {
           "id": "BBC:https://www.bbc.com/news/articles/c3wlww83yv4o?at_medium=RSS&at_campaign=rss",
@@ -1703,19 +1705,6 @@
           "description": "The European nation, struggling to find skilled staff, is giving jobs to young people from India.",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53d7/live/472f0520-25dd-11f1-965f-2f5aaeeadad7.jpg",
           "categories": []
-        },
-        {
-          "id": "New York Times:https://www.nytimes.com/2026/03/21/business/dealbook/shopping-mall-resurgence.html",
-          "title": "Not All Malls Are Struggling",
-          "url": "https://www.nytimes.com/2026/03/21/business/dealbook/shopping-mall-resurgence.html",
-          "source": "New York Times",
-          "publishedAt": "2026-03-22T15:56:51.000Z",
-          "description": "A certain type of shopping mall has become a surprising bright spot for real estate investors.",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/06/multimedia/06DB-NEWSLETTER-MALLS-01-fhmb/06DB-NEWSLETTER-MALLS-01-fhmb-mediumSquareAt3X.jpg",
-          "categories": [
-            "Real Estate (Commercial)",
-            "Shopping Centers and Malls"
-          ]
         },
         {
           "id": "Daily Wire:https://www.dailywire.com/news/elon-musk-offers-to-pay-tsa-salaries-as-dhs-shutdown-drags-on",
@@ -1749,7 +1738,7 @@
         }
       ],
       "subtopics": {
-        "Labor Shortages and Immigration Solutions": [
+        "Germany Addresses Worker Shortage with Indian Labor": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/c3wlww83yv4o?at_medium=RSS&at_campaign=rss",
             "title": "Germany has a shortage of workers - so it's turning to India for help",
@@ -1761,22 +1750,7 @@
             "categories": []
           }
         ],
-        "Retail Real Estate and Shopping Mall Trends": [
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/21/business/dealbook/shopping-mall-resurgence.html",
-            "title": "Not All Malls Are Struggling",
-            "url": "https://www.nytimes.com/2026/03/21/business/dealbook/shopping-mall-resurgence.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-22T15:56:51.000Z",
-            "description": "A certain type of shopping mall has become a surprising bright spot for real estate investors.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/06/multimedia/06DB-NEWSLETTER-MALLS-01-fhmb/06DB-NEWSLETTER-MALLS-01-fhmb-mediumSquareAt3X.jpg",
-            "categories": [
-              "Real Estate (Commercial)",
-              "Shopping Centers and Malls"
-            ]
-          }
-        ],
-        "Corporate Responses to Government Shutdowns": [
+        "Elon Musk's Proposal to Support TSA During DHS Shutdown": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/elon-musk-offers-to-pay-tsa-salaries-as-dhs-shutdown-drags-on",
             "title": "Elon Musk Offers To Pay TSA Salaries As DHS Shutdown Drags On",
@@ -1788,7 +1762,7 @@
             "categories": []
           }
         ],
-        "Workplace Rights and Legal Settlements on Remote Work": [
+        "Work-from-Home Denial Leads to $22.5M Settlement in Tragic Case": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/firm-must-pay-22-5m-to-woman-whose-baby-died-after-work-from-home-request-denial",
             "title": "Firm Must Pay $22.5M To Woman Whose Baby Died After Work-From-Home Request Denial",
@@ -1800,7 +1774,7 @@
             "categories": []
           }
         ],
-        "Debate Over School Involvement in Mental Health Services": [
+        "Debate Over School Involvement in Student Mental Health": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/its-time-for-schools-to-get-out-of-the-mental-health-business",
             "title": "It’s Time For Schools To Get Out Of The Mental Health Business",
@@ -1856,7 +1830,7 @@
         }
       ],
       "subtopics": {
-        "Newborn Screening for Genetic Diseases in Scotland": [
+        "Newborn screening for genetic diseases in Scotland": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/cx26glrw310o?at_medium=RSS&at_campaign=rss",
             "title": "Scotland begins testing newborn babies for rare genetic condition",
@@ -1868,7 +1842,7 @@
             "categories": []
           }
         ],
-        "Meteor Explosion and Recovery Efforts in Ohio": [
+        "Meteor explosion over Ohio and subsequent meteorite hunt": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/22/us/meteor-hunters-ohio-cleveland.html",
             "title": "A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began.",
@@ -1886,7 +1860,7 @@
             ]
           }
         ],
-        "Innovative Drug Discovery Lab in Africa": [
+        "Innovative drug discovery lab in Africa focusing on infectious diseases": [
           {
             "id": "NPR:https://www.npr.org/2026/03/22/g-s1-114038/new-drugs-health-medicine-africa-tuberculosis-measles",
             "title": "This lab that's determined to discover new drugs isn't where you might expect",
@@ -1901,9 +1875,19 @@
       }
     },
     "Entertainment": {
-      "articleCount": 13,
+      "articleCount": 14,
       "sourceCount": 4,
       "articles": [
+        {
+          "id": "BBC:https://www.bbc.com/news/articles/c9d4l5pq73yo?at_medium=RSS&at_campaign=rss",
+          "title": "BTS agency shares drop after comeback show turnout falls short",
+          "url": "https://www.bbc.com/news/articles/c9d4l5pq73yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "publishedAt": "2026-03-23T04:39:03.000Z",
+          "description": "The concert was attended by an estimated 104,000 fans, much lower than the expected 260,000.",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d0/live/cd6f4f20-2671-11f1-9e3f-ab087b90124d.jpg",
+          "categories": []
+        },
         {
           "id": "Fox News:https://www.foxnews.com/entertainment/jason-momoa-flees-hawaiian-home-dangerous-flooding",
           "title": "Jason Momoa flees Hawaiian home amid dangerous flooding",
@@ -2121,22 +2105,6 @@
             ]
           },
           {
-            "id": "New York Times:https://www.nytimes.com/2026/03/20/arts/television/nicholas-brendon-dead.html",
-            "title": "Nicholas Brendon, Beloved Sidekick on ‘Buffy the Vampire Slayer,’ Dies at 54",
-            "url": "https://www.nytimes.com/2026/03/20/arts/television/nicholas-brendon-dead.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-22T07:22:13.000Z",
-            "description": "He played the part of Xander Harris, one of Buffy’s closest friends, on the hit television show about a teenage girl who protects the world from monsters.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/20/multimedia/20xp-Brendon-01-pkjz/20xp-Brendon-01-pkjz-mediumSquareAt3X.jpg",
-            "categories": [
-              "Brendon, Nicholas (1971-2026)",
-              "Deaths (Obituaries)",
-              "Actors and Actresses",
-              "Television",
-              "Buffy the Vampire Slayer (TV Program)"
-            ]
-          },
-          {
             "id": "Daily Wire:https://www.dailywire.com/news/buffy-the-vampire-slayer-star-dead-at-54",
             "title": "‘Buffy The Vampire Slayer’ Star Dead At 54",
             "url": "https://www.dailywire.com/news/buffy-the-vampire-slayer-star-dead-at-54",
@@ -2147,7 +2115,17 @@
             "categories": []
           }
         ],
-        "Taylor Frankie Paul Assault Allegations and Fallout": [
+        "Taylor Frankie Paul Assault Allegations and Custody Dispute": [
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/read-it-mormon-wives-star-taylor-frankie-paul-responds-to-baby-daddy-attack-video",
+            "title": "READ IT: ‘Mormon Wives’ Star Taylor Frankie Paul Responds To Baby Daddy Attack Video",
+            "url": "https://www.dailywire.com/news/read-it-mormon-wives-star-taylor-frankie-paul-responds-to-baby-daddy-attack-video",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T11:36:48.000Z",
+            "description": "Reality star Taylor Frankie Paul has released another statement following the cancellation of her season of “The Bachelorette,” promising to reveal more of her story soon. The 31-year-old “Secret Lives of Mormon Wives” alum released the update via her spokesperson. This came after a video of an alleged domestic violence incident between her and then-partner ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Frankie-Taylor-Paul.jpg",
+            "categories": []
+          },
           {
             "id": "Daily Wire:https://www.dailywire.com/news/taylor-frankie-paul-steps-out-smiling-and-lets-her-outfit-do-the-talking",
             "title": "Taylor Frankie Paul Steps Out Smiling And Lets Her Outfit Do The Talking",
@@ -2167,41 +2145,9 @@
             "description": "Reality star Taylor Frankie Paul’s baby daddy Dakota Mortensen has been granted a temporary protective order against his ex and has reportedly gotten temporary custody of their child. The order states that Taylor cannot have contact with Mortensen and is not allowed to “abuse or threaten to abuse” him. The “Secret Lives of Mormon Wives” ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Taylor-Frankie-Paul-2.jpg",
             "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/read-it-mormon-wives-star-taylor-frankie-paul-responds-to-baby-daddy-attack-video",
-            "title": "READ IT: ‘Mormon Wives’ Star Taylor Frankie Paul Responds To Baby Daddy Attack Video",
-            "url": "https://www.dailywire.com/news/read-it-mormon-wives-star-taylor-frankie-paul-responds-to-baby-daddy-attack-video",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T11:36:48.000Z",
-            "description": "Reality star Taylor Frankie Paul has released another statement following the cancellation of her season of “The Bachelorette,” promising to reveal more of her story soon. The 31-year-old “Secret Lives of Mormon Wives” alum released the update via her spokesperson. This came after a video of an alleged domestic violence incident between her and then-partner ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Frankie-Taylor-Paul.jpg",
-            "categories": []
           }
         ],
-        "Jason Momoa’s Evacuation and Community Aid During Hawaii Flooding": [
-          {
-            "id": "Fox News:https://www.foxnews.com/entertainment/jason-momoa-flees-hawaiian-home-dangerous-flooding",
-            "title": "Jason Momoa flees Hawaiian home amid dangerous flooding",
-            "url": "https://www.foxnews.com/entertainment/jason-momoa-flees-hawaiian-home-dangerous-flooding",
-            "source": "Fox News",
-            "publishedAt": "2026-03-23T03:03:09.000Z",
-            "description": "Jason Momoa evacuated O'ahu's North Shore amid historic Hawaii flooding, then distributed 200+ food plates to locals with girlfriend Adria Arjona.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/08/931/523/jason-momoa-movie-premiere.jpg?ve=1&tl=1",
-            "categories": [
-              "9add3bd9-e6bb-5a56-8f39-d0ddcd0af39d",
-              "fnc",
-              "Fox News",
-              "fox-news/entertainment",
-              "fox-news/entertainment/movies",
-              "fox-news/entertainment/tv",
-              "fox-news/person/jason-momoa",
-              "fox-news/entertainment",
-              "article"
-            ]
-          }
-        ],
-        "Controversies Involving Reality and Music Stars": [
+        "Entertainment Incidents and Controversies": [
           {
             "id": "Fox News:https://www.foxnews.com/entertainment/bachelorette-alum-james-mccoy-taylor-arrested-again-connection-assault-case",
             "title": "'Bachelorette' alum James McCoy Taylor arrested again in connection with assault case",
@@ -2242,17 +2188,48 @@
             ]
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/watch-justin-timberlake-struggles-through-sobriety-test-in-newly-released-video",
-            "title": "WATCH: Justin Timberlake Struggles Through Sobriety Test In Newly-Released Video",
-            "url": "https://www.dailywire.com/news/watch-justin-timberlake-struggles-through-sobriety-test-in-newly-released-video",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-21T10:46:57.000Z",
-            "description": "New body-cam footage released this month shows singer Justin Timberlake struggling through a field sobriety test in the 2024 Hampton stop that ended with his arrest for driving while intoxicated. Timberlake was driving in Sag Harbor, New York, at the time of his arrest in June 2024. He later pleaded guilty to driving while ability ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/image0-2-scaled.jpeg",
-            "categories": []
+            "id": "Fox News:https://www.foxnews.com/food-drink/chilis-roasts-ruths-chris-after-dress-code-controversy-ignites-online-outrage",
+            "title": "Chili's roasts Ruth's Chris after dress code controversy ignites online outrage",
+            "url": "https://www.foxnews.com/food-drink/chilis-roasts-ruths-chris-after-dress-code-controversy-ignites-online-outrage",
+            "source": "Fox News",
+            "publishedAt": "2026-03-22T21:27:30.000Z",
+            "description": "Chili's fired back at Ruth's Chris Steak House on X over its dress code, saying the only rule is that guests must be dressed, earning over a million views.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/chilis-restaurant-split-ruth-chris-steakhouse.jpg?ve=1&tl=1",
+            "categories": [
+              "a6d60e07-7b36-53a9-afa0-65d8b0a65ef7",
+              "fnc",
+              "Fox News",
+              "fox-news/food-drink",
+              "fox-news/food-drink/food/restaurants",
+              "fox-news/lifestyle/social-etiquette",
+              "fox-news/food-drink/recipes/cuisines/steak",
+              "fox-news/lifestyle",
+              "fox-news/food-drink",
+              "article"
+            ]
           }
         ],
-        "Entertainment Industry Celebrations and Reviews": [
+        "Celebrities' Personal and Professional Moments": [
+          {
+            "id": "Fox News:https://www.foxnews.com/entertainment/jason-momoa-flees-hawaiian-home-dangerous-flooding",
+            "title": "Jason Momoa flees Hawaiian home amid dangerous flooding",
+            "url": "https://www.foxnews.com/entertainment/jason-momoa-flees-hawaiian-home-dangerous-flooding",
+            "source": "Fox News",
+            "publishedAt": "2026-03-23T03:03:09.000Z",
+            "description": "Jason Momoa evacuated O'ahu's North Shore amid historic Hawaii flooding, then distributed 200+ food plates to locals with girlfriend Adria Arjona.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/08/931/523/jason-momoa-movie-premiere.jpg?ve=1&tl=1",
+            "categories": [
+              "9add3bd9-e6bb-5a56-8f39-d0ddcd0af39d",
+              "fnc",
+              "Fox News",
+              "fox-news/entertainment",
+              "fox-news/entertainment/movies",
+              "fox-news/entertainment/tv",
+              "fox-news/person/jason-momoa",
+              "fox-news/entertainment",
+              "article"
+            ]
+          },
           {
             "id": "Fox News:https://www.foxnews.com/entertainment/reese-witherspoon-turns-50-says-daily-rule-simple-gotta-laugh-everyday-you-can",
             "title": "Reese Witherspoon turns 50, says her daily rule is simple: ‘Gotta laugh every day you can’",
@@ -2273,26 +2250,17 @@
             ]
           },
           {
-            "id": "Fox News:https://www.foxnews.com/food-drink/chilis-roasts-ruths-chris-after-dress-code-controversy-ignites-online-outrage",
-            "title": "Chili's roasts Ruth's Chris after dress code controversy ignites online outrage",
-            "url": "https://www.foxnews.com/food-drink/chilis-roasts-ruths-chris-after-dress-code-controversy-ignites-online-outrage",
-            "source": "Fox News",
-            "publishedAt": "2026-03-22T21:27:30.000Z",
-            "description": "Chili's fired back at Ruth's Chris Steak House on X over its dress code, saying the only rule is that guests must be dressed, earning over a million views.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/chilis-restaurant-split-ruth-chris-steakhouse.jpg?ve=1&tl=1",
-            "categories": [
-              "a6d60e07-7b36-53a9-afa0-65d8b0a65ef7",
-              "fnc",
-              "Fox News",
-              "fox-news/food-drink",
-              "fox-news/food-drink/food/restaurants",
-              "fox-news/lifestyle/social-etiquette",
-              "fox-news/food-drink/recipes/cuisines/steak",
-              "fox-news/lifestyle",
-              "fox-news/food-drink",
-              "article"
-            ]
-          },
+            "id": "Daily Wire:https://www.dailywire.com/news/watch-justin-timberlake-struggles-through-sobriety-test-in-newly-released-video",
+            "title": "WATCH: Justin Timberlake Struggles Through Sobriety Test In Newly-Released Video",
+            "url": "https://www.dailywire.com/news/watch-justin-timberlake-struggles-through-sobriety-test-in-newly-released-video",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-21T10:46:57.000Z",
+            "description": "New body-cam footage released this month shows singer Justin Timberlake struggling through a field sobriety test in the 2024 Hampton stop that ended with his arrest for driving while intoxicated. Timberlake was driving in Sag Harbor, New York, at the time of his arrest in June 2024. He later pleaded guilty to driving while ability ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/image0-2-scaled.jpeg",
+            "categories": []
+          }
+        ],
+        "Entertainment Show Debuts and Fan Reactions": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/c8ejl730wl2o?at_medium=RSS&at_campaign=rss",
             "title": "What did critics think of Saturday Night Live UK's debut?",
@@ -2302,12 +2270,40 @@
             "description": "The long-running US sketch show now has a British equivalent, which received a broadly positive reaction on its debut.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41e0/live/13a38ed0-25f4-11f1-908a-2f9759ed819b.jpg",
             "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/c9d4l5pq73yo?at_medium=RSS&at_campaign=rss",
+            "title": "BTS agency shares drop after comeback show turnout falls short",
+            "url": "https://www.bbc.com/news/articles/c9d4l5pq73yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T04:39:03.000Z",
+            "description": "The concert was attended by an estimated 104,000 fans, much lower than the expected 260,000.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d0/live/cd6f4f20-2671-11f1-9e3f-ab087b90124d.jpg",
+            "categories": []
+          }
+        ],
+        "Other Coverage": [
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/20/arts/television/nicholas-brendon-dead.html",
+            "title": "Nicholas Brendon, Beloved Sidekick on ‘Buffy the Vampire Slayer,’ Dies at 54",
+            "url": "https://www.nytimes.com/2026/03/20/arts/television/nicholas-brendon-dead.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-22T07:22:13.000Z",
+            "description": "He played the part of Xander Harris, one of Buffy’s closest friends, on the hit television show about a teenage girl who protects the world from monsters.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/20/multimedia/20xp-Brendon-01-pkjz/20xp-Brendon-01-pkjz-mediumSquareAt3X.jpg",
+            "categories": [
+              "Brendon, Nicholas (1971-2026)",
+              "Deaths (Obituaries)",
+              "Actors and Actresses",
+              "Television",
+              "Buffy the Vampire Slayer (TV Program)"
+            ]
           }
         ]
       }
     },
     "Sports": {
-      "articleCount": 18,
+      "articleCount": 17,
       "sourceCount": 4,
       "articles": [
         {
@@ -2512,16 +2508,6 @@
           "categories": []
         },
         {
-          "id": "BBC:https://www.bbc.com/news/articles/cwydl214dplo?at_medium=RSS&at_campaign=rss",
-          "title": "Streeting praises response to meningitis outbreak",
-          "url": "https://www.bbc.com/news/articles/cwydl214dplo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-22T18:59:17.000Z",
-          "description": "Wes Streeting praises the \"Herculean efforts\" to protect people from the Kent meningitis outbreak.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c3/live/4bd2cb60-2624-11f1-aad6-2d605a562384.jpg",
-          "categories": []
-        },
-        {
           "id": "BBC:https://www.bbc.com/sport/football/articles/cgldklk5j34o?at_medium=RSS&at_campaign=rss",
           "title": "Newcastle's Barnes set to replace Eze in England squad",
           "url": "https://www.bbc.com/sport/football/articles/cgldklk5j34o?at_medium=RSS&at_campaign=rss",
@@ -2563,30 +2549,7 @@
         }
       ],
       "subtopics": {
-        "2026 World Cup Preparations in the US": [
-          {
-            "id": "Fox News:https://www.foxnews.com/sports/world-cup-2026-us-base-camps-host-cities",
-            "title": "World Cup teams finalize US base camps as host cities prepare for global crowds",
-            "url": "https://www.foxnews.com/sports/world-cup-2026-us-base-camps-host-cities",
-            "source": "Fox News",
-            "publishedAt": "2026-03-23T03:55:02.000Z",
-            "description": "Cities across the US are preparing World Cup base camps as teams finalize training sites and fans prepare to travel for the 2026 tournament.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kc-2026-bid.jpg?ve=1&tl=1",
-            "categories": [
-              "968bd6b7-8b97-54b2-b4e1-199eec9eec9f",
-              "fnc",
-              "Fox News",
-              "fox-news/sports/soccer",
-              "fox-news/sports/soccer/the-world-cup",
-              "fox-news/topic/fox-news-multimedia-reporters",
-              "fox-news/us/us-regions/midwest",
-              "fox-news/sports",
-              "fox-news/sports",
-              "article"
-            ]
-          }
-        ],
-        "NCAA Men's Basketball Tournament Highlights": [
+        "NCAA March Madness Highlights": [
           {
             "id": "Fox News:https://www.foxnews.com/sports/iowa-hits-clutch-3-pointer-closing-seconds-stun-florida",
             "title": "Iowa hits clutch 3-pointer in closing seconds to stun Florida",
@@ -2628,9 +2591,53 @@
               "fox-news/sports",
               "article"
             ]
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/sports/maryland-basketball-coach-has-intense-moment-player-during-march-madness-game",
+            "title": "Maryland basketball coach has intense moment with player during March Madness game",
+            "url": "https://www.foxnews.com/sports/maryland-basketball-coach-has-intense-moment-player-during-march-madness-game",
+            "source": "Fox News",
+            "publishedAt": "2026-03-22T21:38:49.000Z",
+            "description": "Maryland women's basketball coach Brenda Frese had an intense coaching moment with one of her star players during the NCAA Women's Basketball Tournament.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/maryland-brenda-freese-032226-1.jpg?ve=1&tl=1",
+            "categories": [
+              "2033aa8a-73b2-538b-a9f2-d711a2baa708",
+              "fnc",
+              "Fox News",
+              "fox-news/sports/ncaa-bk/march-madness",
+              "fox-news/sports/ncaa/maryland-terrapins",
+              "fox-news/sports/ncaa/north-carolina-tar-heels",
+              "fox-news/sports/ncaa",
+              "fox-news/sports/ncaa-bk",
+              "fox-news/sports",
+              "article"
+            ]
           }
         ],
-        "Flag Football Notables and Player Stories": [
+        "World Cup 2026: US Host City Preparations": [
+          {
+            "id": "Fox News:https://www.foxnews.com/sports/world-cup-2026-us-base-camps-host-cities",
+            "title": "World Cup teams finalize US base camps as host cities prepare for global crowds",
+            "url": "https://www.foxnews.com/sports/world-cup-2026-us-base-camps-host-cities",
+            "source": "Fox News",
+            "publishedAt": "2026-03-23T03:55:02.000Z",
+            "description": "Cities across the US are preparing World Cup base camps as teams finalize training sites and fans prepare to travel for the 2026 tournament.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kc-2026-bid.jpg?ve=1&tl=1",
+            "categories": [
+              "968bd6b7-8b97-54b2-b4e1-199eec9eec9f",
+              "fnc",
+              "Fox News",
+              "fox-news/sports/soccer",
+              "fox-news/sports/soccer/the-world-cup",
+              "fox-news/topic/fox-news-multimedia-reporters",
+              "fox-news/us/us-regions/midwest",
+              "fox-news/sports",
+              "fox-news/sports",
+              "article"
+            ]
+          }
+        ],
+        "Flag Football Featuring NFL and Celebrities": [
           {
             "id": "Fox News:https://www.foxnews.com/sports/tom-brady-gives-praise-logan-paul-after-flag-football-game",
             "title": "Tom Brady gives praise to Logan Paul after flag football game",
@@ -2670,7 +2677,7 @@
             ]
           }
         ],
-        "Premier League and Football Analysis": [
+        "Premier League and England Squad Updates": [
           {
             "id": "BBC:https://www.bbc.com/sport/football/articles/c0krjkl3kn0o?at_medium=RSS&at_campaign=rss",
             "title": "Who has made Troy's Premier League team of the week?",
@@ -2710,51 +2717,6 @@
             "description": "Newcastle winger Harvey Barnes is set to be called-up to Thomas Tuchel's England squad to replace the injured Eberechi Eze.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ed3/live/6109b810-261d-11f1-8055-8da8289aa0e0.jpg",
             "categories": []
-          }
-        ],
-        "Athletics Achievements at World Indoor Championships": [
-          {
-            "id": "BBC:https://www.bbc.com/sport/athletics/articles/cpd5q0580dpo?at_medium=RSS&at_campaign=rss",
-            "title": "How 'Keely 2.0' dominated 800m field for first world indoors title",
-            "url": "https://www.bbc.com/sport/athletics/articles/cpd5q0580dpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T21:28:21.000Z",
-            "description": "Keely Hodgkinson captures her first world indoor title in commanding fashion as she claims 800m gold with a championship record in Poland.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6615/live/9780a3d0-262d-11f1-b297-95b0a0a8331e.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/sport/athletics/articles/c20qjlyezjvo?at_medium=RSS&at_campaign=rss",
-            "title": "Three golds in 28 minutes - GB makes history at World Athletics Indoor Championships",
-            "url": "https://www.bbc.com/sport/athletics/articles/c20qjlyezjvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T20:59:23.000Z",
-            "description": "Great Britain claim three golds in a sensational 28 minutes to make history and achieve the team's best-ever haul at the World Athletics Indoor Championships.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31d6/live/5e7cf910-2625-11f1-aad6-2d605a562384.jpg",
-            "categories": []
-          }
-        ],
-        "Other Coverage": [
-          {
-            "id": "Fox News:https://www.foxnews.com/sports/maryland-basketball-coach-has-intense-moment-player-during-march-madness-game",
-            "title": "Maryland basketball coach has intense moment with player during March Madness game",
-            "url": "https://www.foxnews.com/sports/maryland-basketball-coach-has-intense-moment-player-during-march-madness-game",
-            "source": "Fox News",
-            "publishedAt": "2026-03-22T21:38:49.000Z",
-            "description": "Maryland women's basketball coach Brenda Frese had an intense coaching moment with one of her star players during the NCAA Women's Basketball Tournament.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/maryland-brenda-freese-032226-1.jpg?ve=1&tl=1",
-            "categories": [
-              "2033aa8a-73b2-538b-a9f2-d711a2baa708",
-              "fnc",
-              "Fox News",
-              "fox-news/sports/ncaa-bk/march-madness",
-              "fox-news/sports/ncaa/maryland-terrapins",
-              "fox-news/sports/ncaa/north-carolina-tar-heels",
-              "fox-news/sports/ncaa",
-              "fox-news/sports/ncaa-bk",
-              "fox-news/sports",
-              "article"
-            ]
           },
           {
             "id": "Fox News:https://www.foxnews.com/sports/lakers-luka-doncic-says-magic-player-made-explicit-remark-about-his-family",
@@ -2774,6 +2736,28 @@
               "fox-news/sports",
               "article"
             ]
+          }
+        ],
+        "World Athletics Indoor Championships and Keely Hodgkinson": [
+          {
+            "id": "BBC:https://www.bbc.com/sport/athletics/articles/cpd5q0580dpo?at_medium=RSS&at_campaign=rss",
+            "title": "How 'Keely 2.0' dominated 800m field for first world indoors title",
+            "url": "https://www.bbc.com/sport/athletics/articles/cpd5q0580dpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T21:28:21.000Z",
+            "description": "Keely Hodgkinson captures her first world indoor title in commanding fashion as she claims 800m gold with a championship record in Poland.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6615/live/9780a3d0-262d-11f1-b297-95b0a0a8331e.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/sport/athletics/articles/c20qjlyezjvo?at_medium=RSS&at_campaign=rss",
+            "title": "Three golds in 28 minutes - GB makes history at World Athletics Indoor Championships",
+            "url": "https://www.bbc.com/sport/athletics/articles/c20qjlyezjvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T20:59:23.000Z",
+            "description": "Great Britain claim three golds in a sensational 28 minutes to make history and achieve the team's best-ever haul at the World Athletics Indoor Championships.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31d6/live/5e7cf910-2625-11f1-aad6-2d605a562384.jpg",
+            "categories": []
           },
           {
             "id": "BBC:https://www.bbc.com/sport/athletics/videos/cn89y8z4gpgo?at_medium=RSS&at_campaign=rss",
@@ -2784,17 +2768,9 @@
             "description": "Keely Hodgkinson runs a championship record time of one minute 55.30 seconds to take gold in the women's 800m at the World Indoor Athletics Championships in Poland.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d869/live/50893970-2622-11f1-b297-95b0a0a8331e.jpg",
             "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cwydl214dplo?at_medium=RSS&at_campaign=rss",
-            "title": "Streeting praises response to meningitis outbreak",
-            "url": "https://www.bbc.com/news/articles/cwydl214dplo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T18:59:17.000Z",
-            "description": "Wes Streeting praises the \"Herculean efforts\" to protect people from the Kent meningitis outbreak.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c3/live/4bd2cb60-2624-11f1-aad6-2d605a562384.jpg",
-            "categories": []
-          },
+          }
+        ],
+        "Other Coverage": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/pink-pony-club-singer-chappell-roan-responds-to-explosive-claim-she-left-child-in-tears",
             "title": "‘Pink Pony Club’ Singer Chappell Roan Responds To Explosive Claim She Left Child In Tears",
@@ -2829,18 +2805,46 @@
       }
     },
     "Other": {
-      "articleCount": 51,
+      "articleCount": 52,
       "sourceCount": 5,
       "articles": [
         {
+          "id": "New York Times:https://www.nytimes.com/2026/03/23/nyregion/laguardia-groundstop-flights.html",
+          "title": "Flights Are Halted at LaGuardia as New York Fire Department Responds to Incident",
+          "url": "https://www.nytimes.com/2026/03/23/nyregion/laguardia-groundstop-flights.html",
+          "source": "New York Times",
+          "publishedAt": "2026-03-23T05:23:56.000Z",
+          "description": "The Federal Aviation Administration ordered the closure early Monday, and the Fire Department said the reported runway incident involved a plane and a vehicle. No other details were immediately available.",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23xp-laguardia-wvhf/23xp-laguardia-wvhf-mediumSquareAt3X.jpg",
+          "categories": [
+            "Aviation Accidents, Safety and Disasters",
+            "Airports",
+            "Airlines and Airplanes",
+            "Traffic Accidents and Safety"
+          ]
+        },
+        {
           "id": "BBC:https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
-          "title": "Arson attack on ambulances in London being treated as antisemitic hate crime, Metropolitan Police says",
+          "title": "Four ambulances set on fire in London in suspected antisemitic hate crime",
           "url": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "publishedAt": "2026-03-23T04:41:26.000Z",
-          "description": "One Golders Green resident told the BBC at the scene that he had heard an \"explosion\" shortly after 01:30 GMT.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d27b/live/605e0e20-2672-11f1-b297-95b0a0a8331e.jpg",
+          "publishedAt": "2026-03-23T05:17:00.000Z",
+          "description": "Police said they were looking for three suspects after the London Fire Brigade were called to Golders Green at around 01:40 GMT.",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed98/live/2d35cba0-2677-11f1-b297-95b0a0a8331e.jpg",
           "categories": []
+        },
+        {
+          "id": "New York Times:https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
+          "title": "Mette Frederiksen Changed Denmark",
+          "url": "https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
+          "source": "New York Times",
+          "publishedAt": "2026-03-23T05:00:04.000Z",
+          "description": "Whatever Mette Frederiksen does next, Denmark has fundamentally changed.",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23krasnik-fmbk/23krasnik-fmbk-mediumSquareAt3X-v2.jpg",
+          "categories": [
+            "Denmark",
+            "Frederiksen, Mette"
+          ]
         },
         {
           "id": "Fox News:https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests",
@@ -3085,22 +3089,6 @@
           "description": "Iran said on Sunday it would strike the energy and water systems of its Gulf neighbours in retaliation if U.S. President Donald Trump follows through with a threat to hit Iran’s electricity grid in 48 hours, escalating the three-week-old war. The prospect of tit-for-tat strikes on civilian infrastructure could deepen the regional crisis and further ...",
           "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267156728-scaled.jpg",
           "categories": []
-        },
-        {
-          "id": "New York Times:https://www.nytimes.com/2026/03/22/opinion/fashion-odesa-ukraine-war.html",
-          "title": "In Odesa, Dressing Up Is Living",
-          "url": "https://www.nytimes.com/2026/03/22/opinion/fashion-odesa-ukraine-war.html",
-          "source": "New York Times",
-          "publishedAt": "2026-03-22T18:05:18.000Z",
-          "description": "In Odesa, the older generation continues to dress up, showing people’s determination to carry on despite the blows of history.",
-          "imageUrl": "https://static01.nyt.com/images/2026/02/08/multimedia/08synenko-topart-lfqb/08synenko-topart-lfqb-mediumSquareAt3X-v3.jpg",
-          "categories": [
-            "Russian Invasion of Ukraine (2022)",
-            "Fashion and Apparel",
-            "Elderly",
-            "Odessa (Ukraine)",
-            "Ukraine"
-          ]
         },
         {
           "id": "Daily Wire:https://www.dailywire.com/news/what-do-ice-officers-really-think-of-trumps-plan-to-deploy-agents-for-airport-security",
@@ -3422,7 +3410,7 @@
         }
       ],
       "subtopics": {
-        "Middle East conflict and Iran war developments": [
+        "Iran-Israel Conflict and Regional Security Developments": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html",
             "title": "Israel’s Missile Defense Under Scrutiny After Iranian Attack",
@@ -3443,23 +3431,23 @@
             ]
           },
           {
-            "id": "BBC:https://www.bbc.com/news/articles/c75kne7qdy6o?at_medium=RSS&at_campaign=rss",
-            "title": "Call to cancel threat of prison for council tax non-payment",
-            "url": "https://www.bbc.com/news/articles/c75kne7qdy6o?at_medium=RSS&at_campaign=rss",
+            "id": "BBC:https://www.bbc.com/news/articles/cn0wd20k0xeo?at_medium=RSS&at_campaign=rss",
+            "title": "The Papers: 'Trump raises stakes' and 'Tend it like Beckham'",
+            "url": "https://www.bbc.com/news/articles/cn0wd20k0xeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
-            "publishedAt": "2026-03-23T00:02:52.000Z",
-            "description": "Debt charity StepChange says there are clear differences between councils when chasing unpaid tax.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5789/live/94d69660-2454-11f1-867b-39349a954f0b.jpg",
+            "publishedAt": "2026-03-23T01:17:59.000Z",
+            "description": "The 'new escalatory phase' of the war in the Middle East is a focus of several papers today.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7ac/live/b0d92e40-2648-11f1-a79a-77e93010d956.jpg",
             "categories": []
           },
           {
-            "id": "BBC:https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
-            "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
-            "url": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
+            "id": "BBC:https://www.bbc.com/news/articles/cre1jly1ny2o?at_medium=RSS&at_campaign=rss",
+            "title": "How an island became ferret free  - thanks, in part, to Woody the wonderdog",
+            "url": "https://www.bbc.com/news/articles/cre1jly1ny2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
-            "publishedAt": "2026-03-22T22:38:24.000Z",
-            "description": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c916/live/320a6920-25fe-11f1-908a-2f9759ed819b.jpg",
+            "publishedAt": "2026-03-23T00:00:16.000Z",
+            "description": "More than 400 traps were laid across the island in a £4.5m project which featured a specially-trained detection dog called Woody.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e2a/live/16598810-25e9-11f1-a3f0-379050aefd37.jpg",
             "categories": []
           },
           {
@@ -3483,6 +3471,16 @@
             ]
           },
           {
+            "id": "BBC:https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+            "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
+            "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T17:35:19.000Z",
+            "description": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c825/live/d7fc6990-25c3-11f1-b1ce-2dccb029f244.jpg",
+            "categories": []
+          },
+          {
             "id": "Daily Wire:https://www.dailywire.com/news/iran-issues-new-threat-as-trumps-48-hour-ultimatum-hits-halfway-mark",
             "title": "Iran Issues New Threat As Trump’s 48-Hour Ultimatum Hits Halfway Mark",
             "url": "https://www.dailywire.com/news/iran-issues-new-threat-as-trumps-48-hour-ultimatum-hits-halfway-mark",
@@ -3503,23 +3501,13 @@
             "categories": []
           },
           {
-            "id": "BBC:https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-            "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
-            "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T17:35:19.000Z",
-            "description": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c825/live/d7fc6990-25c3-11f1-b1ce-2dccb029f244.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/iranian-leaders-we-have-the-americans-exactly-where-we-want-them",
-            "title": "Iranian Leaders: We Have The Americans Exactly Where We Want Them",
-            "url": "https://www.dailywire.com/news/iranian-leaders-we-have-the-americans-exactly-where-we-want-them",
+            "id": "Daily Wire:https://www.dailywire.com/news/israeli-ambassador-reacts-to-iran-strike-with-message-that-raises-stakes",
+            "title": "Israeli Ambassador Reacts To Iran Strike With Message That Raises Stakes",
+            "url": "https://www.dailywire.com/news/israeli-ambassador-reacts-to-iran-strike-with-message-that-raises-stakes",
             "source": "Daily Wire",
-            "publishedAt": "2026-03-20T13:00:30.000Z",
-            "description": "According to the New York Times, a former newspaper, American forces are in deep trouble in Iran as the wily Iranians continue to attack our bombs with their leaders. According to the Times Middle East Bureau Chief, Omar Jihad Mohammed Jihad Jihad Mohammed, wave after wave of American bomb and missile attacks have been repelled ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2245821061.jpg",
+            "publishedAt": "2026-03-22T12:30:23.000Z",
+            "description": "Israeli ambassador to the U.S. Michael Leiter discussed Iran’s attempted ballistic missile strike Saturday targeting Diego Garcia, the joint U.S.-U.K. military base in the Indian Ocean more than 2,000 miles from Iran. Appearing Sunday on CNN’s “State of the Union” with Dana Bash, Leiter was first asked about the missile strikes in Israel on Saturday ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2219955048-scaled.jpg",
             "categories": []
           },
           {
@@ -3533,23 +3521,13 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/trump-draws-red-line-48-hours-to-open-strait-or-u-s-strikes-begin",
-            "title": "Trump Draws Red Line: 48 Hours To Open Strait Or U.S. Strikes Begin",
-            "url": "https://www.dailywire.com/news/trump-draws-red-line-48-hours-to-open-strait-or-u-s-strikes-begin",
+            "id": "Daily Wire:https://www.dailywire.com/news/video-iranian-missile-screams-over-israel-explosion-injures-dozens",
+            "title": "VIDEO: Iranian Missile Screams Over Israel, Explosion Injures Dozens, Including Children",
+            "url": "https://www.dailywire.com/news/video-iranian-missile-screams-over-israel-explosion-injures-dozens",
             "source": "Daily Wire",
-            "publishedAt": "2026-03-22T09:52:20.000Z",
-            "description": "President Donald Trump on Saturday issued a stark 48-hour ultimatum to Iran, warning that the United States will begin targeting the country’s energy infrastructure if it does not reopen the strategically critical Strait of Hormuz. “If Iran doesn’t FULLY OPEN, WITHOUT THREAT, the Strait of Hormuz, within 48 HOURS from this exact point in time, ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2025/06/GettyImages-2220753716-scaled-e1750683167970.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/israeli-ambassador-reacts-to-iran-strike-with-message-that-raises-stakes",
-            "title": "Israeli Ambassador Reacts To Iran Strike With Message That Raises Stakes",
-            "url": "https://www.dailywire.com/news/israeli-ambassador-reacts-to-iran-strike-with-message-that-raises-stakes",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-22T12:30:23.000Z",
-            "description": "Israeli ambassador to the U.S. Michael Leiter discussed Iran’s attempted ballistic missile strike Saturday targeting Diego Garcia, the joint U.S.-U.K. military base in the Indian Ocean more than 2,000 miles from Iran. Appearing Sunday on CNN’s “State of the Union” with Dana Bash, Leiter was first asked about the missile strikes in Israel on Saturday ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2219955048-scaled.jpg",
+            "publishedAt": "2026-03-21T19:07:27.000Z",
+            "description": "A missile rips through the night sky — then a blinding fireball engulfs the scene as the strike hits, all caught on video. The strike left around 75 people injured in Arad, including 10 who were seriously hurt and rushed to a hospital in Beersheba, according to The Jerusalem Post. Arad Mayor Yair Ma’ayan said ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Mar-21-2026-08_44_12-PM.jpeg",
             "categories": []
           },
           {
@@ -3581,9 +3559,29 @@
             "description": "We have the latest on the U-S and Israeli war on Iran, where in the past 48 hours, Israel has struck one of Iran's nuclear facilities and Iran has responded with strikes in Israel.",
             "imageUrl": null,
             "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/trump-draws-red-line-48-hours-to-open-strait-or-u-s-strikes-begin",
+            "title": "Trump Draws Red Line: 48 Hours To Open Strait Or U.S. Strikes Begin",
+            "url": "https://www.dailywire.com/news/trump-draws-red-line-48-hours-to-open-strait-or-u-s-strikes-begin",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-22T09:52:20.000Z",
+            "description": "President Donald Trump on Saturday issued a stark 48-hour ultimatum to Iran, warning that the United States will begin targeting the country’s energy infrastructure if it does not reopen the strategically critical Strait of Hormuz. “If Iran doesn’t FULLY OPEN, WITHOUT THREAT, the Strait of Hormuz, within 48 HOURS from this exact point in time, ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2025/06/GettyImages-2220753716-scaled-e1750683167970.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/czxrdxn6qwqo?at_medium=RSS&at_campaign=rss",
+            "title": "Hawaii storms have caused $1bn in damage, governor says",
+            "url": "https://www.bbc.com/news/articles/czxrdxn6qwqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T20:24:27.000Z",
+            "description": "The full scale of the damages to roads and other infrastructure from rain and flooding in the state must still be assessed, Gov Josh Green says.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b17/live/8ccc1860-2624-11f1-aad6-2d605a562384.jpg",
+            "categories": []
           }
         ],
-        "US domestic issues: Immigration enforcement and airport security": [
+        "US Immigration and Airport Security Staffing Issues": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/why-ice-agents-in-airports-may-be-arriving-just-in-time",
             "title": "Why ICE Agents In Airports May Be Arriving Just In Time",
@@ -3623,6 +3621,55 @@
             "description": "Border czar Tom Homan detailed the plan to deploy Immigration and Customs Enforcement agents to U.S. airports beginning on Monday to aid TSA workers in the wake of the ongoing DHS shutdown. Appearing on CNN’s “State of the Union” on Sunday with host Dana Bash, Homan first explained that he is working with the administrator ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2025/07/GettyImages-2223881631-scaled-e1752250499458.jpg",
             "categories": []
+          }
+        ],
+        "Violent Incidents and Crime Reports in US and UK": [
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/23/nyregion/laguardia-groundstop-flights.html",
+            "title": "Flights Are Halted at LaGuardia as New York Fire Department Responds to Incident",
+            "url": "https://www.nytimes.com/2026/03/23/nyregion/laguardia-groundstop-flights.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-23T05:23:56.000Z",
+            "description": "The Federal Aviation Administration ordered the closure early Monday, and the Fire Department said the reported runway incident involved a plane and a vehicle. No other details were immediately available.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23xp-laguardia-wvhf/23xp-laguardia-wvhf-mediumSquareAt3X.jpg",
+            "categories": [
+              "Aviation Accidents, Safety and Disasters",
+              "Airports",
+              "Airlines and Airplanes",
+              "Traffic Accidents and Safety"
+            ]
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
+            "title": "Four ambulances set on fire in London in suspected antisemitic hate crime",
+            "url": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T05:17:00.000Z",
+            "description": "Police said they were looking for three suspects after the London Fire Brigade were called to Golders Green at around 01:40 GMT.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed98/live/2d35cba0-2677-11f1-b297-95b0a0a8331e.jpg",
+            "categories": []
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests",
+            "title": "9 suspects arrested after $7M in stolen cargo seized in Southern California bust",
+            "url": "https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests",
+            "source": "Fox News",
+            "publishedAt": "2026-03-23T04:16:50.000Z",
+            "description": "Nine suspects were arrested after authorities recovered $7 million in stolen cargo and $1 million in cash as part of a cargo theft bust in California.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/la-county-7-million-dollar-theft-retail-appliances.png?ve=1&tl=1",
+            "categories": [
+              "7a182d23-6604-570e-bd27-00048dc025a4",
+              "fnc",
+              "Fox News",
+              "fox-news/us/us-regions/west/california",
+              "fox-news/us",
+              "fox-news/us/los-angeles",
+              "fox-news/crime",
+              "fox-news/us/crime/police-and-law-enforcement",
+              "fox-news/us/crime/robbery-theft",
+              "fox-news/us",
+              "article"
+            ]
           },
           {
             "id": "Fox News:https://www.foxnews.com/us/illegal-immigrant-accused-killing-loyola-student-caught-released-under-biden-dhs-says",
@@ -3664,95 +3711,29 @@
             "description": "A foreign national from Peru with a history of violent crimes was detained by federal immigration authorities after a Tennessee school official alerted ICE to a child’s warning that her father might kill her mother. Earlier this month, a young girl in Nashville told school officials she feared Luis Meza-Olivera would kill her mother. The ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/MixCollage-20-Mar-2026-10-23-AM-666.jpg",
             "categories": []
-          }
-        ],
-        "UK and Canada legal and political developments": [
+          },
           {
-            "id": "BBC:https://www.bbc.com/news/articles/c78j8vk3r50o?at_medium=RSS&at_campaign=rss",
-            "title": "How a ban on religious symbols has triggered a Canadian constitutional debate",
-            "url": "https://www.bbc.com/news/articles/c78j8vk3r50o?at_medium=RSS&at_campaign=rss",
+            "id": "BBC:https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
+            "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+            "url": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
-            "publishedAt": "2026-03-23T00:21:25.000Z",
-            "description": "Quebec's law to regulate religious symbols goes to the Supreme Court in a constitutional test case.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeaf/live/6a3723d0-22f0-11f1-86e6-55be72f96bf5.jpg",
+            "publishedAt": "2026-03-22T22:38:24.000Z",
+            "description": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c916/live/320a6920-25fe-11f1-908a-2f9759ed819b.jpg",
             "categories": []
           },
           {
-            "id": "BBC:https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
-            "title": "Arson attack on ambulances in London being treated as antisemitic hate crime, Metropolitan Police says",
-            "url": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T04:41:26.000Z",
-            "description": "One Golders Green resident told the BBC at the scene that he had heard an \"explosion\" shortly after 01:30 GMT.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d27b/live/605e0e20-2672-11f1-b297-95b0a0a8331e.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cx230em8jg7o?at_medium=RSS&at_campaign=rss",
-            "title": "Prince William keen to build 'strong and meaningful' bond with Church",
-            "url": "https://www.bbc.com/news/articles/cx230em8jg7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T20:59:37.000Z",
-            "description": "An aide to the prince says his commitment to the Church of England is \"sometimes quieter\" than expected.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff4b/live/141340c0-2619-11f1-a79a-77e93010d956.jpg",
-            "categories": []
-          }
-        ],
-        "Natural disasters and environmental issues": [
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/czxrdxn6qwqo?at_medium=RSS&at_campaign=rss",
-            "title": "Hawaii storms have caused $1bn in damage, governor says",
-            "url": "https://www.bbc.com/news/articles/czxrdxn6qwqo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T20:24:27.000Z",
-            "description": "The full scale of the damages to roads and other infrastructure from rain and flooding in the state must still be assessed, Gov Josh Green says.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b17/live/8ccc1860-2624-11f1-aad6-2d605a562384.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cm28jj22kg3o?at_medium=RSS&at_campaign=rss",
-            "title": "Grisly or just country life? The mole photos dividing social media",
-            "url": "https://www.bbc.com/news/articles/cm28jj22kg3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T00:05:18.000Z",
-            "description": "A hill walker shares a snap of moles hanging on barbed wire and is surprised by the huge response.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95d2/live/18ae57a0-1ca0-11f1-9120-a910fc22c6ac.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cre1jly1ny2o?at_medium=RSS&at_campaign=rss",
-            "title": "How an island became ferret free  - thanks, in part, to Woody the wonderdog",
-            "url": "https://www.bbc.com/news/articles/cre1jly1ny2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T00:00:16.000Z",
-            "description": "More than 400 traps were laid across the island in a £4.5m project which featured a specially-trained detection dog called Woody.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e2a/live/16598810-25e9-11f1-a3f0-379050aefd37.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/cuba-begins-recovery-efforts-after-second-grid-collapse-in-a-week",
-            "title": "Cuba Begins Recovery Efforts After Second Grid Collapse In A Week",
-            "url": "https://www.dailywire.com/news/cuba-begins-recovery-efforts-after-second-grid-collapse-in-a-week",
+            "id": "Daily Wire:https://www.dailywire.com/news/new-photos-reveal-devastation-inside-michigan-synagogue-after-hezbollah-linked-terror-attack",
+            "title": "New Photos Reveal Devastation Inside Michigan Synagogue After Hezbollah-Linked Terror Attack",
+            "url": "https://www.dailywire.com/news/new-photos-reveal-devastation-inside-michigan-synagogue-after-hezbollah-linked-terror-attack",
             "source": "Daily Wire",
-            "publishedAt": "2026-03-22T10:45:44.000Z",
-            "description": "Cuba said it had begun efforts early on Sunday to restore power after its grid collapsed for the second time in a week amid a U.S. oil blockade that has dealt a major blow to the island’s already ailing energy infrastructure. The grid collapsed Saturday evening at 6:32 p.m. (2232 GMT) after a major power ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267361143-scaled.jpeg",
+            "publishedAt": "2026-03-20T12:35:34.000Z",
+            "description": "Newly released photos show the extent of destruction inside Temple Israel in West Bloomfield, Michigan, following last week’s Hezbollah-linked terrorist attack. Images obtained by The Daily Wire and released by the synagogue capture a burned-out truck lodged at the end of a hallway, debris scattered across the floor, and sprinkler water pooling around a child’s red ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Bebas-Neue-4.png",
             "categories": []
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/22/us/meteorite-crash-texas-home.html",
-            "title": "Meteorite Crashes Through Roof of House Near Houston",
-            "url": "https://www.nytimes.com/2026/03/22/us/meteorite-crash-texas-home.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-22T19:41:02.000Z",
-            "description": "No one was injured, but a woman was startled on Saturday when a meteorite pierced the roof of her home, ricocheted off the floor and struck a bedroom ceiling.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/24/multimedia/24xp-meteor-print/22xp-meteorite1-mediumSquareAt3X.jpg",
-            "categories": [
-              "Meteors and Meteorites",
-              "Harris County (Tex)",
-              "Texas"
-            ]
-          },
+          }
+        ],
+        "US Weather and Environmental Events": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/22/us/heat-wave-air-conditioning-california-utah-colorado-oklahoma.html",
             "title": "Heat Wave in California and Other Western States Wilts a More Air-Conditioned U.S.",
@@ -3770,24 +3751,105 @@
               "San Francisco (Calif)",
               "Seattle (Wash)"
             ]
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/22/us/meteorite-crash-texas-home.html",
+            "title": "Meteorite Crashes Through Roof of House Near Houston",
+            "url": "https://www.nytimes.com/2026/03/22/us/meteorite-crash-texas-home.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-22T19:41:02.000Z",
+            "description": "No one was injured, but a woman was startled on Saturday when a meteorite pierced the roof of her home, ricocheted off the floor and struck a bedroom ceiling.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/24/multimedia/24xp-meteor-print/22xp-meteorite1-mediumSquareAt3X.jpg",
+            "categories": [
+              "Meteors and Meteorites",
+              "Harris County (Tex)",
+              "Texas"
+            ]
           }
         ],
-        "Culture, lifestyle, and notable obituaries": [
+        "Politics, Social Issues, and Cultural Commentary": [
           {
-            "id": "New York Times:https://www.nytimes.com/2026/03/22/opinion/fashion-odesa-ukraine-war.html",
-            "title": "In Odesa, Dressing Up Is Living",
-            "url": "https://www.nytimes.com/2026/03/22/opinion/fashion-odesa-ukraine-war.html",
+            "id": "New York Times:https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
+            "title": "Mette Frederiksen Changed Denmark",
+            "url": "https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
             "source": "New York Times",
-            "publishedAt": "2026-03-22T18:05:18.000Z",
-            "description": "In Odesa, the older generation continues to dress up, showing people’s determination to carry on despite the blows of history.",
-            "imageUrl": "https://static01.nyt.com/images/2026/02/08/multimedia/08synenko-topart-lfqb/08synenko-topart-lfqb-mediumSquareAt3X-v3.jpg",
+            "publishedAt": "2026-03-23T05:00:04.000Z",
+            "description": "Whatever Mette Frederiksen does next, Denmark has fundamentally changed.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23krasnik-fmbk/23krasnik-fmbk-mediumSquareAt3X-v2.jpg",
             "categories": [
-              "Russian Invasion of Ukraine (2022)",
-              "Fashion and Apparel",
-              "Elderly",
-              "Odessa (Ukraine)",
-              "Ukraine"
+              "Denmark",
+              "Frederiksen, Mette"
             ]
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/c78j8vk3r50o?at_medium=RSS&at_campaign=rss",
+            "title": "How a ban on religious symbols has triggered a Canadian constitutional debate",
+            "url": "https://www.bbc.com/news/articles/c78j8vk3r50o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T00:21:25.000Z",
+            "description": "Quebec's law to regulate religious symbols goes to the Supreme Court in a constitutional test case.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeaf/live/6a3723d0-22f0-11f1-86e6-55be72f96bf5.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/c75kne7qdy6o?at_medium=RSS&at_campaign=rss",
+            "title": "Call to cancel threat of prison for council tax non-payment",
+            "url": "https://www.bbc.com/news/articles/c75kne7qdy6o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T00:02:52.000Z",
+            "description": "Debt charity StepChange says there are clear differences between councils when chasing unpaid tax.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5789/live/94d69660-2454-11f1-867b-39349a954f0b.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cm28jj22kg3o?at_medium=RSS&at_campaign=rss",
+            "title": "Grisly or just country life? The mole photos dividing social media",
+            "url": "https://www.bbc.com/news/articles/cm28jj22kg3o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T00:05:18.000Z",
+            "description": "A hill walker shares a snap of moles hanging on barbed wire and is surprised by the huge response.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95d2/live/18ae57a0-1ca0-11f1-9120-a910fc22c6ac.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cx230em8jg7o?at_medium=RSS&at_campaign=rss",
+            "title": "Prince William keen to build 'strong and meaningful' bond with Church",
+            "url": "https://www.bbc.com/news/articles/cx230em8jg7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T20:59:37.000Z",
+            "description": "An aide to the prince says his commitment to the Church of England is \"sometimes quieter\" than expected.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff4b/live/141340c0-2619-11f1-a79a-77e93010d956.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/its-drawing-tons-of-young-men-but-the-reality-doesnt-match-the-pitch",
+            "title": "It’s Drawing Tons Of Young Men — But The Reality Doesn’t Match The Pitch",
+            "url": "https://www.dailywire.com/news/its-drawing-tons-of-young-men-but-the-reality-doesnt-match-the-pitch",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-22T08:00:50.000Z",
+            "description": "This article is part of Upstream, The Daily Wire’s new home for culture and lifestyle. Real human insight and human stories — from our featured writers to you. *** My wife and I don’t watch porn, and certainly not together, but it sure felt like we were when we sat down to watch “Inside the Manosphere,” a ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2246706362-scaled.jpeg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/the-lie-making-young-men-miserable",
+            "title": "The Lie Making Young Men Miserable",
+            "url": "https://www.dailywire.com/news/the-lie-making-young-men-miserable",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-21T05:00:22.000Z",
+            "description": "America’s age of unaccountability was supposed to free its inhabitants of the shackles of stress, sorrow, and self-loathing. Instead, it has tightened them. A survey of 2,000 young men between the ages of 18 and 29 conducted by the Institute for Family Studies (ISF) found that 42% of young men say, “All in all, I ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-606671220.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/why-kicking-your-kids-out-at-18-is-actually-insane",
+            "title": "Why Kicking Your Kids Out At 18 Is Actually Insane",
+            "url": "https://www.dailywire.com/news/why-kicking-your-kids-out-at-18-is-actually-insane",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T17:54:50.000Z",
+            "description": "A few days ago I did something you’re not supposed to do on social media: I changed my mind about something. In particular, I had a change of heart on an issue that’s very contentious for millions of people. I wrote that, while I used to be in the camp that said you should kick ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2191706482.jpg",
+            "categories": []
           },
           {
             "id": "Daily Wire:https://www.dailywire.com/news/taylor-frankie-paul-caught-on-camera-attacking-boyfriend-what-it-says-about-who-we-believe",
@@ -3807,168 +3869,6 @@
             "publishedAt": "2026-03-20T13:01:23.000Z",
             "description": "This article is part of Upstream, The Daily Wire’s new home for culture and lifestyle. Real human insight and human stories — from our featured writers to you. *** Chuck Norris has died, and if I’m being honest, I thought death would die first. For my generation, Norris wasn’t just a man; he was a legend. The ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-97671203.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/the-lie-making-young-men-miserable",
-            "title": "The Lie Making Young Men Miserable",
-            "url": "https://www.dailywire.com/news/the-lie-making-young-men-miserable",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-21T05:00:22.000Z",
-            "description": "America’s age of unaccountability was supposed to free its inhabitants of the shackles of stress, sorrow, and self-loathing. Instead, it has tightened them. A survey of 2,000 young men between the ages of 18 and 29 conducted by the Institute for Family Studies (ISF) found that 42% of young men say, “All in all, I ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-606671220.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/its-drawing-tons-of-young-men-but-the-reality-doesnt-match-the-pitch",
-            "title": "It’s Drawing Tons Of Young Men — But The Reality Doesn’t Match The Pitch",
-            "url": "https://www.dailywire.com/news/its-drawing-tons-of-young-men-but-the-reality-doesnt-match-the-pitch",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-22T08:00:50.000Z",
-            "description": "This article is part of Upstream, The Daily Wire’s new home for culture and lifestyle. Real human insight and human stories — from our featured writers to you. *** My wife and I don’t watch porn, and certainly not together, but it sure felt like we were when we sat down to watch “Inside the Manosphere,” a ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2246706362-scaled.jpeg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/the-part-of-childhood-the-no-gift-trend-misses",
-            "title": "The Part Of Childhood The No-Gift Trend Misses",
-            "url": "https://www.dailywire.com/news/the-part-of-childhood-the-no-gift-trend-misses",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-21T08:42:01.000Z",
-            "description": "This article is part of Upstream, The Daily Wire’s new home for culture and lifestyle. Real human insight and human stories — from our featured writers to you. *** It’s become a running joke that millennials are obsessed with minimalism to the point of living in empty, sad gray-walled homes with white kitchens and zero personality. What ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-1205283048.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/why-kicking-your-kids-out-at-18-is-actually-insane",
-            "title": "Why Kicking Your Kids Out At 18 Is Actually Insane",
-            "url": "https://www.dailywire.com/news/why-kicking-your-kids-out-at-18-is-actually-insane",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T17:54:50.000Z",
-            "description": "A few days ago I did something you’re not supposed to do on social media: I changed my mind about something. In particular, I had a change of heart on an issue that’s very contentious for millions of people. I wrote that, while I used to be in the camp that said you should kick ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2191706482.jpg",
-            "categories": []
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/21/nyregion/hamptons-private-chef-summer.html",
-            "title": "The ‘Hunger Games,’ Hamptons-Style: Hiring a Private Chef for Summer",
-            "url": "https://www.nytimes.com/2026/03/21/nyregion/hamptons-private-chef-summer.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-22T17:38:04.000Z",
-            "description": "On New York’s eastern shore, the wealthy are already competing to secure a chef for the season.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/29/nyregion/29met-hamptons-hunger-games-01-zhqk/29met-hamptons-hunger-games-01-zhqk-mediumSquareAt3X-v2.jpg",
-            "categories": [
-              "Hamptons (NY)",
-              "Chefs",
-              "High Net Worth Individuals",
-              "Luxury Goods and Services",
-              "Cooking and Cookbooks",
-              "Summer (Season)",
-              "Kitchens"
-            ]
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/22/obituaries/j-michael-bishop-dead.html",
-            "title": "J. Michael Bishop, Nobel Prize Winner for Cancer Research, Dies at 90",
-            "url": "https://www.nytimes.com/2026/03/22/obituaries/j-michael-bishop-dead.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-22T19:00:02.000Z",
-            "description": "He helped discover cancer-causing genes. Later, as chancellor of the University of California, San Francisco, he led a major expansion.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/22/obituaries/22bishop-obit-0001/22bishop-obit-0001-mediumSquareAt3X.jpg",
-            "categories": [
-              "Michael Bishop, J",
-              "Deaths (Obituaries)",
-              "Cancer",
-              "Genetics and Heredity",
-              "Research",
-              "Nobel Prizes",
-              "Colleges and Universities",
-              "University of California, San Francisco",
-              "Varmus, Harold E"
-            ]
-          }
-        ],
-        "Other Coverage": [
-          {
-            "id": "Fox News:https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests",
-            "title": "9 suspects arrested after $7M in stolen cargo seized in Southern California bust",
-            "url": "https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests",
-            "source": "Fox News",
-            "publishedAt": "2026-03-23T04:16:50.000Z",
-            "description": "Nine suspects were arrested after authorities recovered $7 million in stolen cargo and $1 million in cash as part of a cargo theft bust in California.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/la-county-7-million-dollar-theft-retail-appliances.png?ve=1&tl=1",
-            "categories": [
-              "7a182d23-6604-570e-bd27-00048dc025a4",
-              "fnc",
-              "Fox News",
-              "fox-news/us/us-regions/west/california",
-              "fox-news/us",
-              "fox-news/us/los-angeles",
-              "fox-news/crime",
-              "fox-news/us/crime/police-and-law-enforcement",
-              "fox-news/us/crime/robbery-theft",
-              "fox-news/us",
-              "article"
-            ]
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&at_campaign=rss",
-            "title": "Apology for poor care over boy's bleed death",
-            "url": "https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T03:01:09.000Z",
-            "description": "Three-year-old Aarav Chopra died during a biopsy when his artery was pierced by a trainee doctor.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3535/live/02d08300-1e5c-11f1-a1da-edae1d05dd8e.png",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cn0wd20k0xeo?at_medium=RSS&at_campaign=rss",
-            "title": "The Papers: 'Trump raises stakes' and 'Tend it like Beckham'",
-            "url": "https://www.bbc.com/news/articles/cn0wd20k0xeo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T01:17:59.000Z",
-            "description": "The 'new escalatory phase' of the war in the Middle East is a focus of several papers today.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7ac/live/b0d92e40-2648-11f1-a79a-77e93010d956.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/sport/football/articles/c2k3dwng90go?at_medium=RSS&at_campaign=rss",
-            "title": "'Impossible for him to stay' - what next for Tudor and Tottenham?",
-            "url": "https://www.bbc.com/sport/football/articles/c2k3dwng90go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T17:45:26.000Z",
-            "description": "How does boss Igor Tudor survive at Tottenham after another damaging defeat? Nick Mashiter analyses the situation.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e7d/live/99741e50-264c-11f1-934f-036468834728.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.co.uk/sounds/play/p0n6h0r8?at_medium=RSS&at_campaign=rss",
-            "title": "Is Iran Capable of Hitting the UK?",
-            "url": "https://www.bbc.co.uk/sounds/play/p0n6h0r8?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T13:57:00.000Z",
-            "description": "Israel claims Iranian missiles ‘can reach London, Paris or Berlin’.",
-            "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/video-iranian-missile-screams-over-israel-explosion-injures-dozens",
-            "title": "VIDEO: Iranian Missile Screams Over Israel, Explosion Injures Dozens, Including Children",
-            "url": "https://www.dailywire.com/news/video-iranian-missile-screams-over-israel-explosion-injures-dozens",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-21T19:07:27.000Z",
-            "description": "A missile rips through the night sky — then a blinding fireball engulfs the scene as the strike hits, all caught on video. The strike left around 75 people injured in Arad, including 10 who were seriously hurt and rushed to a hospital in Beersheba, according to The Jerusalem Post. Arad Mayor Yair Ma’ayan said ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Mar-21-2026-08_44_12-PM.jpeg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/trump-reacts-to-death-of-robert-mueller-sparks-media-firestorm",
-            "title": "Trump Reacts To Death Of Robert Mueller, Sparks Media Firestorm",
-            "url": "https://www.dailywire.com/news/trump-reacts-to-death-of-robert-mueller-sparks-media-firestorm",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-21T16:02:29.000Z",
-            "description": "President Donald Trump took no time taking shots at Robert Mueller, who died at the age of 81, his family announced on Saturday. “With deep sadness, we are sharing the news that Bob passed away last night. His family asks that their privacy be respected,” the family said in a statement. Mueller had reportedly been ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2019/11/GettyImages-1157538890.jpg",
             "categories": []
           },
           {
@@ -3992,6 +3892,116 @@
             "categories": []
           },
           {
+            "id": "Daily Wire:https://www.dailywire.com/news/restaurant-that-booted-sarah-sanders-responds-as-staff-contradict-their-own-story",
+            "title": "Restaurant That Booted Sarah Sanders Responds As Staff Contradict Their Own Story",
+            "url": "https://www.dailywire.com/news/restaurant-that-booted-sarah-sanders-responds-as-staff-contradict-their-own-story",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T13:00:07.000Z",
+            "description": "The Arkansas restaurant that kicked the state’s governor, Sarah Huckabee Sanders, out, citing concerns that employees were threatened by her presence, has responded to the firestorm, with employees digging in even as ownership says politics had nothing to do with it. Hours after The Daily Wire revealed the details of the incident at The Croissanterie ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Arkansas_Restaurant_response.jpeg",
+            "categories": []
+          }
+        ],
+        "Other Coverage": [
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&at_campaign=rss",
+            "title": "Apology for poor care over boy's bleed death",
+            "url": "https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T03:01:09.000Z",
+            "description": "Three-year-old Aarav Chopra died during a biopsy when his artery was pierced by a trainee doctor.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3535/live/02d08300-1e5c-11f1-a1da-edae1d05dd8e.png",
+            "categories": []
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/22/obituaries/j-michael-bishop-dead.html",
+            "title": "J. Michael Bishop, Nobel Prize Winner for Cancer Research, Dies at 90",
+            "url": "https://www.nytimes.com/2026/03/22/obituaries/j-michael-bishop-dead.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-22T19:00:02.000Z",
+            "description": "He helped discover cancer-causing genes. Later, as chancellor of the University of California, San Francisco, he led a major expansion.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/22/obituaries/22bishop-obit-0001/22bishop-obit-0001-mediumSquareAt3X.jpg",
+            "categories": [
+              "Michael Bishop, J",
+              "Deaths (Obituaries)",
+              "Cancer",
+              "Genetics and Heredity",
+              "Research",
+              "Nobel Prizes",
+              "Colleges and Universities",
+              "University of California, San Francisco",
+              "Varmus, Harold E"
+            ]
+          },
+          {
+            "id": "BBC:https://www.bbc.com/sport/football/articles/c2k3dwng90go?at_medium=RSS&at_campaign=rss",
+            "title": "'Impossible for him to stay' - what next for Tudor and Tottenham?",
+            "url": "https://www.bbc.com/sport/football/articles/c2k3dwng90go?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T17:45:26.000Z",
+            "description": "How does boss Igor Tudor survive at Tottenham after another damaging defeat? Nick Mashiter analyses the situation.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e7d/live/99741e50-264c-11f1-934f-036468834728.jpg",
+            "categories": []
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/21/nyregion/hamptons-private-chef-summer.html",
+            "title": "The ‘Hunger Games,’ Hamptons-Style: Hiring a Private Chef for Summer",
+            "url": "https://www.nytimes.com/2026/03/21/nyregion/hamptons-private-chef-summer.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-22T17:38:04.000Z",
+            "description": "On New York’s eastern shore, the wealthy are already competing to secure a chef for the season.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/29/nyregion/29met-hamptons-hunger-games-01-zhqk/29met-hamptons-hunger-games-01-zhqk-mediumSquareAt3X-v2.jpg",
+            "categories": [
+              "Hamptons (NY)",
+              "Chefs",
+              "High Net Worth Individuals",
+              "Luxury Goods and Services",
+              "Cooking and Cookbooks",
+              "Summer (Season)",
+              "Kitchens"
+            ]
+          },
+          {
+            "id": "BBC:https://www.bbc.co.uk/sounds/play/p0n6h0r8?at_medium=RSS&at_campaign=rss",
+            "title": "Is Iran Capable of Hitting the UK?",
+            "url": "https://www.bbc.co.uk/sounds/play/p0n6h0r8?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T13:57:00.000Z",
+            "description": "Israel claims Iranian missiles ‘can reach London, Paris or Berlin’.",
+            "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/cuba-begins-recovery-efforts-after-second-grid-collapse-in-a-week",
+            "title": "Cuba Begins Recovery Efforts After Second Grid Collapse In A Week",
+            "url": "https://www.dailywire.com/news/cuba-begins-recovery-efforts-after-second-grid-collapse-in-a-week",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-22T10:45:44.000Z",
+            "description": "Cuba said it had begun efforts early on Sunday to restore power after its grid collapsed for the second time in a week amid a U.S. oil blockade that has dealt a major blow to the island’s already ailing energy infrastructure. The grid collapsed Saturday evening at 6:32 p.m. (2232 GMT) after a major power ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267361143-scaled.jpeg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/trump-reacts-to-death-of-robert-mueller-sparks-media-firestorm",
+            "title": "Trump Reacts To Death Of Robert Mueller, Sparks Media Firestorm",
+            "url": "https://www.dailywire.com/news/trump-reacts-to-death-of-robert-mueller-sparks-media-firestorm",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-21T16:02:29.000Z",
+            "description": "President Donald Trump took no time taking shots at Robert Mueller, who died at the age of 81, his family announced on Saturday. “With deep sadness, we are sharing the news that Bob passed away last night. His family asks that their privacy be respected,” the family said in a statement. Mueller had reportedly been ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2019/11/GettyImages-1157538890.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/the-part-of-childhood-the-no-gift-trend-misses",
+            "title": "The Part Of Childhood The No-Gift Trend Misses",
+            "url": "https://www.dailywire.com/news/the-part-of-childhood-the-no-gift-trend-misses",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-21T08:42:01.000Z",
+            "description": "This article is part of Upstream, The Daily Wire’s new home for culture and lifestyle. Real human insight and human stories — from our featured writers to you. *** It’s become a running joke that millennials are obsessed with minimalism to the point of living in empty, sad gray-walled homes with white kitchens and zero personality. What ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-1205283048.jpg",
+            "categories": []
+          },
+          {
             "id": "Daily Wire:https://www.dailywire.com/news/red-state-pauses-gas-tax-to-ease-pain-of-iran-war-price-increase",
             "title": "Red State Pauses Gas Tax To Ease Pain Of Iran War Price Increase",
             "url": "https://www.dailywire.com/news/red-state-pauses-gas-tax-to-ease-pain-of-iran-war-price-increase",
@@ -4002,23 +4012,13 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/restaurant-that-booted-sarah-sanders-responds-as-staff-contradict-their-own-story",
-            "title": "Restaurant That Booted Sarah Sanders Responds As Staff Contradict Their Own Story",
-            "url": "https://www.dailywire.com/news/restaurant-that-booted-sarah-sanders-responds-as-staff-contradict-their-own-story",
+            "id": "Daily Wire:https://www.dailywire.com/news/iranian-leaders-we-have-the-americans-exactly-where-we-want-them",
+            "title": "Iranian Leaders: We Have The Americans Exactly Where We Want Them",
+            "url": "https://www.dailywire.com/news/iranian-leaders-we-have-the-americans-exactly-where-we-want-them",
             "source": "Daily Wire",
-            "publishedAt": "2026-03-20T13:00:07.000Z",
-            "description": "The Arkansas restaurant that kicked the state’s governor, Sarah Huckabee Sanders, out, citing concerns that employees were threatened by her presence, has responded to the firestorm, with employees digging in even as ownership says politics had nothing to do with it. Hours after The Daily Wire revealed the details of the incident at The Croissanterie ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Arkansas_Restaurant_response.jpeg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/new-photos-reveal-devastation-inside-michigan-synagogue-after-hezbollah-linked-terror-attack",
-            "title": "New Photos Reveal Devastation Inside Michigan Synagogue After Hezbollah-Linked Terror Attack",
-            "url": "https://www.dailywire.com/news/new-photos-reveal-devastation-inside-michigan-synagogue-after-hezbollah-linked-terror-attack",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T12:35:34.000Z",
-            "description": "Newly released photos show the extent of destruction inside Temple Israel in West Bloomfield, Michigan, following last week’s Hezbollah-linked terrorist attack. Images obtained by The Daily Wire and released by the synagogue capture a burned-out truck lodged at the end of a hallway, debris scattered across the floor, and sprinkler water pooling around a child’s red ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Bebas-Neue-4.png",
+            "publishedAt": "2026-03-20T13:00:30.000Z",
+            "description": "According to the New York Times, a former newspaper, American forces are in deep trouble in Iran as the wily Iranians continue to attack our bombs with their leaders. According to the Times Middle East Bureau Chief, Omar Jihad Mohammed Jihad Jihad Mohammed, wave after wave of American bomb and missile attacks have been repelled ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2245821061.jpg",
             "categories": []
           }
         ]
@@ -4027,13 +4027,61 @@
   },
   "latestArticles": [
     {
+      "id": "New York Times:https://www.nytimes.com/2026/03/23/nyregion/laguardia-groundstop-flights.html",
+      "title": "Flights Are Halted at LaGuardia as New York Fire Department Responds to Incident",
+      "url": "https://www.nytimes.com/2026/03/23/nyregion/laguardia-groundstop-flights.html",
+      "source": "New York Times",
+      "publishedAt": "2026-03-23T05:23:56.000Z",
+      "description": "The Federal Aviation Administration ordered the closure early Monday, and the Fire Department said the reported runway incident involved a plane and a vehicle. No other details were immediately available.",
+      "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23xp-laguardia-wvhf/23xp-laguardia-wvhf-mediumSquareAt3X.jpg",
+      "categories": [
+        "Aviation Accidents, Safety and Disasters",
+        "Airports",
+        "Airlines and Airplanes",
+        "Traffic Accidents and Safety"
+      ]
+    },
+    {
       "id": "BBC:https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
-      "title": "Arson attack on ambulances in London being treated as antisemitic hate crime, Metropolitan Police says",
+      "title": "Four ambulances set on fire in London in suspected antisemitic hate crime",
       "url": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-03-23T04:41:26.000Z",
-      "description": "One Golders Green resident told the BBC at the scene that he had heard an \"explosion\" shortly after 01:30 GMT.",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d27b/live/605e0e20-2672-11f1-b297-95b0a0a8331e.jpg",
+      "publishedAt": "2026-03-23T05:17:00.000Z",
+      "description": "Police said they were looking for three suspects after the London Fire Brigade were called to Golders Green at around 01:40 GMT.",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed98/live/2d35cba0-2677-11f1-b297-95b0a0a8331e.jpg",
+      "categories": []
+    },
+    {
+      "id": "BBC:https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+      "title": "Asia stocks slide as US and Iran threaten to intensify war",
+      "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-03-23T05:12:14.000Z",
+      "description": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg",
+      "categories": []
+    },
+    {
+      "id": "New York Times:https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
+      "title": "Mette Frederiksen Changed Denmark",
+      "url": "https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
+      "source": "New York Times",
+      "publishedAt": "2026-03-23T05:00:04.000Z",
+      "description": "Whatever Mette Frederiksen does next, Denmark has fundamentally changed.",
+      "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23krasnik-fmbk/23krasnik-fmbk-mediumSquareAt3X-v2.jpg",
+      "categories": [
+        "Denmark",
+        "Frederiksen, Mette"
+      ]
+    },
+    {
+      "id": "BBC:https://www.bbc.com/news/articles/c9d4l5pq73yo?at_medium=RSS&at_campaign=rss",
+      "title": "BTS agency shares drop after comeback show turnout falls short",
+      "url": "https://www.bbc.com/news/articles/c9d4l5pq73yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-03-23T04:39:03.000Z",
+      "description": "The concert was attended by an estimated 104,000 fans, much lower than the expected 260,000.",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d0/live/cd6f4f20-2671-11f1-9e3f-ab087b90124d.jpg",
       "categories": []
     },
     {
@@ -4178,65 +4226,6 @@
         "Homeland Security Department",
         "Transportation Security Administration",
         "United States"
-      ]
-    },
-    {
-      "id": "Fox News:https://www.foxnews.com/entertainment/jason-momoa-flees-hawaiian-home-dangerous-flooding",
-      "title": "Jason Momoa flees Hawaiian home amid dangerous flooding",
-      "url": "https://www.foxnews.com/entertainment/jason-momoa-flees-hawaiian-home-dangerous-flooding",
-      "source": "Fox News",
-      "publishedAt": "2026-03-23T03:03:09.000Z",
-      "description": "Jason Momoa evacuated O'ahu's North Shore amid historic Hawaii flooding, then distributed 200+ food plates to locals with girlfriend Adria Arjona.",
-      "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/08/931/523/jason-momoa-movie-premiere.jpg?ve=1&tl=1",
-      "categories": [
-        "9add3bd9-e6bb-5a56-8f39-d0ddcd0af39d",
-        "fnc",
-        "Fox News",
-        "fox-news/entertainment",
-        "fox-news/entertainment/movies",
-        "fox-news/entertainment/tv",
-        "fox-news/person/jason-momoa",
-        "fox-news/entertainment",
-        "article"
-      ]
-    },
-    {
-      "id": "BBC:https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&at_campaign=rss",
-      "title": "Apology for poor care over boy's bleed death",
-      "url": "https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-03-23T03:01:09.000Z",
-      "description": "Three-year-old Aarav Chopra died during a biopsy when his artery was pierced by a trainee doctor.",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3535/live/02d08300-1e5c-11f1-a1da-edae1d05dd8e.png",
-      "categories": []
-    },
-    {
-      "id": "BBC:https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-      "title": "Asia stocks slide as US and Iran threaten to intensify war",
-      "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-03-23T03:00:32.000Z",
-      "description": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg",
-      "categories": []
-    },
-    {
-      "id": "New York Times:https://www.nytimes.com/2026/03/22/climate/energy-imbalance-un-report.html",
-      "title": "U.N. Climate Report Finds Growing Energy Imbalance on Earth",
-      "url": "https://www.nytimes.com/2026/03/22/climate/energy-imbalance-un-report.html",
-      "source": "New York Times",
-      "publishedAt": "2026-03-23T03:00:04.000Z",
-      "description": "The continued burning of fossil fuels is locking heat in Earth’s atmosphere, oceans and land — instead of allowing it to reflect back into space, a new report finds.",
-      "imageUrl": "https://static01.nyt.com/images/2026/03/23/science/23cli-imblance/23cli-imblance-mediumSquareAt3X.jpg",
-      "categories": [
-        "Global Warming",
-        "Research",
-        "Greenhouse Gas Emissions",
-        "Earth",
-        "Oceans and Seas",
-        "Carbon Dioxide",
-        "World Meteorological Organization",
-        "United Nations"
       ]
     }
   ]
