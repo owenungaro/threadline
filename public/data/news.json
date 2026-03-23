@@ -1,15 +1,38 @@
 {
-  "generatedAt": "2026-03-23T06:26:18.943Z",
+  "generatedAt": "2026-03-23T07:30:45.714Z",
   "stats": {
-    "articleCount": 144,
+    "articleCount": 141,
     "sourceCount": 5,
     "topicCount": 8
   },
   "topics": {
     "Politics": {
-      "articleCount": 33,
+      "articleCount": 34,
       "sourceCount": 5,
       "articles": [
+        {
+          "id": "Fox News:https://www.foxnews.com/media/why-judge-eviscerating-pentagon-rules-censoring-punishing-journalists-victory-press",
+          "title": "Why a judge eviscerating the Pentagon rules for censoring and punishing journalists is a victory for the press",
+          "url": "https://www.foxnews.com/media/why-judge-eviscerating-pentagon-rules-censoring-punishing-journalists-victory-press",
+          "source": "Fox News",
+          "publishedAt": "2026-03-23T07:00:30.000Z",
+          "description": "A federal judge overturned Pentagon press restrictions that evicted major news outlets, ruling the policy violated First Amendment press freedom rights.",
+          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/defense-secretary-pete-hegseth-pentagon-dc-03-19-2026-fox-news.jpg?ve=1&tl=1",
+          "categories": [
+            "f0e196a5-c36e-5f61-aeee-f922a8d75a4e",
+            "fnc",
+            "Fox News",
+            "fox-news/columns/media-buzz",
+            "fox-news/tech/topics/pentagon",
+            "fox-news/us/military",
+            "fox-news/politics/defense/wars/war-with-iran",
+            "fox-news/person/pete-hegseth",
+            "fox-news/person/donald-trump",
+            "fox-news/politics",
+            "fox-news/media",
+            "article"
+          ]
+        },
         {
           "id": "BBC:https://www.bbc.com/news/articles/cdxk6dqqp1qo?at_medium=RSS&at_campaign=rss",
           "title": "Plan to scrap most short jail terms comes into effect",
@@ -181,7 +204,7 @@
           "source": "New York Times",
           "publishedAt": "2026-03-23T00:11:18.000Z",
           "description": "After speaking alongside city officials in Paterson, N.J., Leqaa Kordia, who was recently released after a year in ICE detention, led a crowd in chants of “globalize the intifada.”",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22met-kordia-01-gvmp/22met-kordia-01-gvmp-mediumSquareAt3X.jpg",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22met-kordia-01-gvmp/22met-kordia-01-gvmp-mediumSquareAt3X-v2.jpg",
           "categories": [
             "Palestinian-Americans",
             "Immigration Detention",
@@ -239,7 +262,7 @@
         },
         {
           "id": "BBC:https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
-          "title": "France's Socialists hold onto power in major cities in election boost for mainstream",
+          "title": "France's Socialists hold on to power in major cities in election boost for mainstream",
           "url": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "publishedAt": "2026-03-22T23:27:59.000Z",
@@ -541,7 +564,72 @@
         }
       ],
       "subtopics": {
-        "US Politics: Trump and GOP Moves and Controversies": [
+        "US Political Controversies and Legal Battles": [
+          {
+            "id": "Fox News:https://www.foxnews.com/media/why-judge-eviscerating-pentagon-rules-censoring-punishing-journalists-victory-press",
+            "title": "Why a judge eviscerating the Pentagon rules for censoring and punishing journalists is a victory for the press",
+            "url": "https://www.foxnews.com/media/why-judge-eviscerating-pentagon-rules-censoring-punishing-journalists-victory-press",
+            "source": "Fox News",
+            "publishedAt": "2026-03-23T07:00:30.000Z",
+            "description": "A federal judge overturned Pentagon press restrictions that evicted major news outlets, ruling the policy violated First Amendment press freedom rights.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/defense-secretary-pete-hegseth-pentagon-dc-03-19-2026-fox-news.jpg?ve=1&tl=1",
+            "categories": [
+              "f0e196a5-c36e-5f61-aeee-f922a8d75a4e",
+              "fnc",
+              "Fox News",
+              "fox-news/columns/media-buzz",
+              "fox-news/tech/topics/pentagon",
+              "fox-news/us/military",
+              "fox-news/politics/defense/wars/war-with-iran",
+              "fox-news/person/pete-hegseth",
+              "fox-news/person/donald-trump",
+              "fox-news/politics",
+              "fox-news/media",
+              "article"
+            ]
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/us/medicare-fraud-azerbaijan-suspect-90m-doj",
+            "title": "Man charged in $90M Medicare fraud scheme; DOJ says suspect may have entered US illegally",
+            "url": "https://www.foxnews.com/us/medicare-fraud-azerbaijan-suspect-90m-doj",
+            "source": "Fox News",
+            "publishedAt": "2026-03-23T02:29:51.000Z",
+            "description": "A former California resident has been indicted on federal health care fraud charges for allegedly submitting $90 million in false Medicare Advantage claims.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/trump-bondi2.png?ve=1&tl=1",
+            "categories": [
+              "a5cb36e1-9ef3-5d35-be3e-3f572f987352",
+              "fnc",
+              "Fox News",
+              "fox-news/politics/justice-department",
+              "fox-news/crime",
+              "fox-news/health/health-care",
+              "fox-news/politics/executive/law",
+              "fox-news/us/immigration",
+              "fox-news/us/immigration/illegal-immigrants",
+              "fox-news/us",
+              "article"
+            ]
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/media/scott-bessent-calls-out-terrible-framing-during-back-and-forth-nbc-news-host-iranian-oil",
+            "title": "Scott Bessent calls out 'terrible framing' during clash with NBC News host on Iranian oil",
+            "url": "https://www.foxnews.com/media/scott-bessent-calls-out-terrible-framing-during-back-and-forth-nbc-news-host-iranian-oil",
+            "source": "Fox News",
+            "publishedAt": "2026-03-23T01:00:42.000Z",
+            "description": "Scott Bessent accused NBC's Kristen Welker of \"terrible framing\" during an exchange about Iranian oil on Sunday, as the host pressed the treasury secretary on why the U.S. lifted sanctions.",
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/bessent-iran-oil-mtp.gif",
+            "categories": [
+              "af280c1e-b8fe-5361-9188-6da72cdd92eb",
+              "fnc",
+              "Fox News",
+              "fox-news/media",
+              "fox-news/person/donald-trump",
+              "fox-news/politics/defense/wars/war-with-iran",
+              "fox-news/person/scott-bessent",
+              "fox-news/media",
+              "article"
+            ]
+          },
           {
             "id": "Fox News:https://www.foxnews.com/media/jeffries-tells-trump-keep-his-reckless-mouth-shut-after-president-calls-democratic-party-greatest-enemy",
             "title": "Jeffries tells Trump to keep his 'reckless mouth shut' after president calls Democratic Party 'greatest enemy'",
@@ -561,6 +649,28 @@
               "fox-news/world/conflicts/iran",
               "fox-news/media",
               "article"
+            ]
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/23/us/politics/obama-strategist-biden-2016-election.html",
+            "title": "How Obama’s Strategist Discouraged Biden From Running in 2016",
+            "url": "https://www.nytimes.com/2026/03/23/us/politics/obama-strategist-biden-2016-election.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-23T04:01:05.000Z",
+            "description": "In a new set of oral histories, David Plouffe, President Barack Obama’s political adviser, described how he urged Vice President Joseph R. Biden Jr. not to challenge Hillary Clinton for the nomination.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23dc-obama-cmlt/23dc-obama-cmlt-mediumSquareAt3X.jpg",
+            "categories": [
+              "United States Politics and Government",
+              "Presidential Election of 2016",
+              "Polls and Public Opinion",
+              "Primaries and Caucuses",
+              "Miller Center",
+              "University of Virginia",
+              "Biden, Joseph R Jr",
+              "Clinton, Hillary Rodham",
+              "Obama, Barack",
+              "Plouffe, David",
+              "Trump, Donald J"
             ]
           },
           {
@@ -629,6 +739,90 @@
             ]
           },
           {
+            "id": "New York Times:https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html",
+            "title": "ICE to Help TSA at Airports Amid Partial Shutdown, Trump’s Border Czar Says",
+            "url": "https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-23T03:12:29.000Z",
+            "description": "Tom Homan, President Trump’s chief border official, cast the operation largely as one to help ease long security lines. The Homeland Security Department said 14 airports across the country would be involved.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22dc-homan-airports1-kvpl/22dc-homan-airports1-kvpl-mediumSquareAt3X.jpg",
+            "categories": [
+              "Airport Security",
+              "Illegal Immigration",
+              "United States Politics and Government",
+              "Shutdowns (Institutional)",
+              "Customs and Border Protection (US)",
+              "Trump, Donald J",
+              "Jeffries, Hakeem",
+              "Homan, Thomas D",
+              "Homeland Security Department",
+              "Transportation Security Administration",
+              "United States"
+            ]
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/22/nyregion/airports-tsa-delays-nyc.html",
+            "title": "At NYC Airports, Long TSA Lines and Frustrated Travelers",
+            "url": "https://www.nytimes.com/2026/03/22/nyregion/airports-tsa-delays-nyc.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-22T23:39:23.000Z",
+            "description": "The shortage of checkpoint workers created lines of at least three hours at LaGuardia Airport. Many passengers doubted ICE agents were the solution.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/22/nyregion/22MET-AIRPORTS-TSA/22MET-AIRPORTS-TSA-mediumSquareAt3X.jpg",
+            "categories": [
+              "Airports",
+              "Airport Security",
+              "Illegal Immigration",
+              "Shortages",
+              "United States Politics and Government",
+              "Government Employees",
+              "Shutdowns (Institutional)",
+              "Homeland Security Department",
+              "Immigration and Customs Enforcement (US)",
+              "Kennedy International Airport (Queens, NY)",
+              "LaGuardia Airport (Queens, NY)",
+              "Transportation Security Administration",
+              "Trump, Donald J",
+              "Queens (NYC)"
+            ]
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/22/your-money/taxes/federal-tax-protest-resistance.html",
+            "title": "They Want to Stop Paying Taxes as a Protest. There Are Consequences.",
+            "url": "https://www.nytimes.com/2026/03/22/your-money/taxes/federal-tax-protest-resistance.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-22T09:01:27.000Z",
+            "description": "Some tax resisters withhold a symbolic amount, but those who willfully refuse to file or pay could face civil or criminal penalties.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/22/business/22biz-tax-protest/22biz-tax-protest-mediumSquareAt3X.jpg",
+            "categories": [
+              "Personal Finances",
+              "Taxation",
+              "Federal Taxes (US)",
+              "Demonstrations, Protests and Riots"
+            ]
+          },
+          {
+            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5753842/politics-chat-trumps-mixed-messages-on-the-iran-war-the-latest-on-dhs-funding",
+            "title": "Politics chat: Trump's mixed messages on the Iran war, the latest on DHS funding",
+            "url": "https://www.npr.org/2026/03/22/nx-s1-5753842/politics-chat-trumps-mixed-messages-on-the-iran-war-the-latest-on-dhs-funding",
+            "source": "NPR",
+            "publishedAt": "2026-03-22T12:04:31.000Z",
+            "description": "We look at President Trump's mixed messages on the war with Iran, plus the latest on Department of Homeland Security funding, which Congress has frozen over his immigration enforcement policies.",
+            "imageUrl": null,
+            "categories": []
+          },
+          {
+            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5730370/democrats-who-won-big-in-last-novembers-general-election-are-grappling-with-reality",
+            "title": "Democrats who won big in last November's general election are grappling with reality",
+            "url": "https://www.npr.org/2026/03/22/nx-s1-5730370/democrats-who-won-big-in-last-novembers-general-election-are-grappling-with-reality",
+            "source": "NPR",
+            "publishedAt": "2026-03-22T12:09:00.000Z",
+            "description": "Some Democrats who were swept into office last November are grappling with the reality of governing. The new leader of Pennsylvania's Lehigh County says urgency is needed.",
+            "imageUrl": null,
+            "categories": []
+          }
+        ],
+        "International Diplomatic and Conflict Developments": [
+          {
             "id": "Fox News:https://www.foxnews.com/world/trump-starmer-agree-strait-hormuz-must-reopen-middle-east-conflict-escalates",
             "title": "Trump, Starmer agree Strait of Hormuz must reopen as Middle East conflict escalates",
             "url": "https://www.foxnews.com/world/trump-starmer-agree-strait-hormuz-must-reopen-middle-east-conflict-escalates",
@@ -649,59 +843,35 @@
             ]
           },
           {
-            "id": "New York Times:https://www.nytimes.com/2026/03/23/us/politics/obama-strategist-biden-2016-election.html",
-            "title": "How Obama’s Strategist Discouraged Biden From Running in 2016",
-            "url": "https://www.nytimes.com/2026/03/23/us/politics/obama-strategist-biden-2016-election.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-23T04:01:05.000Z",
-            "description": "In a new set of oral histories, David Plouffe, President Barack Obama’s political adviser, described how he urged Vice President Joseph R. Biden Jr. not to challenge Hillary Clinton for the nomination.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23dc-obama-cmlt/23dc-obama-cmlt-mediumSquareAt3X.jpg",
+            "id": "Fox News:https://www.foxnews.com/media/cuban-official-reveals-military-preparing-conflict-after-trump-considers-taking-island",
+            "title": "Cuban official reveals military 'preparing' for conflict after Trump considers 'taking' island",
+            "url": "https://www.foxnews.com/media/cuban-official-reveals-military-preparing-conflict-after-trump-considers-taking-island",
+            "source": "Fox News",
+            "publishedAt": "2026-03-22T21:00:18.000Z",
+            "description": "Cuba's deputy foreign minister says the island is preparing for 'possible military aggression' amid Trump's remarks about 'taking' the nation in some form.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/cuban-flag-at-protest.png?ve=1&tl=1",
             "categories": [
-              "United States Politics and Government",
-              "Presidential Election of 2016",
-              "Polls and Public Opinion",
-              "Primaries and Caucuses",
-              "Miller Center",
-              "University of Virginia",
-              "Biden, Joseph R Jr",
-              "Clinton, Hillary Rodham",
-              "Obama, Barack",
-              "Plouffe, David",
-              "Trump, Donald J"
+              "f5b2ed86-f048-5e82-91bd-27eaaf088578",
+              "fnc",
+              "Fox News",
+              "fox-news/media",
+              "fox-news/world/world-regions/cuba",
+              "fox-news/person/donald-trump",
+              "fox-news/politics/foreign-policy",
+              "fox-news/media",
+              "article"
             ]
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/president-trump-drops-the-greatest-one-liner-in-press-conference-history",
-            "title": "President Trump Drops The Greatest One Liner In Press Conference History",
-            "url": "https://www.dailywire.com/news/president-trump-drops-the-greatest-one-liner-in-press-conference-history",
+            "id": "Daily Wire:https://www.dailywire.com/news/cuba-prepares-for-possible-u-s-military-action-as-tensions-surge",
+            "title": "Cuba Prepares For Possible U.S. Military Action As Tensions Surge",
+            "url": "https://www.dailywire.com/news/cuba-prepares-for-possible-u-s-military-action-as-tensions-surge",
             "source": "Daily Wire",
-            "publishedAt": "2026-03-20T18:51:13.000Z",
-            "description": "The following is an edited transcript excerpt from The Michael Knowles Show. * * * President Trump just gave the finest one liner in the history of press conferences. So here is President Trump, sitting in the Oval Office yesterday with the Japanese prime minister, who seems to adore him. When she arrives at the ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2266853932.jpg",
+            "publishedAt": "2026-03-22T12:20:09.000Z",
+            "description": "Cuba is preparing for the possibility of military conflict with the United States, a top Cuban official warned Sunday, as tensions between the two countries continue to escalate. “Our military is always prepared, and in fact it is preparing these days for the possibility of military aggression,” Cuban Deputy Foreign Minister Carlos Fernández de Cossío ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2023/09/GettyImages-1487142782-scaled-e1693947665523.jpg",
             "categories": []
           },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/former-fbi-director-robert-mueller-dead-at-81",
-            "title": "Former FBI Director Robert Mueller Dead At 81",
-            "url": "https://www.dailywire.com/news/former-fbi-director-robert-mueller-dead-at-81",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-21T12:54:38.000Z",
-            "description": "Former FBI director Robert Mueller, whose investigation into President Donald Trump’s first presidential campaign made him a Democratic hero, is dead at 81. As special counsel, Mueller led the probe into whether there was Russian interference in the 2016 presidential election. The investigation, which took place during Trump’s first term, earned Mueller praise from Trump’s ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2019/09/robert_mueller-3-e1604337695833.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.co.uk/sounds/play/p0n7dqvy?at_medium=RSS&at_campaign=rss",
-            "title": "Trump threatens TV networks over unpatriotic Iran coverage",
-            "url": "https://www.bbc.co.uk/sounds/play/p0n7dqvy?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-18T18:02:00.000Z",
-            "description": "And why has top counterterrorism official Joe Kent resigned?",
-            "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg",
-            "categories": []
-          }
-        ],
-        "Elections and Political Movements in Europe and Denmark": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/23/world/asia/denmark-elections-frederiksen-hometown.html",
             "title": "In Denmark’s Election, How Will the Woman Who Took On Trump Fare?",
@@ -751,7 +921,7 @@
           },
           {
             "id": "BBC:https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
-            "title": "France's Socialists hold onto power in major cities in election boost for mainstream",
+            "title": "France's Socialists hold on to power in major cities in election boost for mainstream",
             "url": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
             "publishedAt": "2026-03-22T23:27:59.000Z",
@@ -768,228 +938,19 @@
             "description": "Six sites have been deprioritised from the flagship scheme to build a wave of new settlements.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9515/live/22ccdce0-2626-11f1-aad6-2d605a562384.jpg",
             "categories": []
-          }
-        ],
-        "US Immigration and Enforcement Issues": [
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/22/nyregion/columbia-protester-palestinian-ice-detention-new-jersey.html",
-            "title": "Pro-Palestinian Activists Rally in Support of Freed Columbia Protester",
-            "url": "https://www.nytimes.com/2026/03/22/nyregion/columbia-protester-palestinian-ice-detention-new-jersey.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-23T00:11:18.000Z",
-            "description": "After speaking alongside city officials in Paterson, N.J., Leqaa Kordia, who was recently released after a year in ICE detention, led a crowd in chants of “globalize the intifada.”",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22met-kordia-01-gvmp/22met-kordia-01-gvmp-mediumSquareAt3X.jpg",
-            "categories": [
-              "Palestinian-Americans",
-              "Immigration Detention",
-              "Pro-Palestinian Campus Protests (2023- )",
-              "Demonstrations, Protests and Riots",
-              "Immigration and Customs Enforcement (US)",
-              "Kordia, Leqaa",
-              "Sayegh, Andre",
-              "Paterson (NJ)"
-            ]
           },
           {
-            "id": "New York Times:https://www.nytimes.com/2026/03/22/nyregion/airports-tsa-delays-nyc.html",
-            "title": "At NYC Airports, Long TSA Lines and Frustrated Travelers",
-            "url": "https://www.nytimes.com/2026/03/22/nyregion/airports-tsa-delays-nyc.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-22T23:39:23.000Z",
-            "description": "The shortage of checkpoint workers created lines of at least three hours at LaGuardia Airport. Many passengers doubted ICE agents were the solution.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/22/nyregion/22MET-AIRPORTS-TSA/22MET-AIRPORTS-TSA-mediumSquareAt3X.jpg",
-            "categories": [
-              "Airports",
-              "Airport Security",
-              "Illegal Immigration",
-              "Shortages",
-              "United States Politics and Government",
-              "Government Employees",
-              "Shutdowns (Institutional)",
-              "Homeland Security Department",
-              "Immigration and Customs Enforcement (US)",
-              "Kennedy International Airport (Queens, NY)",
-              "LaGuardia Airport (Queens, NY)",
-              "Transportation Security Administration",
-              "Trump, Donald J",
-              "Queens (NYC)"
-            ]
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/us/medicare-fraud-azerbaijan-suspect-90m-doj",
-            "title": "Man charged in $90M Medicare fraud scheme; DOJ says suspect may have entered US illegally",
-            "url": "https://www.foxnews.com/us/medicare-fraud-azerbaijan-suspect-90m-doj",
-            "source": "Fox News",
-            "publishedAt": "2026-03-23T02:29:51.000Z",
-            "description": "A former California resident has been indicted on federal health care fraud charges for allegedly submitting $90 million in false Medicare Advantage claims.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/trump-bondi2.png?ve=1&tl=1",
-            "categories": [
-              "a5cb36e1-9ef3-5d35-be3e-3f572f987352",
-              "fnc",
-              "Fox News",
-              "fox-news/politics/justice-department",
-              "fox-news/crime",
-              "fox-news/health/health-care",
-              "fox-news/politics/executive/law",
-              "fox-news/us/immigration",
-              "fox-news/us/immigration/illegal-immigrants",
-              "fox-news/us",
-              "article"
-            ]
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/pilots-dont-mince-words-as-they-issue-stark-warning-on-homeland-safety",
-            "title": "Pilots Don’t Mince Words As They Issue Stark Warning On Homeland Safety",
-            "url": "https://www.dailywire.com/news/pilots-dont-mince-words-as-they-issue-stark-warning-on-homeland-safety",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T14:55:51.000Z",
-            "description": "WASHINGTON — Over a month into the Democrat-led Department of Homeland Security shutdown, the largest independent pilots union in the United States is calling for Congress to end the shutdown and pay Transportation Security Administration (TSA) workers. “Congress must act immediately to end the Department of Homeland Security shutdown and ensure TSA officers are paid,” ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267037579.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/talarico-says-illegal-immigrant-students-are-the-most-patriotic",
-            "title": "Talarico Says Illegal Immigrant Students Are The ‘Most Patriotic’",
-            "url": "https://www.dailywire.com/news/talarico-says-illegal-immigrant-students-are-the-most-patriotic",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T12:20:32.000Z",
-            "description": "James Talarico, the Democratic Senate nominee in Texas, claimed Thursday that the “undocumented students” he previously taught were the “most patriotic.” Talarico, who previously taught sixth-grade language arts at Rhodes Middle School in San Antonio, made the remarks during a live taping of The Bulwark podcast in Dallas with host Tim Miller, where he also ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2266143630.jpg",
-            "categories": []
-          }
-        ],
-        "Cuba-US Relations and Rising Tensions": [
-          {
-            "id": "Fox News:https://www.foxnews.com/media/cuban-official-reveals-military-preparing-conflict-after-trump-considers-taking-island",
-            "title": "Cuban official reveals military 'preparing' for conflict after Trump considers 'taking' island",
-            "url": "https://www.foxnews.com/media/cuban-official-reveals-military-preparing-conflict-after-trump-considers-taking-island",
-            "source": "Fox News",
-            "publishedAt": "2026-03-22T21:00:18.000Z",
-            "description": "Cuba's deputy foreign minister says the island is preparing for 'possible military aggression' amid Trump's remarks about 'taking' the nation in some form.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/cuban-flag-at-protest.png?ve=1&tl=1",
-            "categories": [
-              "f5b2ed86-f048-5e82-91bd-27eaaf088578",
-              "fnc",
-              "Fox News",
-              "fox-news/media",
-              "fox-news/world/world-regions/cuba",
-              "fox-news/person/donald-trump",
-              "fox-news/politics/foreign-policy",
-              "fox-news/media",
-              "article"
-            ]
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/cuba-prepares-for-possible-u-s-military-action-as-tensions-surge",
-            "title": "Cuba Prepares For Possible U.S. Military Action As Tensions Surge",
-            "url": "https://www.dailywire.com/news/cuba-prepares-for-possible-u-s-military-action-as-tensions-surge",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-22T12:20:09.000Z",
-            "description": "Cuba is preparing for the possibility of military conflict with the United States, a top Cuban official warned Sunday, as tensions between the two countries continue to escalate. “Our military is always prepared, and in fact it is preparing these days for the possibility of military aggression,” Cuban Deputy Foreign Minister Carlos Fernández de Cossío ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2023/09/GettyImages-1487142782-scaled-e1693947665523.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/left-wing-activists-descend-on-crisis-stricken-cuba-enjoy-luxury-hotels-ride-ac-buses",
-            "title": "Left-Wing Activists Descend On Crisis-Stricken Cuba, Enjoy Luxury Hotels, Ride AC Buses",
-            "url": "https://www.dailywire.com/news/left-wing-activists-descend-on-crisis-stricken-cuba-enjoy-luxury-hotels-ride-ac-buses",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-21T16:58:12.000Z",
-            "description": "Hundreds of left-wing activists from the United States, Europe, and Latin America descended on Havana this weekend, meeting with communist officials, staying in upscale hotels, and traveling in air-conditioned buses as ordinary Cubans grapple with widespread blackouts and severe shortages of basic necessities. The “Nuestra América Convoy,” also called the “Our America Convoy to Cuba,” ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2025/09/GettyImages-1240373557.jpg",
-            "categories": []
-          }
-        ],
-        "Domestic US Political Themes: Taxes, Governance, and New Initiatives": [
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cdxk6dqqp1qo?at_medium=RSS&at_campaign=rss",
-            "title": "Plan to scrap most short jail terms comes into effect",
-            "url": "https://www.bbc.com/news/articles/cdxk6dqqp1qo?at_medium=RSS&at_campaign=rss",
+            "id": "BBC:https://www.bbc.co.uk/sounds/play/p0n7dqvy?at_medium=RSS&at_campaign=rss",
+            "title": "Trump threatens TV networks over unpatriotic Iran coverage",
+            "url": "https://www.bbc.co.uk/sounds/play/p0n7dqvy?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
-            "publishedAt": "2026-03-23T06:00:14.000Z",
-            "description": "The government hopes it will ease the population crisis in prisons.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44d9/live/15eb0490-2485-11f1-a673-e3b236a15253.jpg",
-            "categories": []
-          },
-          {
-            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5730370/democrats-who-won-big-in-last-novembers-general-election-are-grappling-with-reality",
-            "title": "Democrats who won big in last November's general election are grappling with reality",
-            "url": "https://www.npr.org/2026/03/22/nx-s1-5730370/democrats-who-won-big-in-last-novembers-general-election-are-grappling-with-reality",
-            "source": "NPR",
-            "publishedAt": "2026-03-22T12:09:00.000Z",
-            "description": "Some Democrats who were swept into office last November are grappling with the reality of governing. The new leader of Pennsylvania's Lehigh County says urgency is needed.",
-            "imageUrl": null,
-            "categories": []
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/22/your-money/taxes/federal-tax-protest-resistance.html",
-            "title": "They Want to Stop Paying Taxes as a Protest. There Are Consequences.",
-            "url": "https://www.nytimes.com/2026/03/22/your-money/taxes/federal-tax-protest-resistance.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-22T09:01:27.000Z",
-            "description": "Some tax resisters withhold a symbolic amount, but those who willfully refuse to file or pay could face civil or criminal penalties.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/22/business/22biz-tax-protest/22biz-tax-protest-mediumSquareAt3X.jpg",
-            "categories": [
-              "Personal Finances",
-              "Taxation",
-              "Federal Taxes (US)",
-              "Demonstrations, Protests and Riots"
-            ]
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/your-tax-dollars-could-still-be-on-the-line-in-fight-over-trans-surgeries-for-kids",
-            "title": "Your Tax Dollars Could Still Be On The Line In Fight Over Trans Surgeries for Kids",
-            "url": "https://www.dailywire.com/news/your-tax-dollars-could-still-be-on-the-line-in-fight-over-trans-surgeries-for-kids",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T11:47:15.000Z",
-            "description": "A Biden-appointed judge in Oregon on Thursday said he would block a Trump administration declaration stating that transgender medical procedures for children are not “safe” or “effective.” U.S. District Judge Mustafa Kasubhai sided with more than a dozen Democratic attorneys general who challenged the policy issued by Health and Human Services Secretary Robert F. Kennedy ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2262712196.jpg",
+            "publishedAt": "2026-03-18T18:02:00.000Z",
+            "description": "And why has top counterterrorism official Joe Kent resigned?",
+            "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg",
             "categories": []
           }
         ],
-        "Other Coverage": [
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html",
-            "title": "ICE to Help TSA at Airports Amid Partial Shutdown, Trump’s Border Czar Says",
-            "url": "https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-23T03:12:29.000Z",
-            "description": "Tom Homan, President Trump’s chief border official, cast the operation largely as one to help ease long security lines. The Homeland Security Department said 14 airports across the country would be involved.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22dc-homan-airports1-kvpl/22dc-homan-airports1-kvpl-mediumSquareAt3X.jpg",
-            "categories": [
-              "Airport Security",
-              "Illegal Immigration",
-              "United States Politics and Government",
-              "Shutdowns (Institutional)",
-              "Customs and Border Protection (US)",
-              "Trump, Donald J",
-              "Jeffries, Hakeem",
-              "Homan, Thomas D",
-              "Homeland Security Department",
-              "Transportation Security Administration",
-              "United States"
-            ]
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/media/scott-bessent-calls-out-terrible-framing-during-back-and-forth-nbc-news-host-iranian-oil",
-            "title": "Scott Bessent calls out 'terrible framing' during clash with NBC News host on Iranian oil",
-            "url": "https://www.foxnews.com/media/scott-bessent-calls-out-terrible-framing-during-back-and-forth-nbc-news-host-iranian-oil",
-            "source": "Fox News",
-            "publishedAt": "2026-03-23T01:00:42.000Z",
-            "description": "Scott Bessent accused NBC's Kristen Welker of \"terrible framing\" during an exchange about Iranian oil on Sunday, as the host pressed the treasury secretary on why the U.S. lifted sanctions.",
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/bessent-iran-oil-mtp.gif",
-            "categories": [
-              "af280c1e-b8fe-5361-9188-6da72cdd92eb",
-              "fnc",
-              "Fox News",
-              "fox-news/media",
-              "fox-news/person/donald-trump",
-              "fox-news/politics/defense/wars/war-with-iran",
-              "fox-news/person/scott-bessent",
-              "fox-news/media",
-              "article"
-            ]
-          },
+        "US Domestic Politics and Political Figures": [
           {
             "id": "Fox News:https://www.foxnews.com/media/texas-democratic-senate-nominee-james-talarico-doubles-down-god-being-beyond-gender-comments",
             "title": "Texas Democratic Senate nominee James Talarico doubles down on God being \"beyond gender\" comments",
@@ -1014,6 +975,121 @@
               "article"
             ]
           },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/talarico-says-illegal-immigrant-students-are-the-most-patriotic",
+            "title": "Talarico Says Illegal Immigrant Students Are The ‘Most Patriotic’",
+            "url": "https://www.dailywire.com/news/talarico-says-illegal-immigrant-students-are-the-most-patriotic",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T12:20:32.000Z",
+            "description": "James Talarico, the Democratic Senate nominee in Texas, claimed Thursday that the “undocumented students” he previously taught were the “most patriotic.” Talarico, who previously taught sixth-grade language arts at Rhodes Middle School in San Antonio, made the remarks during a live taping of The Bulwark podcast in Dallas with host Tim Miller, where he also ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2266143630.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/rip-chuck-norris-the-man-who-never-let-hollywood-smother-his-beliefs",
+            "title": "RIP Chuck Norris: The Man Who Never Let Hollywood Smother His Beliefs",
+            "url": "https://www.dailywire.com/news/rip-chuck-norris-the-man-who-never-let-hollywood-smother-his-beliefs",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T14:20:04.000Z",
+            "description": "Even as he grew famous for his martial arts prowess and adrenaline-pumping movies, Chuck Norris stayed true to his Christian faith and conservative political values for decades in a deeply liberal Hollywood. Norris, who died Thursday, was the rare Christian conservative in Hollywood. He advocated for Republican politicians, supported gun rights, pushed for the Bible ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-692121198.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/former-fbi-director-robert-mueller-dead-at-81",
+            "title": "Former FBI Director Robert Mueller Dead At 81",
+            "url": "https://www.dailywire.com/news/former-fbi-director-robert-mueller-dead-at-81",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-21T12:54:38.000Z",
+            "description": "Former FBI director Robert Mueller, whose investigation into President Donald Trump’s first presidential campaign made him a Democratic hero, is dead at 81. As special counsel, Mueller led the probe into whether there was Russian interference in the 2016 presidential election. The investigation, which took place during Trump’s first term, earned Mueller praise from Trump’s ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2019/09/robert_mueller-3-e1604337695833.jpg",
+            "categories": []
+          }
+        ],
+        "Political Activism and Media Events": [
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/22/nyregion/columbia-protester-palestinian-ice-detention-new-jersey.html",
+            "title": "Pro-Palestinian Activists Rally in Support of Freed Columbia Protester",
+            "url": "https://www.nytimes.com/2026/03/22/nyregion/columbia-protester-palestinian-ice-detention-new-jersey.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-23T00:11:18.000Z",
+            "description": "After speaking alongside city officials in Paterson, N.J., Leqaa Kordia, who was recently released after a year in ICE detention, led a crowd in chants of “globalize the intifada.”",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22met-kordia-01-gvmp/22met-kordia-01-gvmp-mediumSquareAt3X-v2.jpg",
+            "categories": [
+              "Palestinian-Americans",
+              "Immigration Detention",
+              "Pro-Palestinian Campus Protests (2023- )",
+              "Demonstrations, Protests and Riots",
+              "Immigration and Customs Enforcement (US)",
+              "Kordia, Leqaa",
+              "Sayegh, Andre",
+              "Paterson (NJ)"
+            ]
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/left-wing-activists-descend-on-crisis-stricken-cuba-enjoy-luxury-hotels-ride-ac-buses",
+            "title": "Left-Wing Activists Descend On Crisis-Stricken Cuba, Enjoy Luxury Hotels, Ride AC Buses",
+            "url": "https://www.dailywire.com/news/left-wing-activists-descend-on-crisis-stricken-cuba-enjoy-luxury-hotels-ride-ac-buses",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-21T16:58:12.000Z",
+            "description": "Hundreds of left-wing activists from the United States, Europe, and Latin America descended on Havana this weekend, meeting with communist officials, staying in upscale hotels, and traveling in air-conditioned buses as ordinary Cubans grapple with widespread blackouts and severe shortages of basic necessities. The “Nuestra América Convoy,” also called the “Our America Convoy to Cuba,” ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2025/09/GettyImages-1240373557.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/i-cant-monitor-like-this-inside-polymarkets-disastrous-dc-bar-opening",
+            "title": "‘I Can’t Monitor Like This!’ Inside Polymarket’s Disastrous DC Bar Opening",
+            "url": "https://www.dailywire.com/news/i-cant-monitor-like-this-inside-polymarkets-disastrous-dc-bar-opening",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-21T10:51:45.000Z",
+            "description": "WASHINGTON—Polymarket’s “Situation Room” felt tailor-made for this town. A pop-up bar where political operatives, journalists, and insiders could gather beneath glowing screens tracking real-time odds on elections, global events, and breaking news. It’s likely that whichever of the prediction market’s employees came up with the idea was inspired by a February 28 post on X, ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/IMG_1822.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/president-trump-drops-the-greatest-one-liner-in-press-conference-history",
+            "title": "President Trump Drops The Greatest One Liner In Press Conference History",
+            "url": "https://www.dailywire.com/news/president-trump-drops-the-greatest-one-liner-in-press-conference-history",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T18:51:13.000Z",
+            "description": "The following is an edited transcript excerpt from The Michael Knowles Show. * * * President Trump just gave the finest one liner in the history of press conferences. So here is President Trump, sitting in the Oval Office yesterday with the Japanese prime minister, who seems to adore him. When she arrives at the ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2266853932.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/pilots-dont-mince-words-as-they-issue-stark-warning-on-homeland-safety",
+            "title": "Pilots Don’t Mince Words As They Issue Stark Warning On Homeland Safety",
+            "url": "https://www.dailywire.com/news/pilots-dont-mince-words-as-they-issue-stark-warning-on-homeland-safety",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T14:55:51.000Z",
+            "description": "WASHINGTON — Over a month into the Democrat-led Department of Homeland Security shutdown, the largest independent pilots union in the United States is calling for Congress to end the shutdown and pay Transportation Security Administration (TSA) workers. “Congress must act immediately to end the Department of Homeland Security shutdown and ensure TSA officers are paid,” ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267037579.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/your-tax-dollars-could-still-be-on-the-line-in-fight-over-trans-surgeries-for-kids",
+            "title": "Your Tax Dollars Could Still Be On The Line In Fight Over Trans Surgeries for Kids",
+            "url": "https://www.dailywire.com/news/your-tax-dollars-could-still-be-on-the-line-in-fight-over-trans-surgeries-for-kids",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T11:47:15.000Z",
+            "description": "A Biden-appointed judge in Oregon on Thursday said he would block a Trump administration declaration stating that transgender medical procedures for children are not “safe” or “effective.” U.S. District Judge Mustafa Kasubhai sided with more than a dozen Democratic attorneys general who challenged the policy issued by Health and Human Services Secretary Robert F. Kennedy ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2262712196.jpg",
+            "categories": []
+          }
+        ],
+        "UK Political Developments and Policies": [
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cdxk6dqqp1qo?at_medium=RSS&at_campaign=rss",
+            "title": "Plan to scrap most short jail terms comes into effect",
+            "url": "https://www.bbc.com/news/articles/cdxk6dqqp1qo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T06:00:14.000Z",
+            "description": "The government hopes it will ease the population crisis in prisons.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44d9/live/15eb0490-2485-11f1-a673-e3b236a15253.jpg",
+            "categories": []
+          }
+        ],
+        "Other Coverage": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/01/us/politics/trump-racism-woodrow-wilson.html",
             "title": "Trump Says He Is the ‘Least Racist’ President. But His Term Echoes a Grim Past.",
@@ -1050,36 +1126,6 @@
               "China",
               "United States"
             ]
-          },
-          {
-            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5753842/politics-chat-trumps-mixed-messages-on-the-iran-war-the-latest-on-dhs-funding",
-            "title": "Politics chat: Trump's mixed messages on the Iran war, the latest on DHS funding",
-            "url": "https://www.npr.org/2026/03/22/nx-s1-5753842/politics-chat-trumps-mixed-messages-on-the-iran-war-the-latest-on-dhs-funding",
-            "source": "NPR",
-            "publishedAt": "2026-03-22T12:04:31.000Z",
-            "description": "We look at President Trump's mixed messages on the war with Iran, plus the latest on Department of Homeland Security funding, which Congress has frozen over his immigration enforcement policies.",
-            "imageUrl": null,
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/i-cant-monitor-like-this-inside-polymarkets-disastrous-dc-bar-opening",
-            "title": "‘I Can’t Monitor Like This!’ Inside Polymarket’s Disastrous DC Bar Opening",
-            "url": "https://www.dailywire.com/news/i-cant-monitor-like-this-inside-polymarkets-disastrous-dc-bar-opening",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-21T10:51:45.000Z",
-            "description": "WASHINGTON—Polymarket’s “Situation Room” felt tailor-made for this town. A pop-up bar where political operatives, journalists, and insiders could gather beneath glowing screens tracking real-time odds on elections, global events, and breaking news. It’s likely that whichever of the prediction market’s employees came up with the idea was inspired by a February 28 post on X, ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/IMG_1822.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/rip-chuck-norris-the-man-who-never-let-hollywood-smother-his-beliefs",
-            "title": "RIP Chuck Norris: The Man Who Never Let Hollywood Smother His Beliefs",
-            "url": "https://www.dailywire.com/news/rip-chuck-norris-the-man-who-never-let-hollywood-smother-his-beliefs",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T14:20:04.000Z",
-            "description": "Even as he grew famous for his martial arts prowess and adrenaline-pumping movies, Chuck Norris stayed true to his Christian faith and conservative political values for decades in a deeply liberal Hollywood. Norris, who died Thursday, was the rare Christian conservative in Hollywood. He advocated for Republican politicians, supported gun rights, pushed for the Bible ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-692121198.jpg",
-            "categories": []
           }
         ]
       }
@@ -1089,13 +1135,23 @@
       "sourceCount": 5,
       "articles": [
         {
+          "id": "BBC:https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+          "title": "Asia stocks slide as US and Iran threaten to escalate war",
+          "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "publishedAt": "2026-03-23T07:29:09.000Z",
+          "description": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg",
+          "categories": []
+        },
+        {
           "id": "Fox News:https://www.foxnews.com/travel/air-canada-jet-hits-vehicle-forcing-new-yorks-laguardia-airport-close",
-          "title": "Air Canada jet hits vehicle, forcing New York's LaGuardia airport to close",
+          "title": "Air Canada jet hits fire truck, forcing New York's LaGuardia airport to close",
           "url": "https://www.foxnews.com/travel/air-canada-jet-hits-vehicle-forcing-new-yorks-laguardia-airport-close",
           "source": "Fox News",
           "publishedAt": "2026-03-23T05:47:54.000Z",
           "description": "An Air Canada Express regional jet crashed into a vehicle on the ground after landing at New York's LaGuardia Airport, forcing the airport to close.",
-          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/08/931/523/laguardia-airport.jpg?ve=1&tl=1",
+          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/air-canada-jet-damage-ny-crash.png?ve=1&tl=1",
           "categories": [
             "805906b3-11a1-50d6-90f9-65009dcb216e",
             "fnc",
@@ -1110,23 +1166,13 @@
           ]
         },
         {
-          "id": "BBC:https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-          "title": "Asia stocks slide as US and Iran threaten to escalate war",
-          "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-23T05:12:14.000Z",
-          "description": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg",
-          "categories": []
-        },
-        {
           "id": "BBC:https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
           "title": "UN issues new climate warning as El Niño looms",
           "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "publishedAt": "2026-03-23T04:06:22.000Z",
           "description": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aab8/live/5db64fd0-2487-11f1-a673-e3b236a15253.jpg",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2258/live/cfe36f80-2689-11f1-934f-036468834728.png",
           "categories": []
         },
         {
@@ -1325,7 +1371,17 @@
         }
       ],
       "subtopics": {
-        "Iran Threatens Regional Conflict and Infrastructure Strikes": [
+        "Escalation and Implications of US-Iran Conflict": [
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+            "title": "Asia stocks slide as US and Iran threaten to escalate war",
+            "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T07:29:09.000Z",
+            "description": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg",
+            "categories": []
+          },
           {
             "id": "Fox News:https://www.foxnews.com/world/iran-threatens-mass-water-war-un-official-says-desalination-plants-hit-days",
             "title": "Iran threatens mass ‘water war’ with strikes on key plants in days, UN official warns",
@@ -1344,28 +1400,6 @@
               "fox-news/world/united-nations",
               "fox-news/science/planet-earth/water",
               "fox-news/us/environment/water",
-              "fox-news/world",
-              "article"
-            ]
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/world/iran-chokes-strait-hormuz-reported-2m-tanker-toll-regime-threatens-global-oil-supply",
-            "title": "Iran chokes Strait of Hormuz with reported $2M tanker toll, regime threatens global oil supply",
-            "url": "https://www.foxnews.com/world/iran-chokes-strait-hormuz-reported-2m-tanker-toll-regime-threatens-global-oil-supply",
-            "source": "Fox News",
-            "publishedAt": "2026-03-22T20:55:30.000Z",
-            "description": "Strait of Hormuz traffic is near collapse as Iran reportedly charges tankers $2 million in transit fees, prompting President Trump to threaten strikes on Iranian power infrastructure.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/strait-hormuz-tanker.jpg?ve=1&tl=1",
-            "categories": [
-              "cecf9d04-7ab0-572a-8981-9df4ab6d8eb5",
-              "fnc",
-              "Fox News",
-              "fox-news/politics/defense/wars/war-with-iran",
-              "fox-news/politics/finance/sanctions",
-              "fox-news/world/conflicts/iran",
-              "fox-news/energy",
-              "fox-news/us/education/costs",
-              "fox-news/world/world-regions/middle-east",
               "fox-news/world",
               "article"
             ]
@@ -1401,72 +1435,29 @@
             "description": "Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddd/live/33c15b00-25c9-11f1-9659-a9a8987c78b0.jpg",
             "categories": []
-          }
-        ],
-        "Worsening Global Energy and Climate Crisis Reports": [
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-            "title": "Asia stocks slide as US and Iran threaten to escalate war",
-            "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T05:12:14.000Z",
-            "description": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg",
-            "categories": []
           },
           {
-            "id": "BBC:https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
-            "title": "UN issues new climate warning as El Niño looms",
-            "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T04:06:22.000Z",
-            "description": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aab8/live/5db64fd0-2487-11f1-a673-e3b236a15253.jpg",
-            "categories": []
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/22/climate/energy-imbalance-un-report.html",
-            "title": "U.N. Climate Report Finds Growing Energy Imbalance on Earth",
-            "url": "https://www.nytimes.com/2026/03/22/climate/energy-imbalance-un-report.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-23T03:00:04.000Z",
-            "description": "The continued burning of fossil fuels is locking heat in Earth’s atmosphere, oceans and land — instead of allowing it to reflect back into space, a new report finds.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/23/science/23cli-imblance/23cli-imblance-mediumSquareAt3X.jpg",
+            "id": "Fox News:https://www.foxnews.com/world/iran-chokes-strait-hormuz-reported-2m-tanker-toll-regime-threatens-global-oil-supply",
+            "title": "Iran chokes Strait of Hormuz with reported $2M tanker toll, regime threatens global oil supply",
+            "url": "https://www.foxnews.com/world/iran-chokes-strait-hormuz-reported-2m-tanker-toll-regime-threatens-global-oil-supply",
+            "source": "Fox News",
+            "publishedAt": "2026-03-22T20:55:30.000Z",
+            "description": "Strait of Hormuz traffic is near collapse as Iran reportedly charges tankers $2 million in transit fees, prompting President Trump to threaten strikes on Iranian power infrastructure.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/strait-hormuz-tanker.jpg?ve=1&tl=1",
             "categories": [
-              "Global Warming",
-              "Research",
-              "Greenhouse Gas Emissions",
-              "Earth",
-              "Oceans and Seas",
-              "Carbon Dioxide",
-              "World Meteorological Organization",
-              "United Nations"
+              "cecf9d04-7ab0-572a-8981-9df4ab6d8eb5",
+              "fnc",
+              "Fox News",
+              "fox-news/politics/defense/wars/war-with-iran",
+              "fox-news/politics/finance/sanctions",
+              "fox-news/world/conflicts/iran",
+              "fox-news/energy",
+              "fox-news/us/education/costs",
+              "fox-news/world/world-regions/middle-east",
+              "fox-news/world",
+              "article"
             ]
-          }
-        ],
-        "Global Economic Impact of Iran Conflict and Oil Market Dynamics": [
-          {
-            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5754732/the-iran-war-is-impacting-the-global-economy-and-asia-is-particularly-vulnerable",
-            "title": "The Iran war is impacting the global economy, and Asia is particularly vulnerable",
-            "url": "https://www.npr.org/2026/03/22/nx-s1-5754732/the-iran-war-is-impacting-the-global-economy-and-asia-is-particularly-vulnerable",
-            "source": "NPR",
-            "publishedAt": "2026-03-22T12:04:34.000Z",
-            "description": "NPR's Ayesha Rascoe talks with Martin Wolf, chief economics commentator for the Financial Times, about how the war on Iran is effecting the global economy.",
-            "imageUrl": null,
-            "categories": []
           },
-          {
-            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5752447/the-u-s-is-a-big-oil-exporter-so-why-does-it-import-most-of-the-oil-it-consumes",
-            "title": "The U.S. is a big oil exporter. So why does it import most of the oil it consumes?",
-            "url": "https://www.npr.org/2026/03/22/nx-s1-5752447/the-u-s-is-a-big-oil-exporter-so-why-does-it-import-most-of-the-oil-it-consumes",
-            "source": "NPR",
-            "publishedAt": "2026-03-22T12:04:28.000Z",
-            "description": "NPR's Ayesha Rascoe talks to University of Texas engineering professor Hugh Daigle about why the U.S. imports most of the oil it consumes despite being one of the world's largest oil exporters.",
-            "imageUrl": null,
-            "categories": []
-          }
-        ],
-        "Escalation of Middle East Military Actions and Security Alerts": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
             "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
@@ -1488,26 +1479,15 @@
             "categories": []
           },
           {
-            "id": "Fox News:https://www.foxnews.com/world/authorities-share-update-circumstances-around-missing-college-student-jimmy-graceys-death",
-            "title": "Authorities share update on circumstances around missing college student Jimmy Gracey's death",
-            "url": "https://www.foxnews.com/world/authorities-share-update-circumstances-around-missing-college-student-jimmy-graceys-death",
-            "source": "Fox News",
-            "publishedAt": "2026-03-22T23:13:57.000Z",
-            "description": "University of Alabama student Jimmy Gracey, 20, went missing in Barcelona during Spring Break. His body was found near a nightclub.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/jimmy-gracey-body-recovered-in-barcelona-port-olimpic.png?ve=1&tl=1",
-            "categories": [
-              "87c1cc78-4524-5357-a867-6797bfb472dc",
-              "fnc",
-              "Fox News",
-              "fox-news/world/world-regions/spain",
-              "fox-news/us/us-regions/southeast/alabama",
-              "fox-news/topic/missing-persons",
-              "fox-news/world",
-              "article"
-            ]
-          }
-        ],
-        "Political Commentary on US and Allies’ Iran Policies and Perspectives": [
+            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5754732/the-iran-war-is-impacting-the-global-economy-and-asia-is-particularly-vulnerable",
+            "title": "The Iran war is impacting the global economy, and Asia is particularly vulnerable",
+            "url": "https://www.npr.org/2026/03/22/nx-s1-5754732/the-iran-war-is-impacting-the-global-economy-and-asia-is-particularly-vulnerable",
+            "source": "NPR",
+            "publishedAt": "2026-03-22T12:04:34.000Z",
+            "description": "NPR's Ayesha Rascoe talks with Martin Wolf, chief economics commentator for the Financial Times, about how the war on Iran is effecting the global economy.",
+            "imageUrl": null,
+            "categories": []
+          },
           {
             "id": "Daily Wire:https://www.dailywire.com/news/trump-outlines-how-iran-ends-and-epic-fury-is-only-part-of-the-story",
             "title": "Trump Outlines How Iran Ends And ‘Epic Fury’ Is Only Part Of The Story",
@@ -1537,27 +1517,60 @@
             "description": "America’s allies are finally ready to step up to the plate after years of dithering on the Iranian threat. Those allies are ready with all their combined strength: Germany, France, UK, Italy, the Netherlands, Canada, and Japan. They are firing on all cylinders with urgency, resolve, and action. Yes, that’s right. Our allies, who have ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2221354925.jpg",
             "categories": []
+          }
+        ],
+        "Climate Change and Global Energy Concerns Amid Conflict": [
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
+            "title": "UN issues new climate warning as El Niño looms",
+            "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T04:06:22.000Z",
+            "description": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2258/live/cfe36f80-2689-11f1-934f-036468834728.png",
+            "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/im-jewish-i-have-no-problem-with-hegseths-prayer",
-            "title": "I’m Jewish. I Have No Problem With Hegseth’s Prayer.",
-            "url": "https://www.dailywire.com/news/im-jewish-i-have-no-problem-with-hegseths-prayer",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T14:04:15.000Z",
-            "description": "I don’t pray to Jesus. I never have. I was raised in a tradition that predates Christianity by a millennium, and when I pray — which I do, regularly, seriously — I do it in Hebrew, facing Jerusalem, according to a liturgy my ancestors carried through exile and persecution for thousands of years. And I ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267378989.jpg",
+            "id": "New York Times:https://www.nytimes.com/2026/03/22/climate/energy-imbalance-un-report.html",
+            "title": "U.N. Climate Report Finds Growing Energy Imbalance on Earth",
+            "url": "https://www.nytimes.com/2026/03/22/climate/energy-imbalance-un-report.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-23T03:00:04.000Z",
+            "description": "The continued burning of fossil fuels is locking heat in Earth’s atmosphere, oceans and land — instead of allowing it to reflect back into space, a new report finds.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/23/science/23cli-imblance/23cli-imblance-mediumSquareAt3X.jpg",
+            "categories": [
+              "Global Warming",
+              "Research",
+              "Greenhouse Gas Emissions",
+              "Earth",
+              "Oceans and Seas",
+              "Carbon Dioxide",
+              "World Meteorological Organization",
+              "United Nations"
+            ]
+          }
+        ],
+        "Energy Markets, Oil Supply and U.S. Oil Import Dynamics": [
+          {
+            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5752447/the-u-s-is-a-big-oil-exporter-so-why-does-it-import-most-of-the-oil-it-consumes",
+            "title": "The U.S. is a big oil exporter. So why does it import most of the oil it consumes?",
+            "url": "https://www.npr.org/2026/03/22/nx-s1-5752447/the-u-s-is-a-big-oil-exporter-so-why-does-it-import-most-of-the-oil-it-consumes",
+            "source": "NPR",
+            "publishedAt": "2026-03-22T12:04:28.000Z",
+            "description": "NPR's Ayesha Rascoe talks to University of Texas engineering professor Hugh Daigle about why the U.S. imports most of the oil it consumes despite being one of the world's largest oil exporters.",
+            "imageUrl": null,
             "categories": []
           }
         ],
-        "Other Coverage": [
+        "Aviation Incident Shuts Down New York's LaGuardia Airport": [
           {
             "id": "Fox News:https://www.foxnews.com/travel/air-canada-jet-hits-vehicle-forcing-new-yorks-laguardia-airport-close",
-            "title": "Air Canada jet hits vehicle, forcing New York's LaGuardia airport to close",
+            "title": "Air Canada jet hits fire truck, forcing New York's LaGuardia airport to close",
             "url": "https://www.foxnews.com/travel/air-canada-jet-hits-vehicle-forcing-new-yorks-laguardia-airport-close",
             "source": "Fox News",
             "publishedAt": "2026-03-23T05:47:54.000Z",
             "description": "An Air Canada Express regional jet crashed into a vehicle on the ground after landing at New York's LaGuardia Airport, forcing the airport to close.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/08/931/523/laguardia-airport.jpg?ve=1&tl=1",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/air-canada-jet-damage-ny-crash.png?ve=1&tl=1",
             "categories": [
               "805906b3-11a1-50d6-90f9-65009dcb216e",
               "fnc",
@@ -1570,6 +1583,39 @@
               "fox-news/travel",
               "article"
             ]
+          }
+        ],
+        "Death of Missing College Student in Barcelona Investigated": [
+          {
+            "id": "Fox News:https://www.foxnews.com/world/authorities-share-update-circumstances-around-missing-college-student-jimmy-graceys-death",
+            "title": "Authorities share update on circumstances around missing college student Jimmy Gracey's death",
+            "url": "https://www.foxnews.com/world/authorities-share-update-circumstances-around-missing-college-student-jimmy-graceys-death",
+            "source": "Fox News",
+            "publishedAt": "2026-03-22T23:13:57.000Z",
+            "description": "University of Alabama student Jimmy Gracey, 20, went missing in Barcelona during Spring Break. His body was found near a nightclub.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/jimmy-gracey-body-recovered-in-barcelona-port-olimpic.png?ve=1&tl=1",
+            "categories": [
+              "87c1cc78-4524-5357-a867-6797bfb472dc",
+              "fnc",
+              "Fox News",
+              "fox-news/world/world-regions/spain",
+              "fox-news/us/us-regions/southeast/alabama",
+              "fox-news/topic/missing-persons",
+              "fox-news/world",
+              "article"
+            ]
+          }
+        ],
+        "Other Coverage": [
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/im-jewish-i-have-no-problem-with-hegseths-prayer",
+            "title": "I’m Jewish. I Have No Problem With Hegseth’s Prayer.",
+            "url": "https://www.dailywire.com/news/im-jewish-i-have-no-problem-with-hegseths-prayer",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T14:04:15.000Z",
+            "description": "I don’t pray to Jesus. I never have. I was raised in a tradition that predates Christianity by a millennium, and when I pray — which I do, regularly, seriously — I do it in Hebrew, facing Jerusalem, according to a liturgy my ancestors carried through exile and persecution for thousands of years. And I ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267378989.jpg",
+            "categories": []
           }
         ]
       }
@@ -1630,7 +1676,7 @@
         }
       ],
       "subtopics": {
-        "Heat Pumps and Energy Efficiency": [
+        "Heat Pumps and Government Energy Initiatives": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/ce358gkx9vpo?at_medium=RSS&at_campaign=rss",
             "title": "Evan Davis: Heat pumps work for me - but they're not yet a money saver",
@@ -1642,7 +1688,7 @@
             "categories": []
           }
         ],
-        "Technology's Impact on Attention and Media": [
+        "Technology's Impact on Attention and Entertainment": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/c5y9310vyleo?at_medium=RSS&at_campaign=rss",
             "title": "The Magic Faraway Tree's Andrew Garfield: Our attention is abused by tech companies",
@@ -1654,7 +1700,7 @@
             "categories": []
           }
         ],
-        "Controversies Over AI in Publishing": [
+        "AI Controversy in Publishing Industry": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/publisher-yanks-horror-novel-over-suspected-ai-use",
             "title": "Publisher Yanks Horror Novel Over Suspected AI Use",
@@ -1666,7 +1712,7 @@
             "categories": []
           }
         ],
-        "Defense Sector Tech Priorities Amid Geopolitical Tensions": [
+        "Defense Sector Prioritizing Technology Over DEI Policies": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/americas-defense-sector-is-ditching-dei-at-the-best-possible-moment",
             "title": "America’s Defense Sector Is Ditching DEI At The Best Possible Moment",
@@ -1738,7 +1784,7 @@
         }
       ],
       "subtopics": {
-        "German Workforce Shortage and Indian Labor Migration": [
+        "Labor Shortages and Foreign Workforce Solutions": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/c3wlww83yv4o?at_medium=RSS&at_campaign=rss",
             "title": "Germany has a shortage of workers - so it's turning to India for help",
@@ -1750,7 +1796,17 @@
             "categories": []
           }
         ],
-        "Elon Musk Offers to Cover TSA Salaries During DHS Shutdown": [
+        "Corporate Responsibility and Employee Welfare Cases": [
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/firm-must-pay-22-5m-to-woman-whose-baby-died-after-work-from-home-request-denial",
+            "title": "Firm Must Pay $22.5M To Woman Whose Baby Died After Work-From-Home Request Denial",
+            "url": "https://www.dailywire.com/news/firm-must-pay-22-5m-to-woman-whose-baby-died-after-work-from-home-request-denial",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T16:54:41.000Z",
+            "description": "An Ohio company was ordered to pay $22.5 million to a woman whose baby died after her company denied her request to work from home during a high-risk pregnancy. Per NBC News, Chelsea Walsh requested to work from home beginning on February 15, 2021, for her job with Total Quality Logistics, but was denied. Walsh ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Baby-feet.jpg",
+            "categories": []
+          },
           {
             "id": "Daily Wire:https://www.dailywire.com/news/elon-musk-offers-to-pay-tsa-salaries-as-dhs-shutdown-drags-on",
             "title": "Elon Musk Offers To Pay TSA Salaries As DHS Shutdown Drags On",
@@ -1762,19 +1818,7 @@
             "categories": []
           }
         ],
-        "Legal Case on Work-From-Home Denial Leading to Fatality": [
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/firm-must-pay-22-5m-to-woman-whose-baby-died-after-work-from-home-request-denial",
-            "title": "Firm Must Pay $22.5M To Woman Whose Baby Died After Work-From-Home Request Denial",
-            "url": "https://www.dailywire.com/news/firm-must-pay-22-5m-to-woman-whose-baby-died-after-work-from-home-request-denial",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T16:54:41.000Z",
-            "description": "An Ohio company was ordered to pay $22.5 million to a woman whose baby died after her company denied her request to work from home during a high-risk pregnancy. Per NBC News, Chelsea Walsh requested to work from home beginning on February 15, 2021, for her job with Total Quality Logistics, but was denied. Walsh ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Baby-feet.jpg",
-            "categories": []
-          }
-        ],
-        "Debate Over School Involvement in Student Mental Health Services": [
+        "Debates Over School Mental Health Programs": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/its-time-for-schools-to-get-out-of-the-mental-health-business",
             "title": "It’s Time For Schools To Get Out Of The Mental Health Business",
@@ -1789,9 +1833,19 @@
       }
     },
     "Science": {
-      "articleCount": 3,
+      "articleCount": 4,
       "sourceCount": 3,
       "articles": [
+        {
+          "id": "BBC:https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&at_campaign=rss",
+          "title": "Hospital apology over boy's death after trainee doctor pierced artery",
+          "url": "https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "publishedAt": "2026-03-23T03:01:09.000Z",
+          "description": "Three-year-old Aarav Chopra died during a biopsy when his artery was pierced by a trainee doctor.",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3535/live/02d08300-1e5c-11f1-a1da-edae1d05dd8e.png",
+          "categories": []
+        },
         {
           "id": "BBC:https://www.bbc.com/news/articles/cx26glrw310o?at_medium=RSS&at_campaign=rss",
           "title": "Scotland begins testing newborn babies for rare genetic condition",
@@ -1799,7 +1853,7 @@
           "source": "BBC",
           "publishedAt": "2026-03-23T02:55:52.000Z",
           "description": "Spinal Muscular Atrophy (SMA) causes progressive muscle weakness and, without treatment, can limit life expectancy to just two years.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad6d/live/e9c3efd0-244d-11f1-934f-036468834728.jpg",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61ba/live/dd5c21d0-2683-11f1-a32b-91a6d5286fbb.jpg",
           "categories": []
         },
         {
@@ -1830,7 +1884,19 @@
         }
       ],
       "subtopics": {
-        "Newborn Screening for Genetic Disorders in Scotland": [
+        "Medical incidents and hospital responses": [
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&at_campaign=rss",
+            "title": "Hospital apology over boy's death after trainee doctor pierced artery",
+            "url": "https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T03:01:09.000Z",
+            "description": "Three-year-old Aarav Chopra died during a biopsy when his artery was pierced by a trainee doctor.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3535/live/02d08300-1e5c-11f1-a1da-edae1d05dd8e.png",
+            "categories": []
+          }
+        ],
+        "Newborn genetic screening efforts in Scotland": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/cx26glrw310o?at_medium=RSS&at_campaign=rss",
             "title": "Scotland begins testing newborn babies for rare genetic condition",
@@ -1838,11 +1904,11 @@
             "source": "BBC",
             "publishedAt": "2026-03-23T02:55:52.000Z",
             "description": "Spinal Muscular Atrophy (SMA) causes progressive muscle weakness and, without treatment, can limit life expectancy to just two years.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad6d/live/e9c3efd0-244d-11f1-934f-036468834728.jpg",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61ba/live/dd5c21d0-2683-11f1-a32b-91a6d5286fbb.jpg",
             "categories": []
           }
         ],
-        "Meteor Explosion and Meteorite Hunting in Ohio": [
+        "Meteor explosion and meteorite hunting in Ohio": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/22/us/meteor-hunters-ohio-cleveland.html",
             "title": "A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began.",
@@ -1860,7 +1926,7 @@
             ]
           }
         ],
-        "Innovative Drug Discovery Labs in Africa": [
+        "Innovative drug discovery labs in Africa": [
           {
             "id": "NPR:https://www.npr.org/2026/03/22/g-s1-114038/new-drugs-health-medicine-africa-tuberculosis-measles",
             "title": "This lab that's determined to discover new drugs isn't where you might expect",
@@ -2094,7 +2160,7 @@
         }
       ],
       "subtopics": {
-        "Nicholas Brendon Death and Legacy": [
+        "Nicholas Brendon’s Death and Legacy": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/22/arts/television/nicholas-brendon-death-buffy-xander.html",
             "title": "For ‘Buffy’ Fans, Nicholas Brendon’s Xander Was a Complicated Everyman",
@@ -2141,7 +2207,7 @@
             "categories": []
           }
         ],
-        "Taylor Frankie Paul Assault and Custody Controversy": [
+        "Taylor Frankie Paul Assault Video and Legal Fallout": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/taylor-frankie-paul-assault-video-fallout-just-took-a-worse-turn-with-custody-drama",
             "title": "Taylor Frankie Paul Assault Video Fallout Just Took A Worse Turn With Custody Drama",
@@ -2153,16 +2219,6 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/taylor-frankie-paul-steps-out-smiling-and-lets-her-outfit-do-the-talking",
-            "title": "Taylor Frankie Paul Steps Out Smiling And Lets Her Outfit Do The Talking",
-            "url": "https://www.dailywire.com/news/taylor-frankie-paul-steps-out-smiling-and-lets-her-outfit-do-the-talking",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-22T20:08:18.000Z",
-            "description": "Taylor Frankie Paul shows little sign of concern after a video surfaced appearing to show her assaulting her baby daddy, instead sending a tongue-in-cheek message with her outfit following the cancellation of her “Bachelorette” season, which was scrapped before it ever aired. “The Secret Lives of Mormon Wives” reality TV star was spotted in Salt ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2213611908-scaled.jpg",
-            "categories": []
-          },
-          {
             "id": "Daily Wire:https://www.dailywire.com/news/read-it-mormon-wives-star-taylor-frankie-paul-responds-to-baby-daddy-attack-video",
             "title": "READ IT: ‘Mormon Wives’ Star Taylor Frankie Paul Responds To Baby Daddy Attack Video",
             "url": "https://www.dailywire.com/news/read-it-mormon-wives-star-taylor-frankie-paul-responds-to-baby-daddy-attack-video",
@@ -2171,21 +2227,19 @@
             "description": "Reality star Taylor Frankie Paul has released another statement following the cancellation of her season of “The Bachelorette,” promising to reveal more of her story soon. The 31-year-old “Secret Lives of Mormon Wives” alum released the update via her spokesperson. This came after a video of an alleged domestic violence incident between her and then-partner ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Frankie-Taylor-Paul.jpg",
             "categories": []
-          }
-        ],
-        "BTS Concert Attendance and Agency Stock Drop": [
+          },
           {
-            "id": "BBC:https://www.bbc.com/news/articles/c9d4l5pq73yo?at_medium=RSS&at_campaign=rss",
-            "title": "BTS agency shares drop after comeback show turnout falls short",
-            "url": "https://www.bbc.com/news/articles/c9d4l5pq73yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T04:39:03.000Z",
-            "description": "The concert was attended by an estimated 104,000 fans, much lower than the expected 260,000.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d0/live/cd6f4f20-2671-11f1-9e3f-ab087b90124d.jpg",
+            "id": "Daily Wire:https://www.dailywire.com/news/taylor-frankie-paul-steps-out-smiling-and-lets-her-outfit-do-the-talking",
+            "title": "Taylor Frankie Paul Steps Out Smiling And Lets Her Outfit Do The Talking",
+            "url": "https://www.dailywire.com/news/taylor-frankie-paul-steps-out-smiling-and-lets-her-outfit-do-the-talking",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-22T20:08:18.000Z",
+            "description": "Taylor Frankie Paul shows little sign of concern after a video surfaced appearing to show her assaulting her baby daddy, instead sending a tongue-in-cheek message with her outfit following the cancellation of her “Bachelorette” season, which was scrapped before it ever aired. “The Secret Lives of Mormon Wives” reality TV star was spotted in Salt ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2213611908-scaled.jpg",
             "categories": []
           }
         ],
-        "Celebrity News: Jason Momoa Flood Evacuation and Reese Witherspoon's 50th": [
+        "Celebrity News: Jason Momoa Evacuation and Reese Witherspoon’s 50th": [
           {
             "id": "Fox News:https://www.foxnews.com/entertainment/jason-momoa-flees-hawaiian-home-dangerous-flooding",
             "title": "Jason Momoa flees Hawaiian home amid dangerous flooding",
@@ -2226,17 +2280,7 @@
             ]
           }
         ],
-        "Entertainment Controversies and Events": [
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/ckg3g11z6d8o?at_medium=RSS&at_campaign=rss",
-            "title": "'We can't justify a £52 lunch': Middle-income families cut back on days out",
-            "url": "https://www.bbc.com/news/articles/ckg3g11z6d8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T06:03:22.000Z",
-            "description": "A household with an average income of £55,000 has cut spending on leisure activities by £40 a week, offical figures suggest.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e4/live/f85e5da0-247a-11f1-9ac5-2fb77b4b4b71.jpg",
-            "categories": []
-          },
+        "Entertainment Industry Controversies and Incidents": [
           {
             "id": "Fox News:https://www.foxnews.com/entertainment/bachelorette-alum-james-mccoy-taylor-arrested-again-connection-assault-case",
             "title": "'Bachelorette' alum James McCoy Taylor arrested again in connection with assault case",
@@ -2298,16 +2342,6 @@
             ]
           },
           {
-            "id": "BBC:https://www.bbc.com/news/articles/c8ejl730wl2o?at_medium=RSS&at_campaign=rss",
-            "title": "What did critics think of Saturday Night Live UK's debut?",
-            "url": "https://www.bbc.com/news/articles/c8ejl730wl2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T16:19:28.000Z",
-            "description": "The long-running US sketch show now has a British equivalent, which received a broadly positive reaction on its debut.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41e0/live/13a38ed0-25f4-11f1-908a-2f9759ed819b.jpg",
-            "categories": []
-          },
-          {
             "id": "Daily Wire:https://www.dailywire.com/news/watch-justin-timberlake-struggles-through-sobriety-test-in-newly-released-video",
             "title": "WATCH: Justin Timberlake Struggles Through Sobriety Test In Newly-Released Video",
             "url": "https://www.dailywire.com/news/watch-justin-timberlake-struggles-through-sobriety-test-in-newly-released-video",
@@ -2317,13 +2351,55 @@
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/image0-2-scaled.jpeg",
             "categories": []
           }
+        ],
+        "Audience and Consumer Trends in Entertainment": [
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/ckg3g11z6d8o?at_medium=RSS&at_campaign=rss",
+            "title": "'We can't justify a £52 lunch': Middle-income families cut back on days out",
+            "url": "https://www.bbc.com/news/articles/ckg3g11z6d8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T06:03:22.000Z",
+            "description": "A household with an average income of £55,000 has cut spending on leisure activities by £40 a week, offical figures suggest.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e4/live/f85e5da0-247a-11f1-9ac5-2fb77b4b4b71.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/c9d4l5pq73yo?at_medium=RSS&at_campaign=rss",
+            "title": "BTS agency shares drop after comeback show turnout falls short",
+            "url": "https://www.bbc.com/news/articles/c9d4l5pq73yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T04:39:03.000Z",
+            "description": "The concert was attended by an estimated 104,000 fans, much lower than the expected 260,000.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d0/live/cd6f4f20-2671-11f1-9e3f-ab087b90124d.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/c8ejl730wl2o?at_medium=RSS&at_campaign=rss",
+            "title": "What did critics think of Saturday Night Live UK's debut?",
+            "url": "https://www.bbc.com/news/articles/c8ejl730wl2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T16:19:28.000Z",
+            "description": "The long-running US sketch show now has a British equivalent, which received a broadly positive reaction on its debut.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41e0/live/13a38ed0-25f4-11f1-908a-2f9759ed819b.jpg",
+            "categories": []
+          }
         ]
       }
     },
     "Sports": {
-      "articleCount": 17,
+      "articleCount": 16,
       "sourceCount": 4,
       "articles": [
+        {
+          "id": "BBC:https://www.bbc.com/sport/football/articles/cy9g7vrj9qyo?at_medium=RSS&at_campaign=rss",
+          "title": "Inside the complex mind of Wales boss Bellamy",
+          "url": "https://www.bbc.com/sport/football/articles/cy9g7vrj9qyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "publishedAt": "2026-03-23T05:04:15.000Z",
+          "description": "Wales boss Craig Bellamy discusses everything from football to Balkan history - and playing Ken and Barbie - in an exclusive, in-depth interview with BBC Sport.",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ccf/live/afd7b1a0-2207-11f1-934f-036468834728.jpg",
+          "categories": []
+        },
         {
           "id": "Fox News:https://www.foxnews.com/sports/world-cup-2026-us-base-camps-host-cities",
           "title": "World Cup teams finalize US base camps as host cities prepare for global crowds",
@@ -2487,25 +2563,6 @@
           "categories": []
         },
         {
-          "id": "Fox News:https://www.foxnews.com/sports/lakers-luka-doncic-says-magic-player-made-explicit-remark-about-his-family",
-          "title": "Lakers' Luka Doncic says Magic player made explicit remark about his family",
-          "url": "https://www.foxnews.com/sports/lakers-luka-doncic-says-magic-player-made-explicit-remark-about-his-family",
-          "source": "Fox News",
-          "publishedAt": "2026-03-22T20:55:03.000Z",
-          "description": "Los Angeles Lakers star Luka Doncic and Orlando Magic center Goga Bitadze got into a verbal argument during the third quarter of their game.",
-          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/nba-lakers-luka-doncic-032226-2.jpg?ve=1&tl=1",
-          "categories": [
-            "f3cc1de9-57d4-5eb5-af4b-c557a6db51fa",
-            "fnc",
-            "Fox News",
-            "fox-news/sports/nba/los-angeles-lakers",
-            "fox-news/sports/nba/orlando-magic",
-            "fox-news/sports/nba",
-            "fox-news/sports",
-            "article"
-          ]
-        },
-        {
           "id": "BBC:https://www.bbc.com/sport/football/articles/ce35w3ewqxyo?at_medium=RSS&at_campaign=rss",
           "title": "Guardiola's dance of joy as Man City pile pressure on desolate Arsenal",
           "url": "https://www.bbc.com/sport/football/articles/ce35w3ewqxyo?at_medium=RSS&at_campaign=rss",
@@ -2523,16 +2580,6 @@
           "publishedAt": "2026-03-22T19:16:42.000Z",
           "description": "Keely Hodgkinson runs a championship record time of one minute 55.30 seconds to take gold in the women's 800m at the World Indoor Athletics Championships in Poland.",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d869/live/50893970-2622-11f1-b297-95b0a0a8331e.jpg",
-          "categories": []
-        },
-        {
-          "id": "BBC:https://www.bbc.com/sport/football/articles/cgldklk5j34o?at_medium=RSS&at_campaign=rss",
-          "title": "Newcastle's Barnes set to replace Eze in England squad",
-          "url": "https://www.bbc.com/sport/football/articles/cgldklk5j34o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-22T18:39:26.000Z",
-          "description": "Newcastle winger Harvey Barnes is set to be called-up to Thomas Tuchel's England squad to replace the injured Eberechi Eze.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ed3/live/6109b810-261d-11f1-8055-8da8289aa0e0.jpg",
           "categories": []
         },
         {
@@ -2567,7 +2614,7 @@
         }
       ],
       "subtopics": {
-        "NCAA Basketball Tournament Highlights": [
+        "NCAA March Madness Highlights": [
           {
             "id": "Fox News:https://www.foxnews.com/sports/iowa-hits-clutch-3-pointer-closing-seconds-stun-florida",
             "title": "Iowa hits clutch 3-pointer in closing seconds to stun Florida",
@@ -2632,30 +2679,81 @@
             ]
           }
         ],
-        "World Cup 2026 US Preparations": [
+        "World Athletics Indoor Championships Success for GB": [
           {
-            "id": "Fox News:https://www.foxnews.com/sports/world-cup-2026-us-base-camps-host-cities",
-            "title": "World Cup teams finalize US base camps as host cities prepare for global crowds",
-            "url": "https://www.foxnews.com/sports/world-cup-2026-us-base-camps-host-cities",
-            "source": "Fox News",
-            "publishedAt": "2026-03-23T03:55:02.000Z",
-            "description": "Cities across the US are preparing World Cup base camps as teams finalize training sites and fans prepare to travel for the 2026 tournament.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kc-2026-bid.jpg?ve=1&tl=1",
-            "categories": [
-              "968bd6b7-8b97-54b2-b4e1-199eec9eec9f",
-              "fnc",
-              "Fox News",
-              "fox-news/sports/soccer",
-              "fox-news/sports/soccer/the-world-cup",
-              "fox-news/topic/fox-news-multimedia-reporters",
-              "fox-news/us/us-regions/midwest",
-              "fox-news/sports",
-              "fox-news/sports",
-              "article"
-            ]
+            "id": "BBC:https://www.bbc.com/sport/athletics/articles/c20qjlyezjvo?at_medium=RSS&at_campaign=rss",
+            "title": "Three golds in 28 minutes - GB makes history at World Athletics Indoor Championships",
+            "url": "https://www.bbc.com/sport/athletics/articles/c20qjlyezjvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T20:59:23.000Z",
+            "description": "Great Britain claim three golds in a sensational 28 minutes to make history and achieve the team's best-ever haul at the World Athletics Indoor Championships.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31d6/live/5e7cf910-2625-11f1-aad6-2d605a562384.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/sport/athletics/articles/cpd5q0580dpo?at_medium=RSS&at_campaign=rss",
+            "title": "How 'Keely 2.0' dominated 800m field for first world indoors title",
+            "url": "https://www.bbc.com/sport/athletics/articles/cpd5q0580dpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T21:28:21.000Z",
+            "description": "Keely Hodgkinson captures her first world indoor title in commanding fashion as she claims 800m gold with a championship record in Poland.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6615/live/9780a3d0-262d-11f1-b297-95b0a0a8331e.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/sport/athletics/videos/cn89y8z4gpgo?at_medium=RSS&at_campaign=rss",
+            "title": "Hodgkinson wins 800m gold in championship record time",
+            "url": "https://www.bbc.com/sport/athletics/videos/cn89y8z4gpgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T19:16:42.000Z",
+            "description": "Keely Hodgkinson runs a championship record time of one minute 55.30 seconds to take gold in the women's 800m at the World Indoor Athletics Championships in Poland.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d869/live/50893970-2622-11f1-b297-95b0a0a8331e.jpg",
+            "categories": []
           }
         ],
-        "Flag Football Stories: Tom Brady and Super Bowl Champ at 66": [
+        "Premier League and Football Manager Insights": [
+          {
+            "id": "BBC:https://www.bbc.com/sport/football/articles/cy9g7vrj9qyo?at_medium=RSS&at_campaign=rss",
+            "title": "Inside the complex mind of Wales boss Bellamy",
+            "url": "https://www.bbc.com/sport/football/articles/cy9g7vrj9qyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T05:04:15.000Z",
+            "description": "Wales boss Craig Bellamy discusses everything from football to Balkan history - and playing Ken and Barbie - in an exclusive, in-depth interview with BBC Sport.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ccf/live/afd7b1a0-2207-11f1-934f-036468834728.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/sport/football/articles/c0krjkl3kn0o?at_medium=RSS&at_campaign=rss",
+            "title": "Who has made Troy's Premier League team of the week?",
+            "url": "https://www.bbc.com/sport/football/articles/c0krjkl3kn0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T22:08:51.000Z",
+            "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc45/live/60256500-263d-11f1-a67d-43e6bd403123.png",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/sport/football/articles/cg73g9g7j5ko?at_medium=RSS&at_campaign=rss",
+            "title": "The 'sentimental' goalkeeping call that cost Arsenal",
+            "url": "https://www.bbc.com/sport/football/articles/cg73g9g7j5ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T21:12:53.000Z",
+            "description": "There is no hiding place for a manager when your decisions go wrong, and Mikel Arteta's call to stick by cup goalkeeper Kepa Arrizabalaga will haunt him.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e075/live/2e6c6160-262b-11f1-aad6-2d605a562384.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/sport/football/articles/ce35w3ewqxyo?at_medium=RSS&at_campaign=rss",
+            "title": "Guardiola's dance of joy as Man City pile pressure on desolate Arsenal",
+            "url": "https://www.bbc.com/sport/football/articles/ce35w3ewqxyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T20:41:11.000Z",
+            "description": "Manchester City will hope their dominant Carabao Cup final win piles pressure on Arsenal in the Premier League title race, says chief football writer Phil McNulty.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c0/live/49c6cdc0-262f-11f1-ae2a-67c08f8352fb.jpg",
+            "categories": []
+          }
+        ],
+        "Flag Football and NFL Veterans in New Roles": [
           {
             "id": "Fox News:https://www.foxnews.com/sports/tom-brady-gives-praise-logan-paul-after-flag-football-game",
             "title": "Tom Brady gives praise to Logan Paul after flag football game",
@@ -2695,100 +2793,30 @@
             ]
           }
         ],
-        "Athletics and World Indoor Championships Achievements": [
+        "World Cup 2026 Preparations and Host Cities": [
           {
-            "id": "BBC:https://www.bbc.com/sport/athletics/articles/cpd5q0580dpo?at_medium=RSS&at_campaign=rss",
-            "title": "How 'Keely 2.0' dominated 800m field for first world indoors title",
-            "url": "https://www.bbc.com/sport/athletics/articles/cpd5q0580dpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T21:28:21.000Z",
-            "description": "Keely Hodgkinson captures her first world indoor title in commanding fashion as she claims 800m gold with a championship record in Poland.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6615/live/9780a3d0-262d-11f1-b297-95b0a0a8331e.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/sport/athletics/articles/c20qjlyezjvo?at_medium=RSS&at_campaign=rss",
-            "title": "Three golds in 28 minutes - GB makes history at World Athletics Indoor Championships",
-            "url": "https://www.bbc.com/sport/athletics/articles/c20qjlyezjvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T20:59:23.000Z",
-            "description": "Great Britain claim three golds in a sensational 28 minutes to make history and achieve the team's best-ever haul at the World Athletics Indoor Championships.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31d6/live/5e7cf910-2625-11f1-aad6-2d605a562384.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/sport/athletics/videos/cn89y8z4gpgo?at_medium=RSS&at_campaign=rss",
-            "title": "Hodgkinson wins 800m gold in championship record time",
-            "url": "https://www.bbc.com/sport/athletics/videos/cn89y8z4gpgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T19:16:42.000Z",
-            "description": "Keely Hodgkinson runs a championship record time of one minute 55.30 seconds to take gold in the women's 800m at the World Indoor Athletics Championships in Poland.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d869/live/50893970-2622-11f1-b297-95b0a0a8331e.jpg",
-            "categories": []
-          }
-        ],
-        "Premier League Football Updates and Controversies": [
-          {
-            "id": "BBC:https://www.bbc.com/sport/football/articles/c0krjkl3kn0o?at_medium=RSS&at_campaign=rss",
-            "title": "Who has made Troy's Premier League team of the week?",
-            "url": "https://www.bbc.com/sport/football/articles/c0krjkl3kn0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T22:08:51.000Z",
-            "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc45/live/60256500-263d-11f1-a67d-43e6bd403123.png",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/sport/football/articles/cg73g9g7j5ko?at_medium=RSS&at_campaign=rss",
-            "title": "The 'sentimental' goalkeeping call that cost Arsenal",
-            "url": "https://www.bbc.com/sport/football/articles/cg73g9g7j5ko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T21:12:53.000Z",
-            "description": "There is no hiding place for a manager when your decisions go wrong, and Mikel Arteta's call to stick by cup goalkeeper Kepa Arrizabalaga will haunt him.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e075/live/2e6c6160-262b-11f1-aad6-2d605a562384.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/sport/football/articles/ce35w3ewqxyo?at_medium=RSS&at_campaign=rss",
-            "title": "Guardiola's dance of joy as Man City pile pressure on desolate Arsenal",
-            "url": "https://www.bbc.com/sport/football/articles/ce35w3ewqxyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T20:41:11.000Z",
-            "description": "Manchester City will hope their dominant Carabao Cup final win piles pressure on Arsenal in the Premier League title race, says chief football writer Phil McNulty.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c0/live/49c6cdc0-262f-11f1-ae2a-67c08f8352fb.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/sport/football/articles/cgldklk5j34o?at_medium=RSS&at_campaign=rss",
-            "title": "Newcastle's Barnes set to replace Eze in England squad",
-            "url": "https://www.bbc.com/sport/football/articles/cgldklk5j34o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T18:39:26.000Z",
-            "description": "Newcastle winger Harvey Barnes is set to be called-up to Thomas Tuchel's England squad to replace the injured Eberechi Eze.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ed3/live/6109b810-261d-11f1-8055-8da8289aa0e0.jpg",
-            "categories": []
-          }
-        ],
-        "Other Coverage": [
-          {
-            "id": "Fox News:https://www.foxnews.com/sports/lakers-luka-doncic-says-magic-player-made-explicit-remark-about-his-family",
-            "title": "Lakers' Luka Doncic says Magic player made explicit remark about his family",
-            "url": "https://www.foxnews.com/sports/lakers-luka-doncic-says-magic-player-made-explicit-remark-about-his-family",
+            "id": "Fox News:https://www.foxnews.com/sports/world-cup-2026-us-base-camps-host-cities",
+            "title": "World Cup teams finalize US base camps as host cities prepare for global crowds",
+            "url": "https://www.foxnews.com/sports/world-cup-2026-us-base-camps-host-cities",
             "source": "Fox News",
-            "publishedAt": "2026-03-22T20:55:03.000Z",
-            "description": "Los Angeles Lakers star Luka Doncic and Orlando Magic center Goga Bitadze got into a verbal argument during the third quarter of their game.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/nba-lakers-luka-doncic-032226-2.jpg?ve=1&tl=1",
+            "publishedAt": "2026-03-23T03:55:02.000Z",
+            "description": "Cities across the US are preparing World Cup base camps as teams finalize training sites and fans prepare to travel for the 2026 tournament.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kc-2026-bid.jpg?ve=1&tl=1",
             "categories": [
-              "f3cc1de9-57d4-5eb5-af4b-c557a6db51fa",
+              "968bd6b7-8b97-54b2-b4e1-199eec9eec9f",
               "fnc",
               "Fox News",
-              "fox-news/sports/nba/los-angeles-lakers",
-              "fox-news/sports/nba/orlando-magic",
-              "fox-news/sports/nba",
+              "fox-news/sports/soccer",
+              "fox-news/sports/soccer/the-world-cup",
+              "fox-news/topic/fox-news-multimedia-reporters",
+              "fox-news/us/us-regions/midwest",
+              "fox-news/sports",
               "fox-news/sports",
               "article"
             ]
-          },
+          }
+        ],
+        "Other Coverage": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/pink-pony-club-singer-chappell-roan-responds-to-explosive-claim-she-left-child-in-tears",
             "title": "‘Pink Pony Club’ Singer Chappell Roan Responds To Explosive Claim She Left Child In Tears",
@@ -2823,9 +2851,51 @@
       }
     },
     "Other": {
-      "articleCount": 50,
+      "articleCount": 46,
       "sourceCount": 5,
       "articles": [
+        {
+          "id": "BBC:https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
+          "title": "Plane and ground vehicle collide at New York's LaGuardia Airport halting flights",
+          "url": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "publishedAt": "2026-03-23T07:27:20.000Z",
+          "description": "An Air Canada Express plane suffered significant damage after the collision.",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/0088fb90-2681-11f1-a32b-91a6d5286fbb.jpg",
+          "categories": []
+        },
+        {
+          "id": "New York Times:https://www.nytimes.com/2026/03/23/us/jewish-ambulances-fire-london.html",
+          "title": "London Arson Attack on Jewish Ambulance Service Investigated as Hate Crime",
+          "url": "https://www.nytimes.com/2026/03/23/us/jewish-ambulances-fire-london.html",
+          "source": "New York Times",
+          "publishedAt": "2026-03-23T06:39:50.000Z",
+          "description": "The Metropolitan Police said on Monday that it was investigating the episode as an antisemitic hate crime.",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23xp-london-arson-ambulances-vtkp/23xp-london-arson-ambulances-vtkp-mediumSquareAt3X.jpg",
+          "categories": [
+            "Hate Crimes",
+            "Anti-Semitism",
+            "Fires and Firefighters",
+            "Arson",
+            "Police",
+            "Ambulances",
+            "Volunteers and Community Service",
+            "London (England)"
+          ]
+        },
+        {
+          "id": "New York Times:https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
+          "title": "Mette Frederiksen Changed Denmark",
+          "url": "https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
+          "source": "New York Times",
+          "publishedAt": "2026-03-23T06:36:54.000Z",
+          "description": "Whatever Mette Frederiksen does next, Denmark has fundamentally changed.",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23krasnik-fmbk/23krasnik-fmbk-mediumSquareAt3X-v2.jpg",
+          "categories": [
+            "Denmark",
+            "Frederiksen, Mette"
+          ]
+        },
         {
           "id": "BBC:https://www.bbc.com/news/articles/cew72ll8245o?at_medium=RSS&at_campaign=rss",
           "title": "British couple in Iran prison say situation is 'life-threatening'",
@@ -2837,21 +2907,6 @@
           "categories": []
         },
         {
-          "id": "New York Times:https://www.nytimes.com/2026/03/23/nyregion/laguardia-groundstop-flights.html",
-          "title": "Flights Are Halted at LaGuardia as New York Fire Department Responds to Incident",
-          "url": "https://www.nytimes.com/2026/03/23/nyregion/laguardia-groundstop-flights.html",
-          "source": "New York Times",
-          "publishedAt": "2026-03-23T06:04:05.000Z",
-          "description": "A ground stop was in effect early Monday as the Fire Department said it was responding to a runway incident. A New York Times journalist saw an Air Canada plane on the runway with a sheared-off nose.",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23xp-laguardia-mhfq/23xp-laguardia-mhfq-mediumSquareAt3X.jpg",
-          "categories": [
-            "Aviation Accidents, Safety and Disasters",
-            "Airports",
-            "Airlines and Airplanes",
-            "Traffic Accidents and Safety"
-          ]
-        },
-        {
           "id": "BBC:https://www.bbc.com/news/articles/c5yg6kyd9dzo?at_medium=RSS&at_campaign=rss",
           "title": "The cutthroat battle for the US weight-loss drug market",
           "url": "https://www.bbc.com/news/articles/c5yg6kyd9dzo?at_medium=RSS&at_campaign=rss",
@@ -2860,29 +2915,6 @@
           "description": "Weight-loss drug prices are falling in the US - but can the example be repeated?",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a0/live/5e1a7690-248c-11f1-a673-e3b236a15253.jpg",
           "categories": []
-        },
-        {
-          "id": "BBC:https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
-          "title": "Four ambulances set on fire in London in suspected antisemitic hate crime",
-          "url": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-23T06:00:41.000Z",
-          "description": "Police said they were looking for three suspects after the London Fire Brigade were called to Golders Green at around 01:40 GMT.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed98/live/2d35cba0-2677-11f1-b297-95b0a0a8331e.jpg",
-          "categories": []
-        },
-        {
-          "id": "New York Times:https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
-          "title": "Mette Frederiksen Changed Denmark",
-          "url": "https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
-          "source": "New York Times",
-          "publishedAt": "2026-03-23T05:00:04.000Z",
-          "description": "Whatever Mette Frederiksen does next, Denmark has fundamentally changed.",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23krasnik-fmbk/23krasnik-fmbk-mediumSquareAt3X-v2.jpg",
-          "categories": [
-            "Denmark",
-            "Frederiksen, Mette"
-          ]
         },
         {
           "id": "Fox News:https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests",
@@ -2924,16 +2956,6 @@
             "Israel",
             "Iran"
           ]
-        },
-        {
-          "id": "BBC:https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&at_campaign=rss",
-          "title": "Apology for poor care over boy's bleed death",
-          "url": "https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-23T03:01:09.000Z",
-          "description": "Three-year-old Aarav Chopra died during a biopsy when his artery was pierced by a trainee doctor.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3535/live/02d08300-1e5c-11f1-a1da-edae1d05dd8e.png",
-          "categories": []
         },
         {
           "id": "BBC:https://www.bbc.com/news/articles/cn0wd20k0xeo?at_medium=RSS&at_campaign=rss",
@@ -3065,26 +3087,6 @@
           "categories": []
         },
         {
-          "id": "New York Times:https://www.nytimes.com/2026/03/22/obituaries/j-michael-bishop-dead.html",
-          "title": "J. Michael Bishop, Nobel Prize Winner for Cancer Research, Dies at 90",
-          "url": "https://www.nytimes.com/2026/03/22/obituaries/j-michael-bishop-dead.html",
-          "source": "New York Times",
-          "publishedAt": "2026-03-22T19:00:02.000Z",
-          "description": "He helped discover cancer-causing genes. Later, as chancellor of the University of California, San Francisco, he led a major expansion.",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/22/obituaries/22bishop-obit-0001/22bishop-obit-0001-mediumSquareAt3X.jpg",
-          "categories": [
-            "Michael Bishop, J",
-            "Deaths (Obituaries)",
-            "Cancer",
-            "Genetics and Heredity",
-            "Research",
-            "Nobel Prizes",
-            "Colleges and Universities",
-            "University of California, San Francisco",
-            "Varmus, Harold E"
-          ]
-        },
-        {
           "id": "Daily Wire:https://www.dailywire.com/news/iran-issues-new-threat-as-trumps-48-hour-ultimatum-hits-halfway-mark",
           "title": "Iran Issues New Threat As Trump’s 48-Hour Ultimatum Hits Halfway Mark",
           "url": "https://www.dailywire.com/news/iran-issues-new-threat-as-trumps-48-hour-ultimatum-hits-halfway-mark",
@@ -3105,16 +3107,6 @@
           "categories": []
         },
         {
-          "id": "BBC:https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss",
-          "title": "No assessment Iran could strike London, UK minister says",
-          "url": "https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-22T17:45:50.000Z",
-          "description": "Steve Reed says there is \"no specific assessment\" Iran is capable of hitting the UK, after Israel claimed it now could.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4643/live/94ead830-25f5-11f1-b297-95b0a0a8331e.jpg",
-          "categories": []
-        },
-        {
           "id": "BBC:https://www.bbc.com/sport/football/articles/c2k3dwng90go?at_medium=RSS&at_campaign=rss",
           "title": "'Impossible for him to stay' - what next for Tudor and Tottenham?",
           "url": "https://www.bbc.com/sport/football/articles/c2k3dwng90go?at_medium=RSS&at_campaign=rss",
@@ -3122,16 +3114,6 @@
           "publishedAt": "2026-03-22T17:45:26.000Z",
           "description": "How does boss Igor Tudor survive at Tottenham after another damaging defeat? Nick Mashiter analyses the situation.",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e7d/live/99741e50-264c-11f1-934f-036468834728.jpg",
-          "categories": []
-        },
-        {
-          "id": "BBC:https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-          "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
-          "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-22T17:35:19.000Z",
-          "description": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c825/live/d7fc6990-25c3-11f1-b1ce-2dccb029f244.jpg",
           "categories": []
         },
         {
@@ -3396,17 +3378,7 @@
         }
       ],
       "subtopics": {
-        "Iran-Israel Conflict and Regional Escalations": [
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-            "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
-            "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T17:35:19.000Z",
-            "description": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c825/live/d7fc6990-25c3-11f1-b1ce-2dccb029f244.jpg",
-            "categories": []
-          },
+        "Middle East Conflict and Iran War Developments": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html",
             "title": "Israel’s Missile Defense Under Scrutiny After Iranian Attack",
@@ -3427,6 +3399,16 @@
             ]
           },
           {
+            "id": "BBC:https://www.bbc.com/news/articles/cx230em8jg7o?at_medium=RSS&at_campaign=rss",
+            "title": "Prince William keen to build 'strong and meaningful' bond with Church",
+            "url": "https://www.bbc.com/news/articles/cx230em8jg7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T20:59:37.000Z",
+            "description": "An aide to the prince says his commitment to the Church of England is \"sometimes quieter\" than expected.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff4b/live/141340c0-2619-11f1-a79a-77e93010d956.jpg",
+            "categories": []
+          },
+          {
             "id": "Daily Wire:https://www.dailywire.com/news/iran-issues-new-threat-as-trumps-48-hour-ultimatum-hits-halfway-mark",
             "title": "Iran Issues New Threat As Trump’s 48-Hour Ultimatum Hits Halfway Mark",
             "url": "https://www.dailywire.com/news/iran-issues-new-threat-as-trumps-48-hour-ultimatum-hits-halfway-mark",
@@ -3434,16 +3416,6 @@
             "publishedAt": "2026-03-22T18:17:32.000Z",
             "description": "Iran said on Sunday it would strike the energy and water systems of its Gulf neighbours in retaliation if U.S. President Donald Trump follows through with a threat to hit Iran’s electricity grid in 48 hours, escalating the three-week-old war. The prospect of tit-for-tat strikes on civilian infrastructure could deepen the regional crisis and further ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267156728-scaled.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss",
-            "title": "No assessment Iran could strike London, UK minister says",
-            "url": "https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T17:45:50.000Z",
-            "description": "Steve Reed says there is \"no specific assessment\" Iran is capable of hitting the UK, after Israel claimed it now could.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4643/live/94ead830-25f5-11f1-b297-95b0a0a8331e.jpg",
             "categories": []
           },
           {
@@ -3487,6 +3459,24 @@
             ]
           },
           {
+            "id": "New York Times:https://www.nytimes.com/2026/03/22/us/heat-wave-air-conditioning-california-utah-colorado-oklahoma.html",
+            "title": "Heat Wave in California and Other Western States Wilts a More Air-Conditioned U.S.",
+            "url": "https://www.nytimes.com/2026/03/22/us/heat-wave-air-conditioning-california-utah-colorado-oklahoma.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-22T21:47:38.000Z",
+            "description": "In recent years, more homes have added air-conditioning, something that may come in handy this week as some areas are expected to see temperatures 40 degrees above normal.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23NAT-Heat-wave-bjpl/23NAT-Heat-wave-bjpl-mediumSquareAt3X.jpg",
+            "categories": [
+              "Heat and Heat Waves",
+              "Air Conditioning",
+              "National Weather Service",
+              "Arizona",
+              "California",
+              "San Francisco (Calif)",
+              "Seattle (Wash)"
+            ]
+          },
+          {
             "id": "Daily Wire:https://www.dailywire.com/news/red-state-pauses-gas-tax-to-ease-pain-of-iran-war-price-increase",
             "title": "Red State Pauses Gas Tax To Ease Pain Of Iran War Price Increase",
             "url": "https://www.dailywire.com/news/red-state-pauses-gas-tax-to-ease-pain-of-iran-war-price-increase",
@@ -3494,26 +3484,6 @@
             "publishedAt": "2026-03-20T17:14:25.000Z",
             "description": "Georgia Governor Brian Kemp on Friday suspended the state’s gas tax amid rising fuel prices as the U.S.-Israeli war in Iran enters its third week. The move – the first such relief offered by a U.S. state since the war started on February 28 – suspends Georgia’s tax of 33.3 cents per gallon on gas ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2025/10/GettyImages-2222971592.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cn0wd20k0xeo?at_medium=RSS&at_campaign=rss",
-            "title": "The Papers: 'Trump raises stakes' and 'Tend it like Beckham'",
-            "url": "https://www.bbc.com/news/articles/cn0wd20k0xeo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T01:17:59.000Z",
-            "description": "The 'new escalatory phase' of the war in the Middle East is a focus of several papers today.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7ac/live/b0d92e40-2648-11f1-a79a-77e93010d956.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/video-iranian-missile-screams-over-israel-explosion-injures-dozens",
-            "title": "VIDEO: Iranian Missile Screams Over Israel, Explosion Injures Dozens, Including Children",
-            "url": "https://www.dailywire.com/news/video-iranian-missile-screams-over-israel-explosion-injures-dozens",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-21T19:07:27.000Z",
-            "description": "A missile rips through the night sky — then a blinding fireball engulfs the scene as the strike hits, all caught on video. The strike left around 75 people injured in Arad, including 10 who were seriously hurt and rushed to a hospital in Beersheba, according to The Jerusalem Post. Arad Mayor Yair Ma’ayan said ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Mar-21-2026-08_44_12-PM.jpeg",
             "categories": []
           },
           {
@@ -3527,6 +3497,16 @@
             "categories": []
           },
           {
+            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5753667/the-effects-of-the-iran-war-on-environmental-and-human-health-according-to-an-expert",
+            "title": "The effects of the Iran war on environmental and human health, according to an expert",
+            "url": "https://www.npr.org/2026/03/22/nx-s1-5753667/the-effects-of-the-iran-war-on-environmental-and-human-health-according-to-an-expert",
+            "source": "NPR",
+            "publishedAt": "2026-03-22T12:04:32.000Z",
+            "description": "As the war in Iran enters its fourth week, the costs are adding up. NPR's Ayesha Rascoe talks to Doug Weir, with the Conflict and War Observatory, about impacts to human health and the environment.",
+            "imageUrl": null,
+            "categories": []
+          },
+          {
             "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5753005/trump-threatens-irans-power-plants-as-war-enters-fourth-week-with-no-end-in-sight",
             "title": "Trump threatens Iran's power plants as war enters fourth week with no end in sight",
             "url": "https://www.npr.org/2026/03/22/nx-s1-5753005/trump-threatens-irans-power-plants-as-war-enters-fourth-week-with-no-end-in-sight",
@@ -3537,7 +3517,7 @@
             "categories": []
           }
         ],
-        "US Domestic Security Efforts and Immigration Policies": [
+        "US Airport Security and ICE Deployment Amid Government Shutdown": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/why-ice-agents-in-airports-may-be-arriving-just-in-time",
             "title": "Why ICE Agents In Airports May Be Arriving Just In Time",
@@ -3577,17 +3557,50 @@
             "description": "Border czar Tom Homan says ICE agents will help the Transportation Security Administration \"move those lines\" while also enforcing immigration law.",
             "imageUrl": null,
             "categories": []
-          },
+          }
+        ],
+        "Violent Incidents and Terrorism in West Bank and Michigan": [
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/murder-suspect-in-loyola-university-slaying-is-venezuelan-illegal-released-by-biden",
-            "title": "Murder Suspect In Loyola University Slaying Is Venezuelan Illegal Released By Biden",
-            "url": "https://www.dailywire.com/news/murder-suspect-in-loyola-university-slaying-is-venezuelan-illegal-released-by-biden",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-22T15:20:31.000Z",
-            "description": "A Venezuelan illegal immigrant who was released into the country by the Biden administration has been identified as the suspect in the fatal Thursday shooting of Loyola University Chicago student Sheridan Gorman, the Department of Homeland Security (DHS) said Sunday. Jose Medina-Medina, 25, was arrested after he allegedly approached the college freshman, wearing black clothes ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-2026-03-22T145304.656.jpg",
+            "id": "BBC:https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
+            "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+            "url": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-22T22:38:24.000Z",
+            "description": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c916/live/320a6920-25fe-11f1-908a-2f9759ed819b.jpg",
             "categories": []
           },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/new-photos-reveal-devastation-inside-michigan-synagogue-after-hezbollah-linked-terror-attack",
+            "title": "New Photos Reveal Devastation Inside Michigan Synagogue After Hezbollah-Linked Terror Attack",
+            "url": "https://www.dailywire.com/news/new-photos-reveal-devastation-inside-michigan-synagogue-after-hezbollah-linked-terror-attack",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T12:35:34.000Z",
+            "description": "Newly released photos show the extent of destruction inside Temple Israel in West Bloomfield, Michigan, following last week’s Hezbollah-linked terrorist attack. Images obtained by The Daily Wire and released by the synagogue capture a burned-out truck lodged at the end of a hallway, debris scattered across the floor, and sprinkler water pooling around a child’s red ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Bebas-Neue-4.png",
+            "categories": []
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/23/us/jewish-ambulances-fire-london.html",
+            "title": "London Arson Attack on Jewish Ambulance Service Investigated as Hate Crime",
+            "url": "https://www.nytimes.com/2026/03/23/us/jewish-ambulances-fire-london.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-23T06:39:50.000Z",
+            "description": "The Metropolitan Police said on Monday that it was investigating the episode as an antisemitic hate crime.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23xp-london-arson-ambulances-vtkp/23xp-london-arson-ambulances-vtkp-mediumSquareAt3X.jpg",
+            "categories": [
+              "Hate Crimes",
+              "Anti-Semitism",
+              "Fires and Firefighters",
+              "Arson",
+              "Police",
+              "Ambulances",
+              "Volunteers and Community Service",
+              "London (England)"
+            ]
+          }
+        ],
+        "Criminal Cases and Immigration Enforcement in US": [
           {
             "id": "Fox News:https://www.foxnews.com/us/illegal-immigrant-accused-killing-loyola-student-caught-released-under-biden-dhs-says",
             "title": "Illegal immigrant charged with killing Loyola student released under Biden, DHS says",
@@ -3610,6 +3623,16 @@
             ]
           },
           {
+            "id": "Daily Wire:https://www.dailywire.com/news/murder-suspect-in-loyola-university-slaying-is-venezuelan-illegal-released-by-biden",
+            "title": "Murder Suspect In Loyola University Slaying Is Venezuelan Illegal Released By Biden",
+            "url": "https://www.dailywire.com/news/murder-suspect-in-loyola-university-slaying-is-venezuelan-illegal-released-by-biden",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-22T15:20:31.000Z",
+            "description": "A Venezuelan illegal immigrant who was released into the country by the Biden administration has been identified as the suspect in the fatal Thursday shooting of Loyola University Chicago student Sheridan Gorman, the Department of Homeland Security (DHS) said Sunday. Jose Medina-Medina, 25, was arrested after he allegedly approached the college freshman, wearing black clothes ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-2026-03-22T145304.656.jpg",
+            "categories": []
+          },
+          {
             "id": "Daily Wire:https://www.dailywire.com/news/a-childs-tip-to-ice-may-have-saved-her-moms-life-from-monster",
             "title": "A Child’s Tip To ICE May Have Saved Her Mom’s Life From ‘Monster’",
             "url": "https://www.dailywire.com/news/a-childs-tip-to-ice-may-have-saved-her-moms-life-from-monster",
@@ -3620,87 +3643,50 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/pentagon-pushes-back-after-judge-rules-press-access-limits-unconstitutional",
-            "title": "Pentagon Pushes Back After Judge Rules Press Access Limits Unconstitutional",
-            "url": "https://www.dailywire.com/news/pentagon-pushes-back-after-judge-rules-press-access-limits-unconstitutional",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T19:03:39.000Z",
-            "description": "A federal judge on Friday blocked the Trump administration’s restrictive Pentagon press access policy, which threatens journalists with being ​branded security risks if they seek information not authorized for public release. The lawsuit by the New York Times in Washington, D.C., federal court alleged that policy changes by the Defense Department last year gave it free ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2024/12/GettyImages-2166909246-e1734116346984.jpg",
-            "categories": []
+            "id": "Fox News:https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests",
+            "title": "9 suspects arrested after $7M in stolen cargo seized in Southern California bust",
+            "url": "https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests",
+            "source": "Fox News",
+            "publishedAt": "2026-03-23T04:16:50.000Z",
+            "description": "Nine suspects were arrested after authorities recovered $7 million in stolen cargo and $1 million in cash as part of a cargo theft bust in California.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/la-county-7-million-dollar-theft-retail-appliances.png?ve=1&tl=1",
+            "categories": [
+              "7a182d23-6604-570e-bd27-00048dc025a4",
+              "fnc",
+              "Fox News",
+              "fox-news/us/us-regions/west/california",
+              "fox-news/us",
+              "fox-news/us/los-angeles",
+              "fox-news/crime",
+              "fox-news/us/crime/police-and-law-enforcement",
+              "fox-news/us/crime/robbery-theft",
+              "fox-news/us",
+              "article"
+            ]
           }
         ],
-        "Recent Violent Incidents and Hate Crimes": [
+        "Miscellaneous Stories: Politics, Culture, and Environment": [
           {
-            "id": "BBC:https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
-            "title": "Four ambulances set on fire in London in suspected antisemitic hate crime",
-            "url": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
+            "id": "New York Times:https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
+            "title": "Mette Frederiksen Changed Denmark",
+            "url": "https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-23T06:36:54.000Z",
+            "description": "Whatever Mette Frederiksen does next, Denmark has fundamentally changed.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23krasnik-fmbk/23krasnik-fmbk-mediumSquareAt3X-v2.jpg",
+            "categories": [
+              "Denmark",
+              "Frederiksen, Mette"
+            ]
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
+            "title": "Plane and ground vehicle collide at New York's LaGuardia Airport halting flights",
+            "url": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
-            "publishedAt": "2026-03-23T06:00:41.000Z",
-            "description": "Police said they were looking for three suspects after the London Fire Brigade were called to Golders Green at around 01:40 GMT.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed98/live/2d35cba0-2677-11f1-b297-95b0a0a8331e.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
-            "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
-            "url": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-22T22:38:24.000Z",
-            "description": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c916/live/320a6920-25fe-11f1-908a-2f9759ed819b.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/new-photos-reveal-devastation-inside-michigan-synagogue-after-hezbollah-linked-terror-attack",
-            "title": "New Photos Reveal Devastation Inside Michigan Synagogue After Hezbollah-Linked Terror Attack",
-            "url": "https://www.dailywire.com/news/new-photos-reveal-devastation-inside-michigan-synagogue-after-hezbollah-linked-terror-attack",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T12:35:34.000Z",
-            "description": "Newly released photos show the extent of destruction inside Temple Israel in West Bloomfield, Michigan, following last week’s Hezbollah-linked terrorist attack. Images obtained by The Daily Wire and released by the synagogue capture a burned-out truck lodged at the end of a hallway, debris scattered across the floor, and sprinkler water pooling around a child’s red ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Bebas-Neue-4.png",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/taylor-frankie-paul-caught-on-camera-attacking-boyfriend-what-it-says-about-who-we-believe",
-            "title": "Taylor Frankie Paul Caught On Camera Attacking Boyfriend. What It Says About Who We Believe",
-            "url": "https://www.dailywire.com/news/taylor-frankie-paul-caught-on-camera-attacking-boyfriend-what-it-says-about-who-we-believe",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T14:42:11.000Z",
-            "description": "This article is part of Upstream, The Daily Wire’s new home for culture and lifestyle. Real human insight and human stories — from our featured writers to you. *** “This is called physical abuse,” Dakota Mortensen says in leaked cellphone footage as his then-girlfriend, “The Secret Lives of Mormon Wives” star Taylor Frankie Paul, can be ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2266317919.jpg",
-            "categories": []
-          }
-        ],
-        "Health, Caregiving, and Medical Incidents": [
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&at_campaign=rss",
-            "title": "Apology for poor care over boy's bleed death",
-            "url": "https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T03:01:09.000Z",
-            "description": "Three-year-old Aarav Chopra died during a biopsy when his artery was pierced by a trainee doctor.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3535/live/02d08300-1e5c-11f1-a1da-edae1d05dd8e.png",
-            "categories": []
-          },
-          {
-            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5584133/she-cared-for-her-mother-for-14-years-she-says-shed-do-it-all-over-again",
-            "title": "She cared for her mother for 14 years. She says she'd do it all over again",
-            "url": "https://www.npr.org/2026/03/22/nx-s1-5584133/she-cared-for-her-mother-for-14-years-she-says-shed-do-it-all-over-again",
-            "source": "NPR",
-            "publishedAt": "2026-03-22T12:23:10.000Z",
-            "description": "Kathy Barnes-Lou cared for her mother for 14 years before her death. She learned that caregiving can bring life's purpose into focus, even as it grinds you down.",
-            "imageUrl": null,
-            "categories": []
-          },
-          {
-            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5753667/the-effects-of-the-iran-war-on-environmental-and-human-health-according-to-an-expert",
-            "title": "The effects of the Iran war on environmental and human health, according to an expert",
-            "url": "https://www.npr.org/2026/03/22/nx-s1-5753667/the-effects-of-the-iran-war-on-environmental-and-human-health-according-to-an-expert",
-            "source": "NPR",
-            "publishedAt": "2026-03-22T12:04:32.000Z",
-            "description": "As the war in Iran enters its fourth week, the costs are adding up. NPR's Ayesha Rascoe talks to Doug Weir, with the Conflict and War Observatory, about impacts to human health and the environment.",
-            "imageUrl": null,
+            "publishedAt": "2026-03-23T07:27:20.000Z",
+            "description": "An Air Canada Express plane suffered significant damage after the collision.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/0088fb90-2681-11f1-a32b-91a6d5286fbb.jpg",
             "categories": []
           },
           {
@@ -3712,9 +3698,7 @@
             "description": "Weight-loss drug prices are falling in the US - but can the example be repeated?",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a0/live/5e1a7690-248c-11f1-a673-e3b236a15253.jpg",
             "categories": []
-          }
-        ],
-        "Miscellaneous Social and Cultural Stories": [
+          },
           {
             "id": "BBC:https://www.bbc.com/news/articles/cm28jj22kg3o?at_medium=RSS&at_campaign=rss",
             "title": "Grisly or just country life? The mole photos dividing social media",
@@ -3746,53 +3730,13 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/its-drawing-tons-of-young-men-but-the-reality-doesnt-match-the-pitch",
-            "title": "It’s Drawing Tons Of Young Men — But The Reality Doesn’t Match The Pitch",
-            "url": "https://www.dailywire.com/news/its-drawing-tons-of-young-men-but-the-reality-doesnt-match-the-pitch",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-22T08:00:50.000Z",
-            "description": "This article is part of Upstream, The Daily Wire’s new home for culture and lifestyle. Real human insight and human stories — from our featured writers to you. *** My wife and I don’t watch porn, and certainly not together, but it sure felt like we were when we sat down to watch “Inside the Manosphere,” a ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2246706362-scaled.jpeg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/the-lie-making-young-men-miserable",
-            "title": "The Lie Making Young Men Miserable",
-            "url": "https://www.dailywire.com/news/the-lie-making-young-men-miserable",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-21T05:00:22.000Z",
-            "description": "America’s age of unaccountability was supposed to free its inhabitants of the shackles of stress, sorrow, and self-loathing. Instead, it has tightened them. A survey of 2,000 young men between the ages of 18 and 29 conducted by the Institute for Family Studies (ISF) found that 42% of young men say, “All in all, I ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-606671220.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/why-kicking-your-kids-out-at-18-is-actually-insane",
-            "title": "Why Kicking Your Kids Out At 18 Is Actually Insane",
-            "url": "https://www.dailywire.com/news/why-kicking-your-kids-out-at-18-is-actually-insane",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T17:54:50.000Z",
-            "description": "A few days ago I did something you’re not supposed to do on social media: I changed my mind about something. In particular, I had a change of heart on an issue that’s very contentious for millions of people. I wrote that, while I used to be in the camp that said you should kick ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2191706482.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/chuck-norris-didnt-just-play-tough-he-lived-it-and-todays-culture-cant-match-it",
-            "title": "Chuck Norris Didn’t Just Play Tough. He Lived It, And Today’s Culture Can’t Match It",
-            "url": "https://www.dailywire.com/news/chuck-norris-didnt-just-play-tough-he-lived-it-and-todays-culture-cant-match-it",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-20T13:01:23.000Z",
-            "description": "This article is part of Upstream, The Daily Wire’s new home for culture and lifestyle. Real human insight and human stories — from our featured writers to you. *** Chuck Norris has died, and if I’m being honest, I thought death would die first. For my generation, Norris wasn’t just a man; he was a legend. The ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-97671203.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/sport/football/articles/c2k3dwng90go?at_medium=RSS&at_campaign=rss",
-            "title": "'Impossible for him to stay' - what next for Tudor and Tottenham?",
-            "url": "https://www.bbc.com/sport/football/articles/c2k3dwng90go?at_medium=RSS&at_campaign=rss",
+            "id": "BBC:https://www.bbc.com/news/articles/cn0wd20k0xeo?at_medium=RSS&at_campaign=rss",
+            "title": "The Papers: 'Trump raises stakes' and 'Tend it like Beckham'",
+            "url": "https://www.bbc.com/news/articles/cn0wd20k0xeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
-            "publishedAt": "2026-03-22T17:45:26.000Z",
-            "description": "How does boss Igor Tudor survive at Tottenham after another damaging defeat? Nick Mashiter analyses the situation.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e7d/live/99741e50-264c-11f1-934f-036468834728.jpg",
+            "publishedAt": "2026-03-23T01:17:59.000Z",
+            "description": "The 'new escalatory phase' of the war in the Middle East is a focus of several papers today.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7ac/live/b0d92e40-2648-11f1-a79a-77e93010d956.jpg",
             "categories": []
           }
         ],
@@ -3808,102 +3752,14 @@
             "categories": []
           },
           {
-            "id": "New York Times:https://www.nytimes.com/2026/03/23/nyregion/laguardia-groundstop-flights.html",
-            "title": "Flights Are Halted at LaGuardia as New York Fire Department Responds to Incident",
-            "url": "https://www.nytimes.com/2026/03/23/nyregion/laguardia-groundstop-flights.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-23T06:04:05.000Z",
-            "description": "A ground stop was in effect early Monday as the Fire Department said it was responding to a runway incident. A New York Times journalist saw an Air Canada plane on the runway with a sheared-off nose.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23xp-laguardia-mhfq/23xp-laguardia-mhfq-mediumSquareAt3X.jpg",
-            "categories": [
-              "Aviation Accidents, Safety and Disasters",
-              "Airports",
-              "Airlines and Airplanes",
-              "Traffic Accidents and Safety"
-            ]
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
-            "title": "Mette Frederiksen Changed Denmark",
-            "url": "https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-23T05:00:04.000Z",
-            "description": "Whatever Mette Frederiksen does next, Denmark has fundamentally changed.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23krasnik-fmbk/23krasnik-fmbk-mediumSquareAt3X-v2.jpg",
-            "categories": [
-              "Denmark",
-              "Frederiksen, Mette"
-            ]
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests",
-            "title": "9 suspects arrested after $7M in stolen cargo seized in Southern California bust",
-            "url": "https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests",
-            "source": "Fox News",
-            "publishedAt": "2026-03-23T04:16:50.000Z",
-            "description": "Nine suspects were arrested after authorities recovered $7 million in stolen cargo and $1 million in cash as part of a cargo theft bust in California.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/la-county-7-million-dollar-theft-retail-appliances.png?ve=1&tl=1",
-            "categories": [
-              "7a182d23-6604-570e-bd27-00048dc025a4",
-              "fnc",
-              "Fox News",
-              "fox-news/us/us-regions/west/california",
-              "fox-news/us",
-              "fox-news/us/los-angeles",
-              "fox-news/crime",
-              "fox-news/us/crime/police-and-law-enforcement",
-              "fox-news/us/crime/robbery-theft",
-              "fox-news/us",
-              "article"
-            ]
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/22/us/heat-wave-air-conditioning-california-utah-colorado-oklahoma.html",
-            "title": "Heat Wave in California and Other Western States Wilts a More Air-Conditioned U.S.",
-            "url": "https://www.nytimes.com/2026/03/22/us/heat-wave-air-conditioning-california-utah-colorado-oklahoma.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-22T21:47:38.000Z",
-            "description": "In recent years, more homes have added air-conditioning, something that may come in handy this week as some areas are expected to see temperatures 40 degrees above normal.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23NAT-Heat-wave-bjpl/23NAT-Heat-wave-bjpl-mediumSquareAt3X.jpg",
-            "categories": [
-              "Heat and Heat Waves",
-              "Air Conditioning",
-              "National Weather Service",
-              "Arizona",
-              "California",
-              "San Francisco (Calif)",
-              "Seattle (Wash)"
-            ]
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cx230em8jg7o?at_medium=RSS&at_campaign=rss",
-            "title": "Prince William keen to build 'strong and meaningful' bond with Church",
-            "url": "https://www.bbc.com/news/articles/cx230em8jg7o?at_medium=RSS&at_campaign=rss",
+            "id": "BBC:https://www.bbc.com/sport/football/articles/c2k3dwng90go?at_medium=RSS&at_campaign=rss",
+            "title": "'Impossible for him to stay' - what next for Tudor and Tottenham?",
+            "url": "https://www.bbc.com/sport/football/articles/c2k3dwng90go?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
-            "publishedAt": "2026-03-22T20:59:37.000Z",
-            "description": "An aide to the prince says his commitment to the Church of England is \"sometimes quieter\" than expected.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff4b/live/141340c0-2619-11f1-a79a-77e93010d956.jpg",
+            "publishedAt": "2026-03-22T17:45:26.000Z",
+            "description": "How does boss Igor Tudor survive at Tottenham after another damaging defeat? Nick Mashiter analyses the situation.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e7d/live/99741e50-264c-11f1-934f-036468834728.jpg",
             "categories": []
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/22/obituaries/j-michael-bishop-dead.html",
-            "title": "J. Michael Bishop, Nobel Prize Winner for Cancer Research, Dies at 90",
-            "url": "https://www.nytimes.com/2026/03/22/obituaries/j-michael-bishop-dead.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-22T19:00:02.000Z",
-            "description": "He helped discover cancer-causing genes. Later, as chancellor of the University of California, San Francisco, he led a major expansion.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/22/obituaries/22bishop-obit-0001/22bishop-obit-0001-mediumSquareAt3X.jpg",
-            "categories": [
-              "Michael Bishop, J",
-              "Deaths (Obituaries)",
-              "Cancer",
-              "Genetics and Heredity",
-              "Research",
-              "Nobel Prizes",
-              "Colleges and Universities",
-              "University of California, San Francisco",
-              "Varmus, Harold E"
-            ]
           },
           {
             "id": "BBC:https://www.bbc.co.uk/sounds/play/p0n6h0r8?at_medium=RSS&at_campaign=rss",
@@ -3926,6 +3782,16 @@
             "categories": []
           },
           {
+            "id": "NPR:https://www.npr.org/2026/03/22/nx-s1-5584133/she-cared-for-her-mother-for-14-years-she-says-shed-do-it-all-over-again",
+            "title": "She cared for her mother for 14 years. She says she'd do it all over again",
+            "url": "https://www.npr.org/2026/03/22/nx-s1-5584133/she-cared-for-her-mother-for-14-years-she-says-shed-do-it-all-over-again",
+            "source": "NPR",
+            "publishedAt": "2026-03-22T12:23:10.000Z",
+            "description": "Kathy Barnes-Lou cared for her mother for 14 years before her death. She learned that caregiving can bring life's purpose into focus, even as it grinds you down.",
+            "imageUrl": null,
+            "categories": []
+          },
+          {
             "id": "Daily Wire:https://www.dailywire.com/news/cuba-begins-recovery-efforts-after-second-grid-collapse-in-a-week",
             "title": "Cuba Begins Recovery Efforts After Second Grid Collapse In A Week",
             "url": "https://www.dailywire.com/news/cuba-begins-recovery-efforts-after-second-grid-collapse-in-a-week",
@@ -3933,6 +3799,26 @@
             "publishedAt": "2026-03-22T10:45:44.000Z",
             "description": "Cuba said it had begun efforts early on Sunday to restore power after its grid collapsed for the second time in a week amid a U.S. oil blockade that has dealt a major blow to the island’s already ailing energy infrastructure. The grid collapsed Saturday evening at 6:32 p.m. (2232 GMT) after a major power ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267361143-scaled.jpeg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/its-drawing-tons-of-young-men-but-the-reality-doesnt-match-the-pitch",
+            "title": "It’s Drawing Tons Of Young Men — But The Reality Doesn’t Match The Pitch",
+            "url": "https://www.dailywire.com/news/its-drawing-tons-of-young-men-but-the-reality-doesnt-match-the-pitch",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-22T08:00:50.000Z",
+            "description": "This article is part of Upstream, The Daily Wire’s new home for culture and lifestyle. Real human insight and human stories — from our featured writers to you. *** My wife and I don’t watch porn, and certainly not together, but it sure felt like we were when we sat down to watch “Inside the Manosphere,” a ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2246706362-scaled.jpeg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/video-iranian-missile-screams-over-israel-explosion-injures-dozens",
+            "title": "VIDEO: Iranian Missile Screams Over Israel, Explosion Injures Dozens, Including Children",
+            "url": "https://www.dailywire.com/news/video-iranian-missile-screams-over-israel-explosion-injures-dozens",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-21T19:07:27.000Z",
+            "description": "A missile rips through the night sky — then a blinding fireball engulfs the scene as the strike hits, all caught on video. The strike left around 75 people injured in Arad, including 10 who were seriously hurt and rushed to a hospital in Beersheba, according to The Jerusalem Post. Arad Mayor Yair Ma’ayan said ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Mar-21-2026-08_44_12-PM.jpeg",
             "categories": []
           },
           {
@@ -3956,6 +3842,16 @@
             "categories": []
           },
           {
+            "id": "Daily Wire:https://www.dailywire.com/news/the-lie-making-young-men-miserable",
+            "title": "The Lie Making Young Men Miserable",
+            "url": "https://www.dailywire.com/news/the-lie-making-young-men-miserable",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-21T05:00:22.000Z",
+            "description": "America’s age of unaccountability was supposed to free its inhabitants of the shackles of stress, sorrow, and self-loathing. Instead, it has tightened them. A survey of 2,000 young men between the ages of 18 and 29 conducted by the Institute for Family Studies (ISF) found that 42% of young men say, “All in all, I ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-606671220.jpg",
+            "categories": []
+          },
+          {
             "id": "Daily Wire:https://www.dailywire.com/news/eight-years-after-islamic-terrorists-raided-her-school-one-christian-girl-remains-in-captivity",
             "title": "Eight Years After Islamic Terrorists Raided Her School, One Christian Girl Remains In Captivity",
             "url": "https://www.dailywire.com/news/eight-years-after-islamic-terrorists-raided-her-school-one-christian-girl-remains-in-captivity",
@@ -3963,6 +3859,46 @@
             "publishedAt": "2026-03-21T04:00:24.000Z",
             "description": "Eight years ago, 14-year-old Leah Sharibu was kidnapped from her school in northern Nigeria by Islamic militants and dragged into captivity. She remains in captivity to this day because she refuses to renounce her Christian faith. Last month, the anniversary of her kidnapping received little acknowledgement except from a number of persecution watchdog organizations. While ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-1143782597.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/pentagon-pushes-back-after-judge-rules-press-access-limits-unconstitutional",
+            "title": "Pentagon Pushes Back After Judge Rules Press Access Limits Unconstitutional",
+            "url": "https://www.dailywire.com/news/pentagon-pushes-back-after-judge-rules-press-access-limits-unconstitutional",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T19:03:39.000Z",
+            "description": "A federal judge on Friday blocked the Trump administration’s restrictive Pentagon press access policy, which threatens journalists with being ​branded security risks if they seek information not authorized for public release. The lawsuit by the New York Times in Washington, D.C., federal court alleged that policy changes by the Defense Department last year gave it free ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2024/12/GettyImages-2166909246-e1734116346984.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/why-kicking-your-kids-out-at-18-is-actually-insane",
+            "title": "Why Kicking Your Kids Out At 18 Is Actually Insane",
+            "url": "https://www.dailywire.com/news/why-kicking-your-kids-out-at-18-is-actually-insane",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T17:54:50.000Z",
+            "description": "A few days ago I did something you’re not supposed to do on social media: I changed my mind about something. In particular, I had a change of heart on an issue that’s very contentious for millions of people. I wrote that, while I used to be in the camp that said you should kick ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2191706482.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/taylor-frankie-paul-caught-on-camera-attacking-boyfriend-what-it-says-about-who-we-believe",
+            "title": "Taylor Frankie Paul Caught On Camera Attacking Boyfriend. What It Says About Who We Believe",
+            "url": "https://www.dailywire.com/news/taylor-frankie-paul-caught-on-camera-attacking-boyfriend-what-it-says-about-who-we-believe",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T14:42:11.000Z",
+            "description": "This article is part of Upstream, The Daily Wire’s new home for culture and lifestyle. Real human insight and human stories — from our featured writers to you. *** “This is called physical abuse,” Dakota Mortensen says in leaked cellphone footage as his then-girlfriend, “The Secret Lives of Mormon Wives” star Taylor Frankie Paul, can be ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2266317919.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/chuck-norris-didnt-just-play-tough-he-lived-it-and-todays-culture-cant-match-it",
+            "title": "Chuck Norris Didn’t Just Play Tough. He Lived It, And Today’s Culture Can’t Match It",
+            "url": "https://www.dailywire.com/news/chuck-norris-didnt-just-play-tough-he-lived-it-and-todays-culture-cant-match-it",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-20T13:01:23.000Z",
+            "description": "This article is part of Upstream, The Daily Wire’s new home for culture and lifestyle. Real human insight and human stories — from our featured writers to you. *** Chuck Norris has died, and if I’m being honest, I thought death would die first. For my generation, Norris wasn’t just a man; he was a legend. The ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-97671203.jpg",
             "categories": []
           },
           {
@@ -3981,6 +3917,81 @@
   },
   "latestArticles": [
     {
+      "id": "BBC:https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+      "title": "Asia stocks slide as US and Iran threaten to escalate war",
+      "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-03-23T07:29:09.000Z",
+      "description": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg",
+      "categories": []
+    },
+    {
+      "id": "BBC:https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
+      "title": "Plane and ground vehicle collide at New York's LaGuardia Airport halting flights",
+      "url": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-03-23T07:27:20.000Z",
+      "description": "An Air Canada Express plane suffered significant damage after the collision.",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/0088fb90-2681-11f1-a32b-91a6d5286fbb.jpg",
+      "categories": []
+    },
+    {
+      "id": "Fox News:https://www.foxnews.com/media/why-judge-eviscerating-pentagon-rules-censoring-punishing-journalists-victory-press",
+      "title": "Why a judge eviscerating the Pentagon rules for censoring and punishing journalists is a victory for the press",
+      "url": "https://www.foxnews.com/media/why-judge-eviscerating-pentagon-rules-censoring-punishing-journalists-victory-press",
+      "source": "Fox News",
+      "publishedAt": "2026-03-23T07:00:30.000Z",
+      "description": "A federal judge overturned Pentagon press restrictions that evicted major news outlets, ruling the policy violated First Amendment press freedom rights.",
+      "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/defense-secretary-pete-hegseth-pentagon-dc-03-19-2026-fox-news.jpg?ve=1&tl=1",
+      "categories": [
+        "f0e196a5-c36e-5f61-aeee-f922a8d75a4e",
+        "fnc",
+        "Fox News",
+        "fox-news/columns/media-buzz",
+        "fox-news/tech/topics/pentagon",
+        "fox-news/us/military",
+        "fox-news/politics/defense/wars/war-with-iran",
+        "fox-news/person/pete-hegseth",
+        "fox-news/person/donald-trump",
+        "fox-news/politics",
+        "fox-news/media",
+        "article"
+      ]
+    },
+    {
+      "id": "New York Times:https://www.nytimes.com/2026/03/23/us/jewish-ambulances-fire-london.html",
+      "title": "London Arson Attack on Jewish Ambulance Service Investigated as Hate Crime",
+      "url": "https://www.nytimes.com/2026/03/23/us/jewish-ambulances-fire-london.html",
+      "source": "New York Times",
+      "publishedAt": "2026-03-23T06:39:50.000Z",
+      "description": "The Metropolitan Police said on Monday that it was investigating the episode as an antisemitic hate crime.",
+      "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23xp-london-arson-ambulances-vtkp/23xp-london-arson-ambulances-vtkp-mediumSquareAt3X.jpg",
+      "categories": [
+        "Hate Crimes",
+        "Anti-Semitism",
+        "Fires and Firefighters",
+        "Arson",
+        "Police",
+        "Ambulances",
+        "Volunteers and Community Service",
+        "London (England)"
+      ]
+    },
+    {
+      "id": "New York Times:https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
+      "title": "Mette Frederiksen Changed Denmark",
+      "url": "https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
+      "source": "New York Times",
+      "publishedAt": "2026-03-23T06:36:54.000Z",
+      "description": "Whatever Mette Frederiksen does next, Denmark has fundamentally changed.",
+      "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23krasnik-fmbk/23krasnik-fmbk-mediumSquareAt3X-v2.jpg",
+      "categories": [
+        "Denmark",
+        "Frederiksen, Mette"
+      ]
+    },
+    {
       "id": "BBC:https://www.bbc.com/news/articles/cew72ll8245o?at_medium=RSS&at_campaign=rss",
       "title": "British couple in Iran prison say situation is 'life-threatening'",
       "url": "https://www.bbc.com/news/articles/cew72ll8245o?at_medium=RSS&at_campaign=rss",
@@ -3989,21 +4000,6 @@
       "description": "Craig and Lindsay Foreman are being held in Tehran's Evin prison amid ongoing attacks on Iran.",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9734/live/1aaaa930-262a-11f1-aad6-2d605a562384.jpg",
       "categories": []
-    },
-    {
-      "id": "New York Times:https://www.nytimes.com/2026/03/23/nyregion/laguardia-groundstop-flights.html",
-      "title": "Flights Are Halted at LaGuardia as New York Fire Department Responds to Incident",
-      "url": "https://www.nytimes.com/2026/03/23/nyregion/laguardia-groundstop-flights.html",
-      "source": "New York Times",
-      "publishedAt": "2026-03-23T06:04:05.000Z",
-      "description": "A ground stop was in effect early Monday as the Fire Department said it was responding to a runway incident. A New York Times journalist saw an Air Canada plane on the runway with a sheared-off nose.",
-      "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23xp-laguardia-mhfq/23xp-laguardia-mhfq-mediumSquareAt3X.jpg",
-      "categories": [
-        "Aviation Accidents, Safety and Disasters",
-        "Airports",
-        "Airlines and Airplanes",
-        "Traffic Accidents and Safety"
-      ]
     },
     {
       "id": "BBC:https://www.bbc.com/news/articles/c5yg6kyd9dzo?at_medium=RSS&at_campaign=rss",
@@ -4026,16 +4022,6 @@
       "categories": []
     },
     {
-      "id": "BBC:https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
-      "title": "Four ambulances set on fire in London in suspected antisemitic hate crime",
-      "url": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-03-23T06:00:41.000Z",
-      "description": "Police said they were looking for three suspects after the London Fire Brigade were called to Golders Green at around 01:40 GMT.",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed98/live/2d35cba0-2677-11f1-b297-95b0a0a8331e.jpg",
-      "categories": []
-    },
-    {
       "id": "BBC:https://www.bbc.com/news/articles/cdxk6dqqp1qo?at_medium=RSS&at_campaign=rss",
       "title": "Plan to scrap most short jail terms comes into effect",
       "url": "https://www.bbc.com/news/articles/cdxk6dqqp1qo?at_medium=RSS&at_campaign=rss",
@@ -4047,12 +4033,12 @@
     },
     {
       "id": "Fox News:https://www.foxnews.com/travel/air-canada-jet-hits-vehicle-forcing-new-yorks-laguardia-airport-close",
-      "title": "Air Canada jet hits vehicle, forcing New York's LaGuardia airport to close",
+      "title": "Air Canada jet hits fire truck, forcing New York's LaGuardia airport to close",
       "url": "https://www.foxnews.com/travel/air-canada-jet-hits-vehicle-forcing-new-yorks-laguardia-airport-close",
       "source": "Fox News",
       "publishedAt": "2026-03-23T05:47:54.000Z",
       "description": "An Air Canada Express regional jet crashed into a vehicle on the ground after landing at New York's LaGuardia Airport, forcing the airport to close.",
-      "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/08/931/523/laguardia-airport.jpg?ve=1&tl=1",
+      "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/air-canada-jet-damage-ny-crash.png?ve=1&tl=1",
       "categories": [
         "805906b3-11a1-50d6-90f9-65009dcb216e",
         "fnc",
@@ -4067,27 +4053,14 @@
       ]
     },
     {
-      "id": "BBC:https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-      "title": "Asia stocks slide as US and Iran threaten to escalate war",
-      "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+      "id": "BBC:https://www.bbc.com/sport/football/articles/cy9g7vrj9qyo?at_medium=RSS&at_campaign=rss",
+      "title": "Inside the complex mind of Wales boss Bellamy",
+      "url": "https://www.bbc.com/sport/football/articles/cy9g7vrj9qyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-03-23T05:12:14.000Z",
-      "description": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg",
+      "publishedAt": "2026-03-23T05:04:15.000Z",
+      "description": "Wales boss Craig Bellamy discusses everything from football to Balkan history - and playing Ken and Barbie - in an exclusive, in-depth interview with BBC Sport.",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ccf/live/afd7b1a0-2207-11f1-934f-036468834728.jpg",
       "categories": []
-    },
-    {
-      "id": "New York Times:https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
-      "title": "Mette Frederiksen Changed Denmark",
-      "url": "https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
-      "source": "New York Times",
-      "publishedAt": "2026-03-23T05:00:04.000Z",
-      "description": "Whatever Mette Frederiksen does next, Denmark has fundamentally changed.",
-      "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23krasnik-fmbk/23krasnik-fmbk-mediumSquareAt3X-v2.jpg",
-      "categories": [
-        "Denmark",
-        "Frederiksen, Mette"
-      ]
     },
     {
       "id": "BBC:https://www.bbc.com/news/articles/c9d4l5pq73yo?at_medium=RSS&at_campaign=rss",
@@ -4097,38 +4070,6 @@
       "publishedAt": "2026-03-23T04:39:03.000Z",
       "description": "The concert was attended by an estimated 104,000 fans, much lower than the expected 260,000.",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d0/live/cd6f4f20-2671-11f1-9e3f-ab087b90124d.jpg",
-      "categories": []
-    },
-    {
-      "id": "Fox News:https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests",
-      "title": "9 suspects arrested after $7M in stolen cargo seized in Southern California bust",
-      "url": "https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests",
-      "source": "Fox News",
-      "publishedAt": "2026-03-23T04:16:50.000Z",
-      "description": "Nine suspects were arrested after authorities recovered $7 million in stolen cargo and $1 million in cash as part of a cargo theft bust in California.",
-      "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/la-county-7-million-dollar-theft-retail-appliances.png?ve=1&tl=1",
-      "categories": [
-        "7a182d23-6604-570e-bd27-00048dc025a4",
-        "fnc",
-        "Fox News",
-        "fox-news/us/us-regions/west/california",
-        "fox-news/us",
-        "fox-news/us/los-angeles",
-        "fox-news/crime",
-        "fox-news/us/crime/police-and-law-enforcement",
-        "fox-news/us/crime/robbery-theft",
-        "fox-news/us",
-        "article"
-      ]
-    },
-    {
-      "id": "BBC:https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
-      "title": "UN issues new climate warning as El Niño looms",
-      "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-03-23T04:06:22.000Z",
-      "description": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says.",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aab8/live/5db64fd0-2487-11f1-a673-e3b236a15253.jpg",
       "categories": []
     }
   ]
