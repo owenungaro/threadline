@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-03-24T05:30:55.536Z",
+  "generatedAt": "2026-03-24T06:24:18.024Z",
   "stats": {
-    "articleCount": 146,
+    "articleCount": 148,
     "sourceCount": 5,
     "topicCount": 8
   },
   "topics": {
     "Politics": {
-      "articleCount": 44,
+      "articleCount": 45,
       "sourceCount": 5,
       "articles": [
         {
@@ -88,6 +88,28 @@
             "Politics and Government",
             "Television",
             "Dawn (Pakistani Newspaper)"
+          ]
+        },
+        {
+          "id": "New York Times:https://www.nytimes.com/2026/03/23/us/politics/markwayne-mullin-confirmed-homeland-security-secretary.html",
+          "title": "Markwayne Mullin Confirmed as Homeland Security Secretary",
+          "url": "https://www.nytimes.com/2026/03/23/us/politics/markwayne-mullin-confirmed-homeland-security-secretary.html",
+          "source": "New York Times",
+          "publishedAt": "2026-03-24T03:28:33.000Z",
+          "description": "A Cherokee Nation member who has served as Oklahoma’s junior senator, Mr. Mullin will take charge at a pivotal time.",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/23/multimedia/23dc-mullin-confirm-vidcover-mgpq/23dc-mullin-confirm-vidcover-mgpq-mediumSquareAt3X-v2.jpg",
+          "categories": [
+            "United States Politics and Government",
+            "Appointments and Executive Changes",
+            "Midterm Elections (2026)",
+            "Federal-State Relations (US)",
+            "Immigration and Emigration",
+            "Shutdowns (Institutional)",
+            "Homeland Security Department",
+            "Republican Party",
+            "Trump, Donald J",
+            "Mullin, Markwayne",
+            "Noem, Kristi"
           ]
         },
         {
@@ -704,6 +726,116 @@
         }
       ],
       "subtopics": {
+        "Markwayne Mullin Confirmed as Homeland Security Secretary": [
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/23/us/politics/markwayne-mullin-confirmed-homeland-security-secretary.html",
+            "title": "Markwayne Mullin Confirmed as Homeland Security Secretary",
+            "url": "https://www.nytimes.com/2026/03/23/us/politics/markwayne-mullin-confirmed-homeland-security-secretary.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-24T03:28:33.000Z",
+            "description": "A Cherokee Nation member who has served as Oklahoma’s junior senator, Mr. Mullin will take charge at a pivotal time.",
+            "imageUrl": "https://static01.nyt.com/images/2026/04/23/multimedia/23dc-mullin-confirm-vidcover-mgpq/23dc-mullin-confirm-vidcover-mgpq-mediumSquareAt3X-v2.jpg",
+            "categories": [
+              "United States Politics and Government",
+              "Appointments and Executive Changes",
+              "Midterm Elections (2026)",
+              "Federal-State Relations (US)",
+              "Immigration and Emigration",
+              "Shutdowns (Institutional)",
+              "Homeland Security Department",
+              "Republican Party",
+              "Trump, Donald J",
+              "Mullin, Markwayne",
+              "Noem, Kristi"
+            ]
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/23/us/politics/mullins-confirmation-throwback-senate.html",
+            "title": "Mullin’s Smooth Confirmation Was a Throwback in the Senate",
+            "url": "https://www.nytimes.com/2026/03/23/us/politics/mullins-confirmation-throwback-senate.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-24T01:05:33.000Z",
+            "description": "In choosing Senator Markwayne Mullin, who has warm relationships across the Capitol and the political aisle, President Trump was reverting to a bygone tradition.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23dc-mullin-memo-ztlp/23dc-mullin-memo-ztlp-mediumSquareAt3X.jpg",
+            "categories": [
+              "United States Politics and Government",
+              "Appointments and Executive Changes",
+              "Immigration and Emigration",
+              "Homeland Security Department",
+              "Republican Party",
+              "Senate",
+              "Trump, Donald J",
+              "Mullin, Markwayne",
+              "Noem, Kristi",
+              "Paul, Rand",
+              "Oklahoma"
+            ]
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/politics/mullin-confirmed-dhs-chief-shutdown-tensions-continue-escalate",
+            "title": "Mullin confirmed as DHS chief as lawmakers near solution on shutdown standoff",
+            "url": "https://www.foxnews.com/politics/mullin-confirmed-dhs-chief-shutdown-tensions-continue-escalate",
+            "source": "Fox News",
+            "publishedAt": "2026-03-24T00:23:55.000Z",
+            "description": "Even with a new DHS chief, Senate Democrats aren't backing down from their demands for stringent reforms to ICE. And now President Donald Trump wants to pair funding with voter ID legislation.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/senator-markwayne-mullin-next.jpg?ve=1&tl=1",
+            "categories": [
+              "fbeac510-d95d-5c07-8c5e-2d16bc6dd39e",
+              "fnc",
+              "Fox News",
+              "fox-news/politics",
+              "fox-news/politics/senate",
+              "fox-news/politics/executive/homeland-security",
+              "fox-news/person/donald-trump",
+              "fox-news/person/kristi-noem",
+              "fox-news/politics",
+              "article"
+            ]
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/markwayne-mullin-confirmed-as-next-homeland-security-secretary",
+            "title": "Markwayne Mullin Confirmed As Next Homeland Security Secretary",
+            "url": "https://www.dailywire.com/news/markwayne-mullin-confirmed-as-next-homeland-security-secretary",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-23T19:52:45.000Z",
+            "description": "The Senate confirmed Sen. Markwayne Mullin (R-OK) to be the next secretary of the Department of Homeland Security on Monday night. The vote was 54-45 largely along party lines, but Democratic Sens. Martin Heinrich and John Fetterman voted to confirm him and Republican Sen. Rand Paul voted against his confirmation. Democratic Sen. Ruben Gallego did ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2266688106.jpg",
+            "categories": []
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/politics/300-plus-angel-families-jump-markwayne-mullins-dhs-nomination-fight-unequivocal-terms",
+            "title": "300-plus Angel Families jump into Markwayne Mullin’s DHS nomination fight in unequivocal terms",
+            "url": "https://www.foxnews.com/politics/300-plus-angel-families-jump-markwayne-mullins-dhs-nomination-fight-unequivocal-terms",
+            "source": "Fox News",
+            "publishedAt": "2026-03-23T22:21:05.000Z",
+            "description": "Over 300 Angel Families represented by The American Border Story are urging Congress to support Markwayne Mullin for DHS, arguing he understands the stakes at play.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/angel-families-optimized.jpg?ve=1&tl=1",
+            "categories": [
+              "6007530c-1558-54b7-93c5-12976c51231f",
+              "fnc",
+              "Fox News",
+              "fox-news/politics/executive/homeland-security",
+              "fox-news/politics/executive/cabinet",
+              "fox-news/politics/senate",
+              "fox-news/us/immigration/border-security",
+              "fox-news/us/immigration/migrant-crime",
+              "fox-news/person/kristi-noem",
+              "fox-news/politics",
+              "fox-news/politics",
+              "article"
+            ]
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/democrat-makes-surprise-break-from-party-on-major-homeland-security-vote",
+            "title": "Democrat Makes ‘Surprise’ Break From Party On Major Homeland Security Vote",
+            "url": "https://www.dailywire.com/news/democrat-makes-surprise-break-from-party-on-major-homeland-security-vote",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-23T12:57:42.000Z",
+            "description": "A Democrat’s vote to move forward with the confirmation of President Donald Trump’s pick to lead the Department of Homeland Security was considered a surprise, and it garnered some backlash on the Left. Sen. Martin Heinrich (D-NM) voted to allow Sen. Markwayne Mullin (R-OK) to advance to the final step in the confirmation process to ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267257174.jpg",
+            "categories": []
+          }
+        ],
         "Trump and Iran Conflict Developments": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/24/opinion/trump-iran-world-america-first.html",
@@ -824,97 +956,19 @@
             "description": null,
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Iranblogadjusted.jpg",
             "categories": []
-          }
-        ],
-        "Markwayne Mullin's DHS Confirmation and Related Politics": [
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/23/us/politics/mullins-confirmation-throwback-senate.html",
-            "title": "Mullin’s Smooth Confirmation Was a Throwback in the Senate",
-            "url": "https://www.nytimes.com/2026/03/23/us/politics/mullins-confirmation-throwback-senate.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-24T01:05:33.000Z",
-            "description": "In choosing Senator Markwayne Mullin, who has warm relationships across the Capitol and the political aisle, President Trump was reverting to a bygone tradition.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23dc-mullin-memo-ztlp/23dc-mullin-memo-ztlp-mediumSquareAt3X.jpg",
-            "categories": [
-              "United States Politics and Government",
-              "Appointments and Executive Changes",
-              "Immigration and Emigration",
-              "Homeland Security Department",
-              "Republican Party",
-              "Senate",
-              "Trump, Donald J",
-              "Mullin, Markwayne",
-              "Noem, Kristi",
-              "Paul, Rand",
-              "Oklahoma"
-            ]
           },
           {
-            "id": "Fox News:https://www.foxnews.com/politics/mullin-confirmed-dhs-chief-shutdown-tensions-continue-escalate",
-            "title": "Mullin confirmed as DHS chief as lawmakers near solution on shutdown standoff",
-            "url": "https://www.foxnews.com/politics/mullin-confirmed-dhs-chief-shutdown-tensions-continue-escalate",
-            "source": "Fox News",
-            "publishedAt": "2026-03-24T00:23:55.000Z",
-            "description": "Even with a new DHS chief, Senate Democrats aren't backing down from their demands for stringent reforms to ICE. And now President Donald Trump wants to pair funding with voter ID legislation.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/senator-markwayne-mullin-next.jpg?ve=1&tl=1",
-            "categories": [
-              "fbeac510-d95d-5c07-8c5e-2d16bc6dd39e",
-              "fnc",
-              "Fox News",
-              "fox-news/politics",
-              "fox-news/politics/senate",
-              "fox-news/politics/executive/homeland-security",
-              "fox-news/person/donald-trump",
-              "fox-news/person/kristi-noem",
-              "fox-news/politics",
-              "article"
-            ]
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/markwayne-mullin-confirmed-as-next-homeland-security-secretary",
-            "title": "Markwayne Mullin Confirmed As Next Homeland Security Secretary",
-            "url": "https://www.dailywire.com/news/markwayne-mullin-confirmed-as-next-homeland-security-secretary",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-23T19:52:45.000Z",
-            "description": "The Senate confirmed Sen. Markwayne Mullin (R-OK) to be the next secretary of the Department of Homeland Security on Monday night. The vote was 54-45 largely along party lines, but Democratic Sens. Martin Heinrich and John Fetterman voted to confirm him and Republican Sen. Rand Paul voted against his confirmation. Democratic Sen. Ruben Gallego did ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2266688106.jpg",
-            "categories": []
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/politics/300-plus-angel-families-jump-markwayne-mullins-dhs-nomination-fight-unequivocal-terms",
-            "title": "300-plus Angel Families jump into Markwayne Mullin’s DHS nomination fight in unequivocal terms",
-            "url": "https://www.foxnews.com/politics/300-plus-angel-families-jump-markwayne-mullins-dhs-nomination-fight-unequivocal-terms",
-            "source": "Fox News",
-            "publishedAt": "2026-03-23T22:21:05.000Z",
-            "description": "Over 300 Angel Families represented by The American Border Story are urging Congress to support Markwayne Mullin for DHS, arguing he understands the stakes at play.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/angel-families-optimized.jpg?ve=1&tl=1",
-            "categories": [
-              "6007530c-1558-54b7-93c5-12976c51231f",
-              "fnc",
-              "Fox News",
-              "fox-news/politics/executive/homeland-security",
-              "fox-news/politics/executive/cabinet",
-              "fox-news/politics/senate",
-              "fox-news/us/immigration/border-security",
-              "fox-news/us/immigration/migrant-crime",
-              "fox-news/person/kristi-noem",
-              "fox-news/politics",
-              "fox-news/politics",
-              "article"
-            ]
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/democrat-makes-surprise-break-from-party-on-major-homeland-security-vote",
-            "title": "Democrat Makes ‘Surprise’ Break From Party On Major Homeland Security Vote",
-            "url": "https://www.dailywire.com/news/democrat-makes-surprise-break-from-party-on-major-homeland-security-vote",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-23T12:57:42.000Z",
-            "description": "A Democrat’s vote to move forward with the confirmation of President Donald Trump’s pick to lead the Department of Homeland Security was considered a surprise, and it garnered some backlash on the Left. Sen. Martin Heinrich (D-NM) voted to allow Sen. Markwayne Mullin (R-OK) to advance to the final step in the confirmation process to ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267257174.jpg",
+            "id": "BBC:https://www.bbc.com/news/articles/c937qj0lp32o?at_medium=RSS&at_campaign=rss",
+            "title": "Chris Mason: Reeves to set out principles on who might get energy bills support - and who won't",
+            "url": "https://www.bbc.com/news/articles/c937qj0lp32o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-24T01:59:03.000Z",
+            "description": "The chancellor must react in real time to the economic shock of the war in Iran, writes the BBC's political editor.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9783/live/f753dec0-2728-11f1-90f0-21df3b4f5bbc.jpg",
             "categories": []
           }
         ],
-        "US Political Controversies and Internal Conflicts": [
+        "U.S. Election and Voting Controversies": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/24/us/politics/trump-mail-in-voting-florida.html",
             "title": "Trump, Who Calls Mail-in Voting ‘Cheating,’ Just Voted by Mail",
@@ -932,6 +986,144 @@
               "Mississippi"
             ]
           },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/23/us/supreme-court-mail-in-ballots.html",
+            "title": "Supreme Court Appears Poised to Reject Late-Arriving Mail-In Ballots Law",
+            "url": "https://www.nytimes.com/2026/03/23/us/supreme-court-mail-in-ballots.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-23T19:49:24.000Z",
+            "description": "A majority of the justices appeared skeptical of Mississippi’s mail-in ballot law in a case that could upend the way that states handle mail-in ballots throughout the country.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23dc-scotus-lateballots-top-bkjp/23dc-scotus-lateballots-top-bkjp-mediumSquareAt3X.jpg",
+            "categories": [
+              "Federal-State Relations (US)",
+              "United States Politics and Government",
+              "Midterm Elections (2026)",
+              "Decisions and Verdicts",
+              "Absentee Voting",
+              "Law and Legislation",
+              "Elections, Courts and the Judiciary",
+              "Voting Rights Act (1965)",
+              "Suits and Litigation (Civil)",
+              "Voter Fraud (Election Fraud)",
+              "Republican National Committee",
+              "Republican Party",
+              "Supreme Court (US)",
+              "Trump, Donald J"
+            ]
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/23/us/politics/california-ballot-seizure-elections.html",
+            "title": "In California, a Republican Sheriff Seizes Ballots, Prompting Concerns",
+            "url": "https://www.nytimes.com/2026/03/23/us/politics/california-ballot-seizure-elections.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-23T17:55:35.000Z",
+            "description": "Riverside County Sheriff Chad Bianco, a candidate for governor, recently took possession of more than 650,000 ballots as part of a fraud probe. Election officials say his investigation is baseless.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22pol-california-ballots-tqbh/22pol-california-ballots-tqbh-mediumSquareAt3X.jpg",
+            "categories": [
+              "United States Politics and Government",
+              "Midterm Elections (2022)",
+              "Bianco, Chad",
+              "Bonta, Rob (1972- )",
+              "Trump, Donald J",
+              "Weber, Shirley (1948- )",
+              "California"
+            ]
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/how-millions-of-americans-vote-could-be-about-to-change",
+            "title": "How Millions Of Americans Vote Could Be About To Change",
+            "url": "https://www.dailywire.com/news/how-millions-of-americans-vote-could-be-about-to-change",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-23T13:58:04.000Z",
+            "description": "The Supreme Court heard more than two hours of arguments Monday in a closely watched case that could reshape how elections are conducted across the country, weighing whether states can count mail-in ballots that arrive after Election Day. At the center of the case, Watson v. RNC, is a simple but consequential question: Does federal ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2025/11/GettyImages-1058146940.jpg",
+            "categories": []
+          }
+        ],
+        "U.S. Government Shutdown and DHS Funding Battle": [
+          {
+            "id": "Fox News:https://www.foxnews.com/politics/johnson-turns-up-heat-schumer-dhs-shutdown-drags-on-airport-delays-mount",
+            "title": "Johnson turns up heat on Schumer as DHS shutdown drags on, airport delays mount",
+            "url": "https://www.foxnews.com/politics/johnson-turns-up-heat-schumer-dhs-shutdown-drags-on-airport-delays-mount",
+            "source": "Fox News",
+            "publishedAt": "2026-03-23T22:30:51.000Z",
+            "description": "As the DHS shutdown enters its sixth week, House Republicans are forcing votes to pressure Senate Democrats. Meanwhile, unpaid TSA agents call out, leaving travelers facing chaos.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/mike-johnson-churck-schumer.png?ve=1&tl=1",
+            "categories": [
+              "a23a676e-e066-5136-b3e8-5ae6183102b1",
+              "fnc",
+              "Fox News",
+              "fox-news/politics/house-of-representatives",
+              "fox-news/politics",
+              "fox-news/topic/government-shutdown",
+              "fox-news/politics/executive/homeland-security",
+              "fox-news/person/mike-johnson",
+              "fox-news/person/chuck-schumer",
+              "fox-news/politics",
+              "article"
+            ]
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/media/the-view-host-sara-haines-admits-ice-agents-should-fill-airport-gaps-tsa-struggles",
+            "title": "'The View' host Sara Haines admits ICE agents should fill airport gaps as TSA struggles",
+            "url": "https://www.foxnews.com/media/the-view-host-sara-haines-admits-ice-agents-should-fill-airport-gaps-tsa-struggles",
+            "source": "Fox News",
+            "publishedAt": "2026-03-23T22:01:26.000Z",
+            "description": "\"The View\" co-host Sara Haines said she supports ICE agents filling airport security gaps as TSA workers go unpaid during the ongoing government shutdown.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/sara-haines-thinks-on-panel.png?ve=1&tl=1",
+            "categories": [
+              "f47c1e36-3329-5821-b061-1aa8dfe41950",
+              "fnc",
+              "Fox News",
+              "fox-news/media",
+              "fox-news/travel",
+              "fox-news/politics/executive/homeland-security",
+              "fox-news/media",
+              "article"
+            ]
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/heres-how-senate-republicans-can-end-the-democrat-shutdown-and-still-fund-ice",
+            "title": "Here’s How Senate Republicans Can End The Democrat Shutdown — And Still Fund ICE",
+            "url": "https://www.dailywire.com/news/heres-how-senate-republicans-can-end-the-democrat-shutdown-and-still-fund-ice",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-23T17:44:48.000Z",
+            "description": "President Donald Trump rejected a pitch to fund other agencies under the Department of Homeland Security except for ICE, multiple sources confirmed to The Daily Wire on Monday. Senate Majority Leader John Thune indicated to the president that Senate Republicans and some Democrats would back the pitch in hopes of ending the shutdown that started ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267037464.jpg",
+            "categories": []
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/politics/political-traffic-signals-waiting-light-change-hill",
+            "title": "Political traffic signals: waiting for the light to change on the Hill",
+            "url": "https://www.foxnews.com/politics/political-traffic-signals-waiting-light-change-hill",
+            "source": "Fox News",
+            "publishedAt": "2026-03-23T23:09:30.000Z",
+            "description": "Congress faces a steep political battle over a $200 billion Iran war spending request, with Trump sending mixed signals on whether the funds are needed.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/capitol-traffic-light-fox-news-001.jpg?ve=1&tl=1",
+            "categories": [
+              "ea4c9b4e-2464-5686-a05e-802e9f7e6b86",
+              "fnc",
+              "Fox News",
+              "fox-news/us/congress",
+              "fox-news/politics/house-of-representatives",
+              "fox-news/politics/senate",
+              "fox-news/politics/defense/wars/war-with-iran",
+              "fox-news/politics",
+              "article"
+            ]
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/drugs-sweat-and-tears-my-fight-through-spring-break-tsa-lines-during-the-democrat-dhs-shutdown",
+            "title": "Drugs, Sweat, And Tears: My Fight Through Spring Break TSA Lines During The Democrat DHS Shutdown",
+            "url": "https://www.dailywire.com/news/drugs-sweat-and-tears-my-fight-through-spring-break-tsa-lines-during-the-democrat-dhs-shutdown",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-23T15:23:15.000Z",
+            "description": "In what proved to be the kind of small divine intervention that gives one comfort the man upstairs is, indeed, looking out for them, I groggily awoke around 8:00 a.m. Sunday despite setting my alarm for 10:00 just a few hours before. Southwest Airlines flight 1553 was scheduled to depart from New Orleans to D.C. ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/1000016268-scaled.jpg",
+            "categories": []
+          }
+        ],
+        "Domestic Political Conflicts and Controversies": [
           {
             "id": "Fox News:https://www.foxnews.com/media/carville-unloads-maher-tells-him-get-your-head-out-bari-weisss-a-heated-trump-rant",
             "title": "Carville unloads on Maher, tells him to ‘get your head out of Bari Weiss’s a--’ in heated Trump rant",
@@ -1012,49 +1204,6 @@
             ]
           },
           {
-            "id": "New York Times:https://www.nytimes.com/2026/03/23/us/politics/california-ballot-seizure-elections.html",
-            "title": "In California, a Republican Sheriff Seizes Ballots, Prompting Concerns",
-            "url": "https://www.nytimes.com/2026/03/23/us/politics/california-ballot-seizure-elections.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-23T17:55:35.000Z",
-            "description": "Riverside County Sheriff Chad Bianco, a candidate for governor, recently took possession of more than 650,000 ballots as part of a fraud probe. Election officials say his investigation is baseless.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/22pol-california-ballots-tqbh/22pol-california-ballots-tqbh-mediumSquareAt3X.jpg",
-            "categories": [
-              "United States Politics and Government",
-              "Midterm Elections (2022)",
-              "Bianco, Chad",
-              "Bonta, Rob (1972- )",
-              "Trump, Donald J",
-              "Weber, Shirley (1948- )",
-              "California"
-            ]
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/23/us/supreme-court-mail-in-ballots.html",
-            "title": "Supreme Court Appears Poised to Reject Late-Arriving Mail-In Ballots Law",
-            "url": "https://www.nytimes.com/2026/03/23/us/supreme-court-mail-in-ballots.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-23T19:49:24.000Z",
-            "description": "A majority of the justices appeared skeptical of Mississippi’s mail-in ballot law in a case that could upend the way that states handle mail-in ballots throughout the country.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23dc-scotus-lateballots-top-bkjp/23dc-scotus-lateballots-top-bkjp-mediumSquareAt3X.jpg",
-            "categories": [
-              "Federal-State Relations (US)",
-              "United States Politics and Government",
-              "Midterm Elections (2026)",
-              "Decisions and Verdicts",
-              "Absentee Voting",
-              "Law and Legislation",
-              "Elections, Courts and the Judiciary",
-              "Voting Rights Act (1965)",
-              "Suits and Litigation (Civil)",
-              "Voter Fraud (Election Fraud)",
-              "Republican National Committee",
-              "Republican Party",
-              "Supreme Court (US)",
-              "Trump, Donald J"
-            ]
-          },
-          {
             "id": "Fox News:https://www.foxnews.com/politics/virginia-dem-admits-redistricting-push-aims-stop-trump-not-about-fairness",
             "title": "Virginia Dem admits redistricting push aims to 'stop Trump', not about 'fairness'",
             "url": "https://www.foxnews.com/politics/virginia-dem-admits-redistricting-push-aims-stop-trump-not-about-fairness",
@@ -1074,72 +1223,78 @@
               "fox-news/politics",
               "article"
             ]
-          }
-        ],
-        "DHS Shutdown and Airport Security Impact": [
-          {
-            "id": "Fox News:https://www.foxnews.com/politics/johnson-turns-up-heat-schumer-dhs-shutdown-drags-on-airport-delays-mount",
-            "title": "Johnson turns up heat on Schumer as DHS shutdown drags on, airport delays mount",
-            "url": "https://www.foxnews.com/politics/johnson-turns-up-heat-schumer-dhs-shutdown-drags-on-airport-delays-mount",
-            "source": "Fox News",
-            "publishedAt": "2026-03-23T22:30:51.000Z",
-            "description": "As the DHS shutdown enters its sixth week, House Republicans are forcing votes to pressure Senate Democrats. Meanwhile, unpaid TSA agents call out, leaving travelers facing chaos.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/mike-johnson-churck-schumer.png?ve=1&tl=1",
-            "categories": [
-              "a23a676e-e066-5136-b3e8-5ae6183102b1",
-              "fnc",
-              "Fox News",
-              "fox-news/politics/house-of-representatives",
-              "fox-news/politics",
-              "fox-news/topic/government-shutdown",
-              "fox-news/politics/executive/homeland-security",
-              "fox-news/person/mike-johnson",
-              "fox-news/person/chuck-schumer",
-              "fox-news/politics",
-              "article"
-            ]
           },
           {
-            "id": "Fox News:https://www.foxnews.com/media/the-view-host-sara-haines-admits-ice-agents-should-fill-airport-gaps-tsa-struggles",
-            "title": "'The View' host Sara Haines admits ICE agents should fill airport gaps as TSA struggles",
-            "url": "https://www.foxnews.com/media/the-view-host-sara-haines-admits-ice-agents-should-fill-airport-gaps-tsa-struggles",
+            "id": "Fox News:https://www.foxnews.com/media/youtube-star-ms-rachel-declares-i-am-political-new-mission-shutdown-ice-facility",
+            "title": "YouTube star Ms Rachel declares 'I am political' in new mission to shut down ICE facility",
+            "url": "https://www.foxnews.com/media/youtube-star-ms-rachel-declares-i-am-political-new-mission-shutdown-ice-facility",
             "source": "Fox News",
-            "publishedAt": "2026-03-23T22:01:26.000Z",
-            "description": "\"The View\" co-host Sara Haines said she supports ICE agents filling airport security gaps as TSA workers go unpaid during the ongoing government shutdown.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/sara-haines-thinks-on-panel.png?ve=1&tl=1",
+            "publishedAt": "2026-03-23T22:00:11.000Z",
+            "description": "YouTube children's entertainer Ms. Rachel told NBC News last week that she is hoping to shut down the Dilley Immigration Processing Center in South Texas.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/ms-rachel-antisemitism-fox-news.jpg?ve=1&tl=1",
             "categories": [
-              "f47c1e36-3329-5821-b061-1aa8dfe41950",
+              "6aa3fb62-dda8-55ad-ae61-929db4d278d8",
               "fnc",
               "Fox News",
               "fox-news/media",
-              "fox-news/travel",
-              "fox-news/politics/executive/homeland-security",
+              "fox-news/culture-trends",
+              "fox-news/us/immigration",
               "fox-news/media",
               "article"
             ]
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/drugs-sweat-and-tears-my-fight-through-spring-break-tsa-lines-during-the-democrat-dhs-shutdown",
-            "title": "Drugs, Sweat, And Tears: My Fight Through Spring Break TSA Lines During The Democrat DHS Shutdown",
-            "url": "https://www.dailywire.com/news/drugs-sweat-and-tears-my-fight-through-spring-break-tsa-lines-during-the-democrat-dhs-shutdown",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-23T15:23:15.000Z",
-            "description": "In what proved to be the kind of small divine intervention that gives one comfort the man upstairs is, indeed, looking out for them, I groggily awoke around 8:00 a.m. Sunday despite setting my alarm for 10:00 just a few hours before. Southwest Airlines flight 1553 was scheduled to depart from New Orleans to D.C. ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/1000016268-scaled.jpg",
+            "id": "BBC:https://www.bbc.com/news/articles/cn89gjgl5yyo?at_medium=RSS&at_campaign=rss",
+            "title": "Burnham should be allowed to stand as an MP, says Nandy",
+            "url": "https://www.bbc.com/news/articles/cn89gjgl5yyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T21:59:03.000Z",
+            "description": "The culture secretary questions her party's decision to block the Greater Manchester mayor from standing in a by-election.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183f/live/8b391810-26ef-11f1-bad5-5b39ef6d69fc.jpg",
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/heres-how-senate-republicans-can-end-the-democrat-shutdown-and-still-fund-ice",
-            "title": "Here’s How Senate Republicans Can End The Democrat Shutdown — And Still Fund ICE",
-            "url": "https://www.dailywire.com/news/heres-how-senate-republicans-can-end-the-democrat-shutdown-and-still-fund-ice",
+            "id": "Daily Wire:https://www.dailywire.com/news/variety-writer-dragged-for-derogatory-chuck-norris-headline",
+            "title": "Variety Writer Dragged For Derogatory Chuck Norris Headline",
+            "url": "https://www.dailywire.com/news/variety-writer-dragged-for-derogatory-chuck-norris-headline",
             "source": "Daily Wire",
-            "publishedAt": "2026-03-23T17:44:48.000Z",
-            "description": "President Donald Trump rejected a pitch to fund other agencies under the Department of Homeland Security except for ICE, multiple sources confirmed to The Daily Wire on Monday. Senate Majority Leader John Thune indicated to the president that Senate Republicans and some Democrats would back the pitch in hopes of ending the shutdown that started ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267037464.jpg",
+            "publishedAt": "2026-03-23T18:52:59.000Z",
+            "description": "A Variety writer is getting absolutely annihilated online for his headline about legendary action star Chuck Norris’s death last week. While most mainstream outlets spoke highly of Norris and his career, William Earl, writing for Variety, chose to focus on the martial arts star’s politics instead. His headline said, “Chuck Norris Was a Great Action ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Chuck-Norris-1.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/it-turns-out-james-talaricos-church-is-as-weird-as-he-is",
+            "title": "It Turns Out James Talarico’s Church Is As Weird As He Is",
+            "url": "https://www.dailywire.com/news/it-turns-out-james-talaricos-church-is-as-weird-as-he-is",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-23T16:24:45.000Z",
+            "description": "A North Austin church attended by Texas state Rep. James Talarico (D-TX) is drawing increased attention amid his U.S. Senate campaign, with church leadership citing both heightened visibility and security concerns. St. Andrew’s Presbyterian Church, where Talarico has been a member since childhood, has recently hosted and is continuing to promote a series of events ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2263914684.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/rubio-to-take-the-stand-in-bombshell-corruption-trial",
+            "title": "Rubio To Take The Stand In Bombshell Corruption Trial",
+            "url": "https://www.dailywire.com/news/rubio-to-take-the-stand-in-bombshell-corruption-trial",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-23T14:24:50.000Z",
+            "description": "Secretary of State Marco Rubio will have another task added to his plate, but this one wasn’t ordered by President Donald Trump. Rubio is expected to take the witness stand on Tuesday in the federal trial of a former Republican congressman who is accused of secretly lobbying on behalf of Venezuelan dictator Nicolás Maduro. The ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-2026-03-23T133303.483.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/red-state-republican-warns-taxpayers-are-on-the-hook-for-trans-surgeries",
+            "title": "Red State Republican Warns Taxpayers Are On The Hook For Trans Surgeries",
+            "url": "https://www.dailywire.com/news/red-state-republican-warns-taxpayers-are-on-the-hook-for-trans-surgeries",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-23T09:39:32.000Z",
+            "description": "While Georgia law protects kids from transgender surgeries, taxpayers in the state may still be on the hook for procedures in other states thanks to a legal loophole, one Republican lawmaker warns. Georgia State Senator Blake Tillery is pushing the state legislature to pass a bill that would end all state funding for transgender surgeries ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-186481327.jpg",
             "categories": []
           }
         ],
-        "International and Domestic Political Developments": [
+        "Other Coverage": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/24/world/asia/pakistan-media-news-misinformation.html",
             "title": "Pakistan Dials Up Its Information War",
@@ -1158,26 +1313,6 @@
             ]
           },
           {
-            "id": "BBC:https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss",
-            "title": "Inside the alleged Russian operation to trigger anti-government protests in Angola",
-            "url": "https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-24T00:18:10.000Z",
-            "description": "A group of Russians and Angolans are going on trial in Angola after being accused of fomenting protests, which they deny.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01f2/live/87f6aa00-26bd-11f1-be99-cb4fcea31c93.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss",
-            "title": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
-            "url": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T20:25:32.000Z",
-            "description": "Meloni vowed to press on after losing a vote on constitutional reform many turned into a referendum on her government.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ed6/live/2df5bfd0-26f1-11f1-b297-95b0a0a8331e.jpg",
-            "categories": []
-          },
-          {
             "id": "BBC:https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
             "title": "Colombian military plane crash kills at least 66",
             "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
@@ -1187,38 +1322,6 @@
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3e8/live/3b34c580-26e0-11f1-908d-0f187797fc2f.jpg",
             "categories": []
           },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/c937qj0lp32o?at_medium=RSS&at_campaign=rss",
-            "title": "Chris Mason: Reeves to set out principles on who might get energy bills support - and who won't",
-            "url": "https://www.bbc.com/news/articles/c937qj0lp32o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-24T01:59:03.000Z",
-            "description": "The chancellor must react in real time to the economic shock of the war in Iran, writes the BBC's political editor.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9783/live/f753dec0-2728-11f1-90f0-21df3b4f5bbc.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cn89gjgl5yyo?at_medium=RSS&at_campaign=rss",
-            "title": "Burnham should be allowed to stand as an MP, says Nandy",
-            "url": "https://www.bbc.com/news/articles/cn89gjgl5yyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T21:59:03.000Z",
-            "description": "The culture secretary questions her party's decision to block the Greater Manchester mayor from standing in a by-election.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183f/live/8b391810-26ef-11f1-bad5-5b39ef6d69fc.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/cuba-prepares-for-possible-u-s-military-action-as-tensions-surge",
-            "title": "Cuba Prepares For Possible U.S. Military Action As Tensions Surge",
-            "url": "https://www.dailywire.com/news/cuba-prepares-for-possible-u-s-military-action-as-tensions-surge",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-22T12:20:09.000Z",
-            "description": "Cuba is preparing for the possibility of military conflict with the United States, a top Cuban official warned Sunday, as tensions between the two countries continue to escalate. “Our military is always prepared, and in fact it is preparing these days for the possibility of military aggression,” Cuban Deputy Foreign Minister Carlos Fernández de Cossío ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2023/09/GettyImages-1487142782-scaled-e1693947665523.jpg",
-            "categories": []
-          }
-        ],
-        "Other Coverage": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/23/us/politics/harvard-trump-antisemitism.html",
             "title": "Trump Administration Targets Harvard With Two New Investigations",
@@ -1237,6 +1340,16 @@
               "McMahon, Linda E",
               "Trump, Donald J"
             ]
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss",
+            "title": "Inside the alleged Russian operation to trigger anti-government protests in Angola",
+            "url": "https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-24T00:18:10.000Z",
+            "description": "A group of Russians and Angolans are going on trial in Angola after being accused of fomenting protests, which they deny.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01f2/live/87f6aa00-26bd-11f1-be99-cb4fcea31c93.jpg",
+            "categories": []
           },
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/23/us/politics/trump-memphis-elvis-graceland.html",
@@ -1279,52 +1392,13 @@
             ]
           },
           {
-            "id": "Fox News:https://www.foxnews.com/politics/political-traffic-signals-waiting-light-change-hill",
-            "title": "Political traffic signals: waiting for the light to change on the Hill",
-            "url": "https://www.foxnews.com/politics/political-traffic-signals-waiting-light-change-hill",
-            "source": "Fox News",
-            "publishedAt": "2026-03-23T23:09:30.000Z",
-            "description": "Congress faces a steep political battle over a $200 billion Iran war spending request, with Trump sending mixed signals on whether the funds are needed.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/capitol-traffic-light-fox-news-001.jpg?ve=1&tl=1",
-            "categories": [
-              "ea4c9b4e-2464-5686-a05e-802e9f7e6b86",
-              "fnc",
-              "Fox News",
-              "fox-news/us/congress",
-              "fox-news/politics/house-of-representatives",
-              "fox-news/politics/senate",
-              "fox-news/politics/defense/wars/war-with-iran",
-              "fox-news/politics",
-              "article"
-            ]
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/media/youtube-star-ms-rachel-declares-i-am-political-new-mission-shutdown-ice-facility",
-            "title": "YouTube star Ms Rachel declares 'I am political' in new mission to shut down ICE facility",
-            "url": "https://www.foxnews.com/media/youtube-star-ms-rachel-declares-i-am-political-new-mission-shutdown-ice-facility",
-            "source": "Fox News",
-            "publishedAt": "2026-03-23T22:00:11.000Z",
-            "description": "YouTube children's entertainer Ms. Rachel told NBC News last week that she is hoping to shut down the Dilley Immigration Processing Center in South Texas.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/ms-rachel-antisemitism-fox-news.jpg?ve=1&tl=1",
-            "categories": [
-              "6aa3fb62-dda8-55ad-ae61-929db4d278d8",
-              "fnc",
-              "Fox News",
-              "fox-news/media",
-              "fox-news/culture-trends",
-              "fox-news/us/immigration",
-              "fox-news/media",
-              "article"
-            ]
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/variety-writer-dragged-for-derogatory-chuck-norris-headline",
-            "title": "Variety Writer Dragged For Derogatory Chuck Norris Headline",
-            "url": "https://www.dailywire.com/news/variety-writer-dragged-for-derogatory-chuck-norris-headline",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-23T18:52:59.000Z",
-            "description": "A Variety writer is getting absolutely annihilated online for his headline about legendary action star Chuck Norris’s death last week. While most mainstream outlets spoke highly of Norris and his career, William Earl, writing for Variety, chose to focus on the martial arts star’s politics instead. His headline said, “Chuck Norris Was a Great Action ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Chuck-Norris-1.jpg",
+            "id": "BBC:https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss",
+            "title": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
+            "url": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T20:25:32.000Z",
+            "description": "Meloni vowed to press on after losing a vote on constitutional reform many turned into a referendum on her government.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ed6/live/2df5bfd0-26f1-11f1-b297-95b0a0a8331e.jpg",
             "categories": []
           },
           {
@@ -1348,16 +1422,6 @@
             ]
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/it-turns-out-james-talaricos-church-is-as-weird-as-he-is",
-            "title": "It Turns Out James Talarico’s Church Is As Weird As He Is",
-            "url": "https://www.dailywire.com/news/it-turns-out-james-talaricos-church-is-as-weird-as-he-is",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-23T16:24:45.000Z",
-            "description": "A North Austin church attended by Texas state Rep. James Talarico (D-TX) is drawing increased attention amid his U.S. Senate campaign, with church leadership citing both heightened visibility and security concerns. St. Andrew’s Presbyterian Church, where Talarico has been a member since childhood, has recently hosted and is continuing to promote a series of events ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2263914684.jpg",
-            "categories": []
-          },
-          {
             "id": "Daily Wire:https://www.dailywire.com/news/trump-admin-debunks-viral-rumor-after-deadly-laguardia-crash",
             "title": "Trump Admin Debunks Viral Rumor After Deadly LaGuardia Crash",
             "url": "https://www.dailywire.com/news/trump-admin-debunks-viral-rumor-after-deadly-laguardia-crash",
@@ -1365,26 +1429,6 @@
             "publishedAt": "2026-03-23T15:52:27.000Z",
             "description": "Transportation Secretary Sean Duffy shut down rumors that a deadly runway crash at New York’s LaGuardia Airport was caused by a lack of air traffic controllers, telling reporters on Monday that the airport is well-staffed. Duffy, flanked by Governor Kathy Hochul (D-NY) and New York City Mayor Zohran Mamdani (D) along with several others, took ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2268028775.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/rubio-to-take-the-stand-in-bombshell-corruption-trial",
-            "title": "Rubio To Take The Stand In Bombshell Corruption Trial",
-            "url": "https://www.dailywire.com/news/rubio-to-take-the-stand-in-bombshell-corruption-trial",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-23T14:24:50.000Z",
-            "description": "Secretary of State Marco Rubio will have another task added to his plate, but this one wasn’t ordered by President Donald Trump. Rubio is expected to take the witness stand on Tuesday in the federal trial of a former Republican congressman who is accused of secretly lobbying on behalf of Venezuelan dictator Nicolás Maduro. The ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-2026-03-23T133303.483.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/how-millions-of-americans-vote-could-be-about-to-change",
-            "title": "How Millions Of Americans Vote Could Be About To Change",
-            "url": "https://www.dailywire.com/news/how-millions-of-americans-vote-could-be-about-to-change",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-23T13:58:04.000Z",
-            "description": "The Supreme Court heard more than two hours of arguments Monday in a closely watched case that could reshape how elections are conducted across the country, weighing whether states can count mail-in ballots that arrive after Election Day. At the center of the case, Watson v. RNC, is a simple but consequential question: Does federal ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2025/11/GettyImages-1058146940.jpg",
             "categories": []
           },
           {
@@ -1398,22 +1442,32 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/red-state-republican-warns-taxpayers-are-on-the-hook-for-trans-surgeries",
-            "title": "Red State Republican Warns Taxpayers Are On The Hook For Trans Surgeries",
-            "url": "https://www.dailywire.com/news/red-state-republican-warns-taxpayers-are-on-the-hook-for-trans-surgeries",
+            "id": "Daily Wire:https://www.dailywire.com/news/cuba-prepares-for-possible-u-s-military-action-as-tensions-surge",
+            "title": "Cuba Prepares For Possible U.S. Military Action As Tensions Surge",
+            "url": "https://www.dailywire.com/news/cuba-prepares-for-possible-u-s-military-action-as-tensions-surge",
             "source": "Daily Wire",
-            "publishedAt": "2026-03-23T09:39:32.000Z",
-            "description": "While Georgia law protects kids from transgender surgeries, taxpayers in the state may still be on the hook for procedures in other states thanks to a legal loophole, one Republican lawmaker warns. Georgia State Senator Blake Tillery is pushing the state legislature to pass a bill that would end all state funding for transgender surgeries ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-186481327.jpg",
+            "publishedAt": "2026-03-22T12:20:09.000Z",
+            "description": "Cuba is preparing for the possibility of military conflict with the United States, a top Cuban official warned Sunday, as tensions between the two countries continue to escalate. “Our military is always prepared, and in fact it is preparing these days for the possibility of military aggression,” Cuban Deputy Foreign Minister Carlos Fernández de Cossío ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2023/09/GettyImages-1487142782-scaled-e1693947665523.jpg",
             "categories": []
           }
         ]
       }
     },
     "World": {
-      "articleCount": 5,
+      "articleCount": 6,
       "sourceCount": 3,
       "articles": [
+        {
+          "id": "BBC:https://www.bbc.com/news/articles/clyrj8rz6jno?at_medium=RSS&at_campaign=rss",
+          "title": "UK's transplant system was world-leading - now it lags behind other Western nations",
+          "url": "https://www.bbc.com/news/articles/clyrj8rz6jno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "publishedAt": "2026-03-24T06:00:07.000Z",
+          "description": "The UK has failed to keep pace with the rest of the world. Can it regain its status, and how?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab9c/live/aa015340-26ac-11f1-934f-036468834728.png",
+          "categories": []
+        },
         {
           "id": "BBC:https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss",
           "title": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
@@ -1421,7 +1475,7 @@
           "source": "BBC",
           "publishedAt": "2026-03-24T02:41:31.000Z",
           "description": "America may be a nation at war, but the president's activities have been a mix of diplomacy and diversions - with the occasional swing toward the surreal.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef4/live/933036c0-2730-11f1-934f-036468834728.jpg",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a70/live/ac9444d0-2749-11f1-84d2-7dcee6db4ad1.jpg",
           "categories": []
         },
         {
@@ -1475,7 +1529,7 @@
         }
       ],
       "subtopics": {
-        "US-Iran Conflict and Diplomacy": [
+        "US-Iran Conflict Dynamics and Military Options": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss",
             "title": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
@@ -1483,17 +1537,7 @@
             "source": "BBC",
             "publishedAt": "2026-03-24T02:41:31.000Z",
             "description": "America may be a nation at war, but the president's activities have been a mix of diplomacy and diversions - with the occasional swing toward the surreal.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef4/live/933036c0-2730-11f1-934f-036468834728.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cn53zvlglg7o?at_medium=RSS&at_campaign=rss",
-            "title": "US' and Iran's options for ending war narrow the longer it goes on",
-            "url": "https://www.bbc.com/news/articles/cn53zvlglg7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T15:34:38.000Z",
-            "description": "Iran shows no sign of climbdown, while air power alone cannot achieve the US' main goal.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e1a/live/3e3304a0-26d0-11f1-934f-036468834728.jpg",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a70/live/ac9444d0-2749-11f1-84d2-7dcee6db4ad1.jpg",
             "categories": []
           },
           {
@@ -1514,6 +1558,16 @@
               "Iran",
               "internal-open-access-from-nl"
             ]
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cn53zvlglg7o?at_medium=RSS&at_campaign=rss",
+            "title": "US' and Iran's options for ending war narrow the longer it goes on",
+            "url": "https://www.bbc.com/news/articles/cn53zvlglg7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T15:34:38.000Z",
+            "description": "Iran shows no sign of climbdown, while air power alone cannot achieve the US' main goal.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e1a/live/3e3304a0-26d0-11f1-934f-036468834728.jpg",
+            "categories": []
           }
         ],
         "Iran-Linked Terror Attacks in Europe": [
@@ -1528,7 +1582,7 @@
             "categories": []
           }
         ],
-        "Criticism of America’s Global Role and Foreign Policy": [
+        "US Global Influence and Anti-American Rhetoric": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/america-last-conspiratorial-collaborationists-root-for-our-enemies",
             "title": "America Last: Conspiratorial Collaborationists Root For Our Enemies",
@@ -1539,11 +1593,23 @@
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/America-Last.jpg",
             "categories": []
           }
+        ],
+        "UK Transplant System Falling Behind Western Nations": [
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/clyrj8rz6jno?at_medium=RSS&at_campaign=rss",
+            "title": "UK's transplant system was world-leading - now it lags behind other Western nations",
+            "url": "https://www.bbc.com/news/articles/clyrj8rz6jno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-24T06:00:07.000Z",
+            "description": "The UK has failed to keep pace with the rest of the world. Can it regain its status, and how?",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab9c/live/aa015340-26ac-11f1-934f-036468834728.png",
+            "categories": []
+          }
         ]
       }
     },
     "Technology": {
-      "articleCount": 6,
+      "articleCount": 5,
       "sourceCount": 3,
       "articles": [
         {
@@ -1573,16 +1639,6 @@
             "fox-news/deals",
             "article"
           ]
-        },
-        {
-          "id": "BBC:https://www.bbc.com/news/articles/czex3lj077xo?at_medium=RSS&at_campaign=rss",
-          "title": "HS2 trains could run slower than planned to save money",
-          "url": "https://www.bbc.com/news/articles/czex3lj077xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-23T16:39:09.000Z",
-          "description": "The government is looking at ways to make much-delayed London to Birmingham railway line cheaper to deliver.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d161/live/0ddd9c90-26a6-11f1-9a4b-834c9ce445e3.jpg",
-          "categories": []
         },
         {
           "id": "BBC:https://www.bbc.com/news/articles/ce9mz082y5go?at_medium=RSS&at_campaign=rss",
@@ -1616,7 +1672,7 @@
         }
       ],
       "subtopics": {
-        "Green technology initiatives for homes": [
+        "Green Technology Initiatives for Homes": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/czjw7klkjm2o?at_medium=RSS&at_campaign=rss",
             "title": "Heat pumps for all new homes and plug-in solar in green tech drive",
@@ -1628,7 +1684,7 @@
             "categories": []
           }
         ],
-        "Affordable Amazon tech gadgets for everyday use": [
+        "Useful Small Tech and Gadgets on Amazon": [
           {
             "id": "Fox News:https://www.foxnews.com/deals/small-amazon-items-big-difference",
             "title": "15 small Amazon buys that make life easier, starting at $4",
@@ -1648,7 +1704,7 @@
             ]
           }
         ],
-        "Leadership and strategic decisions in major tech-related organizations": [
+        "Leadership and Strategy at BBC and Big Tech": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/ce9mz082y5go?at_medium=RSS&at_campaign=rss",
             "title": "Is ex-Google boss Matt Brittin the right person to steer the BBC?",
@@ -1658,21 +1714,7 @@
             "description": "BBC media editor Katie Razzall says the former Google exec has been chosen for his insider knowledge of big tech.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcb0/live/c8cb86b0-23aa-11f1-9a4e-e13728524fa3.jpg",
             "categories": []
-          }
-        ],
-        "Challenges and developments surrounding the Metaverse": [
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/the-metaverse-was-never-inevitable",
-            "title": "The Metaverse Was Never Inevitable",
-            "url": "https://www.dailywire.com/news/the-metaverse-was-never-inevitable",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-23T09:00:06.000Z",
-            "description": "For now, Facebook is still technically called Meta. But the “metaverse,” Mark Zuckerberg’s ambitious virtual reality project, is in shambles. Tech outlets reported last week that the company would be sunsetting Horizon Worlds, its VR social media platform. Then CTO Andrew Bosworth clarified that Horizon Worlds would remain operational, even if users could expect little ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-1247559120.jpg",
-            "categories": []
-          }
-        ],
-        "BBC News app and news delivery technology": [
+          },
           {
             "id": "BBC:https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
             "title": "BBC News app",
@@ -1684,15 +1726,15 @@
             "categories": []
           }
         ],
-        "Other Coverage": [
+        "Challenges and Future of the Metaverse": [
           {
-            "id": "BBC:https://www.bbc.com/news/articles/czex3lj077xo?at_medium=RSS&at_campaign=rss",
-            "title": "HS2 trains could run slower than planned to save money",
-            "url": "https://www.bbc.com/news/articles/czex3lj077xo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T16:39:09.000Z",
-            "description": "The government is looking at ways to make much-delayed London to Birmingham railway line cheaper to deliver.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d161/live/0ddd9c90-26a6-11f1-9a4b-834c9ce445e3.jpg",
+            "id": "Daily Wire:https://www.dailywire.com/news/the-metaverse-was-never-inevitable",
+            "title": "The Metaverse Was Never Inevitable",
+            "url": "https://www.dailywire.com/news/the-metaverse-was-never-inevitable",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-23T09:00:06.000Z",
+            "description": "For now, Facebook is still technically called Meta. But the “metaverse,” Mark Zuckerberg’s ambitious virtual reality project, is in shambles. Tech outlets reported last week that the company would be sunsetting Horizon Worlds, its VR social media platform. Then CTO Andrew Bosworth clarified that Horizon Worlds would remain operational, even if users could expect little ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-1247559120.jpg",
             "categories": []
           }
         ]
@@ -1744,7 +1786,7 @@
         }
       ],
       "subtopics": {
-        "International trade deals boosting Australian exports": [
+        "International Trade Deals Boosting Australian Exports": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss",
             "title": "More Australian beef headed for Europe under new EU trade deal",
@@ -1756,7 +1798,7 @@
             "categories": []
           }
         ],
-        "UK North Sea oil and gas production advocacy": [
+        "UK Advocacy for Expanding North Sea Oil and Gas Production": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/c4g8x7q4l8go?at_medium=RSS&at_campaign=rss",
             "title": "UK must back North Sea oil and gas drilling, says trade body",
@@ -1768,7 +1810,7 @@
             "categories": []
           }
         ],
-        "Trump administration's impact on small businesses": [
+        "Small Business Views on Trump Administration's Economic Policies": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/small-business-owners-say-things-are-great-in-trump-2-0-but-they-want-one-change",
             "title": "Small Business Owners Say Things Are Great In Trump 2.0 — But They Want One Change",
@@ -1780,7 +1822,7 @@
             "categories": []
           }
         ],
-        "Trump's strategy on Iran and domestic energy affordability": [
+        "Trump's Approach to Iran and Domestic Economic Affordability": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/yes-trump-can-fight-iran-and-save-american-families-money-at-the-same-time",
             "title": "Yes, Trump Can Fight Iran And Save American Families Money At the Same Time",
@@ -1810,7 +1852,7 @@
         }
       ],
       "subtopics": {
-        "Project Hail Mary Film Release": [
+        "Science Fiction Film Success": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/non-woke-project-hail-mary-blasts-off-with-massive-opening-weekend",
             "title": "Non-Woke ‘Project Hail Mary’ Blasts Off With Massive Opening Weekend",
@@ -1825,9 +1867,29 @@
       }
     },
     "Entertainment": {
-      "articleCount": 12,
+      "articleCount": 13,
       "sourceCount": 4,
       "articles": [
+        {
+          "id": "New York Times:https://www.nytimes.com/2026/03/24/arts/television/late-night-ice-airport.html",
+          "title": "Late Night Doesn’t Feel So Hot About ICE at the Airport",
+          "url": "https://www.nytimes.com/2026/03/24/arts/television/late-night-ice-airport.html",
+          "source": "New York Times",
+          "publishedAt": "2026-03-24T06:16:08.000Z",
+          "description": "Jimmy Kimmel said President Trump had “found a way to make the airport even worse.”",
+          "imageUrl": null,
+          "categories": [
+            "Television",
+            "Kimmel, Jimmy",
+            "Jimmy Kimmel Live (TV Program)",
+            "Fallon, Jimmy",
+            "The Tonight Show (TV Program)",
+            "Meyers, Seth",
+            "Late Night with Seth Meyers (TV Program)",
+            "Maher, Bill",
+            "Real Time With Bill Maher (TV Program)"
+          ]
+        },
         {
           "id": "New York Times:https://www.nytimes.com/2026/03/23/movies/valerie-perrine-dead.html",
           "title": "Valerie Perrine, Screen Siren Who Won Critical Acclaim, Dies at 82",
@@ -2007,7 +2069,7 @@
         }
       ],
       "subtopics": {
-        "Obituaries of Entertainment Figures": [
+        "Celebrity Deaths and Tributes": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/23/movies/valerie-perrine-dead.html",
             "title": "Valerie Perrine, Screen Siren Who Won Critical Acclaim, Dies at 82",
@@ -2048,7 +2110,7 @@
             ]
           }
         ],
-        "Celebrity Personal Life and Legal Issues": [
+        "Celebrity Travel and Public Incidents": [
           {
             "id": "Fox News:https://www.foxnews.com/entertainment/macaulay-culkins-fiancee-brenda-songs-airline-nightmare-sparks-debate-after-first-class-seats-given-away",
             "title": "Macaulay Culkin’s fiancée Brenda Song’s airline nightmare sparks debate after first-class seats given away",
@@ -2068,6 +2130,59 @@
               "article"
             ]
           },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/watch-reacher-star-caught-on-video-repeatedly-punching-neighbor-in-front-of-kids",
+            "title": "WATCH: ‘Reacher’ Star Caught On Video Repeatedly Punching Neighbor In Front Of Kids",
+            "url": "https://www.dailywire.com/news/watch-reacher-star-caught-on-video-repeatedly-punching-neighbor-in-front-of-kids",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-23T19:25:27.000Z",
+            "description": "“Reacher” star and outspoken Trump critic Alan Ritchson was allegedly caught on video getting into a fight with his neighbor. The video originally shared on TMZ shows a man identified as Ritchson punching another man, reported to be a neighbor, as two children perch on motorized vehicles nearby. The actor’s neighbor then spoke with the ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2220888024.jpeg",
+            "categories": []
+          }
+        ],
+        "Television and Streaming Series Updates": [
+          {
+            "id": "Fox News:https://www.foxnews.com/entertainment/cole-hauser-kelly-reilly-seen-first-time-beth-rip-return-dutton-ranch",
+            "title": "Cole Hauser, Kelly Reilly seen for first time as Beth and Rip return in 'Dutton Ranch'",
+            "url": "https://www.foxnews.com/entertainment/cole-hauser-kelly-reilly-seen-first-time-beth-rip-return-dutton-ranch",
+            "source": "Fox News",
+            "publishedAt": "2026-03-23T22:27:16.000Z",
+            "description": "Kelly Reilly and Cole Hauser reprise their \"Yellowstone\" roles in \"Dutton Ranch,\" a new spinoff set in South Texas that premieres May 15 on Paramount+.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/reilly-hauser.jpg?ve=1&tl=1",
+            "categories": [
+              "4dbe68e4-86e2-5662-b3b9-d3efc5b77436",
+              "fnc",
+              "Fox News",
+              "fox-news/entertainment",
+              "fox-news/entertainment/tv",
+              "fox-news/topic/trending-news",
+              "fox-news/entertainment",
+              "article"
+            ]
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/the-difficult-task-of-casting-jfk-jr-for-love-story-in-the-21st-century",
+            "title": "The Difficult Task Of Casting JFK Jr. For ‘Love Story’ In The 21st Century",
+            "url": "https://www.dailywire.com/news/the-difficult-task-of-casting-jfk-jr-for-love-story-in-the-21st-century",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-23T16:47:32.000Z",
+            "description": "In a society that loves to “blur the line” between man and woman, the result can be a strenuous casting process that might almost postpone production. Take FX’s “Love Story.” In the new show, viewers embark on the romantic yet tragic story of John F. Kennedy Jr. and Carolyn Bessette, America’s most beloved couple in ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2259808551.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/ryan-gosling-breathes-new-life-into-a-tired-genre-with-project-hail-mary",
+            "title": "Ryan Gosling Breathes New Life Into A Tired Genre With ‘Project Hail Mary’",
+            "url": "https://www.dailywire.com/news/ryan-gosling-breathes-new-life-into-a-tired-genre-with-project-hail-mary",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-23T08:00:00.000Z",
+            "description": "This article is part of Upstream, The Daily Wire’s new home for culture and lifestyle. Real human insight and human stories — from our featured writers to you. *** From “Star Wars” to Sandra Bullock, the intergalactic rescue mission has become one of Hollywood’s most overworked templates. So I was skeptical when I settled in for “Project ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267318373.jpg",
+            "categories": []
+          }
+        ],
+        "Entertainment Controversies and Legal Issues": [
           {
             "id": "Fox News:https://www.foxnews.com/entertainment/bill-cosby-found-liable-1972-sexual-assault-jury-awards-59-25m-accuser",
             "title": "Bill Cosby found liable for 1972 sexual assault, jury awards $59.25M to accuser",
@@ -2107,62 +2222,9 @@
             "description": "Taylor Frankie Paul shows little sign of concern after a video surfaced appearing to show her assaulting her baby daddy, instead sending a tongue-in-cheek message with her outfit following the cancellation of her “Bachelorette” season, which was scrapped before it ever aired. “The Secret Lives of Mormon Wives” reality TV star was spotted in Salt ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2213611908-scaled.jpg",
             "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/watch-reacher-star-caught-on-video-repeatedly-punching-neighbor-in-front-of-kids",
-            "title": "WATCH: ‘Reacher’ Star Caught On Video Repeatedly Punching Neighbor In Front Of Kids",
-            "url": "https://www.dailywire.com/news/watch-reacher-star-caught-on-video-repeatedly-punching-neighbor-in-front-of-kids",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-23T19:25:27.000Z",
-            "description": "“Reacher” star and outspoken Trump critic Alan Ritchson was allegedly caught on video getting into a fight with his neighbor. The video originally shared on TMZ shows a man identified as Ritchson punching another man, reported to be a neighbor, as two children perch on motorized vehicles nearby. The actor’s neighbor then spoke with the ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2220888024.jpeg",
-            "categories": []
           }
         ],
-        "New TV Shows and Casting Challenges": [
-          {
-            "id": "Fox News:https://www.foxnews.com/entertainment/cole-hauser-kelly-reilly-seen-first-time-beth-rip-return-dutton-ranch",
-            "title": "Cole Hauser, Kelly Reilly seen for first time as Beth and Rip return in 'Dutton Ranch'",
-            "url": "https://www.foxnews.com/entertainment/cole-hauser-kelly-reilly-seen-first-time-beth-rip-return-dutton-ranch",
-            "source": "Fox News",
-            "publishedAt": "2026-03-23T22:27:16.000Z",
-            "description": "Kelly Reilly and Cole Hauser reprise their \"Yellowstone\" roles in \"Dutton Ranch,\" a new spinoff set in South Texas that premieres May 15 on Paramount+.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/reilly-hauser.jpg?ve=1&tl=1",
-            "categories": [
-              "4dbe68e4-86e2-5662-b3b9-d3efc5b77436",
-              "fnc",
-              "Fox News",
-              "fox-news/entertainment",
-              "fox-news/entertainment/tv",
-              "fox-news/topic/trending-news",
-              "fox-news/entertainment",
-              "article"
-            ]
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/the-difficult-task-of-casting-jfk-jr-for-love-story-in-the-21st-century",
-            "title": "The Difficult Task Of Casting JFK Jr. For ‘Love Story’ In The 21st Century",
-            "url": "https://www.dailywire.com/news/the-difficult-task-of-casting-jfk-jr-for-love-story-in-the-21st-century",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-23T16:47:32.000Z",
-            "description": "In a society that loves to “blur the line” between man and woman, the result can be a strenuous casting process that might almost postpone production. Take FX’s “Love Story.” In the new show, viewers embark on the romantic yet tragic story of John F. Kennedy Jr. and Carolyn Bessette, America’s most beloved couple in ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2259808551.jpg",
-            "categories": []
-          }
-        ],
-        "Film Reviews and Genre Commentary": [
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/ryan-gosling-breathes-new-life-into-a-tired-genre-with-project-hail-mary",
-            "title": "Ryan Gosling Breathes New Life Into A Tired Genre With ‘Project Hail Mary’",
-            "url": "https://www.dailywire.com/news/ryan-gosling-breathes-new-life-into-a-tired-genre-with-project-hail-mary",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-23T08:00:00.000Z",
-            "description": "This article is part of Upstream, The Daily Wire’s new home for culture and lifestyle. Real human insight and human stories — from our featured writers to you. *** From “Star Wars” to Sandra Bullock, the intergalactic rescue mission has become one of Hollywood’s most overworked templates. So I was skeptical when I settled in for “Project ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267318373.jpg",
-            "categories": []
-          }
-        ],
-        "Crime Trial Involving YouTuber": [
+        "Entertainment and Crime News": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/c4g8d8pz0xyo?at_medium=RSS&at_campaign=rss",
             "title": "How a YouTuber used a fake live stream to cover up the murder of his pregnant partner",
@@ -2172,9 +2234,27 @@
             "description": "Evidence in the trial of Stephen McCullagh outlined a cold, calculating plan to kill Natalie McNally and get away with it.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5422/live/e870eb80-26d5-11f1-934f-036468834728.png",
             "categories": []
-          }
-        ],
-        "Other Coverage": [
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/24/arts/television/late-night-ice-airport.html",
+            "title": "Late Night Doesn’t Feel So Hot About ICE at the Airport",
+            "url": "https://www.nytimes.com/2026/03/24/arts/television/late-night-ice-airport.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-24T06:16:08.000Z",
+            "description": "Jimmy Kimmel said President Trump had “found a way to make the airport even worse.”",
+            "imageUrl": null,
+            "categories": [
+              "Television",
+              "Kimmel, Jimmy",
+              "Jimmy Kimmel Live (TV Program)",
+              "Fallon, Jimmy",
+              "The Tonight Show (TV Program)",
+              "Meyers, Seth",
+              "Late Night with Seth Meyers (TV Program)",
+              "Maher, Bill",
+              "Real Time With Bill Maher (TV Program)"
+            ]
+          },
           {
             "id": "Fox News:https://www.foxnews.com/entertainment/megan-moroney-stuns-orange-bikini-during-friends-bahamas-bachelorette",
             "title": "Megan Moroney stuns in orange bikini during friend's Bahamas bachelorette",
@@ -2254,7 +2334,7 @@
         },
         {
           "id": "BBC:https://www.bbc.com/sport/football/articles/cly6gxp4wngo?at_medium=RSS&at_campaign=rss",
-          "title": "Cooper accused of dropping Bosnia-Herzegovina player before Wales tie",
+          "title": "Cooper accused of dropping Bosnia player before Wales tie",
           "url": "https://www.bbc.com/sport/football/articles/cly6gxp4wngo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "publishedAt": "2026-03-23T21:19:18.000Z",
@@ -2314,7 +2394,7 @@
         }
       ],
       "subtopics": {
-        "Football Management and Controversies": [
+        "Football Management and Club Ambitions": [
           {
             "id": "BBC:https://www.bbc.com/sport/football/articles/c8ejkj69jzro?at_medium=RSS&at_campaign=rss",
             "title": "Real talk is nonsense but I may coach again - Klopp",
@@ -2327,22 +2407,12 @@
           },
           {
             "id": "BBC:https://www.bbc.com/sport/football/articles/cly6gxp4wngo?at_medium=RSS&at_campaign=rss",
-            "title": "Cooper accused of dropping Bosnia-Herzegovina player before Wales tie",
+            "title": "Cooper accused of dropping Bosnia player before Wales tie",
             "url": "https://www.bbc.com/sport/football/articles/cly6gxp4wngo?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
             "publishedAt": "2026-03-23T21:19:18.000Z",
             "description": "Welsh manager Steve Cooper is accused of dropping a Bosnia-Herzegovina player from Brondby ahead of Wales' World Cup qualifier, a claim his club denies.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c4/live/0fe04ef0-26e9-11f1-a79a-77e93010d956.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/sport/football/articles/cg547vpj31zo?at_medium=RSS&at_campaign=rss",
-            "title": "Have Chelsea progressed under Rosenior? Analysing his Blues tenure",
-            "url": "https://www.bbc.com/sport/football/articles/cg547vpj31zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T17:21:30.000Z",
-            "description": "Liam Rosenior is facing criticism early in his tenure as Chelsea manager - but is it fair, and are his players on board as they head for the climax to the season?",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b55b/live/84290160-26d7-11f1-97e8-e56f64304680.jpg",
             "categories": []
           },
           {
@@ -2356,6 +2426,16 @@
             "categories": []
           },
           {
+            "id": "BBC:https://www.bbc.com/sport/football/articles/cg547vpj31zo?at_medium=RSS&at_campaign=rss",
+            "title": "Have Chelsea progressed under Rosenior? Analysing his Blues tenure",
+            "url": "https://www.bbc.com/sport/football/articles/cg547vpj31zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T17:21:30.000Z",
+            "description": "Liam Rosenior is facing criticism early in his tenure as Chelsea manager - but is it fair, and are his players on board as they head for the climax to the season?",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b55b/live/84290160-26d7-11f1-97e8-e56f64304680.jpg",
+            "categories": []
+          },
+          {
             "id": "BBC:https://www.bbc.com/sport/football/articles/c2ev7mxr40go?at_medium=RSS&at_campaign=rss",
             "title": "Foden final appearance felt like a 'charity' substitution - Rooney",
             "url": "https://www.bbc.com/sport/football/articles/c2ev7mxr40go?at_medium=RSS&at_campaign=rss",
@@ -2366,7 +2446,7 @@
             "categories": []
           }
         ],
-        "Tennis Highlights and Incidents at Miami Open": [
+        "Tennis Highlights and Match Incidents at Miami Open": [
           {
             "id": "BBC:https://www.bbc.com/sport/tennis/articles/cly02vle3deo?at_medium=RSS&at_campaign=rss",
             "title": "Sabalenka and Gauff win in Miami as camera causes concern for umpire",
@@ -2378,7 +2458,7 @@
             "categories": []
           }
         ],
-        "Cricket Ashes Review and Leadership Criticism": [
+        "Cricket Coaching and Media Criticism Post-Ashes": [
           {
             "id": "BBC:https://www.bbc.com/sport/cricket/articles/cz67jejw4z7o?at_medium=RSS&at_campaign=rss",
             "title": "McCullum and Key very lucky to survive Ashes review - Vaughan",
@@ -2390,7 +2470,7 @@
             "categories": []
           }
         ],
-        "Golf Celebrity John Daly's Viral Tournament Fall": [
+        "Golf Moments and Viral Clips Featuring John Daly": [
           {
             "id": "Fox News:https://www.foxnews.com/sports/john-daly-calls-himself-jacka-after-falling-down-desert-hill-during-tournament",
             "title": "John Daly calls himself a 'jacka--' after falling down desert hill during tournament",
@@ -2412,7 +2492,7 @@
             ]
           }
         ],
-        "Education and Sports Intersection: NFL Draft Impact on Schools": [
+        "Controversies and Social Issues in Sports": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/teachers-unions-use-the-nfl-draft-to-keep-students-home",
             "title": "Teachers’ Unions Use the NFL Draft to Keep Students Home",
@@ -2422,9 +2502,7 @@
             "description": "Training camp hasn’t started yet for the National Football League, but teachers’ unions and educational leaders are training hard for something else. In fact, they haven’t stopped training since 2020 to close schools quicker than a wide receiver running a 40. The latest example comes from Pittsburgh. The City of Champions is benching students while ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-50.jpg",
             "categories": []
-          }
-        ],
-        "Other Coverage": [
+          },
           {
             "id": "Daily Wire:https://www.dailywire.com/news/pink-pony-club-singer-chappell-roan-responds-to-explosive-claim-she-left-child-in-tears",
             "title": "‘Pink Pony Club’ Singer Chappell Roan Responds To Explosive Claim She Left Child In Tears",
@@ -2442,6 +2520,63 @@
       "articleCount": 64,
       "sourceCount": 5,
       "articles": [
+        {
+          "id": "BBC:https://www.bbc.com/news/articles/cn53we5vll5o?at_medium=RSS&at_campaign=rss",
+          "title": "Cuba's mothers-to-be prepare to give birth in a country plunged into darkness",
+          "url": "https://www.bbc.com/news/articles/cn53we5vll5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "publishedAt": "2026-03-24T05:58:19.000Z",
+          "description": "Two pregnant women tell the BBC's Will Grant of their hopes and fears as their nation is mired in crisis.",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85de/live/705676c0-26ca-11f1-a4d4-99b68c75b55c.jpg",
+          "categories": []
+        },
+        {
+          "id": "NPR:https://www.npr.org/2026/03/24/g-s1-114924/at-least-66-killed-in-military-plane-crash-in-colombia-head-of-armed-forces-says",
+          "title": "At least 66 killed in military plane crash in Colombia, head of armed forces says",
+          "url": "https://www.npr.org/2026/03/24/g-s1-114924/at-least-66-killed-in-military-plane-crash-in-colombia-head-of-armed-forces-says",
+          "source": "NPR",
+          "publishedAt": "2026-03-24T05:58:04.000Z",
+          "description": "Colombian officials say that a military cargo plane with 128 people on board, most of them soldiers, crashed shortly after taking off Monday in southwestern Colombia.",
+          "imageUrl": null,
+          "categories": []
+        },
+        {
+          "id": "BBC:https://www.bbc.com/news/articles/cy71djvdl7no?at_medium=RSS&at_campaign=rss",
+          "title": "The Papers: 'Trump blinks first' and 'horrific' attack on Jewish charity ambulances",
+          "url": "https://www.bbc.com/news/articles/cy71djvdl7no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "publishedAt": "2026-03-24T05:48:59.000Z",
+          "description": "Donald Trump's claim of productive talks with Iran and the attack on a Jewish charity in London is the main focus for Tuesday's front pages.",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de84/live/10394060-2715-11f1-934f-036468834728.jpg",
+          "categories": []
+        },
+        {
+          "id": "NPR:https://www.npr.org/2026/03/24/g-s1-114920/uk-police-probe-possible-iran-link-after-jewish-charity-ambulances-set-on-fire",
+          "title": "UK police probe possible Iran link after Jewish charity ambulances set on fire",
+          "url": "https://www.npr.org/2026/03/24/g-s1-114920/uk-police-probe-possible-iran-link-after-jewish-charity-ambulances-set-on-fire",
+          "source": "NPR",
+          "publishedAt": "2026-03-24T05:43:51.000Z",
+          "description": "Police in London are investigating a suspected antisemitic hate crime attack after four vehicles belonging to a Jewish ambulance service were set on fire.",
+          "imageUrl": null,
+          "categories": []
+        },
+        {
+          "id": "New York Times:https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html",
+          "title": "Colombian Military Plane Crash Kills 66 and Injures Dozens",
+          "url": "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html",
+          "source": "New York Times",
+          "publishedAt": "2026-03-24T05:36:25.000Z",
+          "description": "A military aircraft transporting 128 people was involved in an accident as it took off from southern Colombia, according to the authorities.",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23int-colombia-crash-update-gtkw/23int-colombia-crash-update-gtkw-mediumSquareAt3X.jpg",
+          "categories": [
+            "Aviation Accidents, Safety and Disasters",
+            "Airlines and Airplanes",
+            "Military Aircraft",
+            "Defense and Military Forces",
+            "Petro, Gustavo",
+            "Colombia"
+          ]
+        },
         {
           "id": "BBC:https://www.bbc.com/news/articles/c625j162yy6o?at_medium=RSS&at_campaign=rss",
           "title": "Oil back above $100 as conflicting claims emerge on US-Iran talks",
@@ -2536,23 +2671,6 @@
           ]
         },
         {
-          "id": "New York Times:https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html",
-          "title": "Colombian Military Plane Crash Kills 66 and Injures Dozens",
-          "url": "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html",
-          "source": "New York Times",
-          "publishedAt": "2026-03-24T03:37:39.000Z",
-          "description": "A military aircraft transporting 128 people was involved in an accident as it took off from southern Colombia, according to the authorities.",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23int-colombia-crash-update-gtkw/23int-colombia-crash-update-gtkw-mediumSquareAt3X.jpg",
-          "categories": [
-            "Aviation Accidents, Safety and Disasters",
-            "Airlines and Airplanes",
-            "Military Aircraft",
-            "Defense and Military Forces",
-            "Petro, Gustavo",
-            "Colombia"
-          ]
-        },
-        {
           "id": "New York Times:https://www.nytimes.com/2026/03/23/nyregion/air-canada-crash-laguardia-nyc.html",
           "title": "In LaGuardia Crash That Killed 2, Call to ‘Stop!’ Came Too Late",
           "url": "https://www.nytimes.com/2026/03/23/nyregion/air-canada-crash-laguardia-nyc.html",
@@ -2571,16 +2689,6 @@
             "Port Authority of New York and New Jersey",
             "New York City"
           ]
-        },
-        {
-          "id": "BBC:https://www.bbc.com/news/articles/c98kd9x705eo?at_medium=RSS&at_campaign=rss",
-          "title": "US Senate confirms Markwayne Mullin as homeland security chief",
-          "url": "https://www.bbc.com/news/articles/c98kd9x705eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-24T02:01:21.000Z",
-          "description": "The US senator will now oversee the embattled department after a series of immigration enforcement blunders.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/753f/live/79da8f20-26ec-11f1-9d87-f57d604f7537.jpg",
-          "categories": []
         },
         {
           "id": "Fox News:https://www.foxnews.com/media/department-education-under-trump-just-took-big-step-closer-shutting-down-expert-says",
@@ -2654,16 +2762,6 @@
             "Murders, Attempted Murders and Homicides",
             "Pregnancy and Childbirth"
           ]
-        },
-        {
-          "id": "BBC:https://www.bbc.com/news/articles/cy71djvdl7no?at_medium=RSS&at_campaign=rss",
-          "title": "The Papers: 'Trump blinks first' and 'horrific' attack on Jewish charity ambulances",
-          "url": "https://www.bbc.com/news/articles/cy71djvdl7no?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-24T00:49:25.000Z",
-          "description": "Donald Trump's claim of productive talks with Iran and the attack on a Jewish charity in London is the main focus for Tuesday's front pages.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de84/live/10394060-2715-11f1-934f-036468834728.jpg",
-          "categories": []
         },
         {
           "id": "BBC:https://www.bbc.com/news/articles/cm2knk5d4deo?at_medium=RSS&at_campaign=rss",
@@ -3065,16 +3163,6 @@
           "categories": []
         },
         {
-          "id": "NPR:https://www.npr.org/2026/03/23/g-s1-114792/up-first-newsletter-trump-iran-strait-of-hormuz-dhs-funding-tsa-ice-agents-immigration",
-          "title": "Trump delays strikes on Iran's power plants for 5 days. And, ICE deploys to airports",
-          "url": "https://www.npr.org/2026/03/23/g-s1-114792/up-first-newsletter-trump-iran-strait-of-hormuz-dhs-funding-tsa-ice-agents-immigration",
-          "source": "NPR",
-          "publishedAt": "2026-03-23T12:02:59.000Z",
-          "description": "Trump says he will deploy ICE agents to U.S. airports to help address delays. And, the president said he would delay strikes on Iranian power plants for five days.",
-          "imageUrl": null,
-          "categories": []
-        },
-        {
           "id": "Daily Wire:https://www.dailywire.com/news/live-updates-search-continues-for-nancy-guthrie-as-deadline-for-ransom-note-passes",
           "title": "LIVE UPDATES: Savannah Guthrie’s Family Says Answers May Lie In Overlooked Timeline Details",
           "url": "https://www.dailywire.com/news/live-updates-search-continues-for-nancy-guthrie-as-deadline-for-ransom-note-passes",
@@ -3142,16 +3230,6 @@
           "publishedAt": "2026-03-23T11:06:33.000Z",
           "description": "Immigration and Customs Enforcement agents assisting at airport security checkpoints are being asked not to wear masks, President Donald Trump said Monday morning, as staffing shortages strain Transportation Security Administration (TSA) operations during the ongoing Department of Homeland Security shutdown. Trump said last week that ICE agents would be deployed to help manage security amid ...",
           "imageUrl": "https://dw-wp-production.imgix.net/2026/02/GettyImages-2258087506.jpg",
-          "categories": []
-        },
-        {
-          "id": "NPR:https://www.npr.org/2026/03/23/nx-s1-5757172/iran-defiant-trump-hormuz",
-          "title": "Trump says the U.S. is in talks with Iran to end the war, which Iran denies",
-          "url": "https://www.npr.org/2026/03/23/nx-s1-5757172/iran-defiant-trump-hormuz",
-          "source": "NPR",
-          "publishedAt": "2026-03-23T10:37:23.000Z",
-          "description": "Trump said the U.S. will postpone any strikes on Iranian energy infrastructure for five days, even as Israel continued hitting Tehran and Iran warned it could retaliate across the Gulf.",
-          "imageUrl": null,
           "categories": []
         },
         {
@@ -3256,7 +3334,34 @@
         }
       ],
       "subtopics": {
-        "LaGuardia Airport deadly crash and investigation": [
+        "Military Plane Crashes and LaGuardia Airport Collision": [
+          {
+            "id": "NPR:https://www.npr.org/2026/03/24/g-s1-114924/at-least-66-killed-in-military-plane-crash-in-colombia-head-of-armed-forces-says",
+            "title": "At least 66 killed in military plane crash in Colombia, head of armed forces says",
+            "url": "https://www.npr.org/2026/03/24/g-s1-114924/at-least-66-killed-in-military-plane-crash-in-colombia-head-of-armed-forces-says",
+            "source": "NPR",
+            "publishedAt": "2026-03-24T05:58:04.000Z",
+            "description": "Colombian officials say that a military cargo plane with 128 people on board, most of them soldiers, crashed shortly after taking off Monday in southwestern Colombia.",
+            "imageUrl": null,
+            "categories": []
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html",
+            "title": "Colombian Military Plane Crash Kills 66 and Injures Dozens",
+            "url": "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-24T05:36:25.000Z",
+            "description": "A military aircraft transporting 128 people was involved in an accident as it took off from southern Colombia, according to the authorities.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23int-colombia-crash-update-gtkw/23int-colombia-crash-update-gtkw-mediumSquareAt3X.jpg",
+            "categories": [
+              "Aviation Accidents, Safety and Disasters",
+              "Airlines and Airplanes",
+              "Military Aircraft",
+              "Defense and Military Forces",
+              "Petro, Gustavo",
+              "Colombia"
+            ]
+          },
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/23/nyregion/air-canada-crash-laguardia-nyc.html",
             "title": "In LaGuardia Crash That Killed 2, Call to ‘Stop!’ Came Too Late",
@@ -3278,16 +3383,6 @@
             ]
           },
           {
-            "id": "BBC:https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
-            "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
-            "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T21:13:47.000Z",
-            "description": "In the aftermath of the collision of Air Canada flight AC8646 with a fire truck in New York, US transportation chief Sean Duffy emphasized that seat belts helped save lives",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc84/live/3aa4d0d0-26fc-11f1-a79a-77e93010d956.jpg",
-            "categories": []
-          },
-          {
             "id": "BBC:https://www.bbc.com/news/videos/czxrv4pqx72o?at_medium=RSS&at_campaign=rss",
             "title": "Watch: How the deadly LaGuardia Airport crash unfolded",
             "url": "https://www.bbc.com/news/videos/czxrv4pqx72o?at_medium=RSS&at_campaign=rss",
@@ -3295,6 +3390,16 @@
             "publishedAt": "2026-03-23T22:17:26.000Z",
             "description": "Video shows the aftermath of the collision between a passenger plane and a firefighting vehicle on the runway of the New York airport.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c552/live/dbf09130-2702-11f1-934f-036468834728.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cm2knk5d4deo?at_medium=RSS&at_campaign=rss",
+            "title": "Royal Mail staff say they were told to hide post to look like delivery targets met",
+            "url": "https://www.bbc.com/news/articles/cm2knk5d4deo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-24T00:33:51.000Z",
+            "description": "BBC Your Voice hears from postal workers who say \"take the mail for ride\" is a common phrase.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e958/live/96a89540-26db-11f1-b297-95b0a0a8331e.jpg",
             "categories": []
           },
           {
@@ -3321,13 +3426,13 @@
             ]
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/new-video-shows-air-canada-jet-erupting-on-impact-with-fire-truck-at-laguardia",
-            "title": "New Video Shows Air Canada Jet Erupting On Impact With Fire Truck At LaGuardia",
-            "url": "https://www.dailywire.com/news/new-video-shows-air-canada-jet-erupting-on-impact-with-fire-truck-at-laguardia",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-23T13:03:34.000Z",
-            "description": "Dramatic footage from LaGuardia Airport in New York captured the instant that Air Canada Express flight AC8646 plowed into a fire truck late Sunday night. The Bombardier CRJ-900, a relatively small jet that seats 76–90 and is used for commuter travel, crashed into a Port Authority fire truck. As The Daily Wire previously reported, two ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267532695.jpg",
+            "id": "BBC:https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
+            "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
+            "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T21:13:47.000Z",
+            "description": "In the aftermath of the collision of Air Canada flight AC8646 with a fire truck in New York, US transportation chief Sean Duffy emphasized that seat belts helped save lives",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc84/live/3aa4d0d0-26fc-11f1-a79a-77e93010d956.jpg",
             "categories": []
           },
           {
@@ -3339,9 +3444,29 @@
             "description": "Two pilots are dead following a collision between an Air Canada Express jet and an airport firetruck at New York City’s LaGuardia Airport late Sunday night, according to officials. The Port Authority said an Aircraft Rescue and Firefighting vehicle was responding to a separate incident when it was struck by the aircraft. More than a ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267918945.jpg",
             "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/new-video-shows-air-canada-jet-erupting-on-impact-with-fire-truck-at-laguardia",
+            "title": "New Video Shows Air Canada Jet Erupting On Impact With Fire Truck At LaGuardia",
+            "url": "https://www.dailywire.com/news/new-video-shows-air-canada-jet-erupting-on-impact-with-fire-truck-at-laguardia",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-23T13:03:34.000Z",
+            "description": "Dramatic footage from LaGuardia Airport in New York captured the instant that Air Canada Express flight AC8646 plowed into a fire truck late Sunday night. The Bombardier CRJ-900, a relatively small jet that seats 76–90 and is used for commuter travel, crashed into a Port Authority fire truck. As The Daily Wire previously reported, two ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267532695.jpg",
+            "categories": []
           }
         ],
-        "US-Iran conflict and related geopolitical tensions": [
+        "Iran-US Tensions and Related Security Concerns": [
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cy71djvdl7no?at_medium=RSS&at_campaign=rss",
+            "title": "The Papers: 'Trump blinks first' and 'horrific' attack on Jewish charity ambulances",
+            "url": "https://www.bbc.com/news/articles/cy71djvdl7no?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-24T05:48:59.000Z",
+            "description": "Donald Trump's claim of productive talks with Iran and the attack on a Jewish charity in London is the main focus for Tuesday's front pages.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de84/live/10394060-2715-11f1-934f-036468834728.jpg",
+            "categories": []
+          },
           {
             "id": "BBC:https://www.bbc.com/news/articles/c625j162yy6o?at_medium=RSS&at_campaign=rss",
             "title": "Oil back above $100 as conflicting claims emerge on US-Iran talks",
@@ -3363,13 +3488,13 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/iran-issues-new-threat-as-trumps-48-hour-ultimatum-hits-halfway-mark",
-            "title": "Iran Issues New Threat As Trump’s 48-Hour Ultimatum Hits Halfway Mark",
-            "url": "https://www.dailywire.com/news/iran-issues-new-threat-as-trumps-48-hour-ultimatum-hits-halfway-mark",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-22T18:17:32.000Z",
-            "description": "Iran said on Sunday it would strike the energy and water systems of its Gulf neighbours in retaliation if U.S. President Donald Trump follows through with a threat to hit Iran’s electricity grid in 48 hours, escalating the three-week-old war. The prospect of tit-for-tat strikes on civilian infrastructure could deepen the regional crisis and further ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267156728-scaled.jpg",
+            "id": "BBC:https://www.bbc.com/news/articles/cly73y5e788o?at_medium=RSS&at_campaign=rss",
+            "title": "Could Iranian missiles reach London and Paris?",
+            "url": "https://www.bbc.com/news/articles/cly73y5e788o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T16:45:52.000Z",
+            "description": "Some experts say Iran may be able to launch missiles to hit London, but they would likely be shot down long before arriving and the risk is low.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9684/live/3faa2530-26d9-11f1-97e8-e56f64304680.jpg",
             "categories": []
           },
           {
@@ -3383,6 +3508,16 @@
             "categories": []
           },
           {
+            "id": "Daily Wire:https://www.dailywire.com/news/iran-issues-new-threat-as-trumps-48-hour-ultimatum-hits-halfway-mark",
+            "title": "Iran Issues New Threat As Trump’s 48-Hour Ultimatum Hits Halfway Mark",
+            "url": "https://www.dailywire.com/news/iran-issues-new-threat-as-trumps-48-hour-ultimatum-hits-halfway-mark",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-22T18:17:32.000Z",
+            "description": "Iran said on Sunday it would strike the energy and water systems of its Gulf neighbours in retaliation if U.S. President Donald Trump follows through with a threat to hit Iran’s electricity grid in 48 hours, escalating the three-week-old war. The prospect of tit-for-tat strikes on civilian infrastructure could deepen the regional crisis and further ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267156728-scaled.jpg",
+            "categories": []
+          },
+          {
             "id": "Daily Wire:https://www.dailywire.com/news/israeli-ambassador-reacts-to-iran-strike-with-message-that-raises-stakes",
             "title": "Israeli Ambassador Reacts To Iran Strike With Message That Raises Stakes",
             "url": "https://www.dailywire.com/news/israeli-ambassador-reacts-to-iran-strike-with-message-that-raises-stakes",
@@ -3390,26 +3525,6 @@
             "publishedAt": "2026-03-22T12:30:23.000Z",
             "description": "Israeli ambassador to the U.S. Michael Leiter discussed Iran’s attempted ballistic missile strike Saturday targeting Diego Garcia, the joint U.S.-U.K. military base in the Indian Ocean more than 2,000 miles from Iran. Appearing Sunday on CNN’s “State of the Union” with Dana Bash, Leiter was first asked about the missile strikes in Israel on Saturday ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2219955048-scaled.jpg",
-            "categories": []
-          },
-          {
-            "id": "NPR:https://www.npr.org/2026/03/23/nx-s1-5757172/iran-defiant-trump-hormuz",
-            "title": "Trump says the U.S. is in talks with Iran to end the war, which Iran denies",
-            "url": "https://www.npr.org/2026/03/23/nx-s1-5757172/iran-defiant-trump-hormuz",
-            "source": "NPR",
-            "publishedAt": "2026-03-23T10:37:23.000Z",
-            "description": "Trump said the U.S. will postpone any strikes on Iranian energy infrastructure for five days, even as Israel continued hitting Tehran and Iran warned it could retaliate across the Gulf.",
-            "imageUrl": null,
-            "categories": []
-          },
-          {
-            "id": "NPR:https://www.npr.org/2026/03/23/g-s1-114792/up-first-newsletter-trump-iran-strait-of-hormuz-dhs-funding-tsa-ice-agents-immigration",
-            "title": "Trump delays strikes on Iran's power plants for 5 days. And, ICE deploys to airports",
-            "url": "https://www.npr.org/2026/03/23/g-s1-114792/up-first-newsletter-trump-iran-strait-of-hormuz-dhs-funding-tsa-ice-agents-immigration",
-            "source": "NPR",
-            "publishedAt": "2026-03-23T12:02:59.000Z",
-            "description": "Trump says he will deploy ICE agents to U.S. airports to help address delays. And, the president said he would delay strikes on Iranian power plants for five days.",
-            "imageUrl": null,
             "categories": []
           },
           {
@@ -3423,35 +3538,47 @@
             "categories": []
           }
         ],
-        "Department of Homeland Security leadership and shutdown issues": [
+        "Jewish Charity Ambulance Arson Attack in London": [
           {
-            "id": "BBC:https://www.bbc.com/news/articles/c98kd9x705eo?at_medium=RSS&at_campaign=rss",
-            "title": "US Senate confirms Markwayne Mullin as homeland security chief",
-            "url": "https://www.bbc.com/news/articles/c98kd9x705eo?at_medium=RSS&at_campaign=rss",
+            "id": "NPR:https://www.npr.org/2026/03/24/g-s1-114920/uk-police-probe-possible-iran-link-after-jewish-charity-ambulances-set-on-fire",
+            "title": "UK police probe possible Iran link after Jewish charity ambulances set on fire",
+            "url": "https://www.npr.org/2026/03/24/g-s1-114920/uk-police-probe-possible-iran-link-after-jewish-charity-ambulances-set-on-fire",
+            "source": "NPR",
+            "publishedAt": "2026-03-24T05:43:51.000Z",
+            "description": "Police in London are investigating a suspected antisemitic hate crime attack after four vehicles belonging to a Jewish ambulance service were set on fire.",
+            "imageUrl": null,
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
+            "title": "Arson attack on Jewish charity ambulances investigated by counter-terror police",
+            "url": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
-            "publishedAt": "2026-03-24T02:01:21.000Z",
-            "description": "The US senator will now oversee the embattled department after a series of immigration enforcement blunders.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/753f/live/79da8f20-26ec-11f1-9d87-f57d604f7537.jpg",
+            "publishedAt": "2026-03-24T04:29:06.000Z",
+            "description": "Police say they are looking for three suspects after the Hatzola ambulances were set on fire.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c47/live/32276590-2683-11f1-a32b-91a6d5286fbb.png",
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/trump-praises-ice-at-airports-as-crisis-deepens-and-hints-at-a-bigger-move",
-            "title": "Trump Praises ICE At Airports As Crisis Deepens And Hints At A Bigger Move",
-            "url": "https://www.dailywire.com/news/trump-praises-ice-at-airports-as-crisis-deepens-and-hints-at-a-bigger-move",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-23T11:07:36.000Z",
-            "description": "President Donald Trump thanked Immigration and Customs Enforcement agents for helping TSA employees on Monday and suggested that he could also deploy the National Guard to address ongoing airport chaos. “I want to thank ICE because they stepped in so strongly. They’ll do great, and if that’s not enough, I’ll bring in the National Guard. ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267555334.jpg",
+            "id": "BBC:https://www.bbc.com/news/articles/cm297z7y9lro?at_medium=RSS&at_campaign=rss",
+            "title": "'Shocking but not unexpected': Jewish community reacts to ambulance attack",
+            "url": "https://www.bbc.com/news/articles/cm297z7y9lro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T18:56:52.000Z",
+            "description": "Ambulances belonging to a Jewish community charity in north-west London were set on fire on Monday.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5584/live/deb53370-26d6-11f1-a79a-77e93010d956.jpg",
             "categories": []
-          },
+          }
+        ],
+        "US Airport and TSA Security Crisis Amid DHS Shutdown": [
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/ice-agents-make-noticeable-change-at-airports-as-new-directive-drops",
-            "title": "ICE Agents Make Noticeable Change At Airports As New Directive Drops",
-            "url": "https://www.dailywire.com/news/ice-agents-make-noticeable-change-at-airports-as-new-directive-drops",
+            "id": "Daily Wire:https://www.dailywire.com/news/travelers-spent-nine-hours-in-tsa-line-as-major-hub-becomes-dhs-shutdown-flashpoint",
+            "title": "Travelers Spent Nine Hours In TSA Line As Major Hub Becomes DHS Shutdown Flashpoint",
+            "url": "https://www.dailywire.com/news/travelers-spent-nine-hours-in-tsa-line-as-major-hub-becomes-dhs-shutdown-flashpoint",
             "source": "Daily Wire",
-            "publishedAt": "2026-03-23T11:06:33.000Z",
-            "description": "Immigration and Customs Enforcement agents assisting at airport security checkpoints are being asked not to wear masks, President Donald Trump said Monday morning, as staffing shortages strain Transportation Security Administration (TSA) operations during the ongoing Department of Homeland Security shutdown. Trump said last week that ICE agents would be deployed to help manage security amid ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/02/GettyImages-2258087506.jpg",
+            "publishedAt": "2026-03-23T19:32:58.000Z",
+            "description": "Some travelers spent as many as nine hours waiting in line at the Hartsfield-Jackson Atlanta International Airport on Sunday, according to WSB-TV. On Monday, the report noted that wait times ranged from four hours down to less than an hour depending on the time of day, as Americans continue to grow frustrated with the high ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267034013-scaled.jpg",
             "categories": []
           },
           {
@@ -3465,13 +3592,13 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/what-do-ice-officers-really-think-of-trumps-plan-to-deploy-agents-for-airport-security",
-            "title": "What Do ICE Officers Really Think Of Trump’s Plan To Deploy Agents For Airport Security?",
-            "url": "https://www.dailywire.com/news/what-do-ice-officers-really-think-of-trumps-plan-to-deploy-agents-for-airport-security",
+            "id": "Daily Wire:https://www.dailywire.com/news/ice-agents-make-noticeable-change-at-airports-as-new-directive-drops",
+            "title": "ICE Agents Make Noticeable Change At Airports As New Directive Drops",
+            "url": "https://www.dailywire.com/news/ice-agents-make-noticeable-change-at-airports-as-new-directive-drops",
             "source": "Daily Wire",
-            "publishedAt": "2026-03-22T17:59:54.000Z",
-            "description": "Immigration and Customs Enforcement (ICE) officers and agents have mixed reactions to President Donald Trump’s plan to deploy them to airports to assist TSA during the partial government shutdown. Trump announced the plan Saturday to begin the effort Monday in the hopes of reducing airport security wait times as TSA officers report massive staff shortages ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267037407.jpg",
+            "publishedAt": "2026-03-23T11:06:33.000Z",
+            "description": "Immigration and Customs Enforcement agents assisting at airport security checkpoints are being asked not to wear masks, President Donald Trump said Monday morning, as staffing shortages strain Transportation Security Administration (TSA) operations during the ongoing Department of Homeland Security shutdown. Trump said last week that ICE agents would be deployed to help manage security amid ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/02/GettyImages-2258087506.jpg",
             "categories": []
           },
           {
@@ -3485,17 +3612,27 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/travelers-spent-nine-hours-in-tsa-line-as-major-hub-becomes-dhs-shutdown-flashpoint",
-            "title": "Travelers Spent Nine Hours In TSA Line As Major Hub Becomes DHS Shutdown Flashpoint",
-            "url": "https://www.dailywire.com/news/travelers-spent-nine-hours-in-tsa-line-as-major-hub-becomes-dhs-shutdown-flashpoint",
+            "id": "Daily Wire:https://www.dailywire.com/news/what-do-ice-officers-really-think-of-trumps-plan-to-deploy-agents-for-airport-security",
+            "title": "What Do ICE Officers Really Think Of Trump’s Plan To Deploy Agents For Airport Security?",
+            "url": "https://www.dailywire.com/news/what-do-ice-officers-really-think-of-trumps-plan-to-deploy-agents-for-airport-security",
             "source": "Daily Wire",
-            "publishedAt": "2026-03-23T19:32:58.000Z",
-            "description": "Some travelers spent as many as nine hours waiting in line at the Hartsfield-Jackson Atlanta International Airport on Sunday, according to WSB-TV. On Monday, the report noted that wait times ranged from four hours down to less than an hour depending on the time of day, as Americans continue to grow frustrated with the high ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267034013-scaled.jpg",
+            "publishedAt": "2026-03-22T17:59:54.000Z",
+            "description": "Immigration and Customs Enforcement (ICE) officers and agents have mixed reactions to President Donald Trump’s plan to deploy them to airports to assist TSA during the partial government shutdown. Trump announced the plan Saturday to begin the effort Monday in the hopes of reducing airport security wait times as TSA officers report massive staff shortages ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267037407.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/trump-praises-ice-at-airports-as-crisis-deepens-and-hints-at-a-bigger-move",
+            "title": "Trump Praises ICE At Airports As Crisis Deepens And Hints At A Bigger Move",
+            "url": "https://www.dailywire.com/news/trump-praises-ice-at-airports-as-crisis-deepens-and-hints-at-a-bigger-move",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-23T11:07:36.000Z",
+            "description": "President Donald Trump thanked Immigration and Customs Enforcement agents for helping TSA employees on Monday and suggested that he could also deploy the National Guard to address ongoing airport chaos. “I want to thank ICE because they stepped in so strongly. They’ll do great, and if that’s not enough, I’ll bring in the National Guard. ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267555334.jpg",
             "categories": []
           }
         ],
-        "High-profile legal cases and controversies": [
+        "Legal, Political, and Social News Highlights": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/23/arts/television/bill-cosby-verdict-lawsuit-donna-motsinger.html",
             "title": "Bill Cosby Loses Sex Assault Lawsuit and Faces a $59 Million Judgment",
@@ -3543,6 +3680,104 @@
             ]
           },
           {
+            "id": "NPR:https://www.npr.org/2026/03/24/nx-s1-5757550/abortion-telemedicine-travel-mifepristone-misoprostol",
+            "title": "Despite state bans and restrictions, the number of abortions in the U.S. holds steady",
+            "url": "https://www.npr.org/2026/03/24/nx-s1-5757550/abortion-telemedicine-travel-mifepristone-misoprostol",
+            "source": "NPR",
+            "publishedAt": "2026-03-24T04:01:00.000Z",
+            "description": "The Guttmacher Institute has a new analysis on how many abortions happened in 2025.",
+            "imageUrl": null,
+            "categories": []
+          },
+          {
+            "id": "NPR:https://www.npr.org/2026/03/23/g-s1-114868/trump-totalenergies-offshore-wind-leases",
+            "title": "Trump administration to pay French company $1B to drop U.S. offshore wind leases",
+            "url": "https://www.npr.org/2026/03/23/g-s1-114868/trump-totalenergies-offshore-wind-leases",
+            "source": "NPR",
+            "publishedAt": "2026-03-23T20:36:57.000Z",
+            "description": "TotalEnergies has agreed to what's essentially a refund of its leases for projects off the coasts of North Carolina and New York, and will invest the money in fossil fuel projects instead, the Department of Interior announced.",
+            "imageUrl": null,
+            "categories": []
+          },
+          {
+            "id": "NPR:https://www.npr.org/2026/03/23/nx-s1-5757916/supreme-court-considers-laws-allowing-mail-in-votes-to-be-counted-after-election-day",
+            "title": "Supreme Court skeptical of laws counting mail-in ballots after election day",
+            "url": "https://www.npr.org/2026/03/23/nx-s1-5757916/supreme-court-considers-laws-allowing-mail-in-votes-to-be-counted-after-election-day",
+            "source": "NPR",
+            "publishedAt": "2026-03-23T20:03:38.000Z",
+            "description": "The Supreme Court heard arguments today in a case that tests whether states should be allowed to count ballots that are mailed on time but arrive after Election Day. The case could have broad implications.",
+            "imageUrl": null,
+            "categories": []
+          },
+          {
+            "id": "NPR:https://www.npr.org/2026/03/23/nx-s1-5757440/supreme-court-press-freedom",
+            "title": "Supreme Court declines to review press freedom case",
+            "url": "https://www.npr.org/2026/03/23/nx-s1-5757440/supreme-court-press-freedom",
+            "source": "NPR",
+            "publishedAt": "2026-03-23T14:32:54.000Z",
+            "description": "At issue was the 2017 arrest in Texas of a journalist who published news stories about a border agent's public suicide and a car crash.",
+            "imageUrl": null,
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/c93w2pw3y0no?at_medium=RSS&at_campaign=rss",
+            "title": "UK universities flock to India - but will they succeed?",
+            "url": "https://www.bbc.com/news/articles/c93w2pw3y0no?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-24T00:10:24.000Z",
+            "description": "Nine UK universities are setting up campuses in India, but enrolment is expected to be modest initially.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff6/live/00abcec0-26e2-11f1-a79a-77e93010d956.jpg",
+            "categories": []
+          },
+          {
+            "id": "NPR:https://www.npr.org/2026/03/23/g-s1-114813/markwayne-mullin-confirmed-homeland-security",
+            "title": "Markwayne Mullin confirmed as the next secretary of Homeland Security",
+            "url": "https://www.npr.org/2026/03/23/g-s1-114813/markwayne-mullin-confirmed-homeland-security",
+            "source": "NPR",
+            "publishedAt": "2026-03-24T00:26:08.000Z",
+            "description": "The Oklahoma Republican comes to the helm in the midst of a shutdown that has left some 100,000 of the department's more than a quarter-million employees working without pay.",
+            "imageUrl": null,
+            "categories": []
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/media/department-education-under-trump-just-took-big-step-closer-shutting-down-expert-says",
+            "title": "Department of Education under Trump just took its 'largest' step closer to shutting down",
+            "url": "https://www.foxnews.com/media/department-education-under-trump-just-took-big-step-closer-shutting-down-expert-says",
+            "source": "Fox News",
+            "publishedAt": "2026-03-24T01:30:06.000Z",
+            "description": "Student loan operations from a nearly $1.7 trillion portfolio are being transferred from the Department of Education to the Treasury under a new interagency agreement.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/president-donald-trump-march-3.jpg?ve=1&tl=1",
+            "categories": [
+              "5b45f9d5-acb1-5edb-ae93-de7123ca4cb6",
+              "fnc",
+              "Fox News",
+              "fox-news/media",
+              "fox-news/culture-trends",
+              "fox-news/us/education",
+              "fox-news/person/donald-trump",
+              "fox-news/media",
+              "article"
+            ]
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html",
+            "title": "Pentagon Adopts New Limits for Journalists After Court Loss",
+            "url": "https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-24T01:15:06.000Z",
+            "description": "The Defense Department said it would close the Pentagon’s work area for journalists, among other changes, after a judge found the existing media policy unconstitutional.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/PENTAGON-PRESS--1-kcqf/PENTAGON-PRESS--1-kcqf-mediumSquareAt3X.jpg",
+            "categories": [
+              "Decisions and Verdicts",
+              "United States Defense and Military Forces",
+              "News and News Media",
+              "Courts and the Judiciary",
+              "Defense Department",
+              "New York Times",
+              "Friedman, Paul L"
+            ]
+          },
+          {
             "id": "New York Times:https://www.nytimes.com/2026/03/23/us/boston-university-pride-flags-free-speech.html",
             "title": "Boston University Pulls Pride Flags, Raising Free Speech Worries",
             "url": "https://www.nytimes.com/2026/03/23/us/boston-university-pride-flags-free-speech.html",
@@ -3557,102 +3792,17 @@
               "Boston (Mass)",
               "Massachusetts"
             ]
-          },
-          {
-            "id": "NPR:https://www.npr.org/2026/03/23/nx-s1-5757440/supreme-court-press-freedom",
-            "title": "Supreme Court declines to review press freedom case",
-            "url": "https://www.npr.org/2026/03/23/nx-s1-5757440/supreme-court-press-freedom",
-            "source": "NPR",
-            "publishedAt": "2026-03-23T14:32:54.000Z",
-            "description": "At issue was the 2017 arrest in Texas of a journalist who published news stories about a border agent's public suicide and a car crash.",
-            "imageUrl": null,
-            "categories": []
-          }
-        ],
-        "Crime and missing persons cases": [
-          {
-            "id": "Fox News:https://www.foxnews.com/us/sheriff-shrugs-off-missteps-nancy-guthrie-case-calls-captor-let-her-go-family-pleads-help",
-            "title": "Sheriff shrugs off missteps in Nancy Guthrie case, calls for captor to ‘let her go’ as family pleads for help",
-            "url": "https://www.foxnews.com/us/sheriff-shrugs-off-missteps-nancy-guthrie-case-calls-captor-let-her-go-family-pleads-help",
-            "source": "Fox News",
-            "publishedAt": "2026-03-23T22:52:38.000Z",
-            "description": "As Nancy Guthrie's disappearance nears two months, her family says \"someone knows something\" and urges the Tucson community to share tips and video.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/nancy-guthrie-chris-nanos.jpg?ve=1&tl=1",
-            "categories": [
-              "1348238a-7671-57e0-8528-b72323d383a3",
-              "fnc",
-              "Fox News",
-              "fox-news/person/nancy-guthrie",
-              "fox-news/topic/missing-persons",
-              "fox-news/us/true-crime",
-              "fox-news/us/us-regions/southwest/arizona",
-              "fox-news/us",
-              "fox-news/person/savannah-guthrie",
-              "fox-news/crime",
-              "fox-news/us",
-              "article"
-            ]
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/live-updates-search-continues-for-nancy-guthrie-as-deadline-for-ransom-note-passes",
-            "title": "LIVE UPDATES: Savannah Guthrie’s Family Says Answers May Lie In Overlooked Timeline Details",
-            "url": "https://www.dailywire.com/news/live-updates-search-continues-for-nancy-guthrie-as-deadline-for-ransom-note-passes",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-23T12:00:15.000Z",
-            "description": "Listen to the latest episode of Finding Nancy Guthrie, a special Daily Wire true crime podcast with reporter Lynden Blake on the most shocking missing-person case in America.",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/02/16x9-update-nancy_720-1.jpg",
-            "categories": []
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/us/nj-man-crawls-window-attempts-sexually-assault-girl-subdued-resident-police",
-            "title": "NJ man crawls through window, attempts to sexually assault girl before being subdued by resident: police",
-            "url": "https://www.foxnews.com/us/nj-man-crawls-window-attempts-sexually-assault-girl-subdued-resident-police",
-            "source": "Fox News",
-            "publishedAt": "2026-03-23T23:14:48.000Z",
-            "description": "A New Jersey resident is being credited with stopping a horrific home invasion after subduing a suspect who allegedly tried to sexually assault a sleeping girl.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/hackensack-new-jersey-police-001.jpg?ve=1&tl=1",
-            "categories": [
-              "9ee22e88-6b5c-596c-aefe-7a33ef76e3f3",
-              "fnc",
-              "Fox News",
-              "fox-news/crime",
-              "fox-news/us",
-              "fox-news/us/us-regions/northeast/new-jersey",
-              "fox-news/us/crime/sex-crimes",
-              "fox-news/us",
-              "article"
-            ]
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/murder-suspect-in-loyola-university-slaying-is-venezuelan-illegal-released-by-biden",
-            "title": "Murder Suspect In Loyola University Slaying Is Venezuelan Illegal Released By Biden",
-            "url": "https://www.dailywire.com/news/murder-suspect-in-loyola-university-slaying-is-venezuelan-illegal-released-by-biden",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-22T15:20:31.000Z",
-            "description": "A Venezuelan illegal immigrant who was released into the country by the Biden administration has been identified as the suspect in the fatal Thursday shooting of Loyola University Chicago student Sheridan Gorman, the Department of Homeland Security (DHS) said Sunday. Jose Medina-Medina, 25, was arrested after he allegedly approached the college freshman, wearing black clothes ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-2026-03-22T145304.656.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/rare-reason-keeps-illegal-alien-suspect-in-loyola-student-slaying-from-facing-court",
-            "title": "Rare Reason Keeps Illegal Alien Suspect In Loyola Student Slaying From Facing Court",
-            "url": "https://www.dailywire.com/news/rare-reason-keeps-illegal-alien-suspect-in-loyola-student-slaying-from-facing-court",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-23T15:41:21.000Z",
-            "description": "The first court appearance for the illegal immigrant accused of murdering Loyola University Chicago student Sheridan Gorman last Thursday was delayed after he was hospitalized with tuberculosis, according to the Chicago Tribune. Jose Medina-Medina, 25, allegedly approached the college freshman wearing a black mask around 1 a.m. and fired one round as she tried to ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-2026-03-23T151715.377.jpg",
-            "categories": []
           }
         ],
         "Other Coverage": [
           {
-            "id": "BBC:https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
-            "title": "Arson attack on Jewish charity ambulances investigated by counter-terror police",
-            "url": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss",
+            "id": "BBC:https://www.bbc.com/news/articles/cn53we5vll5o?at_medium=RSS&at_campaign=rss",
+            "title": "Cuba's mothers-to-be prepare to give birth in a country plunged into darkness",
+            "url": "https://www.bbc.com/news/articles/cn53we5vll5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
-            "publishedAt": "2026-03-24T04:29:06.000Z",
-            "description": "Police say they are looking for three suspects after the Hatzola ambulances were set on fire.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c47/live/32276590-2683-11f1-a32b-91a6d5286fbb.png",
+            "publishedAt": "2026-03-24T05:58:19.000Z",
+            "description": "Two pregnant women tell the BBC's Will Grant of their hopes and fears as their nation is mired in crisis.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85de/live/705676c0-26ca-11f1-a4d4-99b68c75b55c.jpg",
             "categories": []
           },
           {
@@ -3700,16 +3850,6 @@
             ]
           },
           {
-            "id": "NPR:https://www.npr.org/2026/03/24/nx-s1-5757550/abortion-telemedicine-travel-mifepristone-misoprostol",
-            "title": "Despite state bans and restrictions, the number of abortions in the U.S. holds steady",
-            "url": "https://www.npr.org/2026/03/24/nx-s1-5757550/abortion-telemedicine-travel-mifepristone-misoprostol",
-            "source": "NPR",
-            "publishedAt": "2026-03-24T04:01:00.000Z",
-            "description": "The Guttmacher Institute has a new analysis on how many abortions happened in 2025.",
-            "imageUrl": null,
-            "categories": []
-          },
-          {
             "id": "New York Times:https://www.nytimes.com/2026/03/24/health/mdma-therapy-ptsd-psychedelic-australia.html",
             "title": "MDMA Therapy in Australia Shows Results for PTSD Patients, but the Cost Is Limiting Access",
             "url": "https://www.nytimes.com/2026/03/24/health/mdma-therapy-ptsd-psychedelic-australia.html",
@@ -3726,43 +3866,6 @@
               "Post-Traumatic Stress Disorder",
               "Regulation and Deregulation of Industry",
               "Psilocybin Mushrooms"
-            ]
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html",
-            "title": "Colombian Military Plane Crash Kills 66 and Injures Dozens",
-            "url": "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-24T03:37:39.000Z",
-            "description": "A military aircraft transporting 128 people was involved in an accident as it took off from southern Colombia, according to the authorities.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23int-colombia-crash-update-gtkw/23int-colombia-crash-update-gtkw-mediumSquareAt3X.jpg",
-            "categories": [
-              "Aviation Accidents, Safety and Disasters",
-              "Airlines and Airplanes",
-              "Military Aircraft",
-              "Defense and Military Forces",
-              "Petro, Gustavo",
-              "Colombia"
-            ]
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/media/department-education-under-trump-just-took-big-step-closer-shutting-down-expert-says",
-            "title": "Department of Education under Trump just took its 'largest' step closer to shutting down",
-            "url": "https://www.foxnews.com/media/department-education-under-trump-just-took-big-step-closer-shutting-down-expert-says",
-            "source": "Fox News",
-            "publishedAt": "2026-03-24T01:30:06.000Z",
-            "description": "Student loan operations from a nearly $1.7 trillion portfolio are being transferred from the Department of Education to the Treasury under a new interagency agreement.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/president-donald-trump-march-3.jpg?ve=1&tl=1",
-            "categories": [
-              "5b45f9d5-acb1-5edb-ae93-de7123ca4cb6",
-              "fnc",
-              "Fox News",
-              "fox-news/media",
-              "fox-news/culture-trends",
-              "fox-news/us/education",
-              "fox-news/person/donald-trump",
-              "fox-news/media",
-              "article"
             ]
           },
           {
@@ -3785,62 +3888,24 @@
             ]
           },
           {
-            "id": "New York Times:https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html",
-            "title": "Pentagon Adopts New Limits for Journalists After Court Loss",
-            "url": "https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-24T01:15:06.000Z",
-            "description": "The Defense Department said it would close the Pentagon’s work area for journalists, among other changes, after a judge found the existing media policy unconstitutional.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/PENTAGON-PRESS--1-kcqf/PENTAGON-PRESS--1-kcqf-mediumSquareAt3X.jpg",
+            "id": "Fox News:https://www.foxnews.com/us/nj-man-crawls-window-attempts-sexually-assault-girl-subdued-resident-police",
+            "title": "NJ man crawls through window, attempts to sexually assault girl before being subdued by resident: police",
+            "url": "https://www.foxnews.com/us/nj-man-crawls-window-attempts-sexually-assault-girl-subdued-resident-police",
+            "source": "Fox News",
+            "publishedAt": "2026-03-23T23:14:48.000Z",
+            "description": "A New Jersey resident is being credited with stopping a horrific home invasion after subduing a suspect who allegedly tried to sexually assault a sleeping girl.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/hackensack-new-jersey-police-001.jpg?ve=1&tl=1",
             "categories": [
-              "Decisions and Verdicts",
-              "United States Defense and Military Forces",
-              "News and News Media",
-              "Courts and the Judiciary",
-              "Defense Department",
-              "New York Times",
-              "Friedman, Paul L"
+              "9ee22e88-6b5c-596c-aefe-7a33ef76e3f3",
+              "fnc",
+              "Fox News",
+              "fox-news/crime",
+              "fox-news/us",
+              "fox-news/us/us-regions/northeast/new-jersey",
+              "fox-news/us/crime/sex-crimes",
+              "fox-news/us",
+              "article"
             ]
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cy71djvdl7no?at_medium=RSS&at_campaign=rss",
-            "title": "The Papers: 'Trump blinks first' and 'horrific' attack on Jewish charity ambulances",
-            "url": "https://www.bbc.com/news/articles/cy71djvdl7no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-24T00:49:25.000Z",
-            "description": "Donald Trump's claim of productive talks with Iran and the attack on a Jewish charity in London is the main focus for Tuesday's front pages.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de84/live/10394060-2715-11f1-934f-036468834728.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cm2knk5d4deo?at_medium=RSS&at_campaign=rss",
-            "title": "Royal Mail staff say they were told to hide post to look like delivery targets met",
-            "url": "https://www.bbc.com/news/articles/cm2knk5d4deo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-24T00:33:51.000Z",
-            "description": "BBC Your Voice hears from postal workers who say \"take the mail for ride\" is a common phrase.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e958/live/96a89540-26db-11f1-b297-95b0a0a8331e.jpg",
-            "categories": []
-          },
-          {
-            "id": "NPR:https://www.npr.org/2026/03/23/g-s1-114813/markwayne-mullin-confirmed-homeland-security",
-            "title": "Markwayne Mullin confirmed as the next secretary of Homeland Security",
-            "url": "https://www.npr.org/2026/03/23/g-s1-114813/markwayne-mullin-confirmed-homeland-security",
-            "source": "NPR",
-            "publishedAt": "2026-03-24T00:26:08.000Z",
-            "description": "The Oklahoma Republican comes to the helm in the midst of a shutdown that has left some 100,000 of the department's more than a quarter-million employees working without pay.",
-            "imageUrl": null,
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/c93w2pw3y0no?at_medium=RSS&at_campaign=rss",
-            "title": "UK universities flock to India - but will they succeed?",
-            "url": "https://www.bbc.com/news/articles/c93w2pw3y0no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-24T00:10:24.000Z",
-            "description": "Nine UK universities are setting up campuses in India, but enrolment is expected to be modest initially.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff6/live/00abcec0-26e2-11f1-a79a-77e93010d956.jpg",
-            "categories": []
           },
           {
             "id": "Fox News:https://www.foxnews.com/media/trumps-death-like-mardi-gras-new-orleans-charlamagne-warns-after-mueller-post",
@@ -3858,6 +3923,29 @@
               "fox-news/person/donald-trump",
               "fox-news/person/robert-mueller",
               "fox-news/media",
+              "article"
+            ]
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/us/sheriff-shrugs-off-missteps-nancy-guthrie-case-calls-captor-let-her-go-family-pleads-help",
+            "title": "Sheriff shrugs off missteps in Nancy Guthrie case, calls for captor to ‘let her go’ as family pleads for help",
+            "url": "https://www.foxnews.com/us/sheriff-shrugs-off-missteps-nancy-guthrie-case-calls-captor-let-her-go-family-pleads-help",
+            "source": "Fox News",
+            "publishedAt": "2026-03-23T22:52:38.000Z",
+            "description": "As Nancy Guthrie's disappearance nears two months, her family says \"someone knows something\" and urges the Tucson community to share tips and video.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/nancy-guthrie-chris-nanos.jpg?ve=1&tl=1",
+            "categories": [
+              "1348238a-7671-57e0-8528-b72323d383a3",
+              "fnc",
+              "Fox News",
+              "fox-news/person/nancy-guthrie",
+              "fox-news/topic/missing-persons",
+              "fox-news/us/true-crime",
+              "fox-news/us/us-regions/southwest/arizona",
+              "fox-news/us",
+              "fox-news/person/savannah-guthrie",
+              "fox-news/crime",
+              "fox-news/us",
               "article"
             ]
           },
@@ -3922,36 +4010,6 @@
             "categories": []
           },
           {
-            "id": "NPR:https://www.npr.org/2026/03/23/g-s1-114868/trump-totalenergies-offshore-wind-leases",
-            "title": "Trump administration to pay French company $1B to drop U.S. offshore wind leases",
-            "url": "https://www.npr.org/2026/03/23/g-s1-114868/trump-totalenergies-offshore-wind-leases",
-            "source": "NPR",
-            "publishedAt": "2026-03-23T20:36:57.000Z",
-            "description": "TotalEnergies has agreed to what's essentially a refund of its leases for projects off the coasts of North Carolina and New York, and will invest the money in fossil fuel projects instead, the Department of Interior announced.",
-            "imageUrl": null,
-            "categories": []
-          },
-          {
-            "id": "NPR:https://www.npr.org/2026/03/23/nx-s1-5757916/supreme-court-considers-laws-allowing-mail-in-votes-to-be-counted-after-election-day",
-            "title": "Supreme Court skeptical of laws counting mail-in ballots after election day",
-            "url": "https://www.npr.org/2026/03/23/nx-s1-5757916/supreme-court-considers-laws-allowing-mail-in-votes-to-be-counted-after-election-day",
-            "source": "NPR",
-            "publishedAt": "2026-03-23T20:03:38.000Z",
-            "description": "The Supreme Court heard arguments today in a case that tests whether states should be allowed to count ballots that are mailed on time but arrive after Election Day. The case could have broad implications.",
-            "imageUrl": null,
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cm297z7y9lro?at_medium=RSS&at_campaign=rss",
-            "title": "'Shocking but not unexpected': Jewish community reacts to ambulance attack",
-            "url": "https://www.bbc.com/news/articles/cm297z7y9lro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T18:56:52.000Z",
-            "description": "Ambulances belonging to a Jewish community charity in north-west London were set on fire on Monday.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5584/live/deb53370-26d6-11f1-a79a-77e93010d956.jpg",
-            "categories": []
-          },
-          {
             "id": "NPR:https://www.npr.org/2026/03/23/nx-s1-5757505/kennedy-center-trump-lawsuit",
             "title": "8 architecture and culture groups sue Trump and the Kennedy Center board",
             "url": "https://www.npr.org/2026/03/23/nx-s1-5757505/kennedy-center-trump-lawsuit",
@@ -3959,16 +4017,6 @@
             "publishedAt": "2026-03-23T18:01:44.000Z",
             "description": "The groups, which include the American Institute of Architects, are asking for compliance with historic preservation laws and to secure approval from Congress.",
             "imageUrl": null,
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cly73y5e788o?at_medium=RSS&at_campaign=rss",
-            "title": "Could Iranian missiles reach London and Paris?",
-            "url": "https://www.bbc.com/news/articles/cly73y5e788o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T16:45:52.000Z",
-            "description": "Some experts say Iran may be able to launch missiles to hit London, but they would likely be shot down long before arriving and the risk is low.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9684/live/3faa2530-26d9-11f1-97e8-e56f64304680.jpg",
             "categories": []
           },
           {
@@ -3989,6 +4037,16 @@
             "publishedAt": "2026-03-23T15:42:28.000Z",
             "description": "If you have been in an airport at any point over the past few weeks, you know that they are a disaster zone right now. Even more than they usually are. Over the weekend, the chaos descended to the point that some airports were reporting four or five-hour wait times at security. This is all ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267037464.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/rare-reason-keeps-illegal-alien-suspect-in-loyola-student-slaying-from-facing-court",
+            "title": "Rare Reason Keeps Illegal Alien Suspect In Loyola Student Slaying From Facing Court",
+            "url": "https://www.dailywire.com/news/rare-reason-keeps-illegal-alien-suspect-in-loyola-student-slaying-from-facing-court",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-23T15:41:21.000Z",
+            "description": "The first court appearance for the illegal immigrant accused of murdering Loyola University Chicago student Sheridan Gorman last Thursday was delayed after he was hospitalized with tuberculosis, according to the Chicago Tribune. Jose Medina-Medina, 25, allegedly approached the college freshman wearing a black mask around 1 a.m. and fired one round as she tried to ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-2026-03-23T151715.377.jpg",
             "categories": []
           },
           {
@@ -4027,6 +4085,16 @@
             "publishedAt": "2026-03-23T13:28:07.000Z",
             "description": "President Donald Trump on Monday slammed the Biden administration’s “open door” policies for the release of an illegal immigrant suspected of murdering 18-year-old college student Sheridan Gorman. Trump’s comments came after 25-year-old Jose Medina-Medina, an illegal immigrant from Venezuela, was charged in the killing of Gorman, a student at Loyola University Chicago. Authorities say Medina ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Loyola_Illegal_killing.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/live-updates-search-continues-for-nancy-guthrie-as-deadline-for-ransom-note-passes",
+            "title": "LIVE UPDATES: Savannah Guthrie’s Family Says Answers May Lie In Overlooked Timeline Details",
+            "url": "https://www.dailywire.com/news/live-updates-search-continues-for-nancy-guthrie-as-deadline-for-ransom-note-passes",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-23T12:00:15.000Z",
+            "description": "Listen to the latest episode of Finding Nancy Guthrie, a special Daily Wire true crime podcast with reporter Lynden Blake on the most shocking missing-person case in America.",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/02/16x9-update-nancy_720-1.jpg",
             "categories": []
           },
           {
@@ -4070,6 +4138,16 @@
             "categories": []
           },
           {
+            "id": "Daily Wire:https://www.dailywire.com/news/murder-suspect-in-loyola-university-slaying-is-venezuelan-illegal-released-by-biden",
+            "title": "Murder Suspect In Loyola University Slaying Is Venezuelan Illegal Released By Biden",
+            "url": "https://www.dailywire.com/news/murder-suspect-in-loyola-university-slaying-is-venezuelan-illegal-released-by-biden",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-22T15:20:31.000Z",
+            "description": "A Venezuelan illegal immigrant who was released into the country by the Biden administration has been identified as the suspect in the fatal Thursday shooting of Loyola University Chicago student Sheridan Gorman, the Department of Homeland Security (DHS) said Sunday. Jose Medina-Medina, 25, was arrested after he allegedly approached the college freshman, wearing black clothes ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-2026-03-22T145304.656.jpg",
+            "categories": []
+          },
+          {
             "id": "Daily Wire:https://www.dailywire.com/news/cuba-begins-recovery-efforts-after-second-grid-collapse-in-a-week",
             "title": "Cuba Begins Recovery Efforts After Second Grid Collapse In A Week",
             "url": "https://www.dailywire.com/news/cuba-begins-recovery-efforts-after-second-grid-collapse-in-a-week",
@@ -4084,6 +4162,93 @@
     }
   },
   "latestArticles": [
+    {
+      "id": "New York Times:https://www.nytimes.com/2026/03/24/arts/television/late-night-ice-airport.html",
+      "title": "Late Night Doesn’t Feel So Hot About ICE at the Airport",
+      "url": "https://www.nytimes.com/2026/03/24/arts/television/late-night-ice-airport.html",
+      "source": "New York Times",
+      "publishedAt": "2026-03-24T06:16:08.000Z",
+      "description": "Jimmy Kimmel said President Trump had “found a way to make the airport even worse.”",
+      "imageUrl": null,
+      "categories": [
+        "Television",
+        "Kimmel, Jimmy",
+        "Jimmy Kimmel Live (TV Program)",
+        "Fallon, Jimmy",
+        "The Tonight Show (TV Program)",
+        "Meyers, Seth",
+        "Late Night with Seth Meyers (TV Program)",
+        "Maher, Bill",
+        "Real Time With Bill Maher (TV Program)"
+      ]
+    },
+    {
+      "id": "BBC:https://www.bbc.com/news/articles/clyrj8rz6jno?at_medium=RSS&at_campaign=rss",
+      "title": "UK's transplant system was world-leading - now it lags behind other Western nations",
+      "url": "https://www.bbc.com/news/articles/clyrj8rz6jno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-03-24T06:00:07.000Z",
+      "description": "The UK has failed to keep pace with the rest of the world. Can it regain its status, and how?",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab9c/live/aa015340-26ac-11f1-934f-036468834728.png",
+      "categories": []
+    },
+    {
+      "id": "BBC:https://www.bbc.com/news/articles/cn53we5vll5o?at_medium=RSS&at_campaign=rss",
+      "title": "Cuba's mothers-to-be prepare to give birth in a country plunged into darkness",
+      "url": "https://www.bbc.com/news/articles/cn53we5vll5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-03-24T05:58:19.000Z",
+      "description": "Two pregnant women tell the BBC's Will Grant of their hopes and fears as their nation is mired in crisis.",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85de/live/705676c0-26ca-11f1-a4d4-99b68c75b55c.jpg",
+      "categories": []
+    },
+    {
+      "id": "NPR:https://www.npr.org/2026/03/24/g-s1-114924/at-least-66-killed-in-military-plane-crash-in-colombia-head-of-armed-forces-says",
+      "title": "At least 66 killed in military plane crash in Colombia, head of armed forces says",
+      "url": "https://www.npr.org/2026/03/24/g-s1-114924/at-least-66-killed-in-military-plane-crash-in-colombia-head-of-armed-forces-says",
+      "source": "NPR",
+      "publishedAt": "2026-03-24T05:58:04.000Z",
+      "description": "Colombian officials say that a military cargo plane with 128 people on board, most of them soldiers, crashed shortly after taking off Monday in southwestern Colombia.",
+      "imageUrl": null,
+      "categories": []
+    },
+    {
+      "id": "BBC:https://www.bbc.com/news/articles/cy71djvdl7no?at_medium=RSS&at_campaign=rss",
+      "title": "The Papers: 'Trump blinks first' and 'horrific' attack on Jewish charity ambulances",
+      "url": "https://www.bbc.com/news/articles/cy71djvdl7no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-03-24T05:48:59.000Z",
+      "description": "Donald Trump's claim of productive talks with Iran and the attack on a Jewish charity in London is the main focus for Tuesday's front pages.",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de84/live/10394060-2715-11f1-934f-036468834728.jpg",
+      "categories": []
+    },
+    {
+      "id": "NPR:https://www.npr.org/2026/03/24/g-s1-114920/uk-police-probe-possible-iran-link-after-jewish-charity-ambulances-set-on-fire",
+      "title": "UK police probe possible Iran link after Jewish charity ambulances set on fire",
+      "url": "https://www.npr.org/2026/03/24/g-s1-114920/uk-police-probe-possible-iran-link-after-jewish-charity-ambulances-set-on-fire",
+      "source": "NPR",
+      "publishedAt": "2026-03-24T05:43:51.000Z",
+      "description": "Police in London are investigating a suspected antisemitic hate crime attack after four vehicles belonging to a Jewish ambulance service were set on fire.",
+      "imageUrl": null,
+      "categories": []
+    },
+    {
+      "id": "New York Times:https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html",
+      "title": "Colombian Military Plane Crash Kills 66 and Injures Dozens",
+      "url": "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html",
+      "source": "New York Times",
+      "publishedAt": "2026-03-24T05:36:25.000Z",
+      "description": "A military aircraft transporting 128 people was involved in an accident as it took off from southern Colombia, according to the authorities.",
+      "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23int-colombia-crash-update-gtkw/23int-colombia-crash-update-gtkw-mediumSquareAt3X.jpg",
+      "categories": [
+        "Aviation Accidents, Safety and Disasters",
+        "Airlines and Airplanes",
+        "Military Aircraft",
+        "Defense and Military Forces",
+        "Petro, Gustavo",
+        "Colombia"
+      ]
+    },
     {
       "id": "New York Times:https://www.nytimes.com/2026/03/24/opinion/trump-iran-world-america-first.html",
       "title": "The United States Is No Longer the Leader of the Free World",
@@ -4167,121 +4332,6 @@
         "Florida",
         "Palm Beach County (Fla)",
         "Mississippi"
-      ]
-    },
-    {
-      "id": "New York Times:https://www.nytimes.com/2026/03/24/world/europe/ukraine-middle-east-oil-and-gas-drones.html",
-      "title": "Ukraine Spent Big to Shield Energy Industry From Drones. Is the Mideast Next?",
-      "url": "https://www.nytimes.com/2026/03/24/world/europe/ukraine-middle-east-oil-and-gas-drones.html",
-      "source": "New York Times",
-      "publishedAt": "2026-03-24T04:01:05.000Z",
-      "description": "With the use of electronic jamming systems and interceptor drones, the Ukrainian national oil and gas company may be a model for others.",
-      "imageUrl": "https://static01.nyt.com/images/2026/03/24/multimedia/24int-ukraine-drones-01-tqlf/24int-ukraine-drones-01-tqlf-mediumSquareAt3X.jpg",
-      "categories": [
-        "Russian Invasion of Ukraine (2022)",
-        "US and Israeli Attack on Iran (2026)",
-        "Drones (Pilotless Planes)",
-        "War and Armed Conflicts",
-        "Oil (Petroleum) and Gasoline",
-        "Natural Gas",
-        "Energy and Power",
-        "Naftogaz of Ukraine",
-        "Persian Gulf",
-        "Middle East",
-        "Ukraine"
-      ]
-    },
-    {
-      "id": "NPR:https://www.npr.org/2026/03/24/nx-s1-5757550/abortion-telemedicine-travel-mifepristone-misoprostol",
-      "title": "Despite state bans and restrictions, the number of abortions in the U.S. holds steady",
-      "url": "https://www.npr.org/2026/03/24/nx-s1-5757550/abortion-telemedicine-travel-mifepristone-misoprostol",
-      "source": "NPR",
-      "publishedAt": "2026-03-24T04:01:00.000Z",
-      "description": "The Guttmacher Institute has a new analysis on how many abortions happened in 2025.",
-      "imageUrl": null,
-      "categories": []
-    },
-    {
-      "id": "New York Times:https://www.nytimes.com/2026/03/24/world/europe/trump-starmer-snl.html",
-      "title": "Trump Sours on British Leader Over Iran War: ‘What If Donald Shouts at Me?’",
-      "url": "https://www.nytimes.com/2026/03/24/world/europe/trump-starmer-snl.html",
-      "source": "New York Times",
-      "publishedAt": "2026-03-24T04:00:22.000Z",
-      "description": "President Trump once called Prime Minister Keir Starmer a friend. But Mr. Starmer’s decision not to join the attacks on Iran has led to merciless mocking by the president.",
-      "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23int-uk-starmer-trump-bvtg/23int-uk-starmer-trump-bvtg-mediumSquareAt3X.jpg",
-      "categories": [
-        "US and Israeli Attack on Iran (2026)",
-        "United States International Relations",
-        "International Relations",
-        "Progressive Policy Institute",
-        "Starmer, Keir",
-        "Trump, Donald J",
-        "Europe",
-        "Great Britain",
-        "United States"
-      ]
-    },
-    {
-      "id": "New York Times:https://www.nytimes.com/2026/03/24/health/mdma-therapy-ptsd-psychedelic-australia.html",
-      "title": "MDMA Therapy in Australia Shows Results for PTSD Patients, but the Cost Is Limiting Access",
-      "url": "https://www.nytimes.com/2026/03/24/health/mdma-therapy-ptsd-psychedelic-australia.html",
-      "source": "New York Times",
-      "publishedAt": "2026-03-24T04:00:12.000Z",
-      "description": "The country’s experiment with psychedelic medicine has led to positive outcomes, psychiatrists say, but also highlights the limitations of the nascent field.",
-      "imageUrl": "https://static01.nyt.com/images/2026/03/24/multimedia/00hs-mdma-oz-01-tklj/00hs-mdma-oz-01-tklj-mediumSquareAt3X.jpg",
-      "categories": [
-        "Psychedelic and Hallucinogenic Drugs",
-        "Australia",
-        "Psychiatry and Psychiatrists",
-        "Mental Health and Disorders",
-        "Therapy and Rehabilitation",
-        "Post-Traumatic Stress Disorder",
-        "Regulation and Deregulation of Industry",
-        "Psilocybin Mushrooms"
-      ]
-    },
-    {
-      "id": "New York Times:https://www.nytimes.com/2026/03/24/world/asia/pakistan-media-news-misinformation.html",
-      "title": "Pakistan Dials Up Its Information War",
-      "url": "https://www.nytimes.com/2026/03/24/world/asia/pakistan-media-news-misinformation.html",
-      "source": "New York Times",
-      "publishedAt": "2026-03-24T04:00:11.000Z",
-      "description": "New, friendly media operations and expanded state-run television are pushing Pakistan’s message while independent news outlets face repression.",
-      "imageUrl": "https://static01.nyt.com/images/2026/02/24/multimedia/00int-pakistan-media01-photo-fkjg/00int-pakistan-media01-photo-fkjg-mediumSquareAt3X.jpg",
-      "categories": [
-        "Pakistan",
-        "News and News Media",
-        "Freedom of the Press",
-        "Politics and Government",
-        "Television",
-        "Dawn (Pakistani Newspaper)"
-      ]
-    },
-    {
-      "id": "BBC:https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss",
-      "title": "More Australian beef headed for Europe under new EU trade deal",
-      "url": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-03-24T03:46:25.000Z",
-      "description": "Australian producers have also won the right to sell Italian-style sparkling wine as prosecco.",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d82/live/42f9f990-2733-11f1-af86-772f4b04c31a.jpg",
-      "categories": []
-    },
-    {
-      "id": "New York Times:https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html",
-      "title": "Colombian Military Plane Crash Kills 66 and Injures Dozens",
-      "url": "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html",
-      "source": "New York Times",
-      "publishedAt": "2026-03-24T03:37:39.000Z",
-      "description": "A military aircraft transporting 128 people was involved in an accident as it took off from southern Colombia, according to the authorities.",
-      "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/23int-colombia-crash-update-gtkw/23int-colombia-crash-update-gtkw-mediumSquareAt3X.jpg",
-      "categories": [
-        "Aviation Accidents, Safety and Disasters",
-        "Airlines and Airplanes",
-        "Military Aircraft",
-        "Defense and Military Forces",
-        "Petro, Gustavo",
-        "Colombia"
       ]
     }
   ]
