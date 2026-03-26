@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T04:48:10.650Z",
+  "generatedAt": "2026-03-26T05:34:02.131Z",
   "stats": {
     "articleCount": 151,
     "sourceCount": 5,
@@ -10,6 +10,26 @@
       "articleCount": 47,
       "sourceCount": 4,
       "articles": [
+        {
+          "id": "New York Times:https://www.nytimes.com/2026/03/26/opinion/congo-lumumba-cia-assassination.html",
+          "title": "It Was One of the Cold War’s Greatest Crimes. No One Has Paid a Price.",
+          "url": "https://www.nytimes.com/2026/03/26/opinion/congo-lumumba-cia-assassination.html",
+          "source": "New York Times",
+          "publishedAt": "2026-03-26T05:00:06.000Z",
+          "description": "No one apart from the Congolese people has ever paid a price for the CIA-backed assassination of Patrice Lumumba.",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/26/opinion/26reid-lumumba/26reid-lumumba-mediumSquareAt3X-v2.jpg",
+          "categories": [
+            "Lumumba, Patrice",
+            "Central Intelligence Agency",
+            "Murders, Attempted Murders and Homicides",
+            "Mobutu Sese Seko",
+            "Eisenhower, Dwight David",
+            "Cold War Era",
+            "Belgium",
+            "Leopold II",
+            "Congo, Democratic Republic of (Congo-Kinshasa)"
+          ]
+        },
         {
           "id": "New York Times:https://www.nytimes.com/2026/03/26/world/europe/iran-trump-hormuz-europe-dilemma.html",
           "title": "Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran",
@@ -320,6 +340,23 @@
           ]
         },
         {
+          "id": "New York Times:https://www.nytimes.com/2026/03/25/us/politics/homeland-security-shutdown-republicans-congress.html",
+          "title": "Homeland Security Talks Hit Snag as Democrats Demand ICE Restrictions",
+          "url": "https://www.nytimes.com/2026/03/25/us/politics/homeland-security-shutdown-republicans-congress.html",
+          "source": "New York Times",
+          "publishedAt": "2026-03-25T23:25:28.000Z",
+          "description": "A day after Republicans offered to remove money for ICE enforcement from a Department of Homeland Security funding bill, Democrats insisted that the deal must include curbs on federal agents.",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/25/multimedia/25dc-cong-dhs-topart-gbqm/25dc-cong-dhs-topart-gbqm-mediumSquareAt3X.jpg",
+          "categories": [
+            "Homeland Security Department",
+            "Immigration and Customs Enforcement (US)",
+            "United States Politics and Government",
+            "Schumer, Charles E",
+            "Trump, Donald J",
+            "Federal Budget (US)"
+          ]
+        },
+        {
           "id": "Fox News:https://www.foxnews.com/politics/california-dems-unleashed-pressure-campaign-against-usc-prior-debate-cancellation",
           "title": "California Dems unleashed pressure campaign against USC prior to debate cancellation",
           "url": "https://www.foxnews.com/politics/california-dems-unleashed-pressure-campaign-against-usc-prior-debate-cancellation",
@@ -377,16 +414,6 @@
           "publishedAt": "2026-03-25T21:37:34.000Z",
           "description": "There is indirect contact and channels between the two sides - but a deal may still be a long way off.",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8be3/live/e994c790-2881-11f1-a79a-77e93010d956.jpg",
-          "categories": []
-        },
-        {
-          "id": "New York Times:https://www.nytimes.com/2026/03/25/briefing/social-media-trial-iran-us-peace-talks.html",
-          "title": "Social Media Giants Found Negligent in Landmark Trial",
-          "url": "https://www.nytimes.com/2026/03/25/briefing/social-media-trial-iran-us-peace-talks.html",
-          "source": "New York Times",
-          "publishedAt": "2026-03-25T21:29:18.000Z",
-          "description": "Also, Iran signals an openness to negotiations. Here’s the latest at the end of Wednesday.",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/25evening-nl-social-media/26int-theworld-social-media-mediumSquareAt3X.jpg",
           "categories": []
         },
         {
@@ -603,26 +630,6 @@
           "categories": []
         },
         {
-          "id": "New York Times:https://www.nytimes.com/2026/03/25/opinion/russia-putin-iran-war.html",
-          "title": "For Putin, the War in Iran Changed Everything",
-          "url": "https://www.nytimes.com/2026/03/25/opinion/russia-putin-iran-war.html",
-          "source": "New York Times",
-          "publishedAt": "2026-03-25T06:03:52.000Z",
-          "description": "In one swoop, it overturned the conditions for conciliation.",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/25/multimedia/25zygar-lzkp/25zygar-lzkp-mediumSquareAt3X.jpg",
-          "categories": [
-            "Russia",
-            "Putin, Vladimir V",
-            "Trump, Donald J",
-            "United States",
-            "Iran",
-            "War and Armed Conflicts",
-            "Dmitriev, Kirill A (1975- )",
-            "North Atlantic Treaty Organization",
-            "Strait of Hormuz"
-          ]
-        },
-        {
           "id": "Daily Wire:https://www.dailywire.com/news/most-americans-want-trump-admin-to-reverse-course-on-abortion-pill",
           "title": "Push Builds To Reverse Biden-Era Abortion Pill Rule",
           "url": "https://www.dailywire.com/news/most-americans-want-trump-admin-to-reverse-course-on-abortion-pill",
@@ -684,7 +691,7 @@
         }
       ],
       "subtopics": {
-        "US-Iran Conflict and Diplomatic Developments": [
+        "US-Iran Conflict and Peace Talks": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/26/world/europe/iran-trump-hormuz-europe-dilemma.html",
             "title": "Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran",
@@ -737,6 +744,26 @@
             "categories": []
           },
           {
+            "id": "Fox News:https://www.foxnews.com/politics/us-moves-airborne-troops-marines-iran-rejects-ceasefire-raising-potential-boots-ground",
+            "title": "US moves airborne troops, Marines as Iran rejects ceasefire, raising ground war potential",
+            "url": "https://www.foxnews.com/politics/us-moves-airborne-troops-marines-iran-rejects-ceasefire-raising-potential-boots-ground",
+            "source": "Fox News",
+            "publishedAt": "2026-03-26T00:31:37.000Z",
+            "description": "The U.S. deployed the 82nd Airborne and thousands of Marines and sailors to the Middle East, and experts say limited Iran operations could target the Strait of Hormuz.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/82nd-airborne-2.jpg?ve=1&tl=1",
+            "categories": [
+              "9e83a8c8-5430-50c3-a40e-636b2fc29072",
+              "fnc",
+              "Fox News",
+              "fox-news/politics/defense/wars/war-with-iran",
+              "fox-news/politics/defense/conflicts",
+              "fox-news/politics/foreign-policy/middle-east",
+              "fox-news/us/military",
+              "fox-news/politics",
+              "article"
+            ]
+          },
+          {
             "id": "BBC:https://www.bbc.com/news/articles/cm29l9r68j8o?at_medium=RSS&at_campaign=rss",
             "title": "Who wants what and why from US-Iran peace talks?",
             "url": "https://www.bbc.com/news/articles/cm29l9r68j8o?at_medium=RSS&at_campaign=rss",
@@ -744,16 +771,6 @@
             "publishedAt": "2026-03-25T21:37:34.000Z",
             "description": "There is indirect contact and channels between the two sides - but a deal may still be a long way off.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8be3/live/e994c790-2881-11f1-a79a-77e93010d956.jpg",
-            "categories": []
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/25/briefing/social-media-trial-iran-us-peace-talks.html",
-            "title": "Social Media Giants Found Negligent in Landmark Trial",
-            "url": "https://www.nytimes.com/2026/03/25/briefing/social-media-trial-iran-us-peace-talks.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-25T21:29:18.000Z",
-            "description": "Also, Iran signals an openness to negotiations. Here’s the latest at the end of Wednesday.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/25evening-nl-social-media/26int-theworld-social-media-mediumSquareAt3X.jpg",
             "categories": []
           },
           {
@@ -787,57 +804,6 @@
             "categories": []
           },
           {
-            "id": "Fox News:https://www.foxnews.com/politics/us-moves-airborne-troops-marines-iran-rejects-ceasefire-raising-potential-boots-ground",
-            "title": "US moves airborne troops, Marines as Iran rejects ceasefire, raising ground war potential",
-            "url": "https://www.foxnews.com/politics/us-moves-airborne-troops-marines-iran-rejects-ceasefire-raising-potential-boots-ground",
-            "source": "Fox News",
-            "publishedAt": "2026-03-26T00:31:37.000Z",
-            "description": "The U.S. deployed the 82nd Airborne and thousands of Marines and sailors to the Middle East, and experts say limited Iran operations could target the Strait of Hormuz.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/82nd-airborne-2.jpg?ve=1&tl=1",
-            "categories": [
-              "9e83a8c8-5430-50c3-a40e-636b2fc29072",
-              "fnc",
-              "Fox News",
-              "fox-news/politics/defense/wars/war-with-iran",
-              "fox-news/politics/defense/conflicts",
-              "fox-news/politics/foreign-policy/middle-east",
-              "fox-news/us/military",
-              "fox-news/politics",
-              "article"
-            ]
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/politics/house-budget-chairman-reveals-how-republicans-will-pay-for-iran-campaign",
-            "title": "House Budget chairman reveals how Republicans will pay for the Iran campaign",
-            "url": "https://www.foxnews.com/politics/house-budget-chairman-reveals-how-republicans-will-pay-for-iran-campaign",
-            "source": "Fox News",
-            "publishedAt": "2026-03-26T00:20:06.000Z",
-            "description": "House Republicans will push a second budget reconciliation bill to fund Trump's Iran campaign and cut fraud in social services, House Budget Committee Chair Arrington said.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/house-budget.png?ve=1&tl=1",
-            "categories": [
-              "f3bc3e24-e69e-52ce-8921-0cd24b616f0f",
-              "fnc",
-              "Fox News",
-              "fox-news/budget",
-              "fox-news/person/lindsey-graham",
-              "fox-news/politics/house-of-representatives/republicans",
-              "fox-news/person/mike-johnson",
-              "fox-news/politics/defense/wars/war-with-iran",
-              "fox-news/politics",
-              "article"
-            ]
-          },
-          {
-            "id": "BBC:https://www.bbc.co.uk/sounds/play/p0n8cp8x?at_medium=RSS&at_campaign=rss",
-            "title": "Americanswers… on 5 Live! Trump claims Iran wants to \"make a deal\" to end the war",
-            "url": "https://www.bbc.co.uk/sounds/play/p0n8cp8x?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-23T21:49:00.000Z",
-            "description": "Iran denies talks with the US to stop the war as ‘fake news’",
-            "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg",
-            "categories": []
-          },
-          {
             "id": "New York Times:https://www.nytimes.com/2026/03/25/us/politics/trump-china-mideast.html",
             "title": "Trump Had His Eye on China, Then Plunged Into a New Mideast War",
             "url": "https://www.nytimes.com/2026/03/25/us/politics/trump-china-mideast.html",
@@ -859,26 +825,6 @@
             ]
           },
           {
-            "id": "New York Times:https://www.nytimes.com/2026/03/25/opinion/russia-putin-iran-war.html",
-            "title": "For Putin, the War in Iran Changed Everything",
-            "url": "https://www.nytimes.com/2026/03/25/opinion/russia-putin-iran-war.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-25T06:03:52.000Z",
-            "description": "In one swoop, it overturned the conditions for conciliation.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/25/multimedia/25zygar-lzkp/25zygar-lzkp-mediumSquareAt3X.jpg",
-            "categories": [
-              "Russia",
-              "Putin, Vladimir V",
-              "Trump, Donald J",
-              "United States",
-              "Iran",
-              "War and Armed Conflicts",
-              "Dmitriev, Kirill A (1975- )",
-              "North Atlantic Treaty Organization",
-              "Strait of Hormuz"
-            ]
-          },
-          {
             "id": "Daily Wire:https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule",
             "title": "LIVE UPDATES: White House Suggests End Of Iran War Is Near",
             "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule",
@@ -887,6 +833,120 @@
             "description": null,
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Iranblogadjusted.jpg",
             "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.co.uk/sounds/play/p0n8cp8x?at_medium=RSS&at_campaign=rss",
+            "title": "Americanswers… on 5 Live! Trump claims Iran wants to \"make a deal\" to end the war",
+            "url": "https://www.bbc.co.uk/sounds/play/p0n8cp8x?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-23T21:49:00.000Z",
+            "description": "Iran denies talks with the US to stop the war as ‘fake news’",
+            "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg",
+            "categories": []
+          }
+        ],
+        "ICE and Immigration Enforcement Tensions": [
+          {
+            "id": "Fox News:https://www.foxnews.com/politics/new-jersey-gov-sherrill-signs-law-barring-ice-agents-wearing-face-coverings-shield-identities",
+            "title": "New Jersey Gov Sherrill signs law barring ICE agents from wearing face coverings to shield identities",
+            "url": "https://www.foxnews.com/politics/new-jersey-gov-sherrill-signs-law-barring-ice-agents-wearing-face-coverings-shield-identities",
+            "source": "Fox News",
+            "publishedAt": "2026-03-26T03:50:22.000Z",
+            "description": "New Jersey Gov. Mikie Sherrill signed a law that limits face coverings for ICE agents and requires them to present identification before detaining someone.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/mikie-sherrill-ice-portal-launch-new-jersey.png?ve=1&tl=1",
+            "categories": [
+              "5da63ed6-3bba-5259-8ac4-41a7ae076a70",
+              "fnc",
+              "Fox News",
+              "fox-news/us/us-regions/northeast/new-jersey",
+              "fox-news/us",
+              "fox-news/politics",
+              "fox-news/us/immigration",
+              "fox-news/us/immigration/illegal-immigrants",
+              "fox-news/person/donald-trump",
+              "fox-news/person/mikie-sherrill",
+              "fox-news/politics",
+              "article"
+            ]
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/25/us/politics/homeland-security-shutdown-republicans-congress.html",
+            "title": "Homeland Security Talks Hit Snag as Democrats Demand ICE Restrictions",
+            "url": "https://www.nytimes.com/2026/03/25/us/politics/homeland-security-shutdown-republicans-congress.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-25T23:25:28.000Z",
+            "description": "A day after Republicans offered to remove money for ICE enforcement from a Department of Homeland Security funding bill, Democrats insisted that the deal must include curbs on federal agents.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/25/multimedia/25dc-cong-dhs-topart-gbqm/25dc-cong-dhs-topart-gbqm-mediumSquareAt3X.jpg",
+            "categories": [
+              "Homeland Security Department",
+              "Immigration and Customs Enforcement (US)",
+              "United States Politics and Government",
+              "Schumer, Charles E",
+              "Trump, Donald J",
+              "Federal Budget (US)"
+            ]
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/classy-chicago-names-its-new-snow-plow-of-course-its-political",
+            "title": "DEEP FREEZE: Dem-Run City Names Its New Snow Plow, Of Course It’s Political",
+            "url": "https://www.dailywire.com/news/classy-chicago-names-its-new-snow-plow-of-course-its-political",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-25T14:50:51.000Z",
+            "description": "Chicago officials have named one of the city’s newest snowplows “Abolish ICE,” a decision backed and celebrated by Democratic Mayor Brandon Johnson as part of a citywide naming contest. Johnson announced the winning entries Monday, crediting residents for their “unmatched creativity, sense of humor, and civic pride” after more than 39,000 votes were cast. But ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2025/12/GettyImages-2248502170.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/i-will-put-you-in-a-jail-cell-leftist-philly-da-threatens-ice-agents-helping-tsa",
+            "title": "‘I Will Put You In A Jail Cell’: Leftist Philly DA Threatens ICE Agents Helping TSA",
+            "url": "https://www.dailywire.com/news/i-will-put-you-in-a-jail-cell-leftist-philly-da-threatens-ice-agents-helping-tsa",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-25T13:23:40.000Z",
+            "description": "Leftist Philadelphia District Attorney Larry Krasner is threatening to arrest federal immigration agents helping at airports during the partial government shutdown. Krasner made the remarks during a Tuesday press conference at the Philadelphia International Airport, one of roughly a dozen airports where the Trump administration has deployed Immigration and Customs Enforcement (ICE) officers to offset ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Screenshot-2026-03-25-at-11.17.54-AM.png",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/mamdani-slams-ice-airport-deployment-while-promoting-hotline",
+            "title": "Mamdani Slams ICE Airport Deployment While Promoting ‘Hotline’",
+            "url": "https://www.dailywire.com/news/mamdani-slams-ice-airport-deployment-while-promoting-hotline",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-25T12:21:46.000Z",
+            "description": "New York City socialist Mayor Zohran Mamdani, whose hostility to Immigration and Customs Enforcement (ICE) has been well-documented, slammed the Trump administration’s decision to deploy ICE agents to some airports as staffing shortages resulting from a partial government shutdown continue. Mamdani, a vocal critic of Trump’s immigration enforcement efforts, took to social media on Tuesday, ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2025/11/Untitled-design-87.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/reality-vs-political-narrative-daily-wire-goes-to-the-front-lines-of-ice-at-airports",
+            "title": "Reality Vs. Political Narrative: Daily Wire Goes To The Front Lines Of ICE At Airports",
+            "url": "https://www.dailywire.com/news/reality-vs-political-narrative-daily-wire-goes-to-the-front-lines-of-ice-at-airports",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-25T11:39:31.000Z",
+            "description": "Despite warnings from Democratic lawmakers that deploying Immigration and Customs Enforcement (ICE) officers to airports could lead to violence, travelers waiting in hours-long lines at Houston’s George Bush Intercontinental Airport appeared to welcome their presence on Tuesday. At the airport, smiling ICE officers were seen handing out water bottles, offering to hold travelers’ places in ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-2026-03-24T201819.628.jpg",
+            "categories": []
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/us/illegal-immigrant-accused-fatal-hit-run-killed-north-carolina-motorcyclist",
+            "title": "Illegal immigrant accused of fatal hit and run that killed North Carolina motorcyclist",
+            "url": "https://www.foxnews.com/us/illegal-immigrant-accused-fatal-hit-run-killed-north-carolina-motorcyclist",
+            "source": "Fox News",
+            "publishedAt": "2026-03-25T23:30:33.000Z",
+            "description": "An illegal immigrant is accused in a fatal alleged hit-and-run that killed motorcyclist Christopher Babcock, 62, in North Carolina, and an ICE detainer was filed.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/ernesto-badcock-02.jpg?ve=1&tl=1",
+            "categories": [
+              "617094d5-1fb0-58ee-8315-b3fb7c9b521d",
+              "fnc",
+              "Fox News",
+              "fox-news/us/immigration/migrant-crime",
+              "fox-news/us/immigration/illegal-immigrants",
+              "fox-news/crime",
+              "fox-news/us/immigration",
+              "fox-news/us",
+              "fox-news/us/us-regions/southeast/north-carolina",
+              "fox-news/us",
+              "article"
+            ]
           }
         ],
         "Trump Administration Legal and Political Moves": [
@@ -976,71 +1036,93 @@
               "Schumer, Charles E",
               "Thune, John R"
             ]
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/a-special-election-in-trumps-backyard-shows-whats-at-stake-for-republicans",
+            "title": "A Special Election In Trump’s Backyard Shows What’s At Stake For Republicans",
+            "url": "https://www.dailywire.com/news/a-special-election-in-trumps-backyard-shows-whats-at-stake-for-republicans",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-25T07:58:06.000Z",
+            "description": "A Democrat flipped a solidly red Florida state House seat Tuesday in a special election held in President Donald Trump’s home district. Democrat candidate Emily Gregory defeated Republican Jon Maples in a district that includes Mar-a-Lago, winning 51.19% of the vote to Maples’ 48.81%. County data showed Gregory had a significant lead through mail-in voting, ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2258839411.jpg",
+            "categories": []
           }
         ],
-        "Controversies Surrounding Immigration and ICE Enforcement": [
+        "US Domestic Political Developments and Controversies": [
           {
-            "id": "Fox News:https://www.foxnews.com/politics/new-jersey-gov-sherrill-signs-law-barring-ice-agents-wearing-face-coverings-shield-identities",
-            "title": "New Jersey Gov Sherrill signs law barring ICE agents from wearing face coverings to shield identities",
-            "url": "https://www.foxnews.com/politics/new-jersey-gov-sherrill-signs-law-barring-ice-agents-wearing-face-coverings-shield-identities",
-            "source": "Fox News",
-            "publishedAt": "2026-03-26T03:50:22.000Z",
-            "description": "New Jersey Gov. Mikie Sherrill signed a law that limits face coverings for ICE agents and requires them to present identification before detaining someone.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/mikie-sherrill-ice-portal-launch-new-jersey.png?ve=1&tl=1",
+            "id": "New York Times:https://www.nytimes.com/2026/03/25/us/politics/talarico-response-love-pastor-hegseth-crucified-christ.html",
+            "title": "James Talarico Responds With ‘Love’ To Hegseth Pastor’s Criticism",
+            "url": "https://www.nytimes.com/2026/03/25/us/politics/talarico-response-love-pastor-hegseth-crucified-christ.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-25T22:08:14.000Z",
+            "description": "James Talarico, the Democratic nominee for Senate in Texas, said, “You may pray for my death, Pastor, but I still love you.” The pastor said he was calling for Mr. Talarico’s religious conversion.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/25/multimedia/pol-talarico-zjqb/pol-talarico-zjqb-mediumSquareAt3X.jpg",
             "categories": [
-              "5da63ed6-3bba-5259-8ac4-41a7ae076a70",
-              "fnc",
-              "Fox News",
-              "fox-news/us/us-regions/northeast/new-jersey",
-              "fox-news/us",
-              "fox-news/politics",
-              "fox-news/us/immigration",
-              "fox-news/us/immigration/illegal-immigrants",
-              "fox-news/person/donald-trump",
-              "fox-news/person/mikie-sherrill",
-              "fox-news/politics",
-              "article"
+              "Midterm Elections (2026)",
+              "Democratic Party",
+              "Hegseth, Pete",
+              "Talarico, James",
+              "Texas",
+              "Tennessee"
             ]
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/mamdani-slams-ice-airport-deployment-while-promoting-hotline",
-            "title": "Mamdani Slams ICE Airport Deployment While Promoting ‘Hotline’",
-            "url": "https://www.dailywire.com/news/mamdani-slams-ice-airport-deployment-while-promoting-hotline",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-25T12:21:46.000Z",
-            "description": "New York City socialist Mayor Zohran Mamdani, whose hostility to Immigration and Customs Enforcement (ICE) has been well-documented, slammed the Trump administration’s decision to deploy ICE agents to some airports as staffing shortages resulting from a partial government shutdown continue. Mamdani, a vocal critic of Trump’s immigration enforcement efforts, took to social media on Tuesday, ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2025/11/Untitled-design-87.jpg",
+            "id": "BBC:https://www.bbc.com/news/articles/c4gjlj057xyo?at_medium=RSS&at_campaign=rss",
+            "title": "Ministers hope red tape cuts will speed-up decision making",
+            "url": "https://www.bbc.com/news/articles/c4gjlj057xyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-26T03:41:42.000Z",
+            "description": "The Conservatives said the changes were being made by a government \"stuck in consultation paralysis\".",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0e9/live/bcd4a260-05b4-11f1-9972-d3f265c101c6.jpg",
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/reality-vs-political-narrative-daily-wire-goes-to-the-front-lines-of-ice-at-airports",
-            "title": "Reality Vs. Political Narrative: Daily Wire Goes To The Front Lines Of ICE At Airports",
-            "url": "https://www.dailywire.com/news/reality-vs-political-narrative-daily-wire-goes-to-the-front-lines-of-ice-at-airports",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-25T11:39:31.000Z",
-            "description": "Despite warnings from Democratic lawmakers that deploying Immigration and Customs Enforcement (ICE) officers to airports could lead to violence, travelers waiting in hours-long lines at Houston’s George Bush Intercontinental Airport appeared to welcome their presence on Tuesday. At the airport, smiling ICE officers were seen handing out water bottles, offering to hold travelers’ places in ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-2026-03-24T201819.628.jpg",
+            "id": "BBC:https://www.bbc.com/news/articles/c0q90kekw08o?at_medium=RSS&at_campaign=rss",
+            "title": "Chris Mason: How will the UK respond to US court verdict on social media?",
+            "url": "https://www.bbc.com/news/articles/c0q90kekw08o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-26T03:40:16.000Z",
+            "description": "Will the decision of a Los Angeles jury have an impact on the UK government as it considers potential future regulations on social media, writes the BBC's political editor.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e81/live/de91aa80-28c6-11f1-90f6-530f10a736fc.jpg",
             "categories": []
           },
           {
-            "id": "Fox News:https://www.foxnews.com/us/illegal-immigrant-accused-fatal-hit-run-killed-north-carolina-motorcyclist",
-            "title": "Illegal immigrant accused of fatal hit and run that killed North Carolina motorcyclist",
-            "url": "https://www.foxnews.com/us/illegal-immigrant-accused-fatal-hit-run-killed-north-carolina-motorcyclist",
-            "source": "Fox News",
-            "publishedAt": "2026-03-25T23:30:33.000Z",
-            "description": "An illegal immigrant is accused in a fatal alleged hit-and-run that killed motorcyclist Christopher Babcock, 62, in North Carolina, and an ICE detainer was filed.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/ernesto-badcock-02.jpg?ve=1&tl=1",
+            "id": "New York Times:https://www.nytimes.com/2026/03/25/us/politics/florida-democrat-races.html",
+            "title": "What to Know About Democrat Emily Gregory’s Win in Florida",
+            "url": "https://www.nytimes.com/2026/03/25/us/politics/florida-democrat-races.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-25T21:08:34.000Z",
+            "description": "A mother of three won a statehouse seat that includes Mar-a-Lago, while a union electrician leads in a State Senate race in conservative West Tampa.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/25/us/25nat-wwk-florida-1/25nat-wwk-florida-1-mediumSquareAt3X.jpg",
             "categories": [
-              "617094d5-1fb0-58ee-8315-b3fb7c9b521d",
+              "United States Politics and Government",
+              "State Legislatures",
+              "Midterm Elections (2026)",
+              "Elections, State Legislature",
+              "Mar-a-Lago (Palm Beach, Fla)",
+              "Gregory, Emily (1985- )",
+              "Trump, Donald J",
+              "Florida"
+            ]
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/politics/house-budget-chairman-reveals-how-republicans-will-pay-for-iran-campaign",
+            "title": "House Budget chairman reveals how Republicans will pay for the Iran campaign",
+            "url": "https://www.foxnews.com/politics/house-budget-chairman-reveals-how-republicans-will-pay-for-iran-campaign",
+            "source": "Fox News",
+            "publishedAt": "2026-03-26T00:20:06.000Z",
+            "description": "House Republicans will push a second budget reconciliation bill to fund Trump's Iran campaign and cut fraud in social services, House Budget Committee Chair Arrington said.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/house-budget.png?ve=1&tl=1",
+            "categories": [
+              "f3bc3e24-e69e-52ce-8921-0cd24b616f0f",
               "fnc",
               "Fox News",
-              "fox-news/us/immigration/migrant-crime",
-              "fox-news/us/immigration/illegal-immigrants",
-              "fox-news/crime",
-              "fox-news/us/immigration",
-              "fox-news/us",
-              "fox-news/us/us-regions/southeast/north-carolina",
-              "fox-news/us",
+              "fox-news/budget",
+              "fox-news/person/lindsey-graham",
+              "fox-news/politics/house-of-representatives/republicans",
+              "fox-news/person/mike-johnson",
+              "fox-news/politics/defense/wars/war-with-iran",
+              "fox-news/politics",
               "article"
             ]
           },
@@ -1064,36 +1146,25 @@
               "fox-news/us",
               "article"
             ]
-          }
-        ],
-        "Election and Political Campaigns Including Local Races and GOP Challenges": [
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/25/us/politics/florida-democrat-races.html",
-            "title": "What to Know About Democrat Emily Gregory’s Win in Florida",
-            "url": "https://www.nytimes.com/2026/03/25/us/politics/florida-democrat-races.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-25T21:08:34.000Z",
-            "description": "A mother of three won a statehouse seat that includes Mar-a-Lago, while a union electrician leads in a State Senate race in conservative West Tampa.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/25/us/25nat-wwk-florida-1/25nat-wwk-florida-1-mediumSquareAt3X.jpg",
-            "categories": [
-              "United States Politics and Government",
-              "State Legislatures",
-              "Midterm Elections (2026)",
-              "Elections, State Legislature",
-              "Mar-a-Lago (Palm Beach, Fla)",
-              "Gregory, Emily (1985- )",
-              "Trump, Donald J",
-              "Florida"
-            ]
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/a-special-election-in-trumps-backyard-shows-whats-at-stake-for-republicans",
-            "title": "A Special Election In Trump’s Backyard Shows What’s At Stake For Republicans",
-            "url": "https://www.dailywire.com/news/a-special-election-in-trumps-backyard-shows-whats-at-stake-for-republicans",
+            "id": "Daily Wire:https://www.dailywire.com/news/peak-california-usc-backs-out-of-gov-debate-over-lack-of-diversity",
+            "title": "Peak California: USC Backs Out Of Gov Debate Over Lack Of Diversity",
+            "url": "https://www.dailywire.com/news/peak-california-usc-backs-out-of-gov-debate-over-lack-of-diversity",
             "source": "Daily Wire",
-            "publishedAt": "2026-03-25T07:58:06.000Z",
-            "description": "A Democrat flipped a solidly red Florida state House seat Tuesday in a special election held in President Donald Trump’s home district. Democrat candidate Emily Gregory defeated Republican Jon Maples in a district that includes Mar-a-Lago, winning 51.19% of the vote to Maples’ 48.81%. County data showed Gregory had a significant lead through mail-in voting, ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2258839411.jpg",
+            "publishedAt": "2026-03-24T18:36:41.000Z",
+            "description": "The University of Southern California canceled a high-profile gubernatorial primary debate just hours before it was set to take place following backlash over the event’s lack of racial diversity among invited candidates. The debate, scheduled for Tuesday and hosted by USC’s Dornsife Center for the Political Future, was scrapped after criticism that the selection criteria ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2021/11/5A587002-EC6A-4D7F-9D5C-AFB6D0727C6E-scaled-e1636591985799.jpeg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/why-i-testified-against-a-bill-that-would-let-the-state-take-gender-confused-kids-from-parents",
+            "title": "Why I Testified For A Bill That Would Stop The State From Taking Gender-Confused Kids From Parents",
+            "url": "https://www.dailywire.com/news/why-i-testified-against-a-bill-that-would-let-the-state-take-gender-confused-kids-from-parents",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-25T10:28:01.000Z",
+            "description": "COLUMBUS, OHIO—I just finished testifying for a bill that would make it illegal for the state government to rip children away from loving parents who refuse to “affirm” that child’s so-called “transgender identity.” It’s not every day an investigative journalist weighs in on legislation like this. But this is different. More than two years ago, ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-1677865247-scaled.jpg",
             "categories": []
           },
           {
@@ -1107,6 +1178,86 @@
             "categories": []
           },
           {
+            "id": "Daily Wire:https://www.dailywire.com/news/michigan-voters-dont-let-radicals-fool-you-into-thinking-theyre-normal",
+            "title": "Michigan Voters, Don’t Let Radicals Fool You Into Thinking They’re Normal",
+            "url": "https://www.dailywire.com/news/michigan-voters-dont-let-radicals-fool-you-into-thinking-theyre-normal",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-24T16:31:30.000Z",
+            "description": "This piece is part of MI x DW, a collaboration that brings Daily Wire readers exclusive commentary and research from the Manhattan Institute’s world-class team of scholars. In this piece, Manhattan Institute Vice President of External Affairs Jesse Arm warns Michigan voters not to trust a rising generation of radical lawmakers masquerading as traditional Democrats — ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267040773.jpg",
+            "categories": []
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/25/health/cdc-director-nomination-delay.html",
+            "title": "Trump to Delay Nominating New C.D.C. Director",
+            "url": "https://www.nytimes.com/2026/03/25/health/cdc-director-nomination-delay.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-25T23:54:43.000Z",
+            "description": "The administration has yet to find a candidate who aligns with Health Secretary Robert F. Kennedy Jr.’s agenda while avoiding his unpopular stance on vaccines.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/25/multimedia/HS25-cdc-cwjk/HS25-cdc-cwjk-mediumSquareAt3X.jpg",
+            "categories": [
+              "your-feed-science",
+              "Appointments and Executive Changes",
+              "United States Politics and Government",
+              "Vaccination and Immunization",
+              "Centers for Disease Control and Prevention",
+              "Health and Human Services Department",
+              "Bhattacharya, Jay",
+              "Kennedy, Robert F Jr"
+            ]
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/media/jimmy-kimmels-dig-plumber-dhs-secretary-markwayne-mullin-ripped-elite-online-critics",
+            "title": "Jimmy Kimmel's dig at 'plumber' DHS Secretary Markwayne Mullin ripped as 'elite' by online critics",
+            "url": "https://www.foxnews.com/media/jimmy-kimmels-dig-plumber-dhs-secretary-markwayne-mullin-ripped-elite-online-critics",
+            "source": "Fox News",
+            "publishedAt": "2026-03-26T00:27:18.000Z",
+            "description": "ABC late-night host Jimmy Kimmel faced backlash after mocking newly confirmed DHS Secretary Markwayne Mullin as an unqualified plumber during his monologue.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/jimmy-kimmel-markwayne-mullin.jpg?ve=1&tl=1",
+            "categories": [
+              "37f535bc-eb88-5ccf-85dc-95d4cc797792",
+              "fnc",
+              "Fox News",
+              "fox-news/media",
+              "fox-news/person/jimmy-kimmel",
+              "fox-news/politics/executive/homeland-security",
+              "fox-news/media",
+              "article"
+            ]
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/thanks-democrats-unsafe-airports-unsafe-streets",
+            "title": "Thanks, Democrats! Unsafe Airports, Unsafe Streets",
+            "url": "https://www.dailywire.com/news/thanks-democrats-unsafe-airports-unsafe-streets",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-24T17:07:44.000Z",
+            "description": "It’s time to ask some serious questions. When you get to the airport next week, a record 171 million of us will get on a plane this spring. Will you be safe? When you look at the southern border or when you read about Sheridan Gorman, 18 years old, shot in the head while going ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267621238.jpg",
+            "categories": []
+          }
+        ],
+        "International and Historical Politics": [
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/26/opinion/congo-lumumba-cia-assassination.html",
+            "title": "It Was One of the Cold War’s Greatest Crimes. No One Has Paid a Price.",
+            "url": "https://www.nytimes.com/2026/03/26/opinion/congo-lumumba-cia-assassination.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-26T05:00:06.000Z",
+            "description": "No one apart from the Congolese people has ever paid a price for the CIA-backed assassination of Patrice Lumumba.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/26/opinion/26reid-lumumba/26reid-lumumba-mediumSquareAt3X-v2.jpg",
+            "categories": [
+              "Lumumba, Patrice",
+              "Central Intelligence Agency",
+              "Murders, Attempted Murders and Homicides",
+              "Mobutu Sese Seko",
+              "Eisenhower, Dwight David",
+              "Cold War Era",
+              "Belgium",
+              "Leopold II",
+              "Congo, Democratic Republic of (Congo-Kinshasa)"
+            ]
+          },
+          {
             "id": "BBC:https://www.bbc.com/news/articles/cx2j4q60wlgo?at_medium=RSS&at_campaign=rss",
             "title": "A right-wing populist party made big poll gains - and it's shaking up Australian politics",
             "url": "https://www.bbc.com/news/articles/cx2j4q60wlgo?at_medium=RSS&at_campaign=rss",
@@ -1117,68 +1268,13 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/peak-california-usc-backs-out-of-gov-debate-over-lack-of-diversity",
-            "title": "Peak California: USC Backs Out Of Gov Debate Over Lack Of Diversity",
-            "url": "https://www.dailywire.com/news/peak-california-usc-backs-out-of-gov-debate-over-lack-of-diversity",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-24T18:36:41.000Z",
-            "description": "The University of Southern California canceled a high-profile gubernatorial primary debate just hours before it was set to take place following backlash over the event’s lack of racial diversity among invited candidates. The debate, scheduled for Tuesday and hosted by USC’s Dornsife Center for the Political Future, was scrapped after criticism that the selection criteria ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2021/11/5A587002-EC6A-4D7F-9D5C-AFB6D0727C6E-scaled-e1636591985799.jpeg",
-            "categories": []
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/politics/california-dems-unleashed-pressure-campaign-against-usc-prior-debate-cancellation",
-            "title": "California Dems unleashed pressure campaign against USC prior to debate cancellation",
-            "url": "https://www.foxnews.com/politics/california-dems-unleashed-pressure-campaign-against-usc-prior-debate-cancellation",
-            "source": "Fox News",
-            "publishedAt": "2026-03-25T23:02:45.000Z",
-            "description": "Top California Democrats pressed USC after its debate criteria produced an all-White lineup and left minority Democrats offstage, helping trigger the debate's cancellation, a GOP candidate claims.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/california-democratic-primary.jpg?ve=1&tl=1",
-            "categories": [
-              "7b0222d9-df4e-5076-8228-d9bbc7145c77",
-              "fnc",
-              "Fox News",
-              "fox-news/us/us-regions/west/california",
-              "fox-news/politics/state-and-local/governors",
-              "fox-news/controversies",
-              "fox-news/politics/state-and-local",
-              "fox-news/us/democratic-party",
-              "fox-news/politics/elections/campaigning",
-              "fox-news/politics/elections",
-              "fox-news/politics",
-              "article"
-            ]
-          }
-        ],
-        "US Domestic Policy and Social Issues Debates": [
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/c4gjlj057xyo?at_medium=RSS&at_campaign=rss",
-            "title": "Ministers hope red tape cuts will speed-up decision making",
-            "url": "https://www.bbc.com/news/articles/c4gjlj057xyo?at_medium=RSS&at_campaign=rss",
+            "id": "BBC:https://www.bbc.com/news/videos/ce3dlpd54evo?at_medium=RSS&at_campaign=rss",
+            "title": "Watch: History made as Dame Sarah Mullally becomes Archbishop of Canterbury",
+            "url": "https://www.bbc.com/news/videos/ce3dlpd54evo?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
-            "publishedAt": "2026-03-26T03:41:42.000Z",
-            "description": "The Conservatives said the changes were being made by a government \"stuck in consultation paralysis\".",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0e9/live/bcd4a260-05b4-11f1-9972-d3f265c101c6.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/c0q90kekw08o?at_medium=RSS&at_campaign=rss",
-            "title": "Chris Mason: How will the UK respond to US court verdict on social media?",
-            "url": "https://www.bbc.com/news/articles/c0q90kekw08o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-26T03:40:16.000Z",
-            "description": "Will the decision of a Los Angeles jury have an impact on the UK government as it considers potential future regulations on social media, writes the BBC's political editor.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e81/live/de91aa80-28c6-11f1-90f6-530f10a736fc.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/michigan-voters-dont-let-radicals-fool-you-into-thinking-theyre-normal",
-            "title": "Michigan Voters, Don’t Let Radicals Fool You Into Thinking They’re Normal",
-            "url": "https://www.dailywire.com/news/michigan-voters-dont-let-radicals-fool-you-into-thinking-theyre-normal",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-24T16:31:30.000Z",
-            "description": "This piece is part of MI x DW, a collaboration that brings Daily Wire readers exclusive commentary and research from the Manhattan Institute’s world-class team of scholars. In this piece, Manhattan Institute Vice President of External Affairs Jesse Arm warns Michigan voters not to trust a rising generation of radical lawmakers masquerading as traditional Democrats — ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267040773.jpg",
+            "publishedAt": "2026-03-25T19:11:36.000Z",
+            "description": "The service, historically known as an enthronement, marked the symbolic start of Dame Sarah's public ministry as the Archbishop of Canterbury.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/362c/live/4cc332c0-287d-11f1-831a-89df8c4bf49f.jpg",
             "categories": []
           }
         ],
@@ -1213,69 +1309,27 @@
             ]
           },
           {
-            "id": "Fox News:https://www.foxnews.com/media/jimmy-kimmels-dig-plumber-dhs-secretary-markwayne-mullin-ripped-elite-online-critics",
-            "title": "Jimmy Kimmel's dig at 'plumber' DHS Secretary Markwayne Mullin ripped as 'elite' by online critics",
-            "url": "https://www.foxnews.com/media/jimmy-kimmels-dig-plumber-dhs-secretary-markwayne-mullin-ripped-elite-online-critics",
+            "id": "Fox News:https://www.foxnews.com/politics/california-dems-unleashed-pressure-campaign-against-usc-prior-debate-cancellation",
+            "title": "California Dems unleashed pressure campaign against USC prior to debate cancellation",
+            "url": "https://www.foxnews.com/politics/california-dems-unleashed-pressure-campaign-against-usc-prior-debate-cancellation",
             "source": "Fox News",
-            "publishedAt": "2026-03-26T00:27:18.000Z",
-            "description": "ABC late-night host Jimmy Kimmel faced backlash after mocking newly confirmed DHS Secretary Markwayne Mullin as an unqualified plumber during his monologue.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/jimmy-kimmel-markwayne-mullin.jpg?ve=1&tl=1",
+            "publishedAt": "2026-03-25T23:02:45.000Z",
+            "description": "Top California Democrats pressed USC after its debate criteria produced an all-White lineup and left minority Democrats offstage, helping trigger the debate's cancellation, a GOP candidate claims.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/california-democratic-primary.jpg?ve=1&tl=1",
             "categories": [
-              "37f535bc-eb88-5ccf-85dc-95d4cc797792",
+              "7b0222d9-df4e-5076-8228-d9bbc7145c77",
               "fnc",
               "Fox News",
-              "fox-news/media",
-              "fox-news/person/jimmy-kimmel",
-              "fox-news/politics/executive/homeland-security",
-              "fox-news/media",
+              "fox-news/us/us-regions/west/california",
+              "fox-news/politics/state-and-local/governors",
+              "fox-news/controversies",
+              "fox-news/politics/state-and-local",
+              "fox-news/us/democratic-party",
+              "fox-news/politics/elections/campaigning",
+              "fox-news/politics/elections",
+              "fox-news/politics",
               "article"
             ]
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/25/health/cdc-director-nomination-delay.html",
-            "title": "Trump to Delay Nominating New C.D.C. Director",
-            "url": "https://www.nytimes.com/2026/03/25/health/cdc-director-nomination-delay.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-25T23:54:43.000Z",
-            "description": "The administration has yet to find a candidate who aligns with Health Secretary Robert F. Kennedy Jr.’s agenda while avoiding his unpopular stance on vaccines.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/25/multimedia/HS25-cdc-cwjk/HS25-cdc-cwjk-mediumSquareAt3X.jpg",
-            "categories": [
-              "your-feed-science",
-              "Appointments and Executive Changes",
-              "United States Politics and Government",
-              "Vaccination and Immunization",
-              "Centers for Disease Control and Prevention",
-              "Health and Human Services Department",
-              "Bhattacharya, Jay",
-              "Kennedy, Robert F Jr"
-            ]
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/25/us/politics/talarico-response-love-pastor-hegseth-crucified-christ.html",
-            "title": "James Talarico Responds With ‘Love’ To Hegseth Pastor’s Criticism",
-            "url": "https://www.nytimes.com/2026/03/25/us/politics/talarico-response-love-pastor-hegseth-crucified-christ.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-25T22:08:14.000Z",
-            "description": "James Talarico, the Democratic nominee for Senate in Texas, said, “You may pray for my death, Pastor, but I still love you.” The pastor said he was calling for Mr. Talarico’s religious conversion.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/25/multimedia/pol-talarico-zjqb/pol-talarico-zjqb-mediumSquareAt3X.jpg",
-            "categories": [
-              "Midterm Elections (2026)",
-              "Democratic Party",
-              "Hegseth, Pete",
-              "Talarico, James",
-              "Texas",
-              "Tennessee"
-            ]
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/videos/ce3dlpd54evo?at_medium=RSS&at_campaign=rss",
-            "title": "Watch: History made as Dame Sarah Mullally becomes Archbishop of Canterbury",
-            "url": "https://www.bbc.com/news/videos/ce3dlpd54evo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-25T19:11:36.000Z",
-            "description": "The service, historically known as an enthronement, marked the symbolic start of Dame Sarah's public ministry as the Archbishop of Canterbury.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/362c/live/4cc332c0-287d-11f1-831a-89df8c4bf49f.jpg",
-            "categories": []
           },
           {
             "id": "Daily Wire:https://www.dailywire.com/news/watch-whoopi-lectures-pete-hegseth-on-what-it-means-to-be-a-soldier",
@@ -1298,26 +1352,6 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/classy-chicago-names-its-new-snow-plow-of-course-its-political",
-            "title": "DEEP FREEZE: Dem-Run City Names Its New Snow Plow, Of Course It’s Political",
-            "url": "https://www.dailywire.com/news/classy-chicago-names-its-new-snow-plow-of-course-its-political",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-25T14:50:51.000Z",
-            "description": "Chicago officials have named one of the city’s newest snowplows “Abolish ICE,” a decision backed and celebrated by Democratic Mayor Brandon Johnson as part of a citywide naming contest. Johnson announced the winning entries Monday, crediting residents for their “unmatched creativity, sense of humor, and civic pride” after more than 39,000 votes were cast. But ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2025/12/GettyImages-2248502170.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/i-will-put-you-in-a-jail-cell-leftist-philly-da-threatens-ice-agents-helping-tsa",
-            "title": "‘I Will Put You In A Jail Cell’: Leftist Philly DA Threatens ICE Agents Helping TSA",
-            "url": "https://www.dailywire.com/news/i-will-put-you-in-a-jail-cell-leftist-philly-da-threatens-ice-agents-helping-tsa",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-25T13:23:40.000Z",
-            "description": "Leftist Philadelphia District Attorney Larry Krasner is threatening to arrest federal immigration agents helping at airports during the partial government shutdown. Krasner made the remarks during a Tuesday press conference at the Philadelphia International Airport, one of roughly a dozen airports where the Trump administration has deployed Immigration and Customs Enforcement (ICE) officers to offset ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Screenshot-2026-03-25-at-11.17.54-AM.png",
-            "categories": []
-          },
-          {
             "id": "Daily Wire:https://www.dailywire.com/news/reacher-star-posts-cryptic-message-following-bloody-brawl-with-neighbor",
             "title": "‘Reacher’ Star Posts Cryptic Message Following Bloody Brawl With Neighbor",
             "url": "https://www.dailywire.com/news/reacher-star-posts-cryptic-message-following-bloody-brawl-with-neighbor",
@@ -1325,16 +1359,6 @@
             "publishedAt": "2026-03-25T11:51:09.000Z",
             "description": "“Reacher” star Alan Ritchson posted a cryptic quote about enemies just after the physical altercation between him and a neighbor, Ronnie Taylor, went viral. “Never interrupt an enemy while he is making a mistake,” the TV star shared on Instagram, attributing the quote to Napoleon. View this post on Instagram A post shared ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Alan-Ritchson-1.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/why-i-testified-against-a-bill-that-would-let-the-state-take-gender-confused-kids-from-parents",
-            "title": "Why I Testified For A Bill That Would Stop The State From Taking Gender-Confused Kids From Parents",
-            "url": "https://www.dailywire.com/news/why-i-testified-against-a-bill-that-would-let-the-state-take-gender-confused-kids-from-parents",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-25T10:28:01.000Z",
-            "description": "COLUMBUS, OHIO—I just finished testifying for a bill that would make it illegal for the state government to rip children away from loving parents who refuse to “affirm” that child’s so-called “transgender identity.” It’s not every day an investigative journalist weighs in on legislation like this. But this is different. More than two years ago, ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-1677865247-scaled.jpg",
             "categories": []
           },
           {
@@ -1356,24 +1380,24 @@
             "description": "The following is an edited transcript from The Michael Knowles Show. * * * Lego has just announced its largest Lego set ever. And in our culture, what would you expect that Lego set to be? The pride progress flag? What would you expect it to be — some big lib thing? Maybe even the ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267726472.jpg",
             "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/thanks-democrats-unsafe-airports-unsafe-streets",
-            "title": "Thanks, Democrats! Unsafe Airports, Unsafe Streets",
-            "url": "https://www.dailywire.com/news/thanks-democrats-unsafe-airports-unsafe-streets",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-24T17:07:44.000Z",
-            "description": "It’s time to ask some serious questions. When you get to the airport next week, a record 171 million of us will get on a plane this spring. Will you be safe? When you look at the southern border or when you read about Sheridan Gorman, 18 years old, shot in the head while going ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267621238.jpg",
-            "categories": []
           }
         ]
       }
     },
     "World": {
       "articleCount": 8,
-      "sourceCount": 3,
+      "sourceCount": 4,
       "articles": [
+        {
+          "id": "NPR:https://www.npr.org/2026/03/26/nx-s1-5761896/un-reparations-slavery-africa",
+          "title": "UN calls for reparations to remedy the 'historical wrongs' of trafficking enslaved Africans",
+          "url": "https://www.npr.org/2026/03/26/nx-s1-5761896/un-reparations-slavery-africa",
+          "source": "NPR",
+          "publishedAt": "2026-03-26T05:21:13.000Z",
+          "description": "The U.N. General Assembly adopted a resolution declaring the trafficking of enslaved Africans \"the gravest crime against humanity\" and calling for reparations.",
+          "imageUrl": null,
+          "categories": []
+        },
         {
           "id": "New York Times:https://www.nytimes.com/2026/03/26/nyregion/nyc-census-population-data.html",
           "title": "New York City’s Population Flat After Drop in Immigration",
@@ -1406,30 +1430,6 @@
             "Africa",
             "Belgium",
             "Vought, Russell T"
-          ]
-        },
-        {
-          "id": "New York Times:https://www.nytimes.com/2026/03/25/opinion/iran-oil-persian-gulf-blockade.html",
-          "title": "This Should Be Trump’s Next Move With Iran",
-          "url": "https://www.nytimes.com/2026/03/25/opinion/iran-oil-persian-gulf-blockade.html",
-          "source": "New York Times",
-          "publishedAt": "2026-03-25T23:33:10.000Z",
-          "description": "An oil blockade could pressure Iran. Sanctions relief would do the opposite.",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/25/multimedia/25seigle-czqh/25seigle-czqh-mediumSquareAt3X.jpg",
-          "categories": [
-            "US and Israeli Attack on Iran (2026)",
-            "United States Defense and Military Forces",
-            "International Relations",
-            "Ships and Shipping",
-            "Embargoes and Sanctions",
-            "United States International Relations",
-            "Oil (Petroleum) and Gasoline",
-            "Natural Gas",
-            "United States Navy",
-            "Arabian Sea",
-            "Iran",
-            "Kharg Island (Iran)",
-            "Strait of Hormuz"
           ]
         },
         {
@@ -1484,31 +1484,29 @@
         }
       ],
       "subtopics": {
-        "Iran Conflict and U.S. Policy": [
+        "UN Recognizes Enslavement of Africans as Crime Against Humanity": [
           {
-            "id": "New York Times:https://www.nytimes.com/2026/03/25/opinion/iran-oil-persian-gulf-blockade.html",
-            "title": "This Should Be Trump’s Next Move With Iran",
-            "url": "https://www.nytimes.com/2026/03/25/opinion/iran-oil-persian-gulf-blockade.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-25T23:33:10.000Z",
-            "description": "An oil blockade could pressure Iran. Sanctions relief would do the opposite.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/25/multimedia/25seigle-czqh/25seigle-czqh-mediumSquareAt3X.jpg",
-            "categories": [
-              "US and Israeli Attack on Iran (2026)",
-              "United States Defense and Military Forces",
-              "International Relations",
-              "Ships and Shipping",
-              "Embargoes and Sanctions",
-              "United States International Relations",
-              "Oil (Petroleum) and Gasoline",
-              "Natural Gas",
-              "United States Navy",
-              "Arabian Sea",
-              "Iran",
-              "Kharg Island (Iran)",
-              "Strait of Hormuz"
-            ]
+            "id": "NPR:https://www.npr.org/2026/03/26/nx-s1-5761896/un-reparations-slavery-africa",
+            "title": "UN calls for reparations to remedy the 'historical wrongs' of trafficking enslaved Africans",
+            "url": "https://www.npr.org/2026/03/26/nx-s1-5761896/un-reparations-slavery-africa",
+            "source": "NPR",
+            "publishedAt": "2026-03-26T05:21:13.000Z",
+            "description": "The U.N. General Assembly adopted a resolution declaring the trafficking of enslaved Africans \"the gravest crime against humanity\" and calling for reparations.",
+            "imageUrl": null,
+            "categories": []
           },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
+            "title": "UN votes to recognise enslavement of Africans as 'gravest crime against humanity'",
+            "url": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-25T20:12:31.000Z",
+            "description": "The landmark resolution calls for an apology and contributions to a reparations fund, without specifying an amount.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28f6/live/81639b50-2841-11f1-b297-95b0a0a8331e.jpg",
+            "categories": []
+          }
+        ],
+        "U.S.-Iran Conflict and Political Developments": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/what-does-victory-over-iran-look-like",
             "title": "What Does Victory Over Iran Look Like?",
@@ -1528,9 +1526,19 @@
             "description": "Iran has rejected a U.S. proposal to end the war, dismissing it as unacceptable while vowing to continue fighting until its own conditions are met. A senior Iranian official on state-run media said Tehran would not negotiate under the current terms, calling the U.S. proposal “excessive” and insisting that “no negotiations will be held” before ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Bebas-Neue-2-1.png",
             "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/c1mkr19j84go?at_medium=RSS&at_campaign=rss",
+            "title": "Iranians mark their New Year with anger, fear, and defiance",
+            "url": "https://www.bbc.com/news/articles/c1mkr19j84go?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-25T22:35:37.000Z",
+            "description": "Cleaning her home for the festival, one Iranian told us: \"Perhaps this dark night will finally give way to dawn.\"",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25fd/live/72bb1f20-2895-11f1-bc38-5da76fb87fc9.jpg",
+            "categories": []
           }
         ],
-        "U.S. Foreign Policy and Global Spheres of Influence": [
+        "U.S. Foreign Policy and Geopolitical Strategies": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/the-plan-to-split-the-world-into-spheres-and-what-it-means-for-america",
             "title": "The Plan To Split The World Into Spheres And What It Means For America",
@@ -1542,7 +1550,7 @@
             "categories": []
           }
         ],
-        "Population Changes in New York City": [
+        "Demographic Changes in New York City": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/26/nyregion/nyc-census-population-data.html",
             "title": "New York City’s Population Flat After Drop in Immigration",
@@ -1561,7 +1569,7 @@
             ]
           }
         ],
-        "U.S.A.I.D. Contraceptive Aid Issues": [
+        "Issues with U.S.A.I.D. Birth Control Supplies for Africa": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/26/world/europe/usaid-contraception-birth-control-belgium-africa.html",
             "title": "How U.S.A.I.D. Birth Control Meant for Africa Was Ruined",
@@ -1579,30 +1587,6 @@
               "Vought, Russell T"
             ]
           }
-        ],
-        "Historical Reckoning on African Enslavement": [
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
-            "title": "UN votes to recognise enslavement of Africans as 'gravest crime against humanity'",
-            "url": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-25T20:12:31.000Z",
-            "description": "The landmark resolution calls for an apology and contributions to a reparations fund, without specifying an amount.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28f6/live/81639b50-2841-11f1-b297-95b0a0a8331e.jpg",
-            "categories": []
-          }
-        ],
-        "Other Coverage": [
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/c1mkr19j84go?at_medium=RSS&at_campaign=rss",
-            "title": "Iranians mark their New Year with anger, fear, and defiance",
-            "url": "https://www.bbc.com/news/articles/c1mkr19j84go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-25T22:35:37.000Z",
-            "description": "Cleaning her home for the festival, one Iranian told us: \"Perhaps this dark night will finally give way to dawn.\"",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25fd/live/72bb1f20-2895-11f1-bc38-5da76fb87fc9.jpg",
-            "categories": []
-          }
         ]
       }
     },
@@ -1610,6 +1594,31 @@
       "articleCount": 11,
       "sourceCount": 4,
       "articles": [
+        {
+          "id": "New York Times:https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
+          "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial",
+          "url": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
+          "source": "New York Times",
+          "publishedAt": "2026-03-26T05:19:29.000Z",
+          "description": "A jury found the companies harmed a young user with design features that were addictive and led to her mental health distress.",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/00biz-social-media-verdict-HFO-mark-ctqz/00biz-social-media-verdict-HFO-mark-ctqz-mediumSquareAt3X.jpg",
+          "categories": [
+            "Liability for Products",
+            "Social Media",
+            "Suits and Litigation (Civil)",
+            "Decisions and Verdicts",
+            "Addiction (Psychology)",
+            "Youth",
+            "Jury System",
+            "Mental Health and Disorders",
+            "Computers and the Internet",
+            "Instagram Inc",
+            "Meta Platforms Inc",
+            "YouTube.com",
+            "Los Angeles County (Calif)",
+            "internal-open-access-from-nl"
+          ]
+        },
         {
           "id": "BBC:https://www.bbc.com/news/articles/c5y8d721q18o?at_medium=RSS&at_campaign=rss",
           "title": "Rocket stocks soar on report Musk's SpaceX to file for share sale",
@@ -1666,31 +1675,6 @@
           "description": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d443/live/1559da40-2879-11f1-831a-89df8c4bf49f.jpg",
           "categories": []
-        },
-        {
-          "id": "New York Times:https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
-          "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial",
-          "url": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
-          "source": "New York Times",
-          "publishedAt": "2026-03-25T21:36:56.000Z",
-          "description": "A jury found the companies harmed a young user with design features that were addictive and led to her mental health distress.",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/00biz-social-media-verdict-HFO-mark-ctqz/00biz-social-media-verdict-HFO-mark-ctqz-mediumSquareAt3X.jpg",
-          "categories": [
-            "Liability for Products",
-            "Social Media",
-            "Suits and Litigation (Civil)",
-            "Decisions and Verdicts",
-            "Addiction (Psychology)",
-            "Youth",
-            "Jury System",
-            "Mental Health and Disorders",
-            "Computers and the Internet",
-            "Instagram Inc",
-            "Meta Platforms Inc",
-            "YouTube.com",
-            "Los Angeles County (Calif)",
-            "internal-open-access-from-nl"
-          ]
         },
         {
           "id": "New York Times:https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html",
@@ -1757,23 +1741,13 @@
         }
       ],
       "subtopics": {
-        "Social media addiction trial implicates Meta and YouTube": [
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
-            "title": "Meta and YouTube found liable in landmark social media addiction trial",
-            "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-25T22:59:23.000Z",
-            "description": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d443/live/1559da40-2879-11f1-831a-89df8c4bf49f.jpg",
-            "categories": []
-          },
+        "Social Media Addiction Trial Verdicts": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
             "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial",
             "url": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
             "source": "New York Times",
-            "publishedAt": "2026-03-25T21:36:56.000Z",
+            "publishedAt": "2026-03-26T05:19:29.000Z",
             "description": "A jury found the companies harmed a young user with design features that were addictive and led to her mental health distress.",
             "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/00biz-social-media-verdict-HFO-mark-ctqz/00biz-social-media-verdict-HFO-mark-ctqz-mediumSquareAt3X.jpg",
             "categories": [
@@ -1792,6 +1766,16 @@
               "Los Angeles County (Calif)",
               "internal-open-access-from-nl"
             ]
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+            "title": "Meta and YouTube found liable in landmark social media addiction trial",
+            "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-25T22:59:23.000Z",
+            "description": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d443/live/1559da40-2879-11f1-831a-89df8c4bf49f.jpg",
+            "categories": []
           },
           {
             "id": "NPR:https://www.npr.org/2026/03/25/nx-s1-5746125/meta-youtube-social-media-trial-verdict",
@@ -1814,7 +1798,7 @@
             "categories": []
           }
         ],
-        "Meta's workforce changes amid AI shift": [
+        "Meta's Corporate Changes and AI Focus": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html",
             "title": "Meta Lays Off 700 Employees, While Rewarding Top Executives",
@@ -1839,7 +1823,7 @@
             ]
           }
         ],
-        "SpaceX plans largest-ever share sale boost rocket stocks": [
+        "SpaceX's Planned Stock Market Listing": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/c5y8d721q18o?at_medium=RSS&at_campaign=rss",
             "title": "Rocket stocks soar on report Musk's SpaceX to file for share sale",
@@ -1851,7 +1835,7 @@
             "categories": []
           }
         ],
-        "Education and child safety in technology platforms": [
+        "Safety and Monitoring on Roblox Platform": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/cd6l07wwvlpo?at_medium=RSS&at_campaign=rss",
             "title": "Parents should monitor children '24/7' on Roblox, says developer",
@@ -1861,7 +1845,9 @@
             "description": "Roblox said safety was a top priority and it had advanced safeguards in place to keep users safe.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8a7/live/4ba1f300-2877-11f1-831a-89df8c4bf49f.jpg",
             "categories": []
-          },
+          }
+        ],
+        "Education and Robotics Advocacy by Melania Trump": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html",
             "title": "Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them",
@@ -1880,7 +1866,7 @@
             ]
           }
         ],
-        "Renewable energy and solar panel demand rise amid geopolitical tensions": [
+        "Other Coverage": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/c4gjlezq80no?at_medium=RSS&at_campaign=rss",
             "title": "Octopus boss: We've seen a 50% rise in solar panel sales since start of Iran war",
@@ -1890,9 +1876,7 @@
             "description": "The UK giant is optimistic but chief executive Greg Jackson tells the BBC he is making contingency plans.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c8/live/8ea0abf0-2882-11f1-b297-95b0a0a8331e.jpg",
             "categories": []
-          }
-        ],
-        "Other Coverage": [
+          },
           {
             "id": "BBC:https://www.bbc.com/news/videos/cn08xe0xlg4o?at_medium=RSS&at_campaign=rss",
             "title": "Who is the BBC's new director general?",
@@ -1982,7 +1966,7 @@
         }
       ],
       "subtopics": {
-        "Economic impact of Iran war on agriculture and fuel prices": [
+        "Economic Impact of Iran Conflict on Agriculture and Energy": [
           {
             "id": "NPR:https://www.npr.org/2026/03/26/g-s1-115240/iran-war-strait-hormuz-fertilizer-exports-farmers-planting-season",
             "title": "War with Iran disrupts fertilizer exports as U.S. farmers prepare for planting season",
@@ -2014,7 +1998,7 @@
             ]
           }
         ],
-        "Financial challenges of managing ADHD": [
+        "Personal Finance Challenges with ADHD": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/cn89lr5k8g9o?at_medium=RSS&at_campaign=rss",
             "title": "'Managing my finances with ADHD felt overwhelming'",
@@ -2026,7 +2010,7 @@
             "categories": []
           }
         ],
-        "Money laundering probe involving illegal immigrant’s businesses": [
+        "Drug Money Laundering Linked to Deported Immigrant in Oregon": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/illegal-immigrants-barbershop-is-the-center-of-drug-money-laundering-probe",
             "title": "Feds Say Previously-Deported Illegal Became Key Link In Cartel Cash Pipeline, How He Did It",
@@ -2038,7 +2022,7 @@
             "categories": []
           }
         ],
-        "Behind the scenes of The Bachelorette casting and vetting": [
+        "Behind the Scenes of Reality TV Casting and Production": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/an-insider-spills-the-tea-on-the-bachelorettes-risky-business",
             "title": "An Insider Spills The Tea On The Bachelorette’s Risky Business",
@@ -2087,7 +2071,7 @@
         }
       ],
       "subtopics": {
-        "Resignations at Federal Science Agencies": [
+        "Climate Scientist Kate Marvel Resigns from NASA Amid Federal Exodus": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/25/climate/kate-marvel-nasa-resign.html",
             "title": "Kate Marvel, Prominent Climate Scientist, Resigns From NASA",
@@ -2108,7 +2092,7 @@
             ]
           }
         ],
-        "New Discovery on Early Domestication of Dogs": [
+        "New Evidence Pushes Back Timeline for Dog Domestication": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/cn0ky1n791go?at_medium=RSS&at_campaign=rss",
             "title": "Dogs became man's best friend far earlier than thought, scientists find",
@@ -2383,7 +2367,7 @@
         }
       ],
       "subtopics": {
-        "Music Icons and Controversies": [
+        "Music Legends and Awards": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/cg73gxv128go?at_medium=RSS&at_campaign=rss",
             "title": "Rap legend Slick Rick on Mobo honour and shaping hip-hop: 'We took novels to the next level'",
@@ -2474,9 +2458,19 @@
               "fox-news/entertainment",
               "article"
             ]
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/police-deliver-closure-on-reacher-stars-viral-fist-fight-case",
+            "title": "Police Deliver Closure On ‘Reacher’ Star’s Viral Fist-Fight Case",
+            "url": "https://www.dailywire.com/news/police-deliver-closure-on-reacher-stars-viral-fist-fight-case",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-24T18:33:01.000Z",
+            "description": "“Reacher” star Alan Ritchson will not face any charges after bloody brawl with neighbor Ronnie Taylor, Brentwood cops say. The Brentwood Police Department told entertainment site TMZ that they had determined Ritchson acted in self-defense, and would not be charged — and implied that Ritchson was given the option to pursue reckless endangerment charges against ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2220680394.jpg",
+            "categories": []
           }
         ],
-        "Adult Entertainment Industry and OnlyFans": [
+        "OnlyFans and Adult Entertainment Industry": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html",
             "title": "Leon Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans",
@@ -2517,51 +2511,7 @@
             "categories": []
           }
         ],
-        "Entertainment Legal Cases and Incidents": [
-          {
-            "id": "Fox News:https://www.foxnews.com/us/jurors-shown-bodycam-doctors-bloody-wife-rock-he-allegedly-used-bash-her-cliffside-attack",
-            "title": "Jurors shown bodycam of doctor’s bloody wife, rock he allegedly used to bash her in cliffside attack",
-            "url": "https://www.foxnews.com/us/jurors-shown-bodycam-doctors-bloody-wife-rock-he-allegedly-used-bash-her-cliffside-attack",
-            "source": "Fox News",
-            "publishedAt": "2026-03-26T00:21:16.000Z",
-            "description": "Graphic bodycam footage and a bloodstained rock were shown to jurors in the attempted murder trial of Hawaii doctor Gerhardt Konig Wednesday.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/gerhardt-konig-hawaii-mugshot-pali-lookout-thumb.jpg?ve=1&tl=1",
-            "categories": [
-              "b107fe53-142a-52ff-bf89-c8ec2d58143e",
-              "fnc",
-              "Fox News",
-              "fox-news/us/true-crime",
-              "fox-news/us/crime/trials",
-              "fox-news/entertainment/events/in-court",
-              "fox-news/us/us-regions/west/hawaii",
-              "fox-news/us",
-              "fox-news/crime",
-              "fox-news/us",
-              "article"
-            ]
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/c8ejw8llwggo?at_medium=RSS&at_campaign=rss",
-            "title": "Woman charged with shooting at Rihanna's home pleads not guilty to attempted murder",
-            "url": "https://www.bbc.com/news/articles/c8ejw8llwggo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-25T20:31:25.000Z",
-            "description": "The 35-year-old from Florida remains detained in Los Angeles after the 8 March shooting.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8762/live/5f46d790-287c-11f1-831a-89df8c4bf49f.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/police-deliver-closure-on-reacher-stars-viral-fist-fight-case",
-            "title": "Police Deliver Closure On ‘Reacher’ Star’s Viral Fist-Fight Case",
-            "url": "https://www.dailywire.com/news/police-deliver-closure-on-reacher-stars-viral-fist-fight-case",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-24T18:33:01.000Z",
-            "description": "“Reacher” star Alan Ritchson will not face any charges after bloody brawl with neighbor Ronnie Taylor, Brentwood cops say. The Brentwood Police Department told entertainment site TMZ that they had determined Ritchson acted in self-defense, and would not be charged — and implied that Ritchson was given the option to pursue reckless endangerment charges against ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2220680394.jpg",
-            "categories": []
-          }
-        ],
-        "TV and Streaming Series Updates": [
+        "TV, Streaming, and Film Updates": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/cq6j20zp9n6o?at_medium=RSS&at_campaign=rss",
             "title": "Harry Potter TV show trailer: Everything we know so far",
@@ -2583,7 +2533,41 @@
             "categories": []
           }
         ],
-        "AI in Entertainment and Tech Shifts": [
+        "Controversies and Legal Stories in Entertainment": [
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/c8ejw8llwggo?at_medium=RSS&at_campaign=rss",
+            "title": "Woman charged with shooting at Rihanna's home pleads not guilty to attempted murder",
+            "url": "https://www.bbc.com/news/articles/c8ejw8llwggo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-25T20:31:25.000Z",
+            "description": "The 35-year-old from Florida remains detained in Los Angeles after the 8 March shooting.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8762/live/5f46d790-287c-11f1-831a-89df8c4bf49f.jpg",
+            "categories": []
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/us/jurors-shown-bodycam-doctors-bloody-wife-rock-he-allegedly-used-bash-her-cliffside-attack",
+            "title": "Jurors shown bodycam of doctor’s bloody wife, rock he allegedly used to bash her in cliffside attack",
+            "url": "https://www.foxnews.com/us/jurors-shown-bodycam-doctors-bloody-wife-rock-he-allegedly-used-bash-her-cliffside-attack",
+            "source": "Fox News",
+            "publishedAt": "2026-03-26T00:21:16.000Z",
+            "description": "Graphic bodycam footage and a bloodstained rock were shown to jurors in the attempted murder trial of Hawaii doctor Gerhardt Konig Wednesday.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/gerhardt-konig-hawaii-mugshot-pali-lookout-thumb.jpg?ve=1&tl=1",
+            "categories": [
+              "b107fe53-142a-52ff-bf89-c8ec2d58143e",
+              "fnc",
+              "Fox News",
+              "fox-news/us/true-crime",
+              "fox-news/us/crime/trials",
+              "fox-news/entertainment/events/in-court",
+              "fox-news/us/us-regions/west/hawaii",
+              "fox-news/us",
+              "fox-news/crime",
+              "fox-news/us",
+              "article"
+            ]
+          }
+        ],
+        "Tech and AI in Entertainment": [
           {
             "id": "NPR:https://www.npr.org/2026/03/25/nx-s1-5759931/openais-sora-app-may-be-going-away-but-its-legacy-will-be-the-spread-ai-video-slop",
             "title": "OpenAI's Sora app may be going away, but its legacy will be the spread of AI video slop",
@@ -2799,7 +2783,7 @@
         }
       ],
       "subtopics": {
-        "Manchester United vs Bayern Munich Champions League Quarter-Final": [
+        "Manchester United vs Bayern Munich Champions League Clash": [
           {
             "id": "BBC:https://www.bbc.com/sport/football/articles/clyr7xxx01go?at_medium=RSS&at_campaign=rss",
             "title": "Man Utd down but not out - Skinner sure Bayern lead can be overturned",
@@ -2821,29 +2805,7 @@
             "categories": []
           }
         ],
-        "Controversy Around Rams Star Puka Nacua's Alleged Assault": [
-          {
-            "id": "Fox News:https://www.foxnews.com/sports/rams-star-puka-nacua-sued-allegations-biting-woman",
-            "title": "Rams star Puka Nacua sued for alleged assault and battery amid accusations he bit woman",
-            "url": "https://www.foxnews.com/sports/rams-star-puka-nacua-sued-allegations-biting-woman",
-            "source": "Fox News",
-            "publishedAt": "2026-03-25T23:46:19.000Z",
-            "description": "Los Angeles Rams star Puka Nacua was sued for alleged assault and battery by plaintiff Madison Atiabi, who claims he bit her and made an antisemitic remark on New Year's Eve.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/puka-nacua-los-angeles-rams.jpg?ve=1&tl=1",
-            "categories": [
-              "73827ebb-1030-5806-9e6b-eaf4c02a20a1",
-              "fnc",
-              "Fox News",
-              "fox-news/sports/nfl/los-angeles-rams",
-              "fox-news/sports/nfl",
-              "fox-news/sports",
-              "fox-news/entertainment/events/in-court",
-              "fox-news/sports",
-              "article"
-            ]
-          }
-        ],
-        "Aaron Judge’s Drive for Yankees World Series Legacy": [
+        "Aaron Judge's Ambition to Join Yankees Legends": [
           {
             "id": "Fox News:https://www.foxnews.com/sports/aaron-judge-still-aiming-join-yankees-world-series-champs-ahead-2026-season-want-my-picture-up-there",
             "title": "Aaron Judge aims to join past Yankees World Series champs ahead of 2026 season: 'Want my picture up there'",
@@ -2866,7 +2828,39 @@
             ]
           }
         ],
-        "Athletics and Marathon Updates: Michael Johnson and London Marathon Plans": [
+        "Puka Nacua Sued for Assault Allegations": [
+          {
+            "id": "Fox News:https://www.foxnews.com/sports/rams-star-puka-nacua-sued-allegations-biting-woman",
+            "title": "Rams star Puka Nacua sued for alleged assault and battery amid accusations he bit woman",
+            "url": "https://www.foxnews.com/sports/rams-star-puka-nacua-sued-allegations-biting-woman",
+            "source": "Fox News",
+            "publishedAt": "2026-03-25T23:46:19.000Z",
+            "description": "Los Angeles Rams star Puka Nacua was sued for alleged assault and battery by plaintiff Madison Atiabi, who claims he bit her and made an antisemitic remark on New Year's Eve.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/puka-nacua-los-angeles-rams.jpg?ve=1&tl=1",
+            "categories": [
+              "73827ebb-1030-5806-9e6b-eaf4c02a20a1",
+              "fnc",
+              "Fox News",
+              "fox-news/sports/nfl/los-angeles-rams",
+              "fox-news/sports/nfl",
+              "fox-news/sports",
+              "fox-news/entertainment/events/in-court",
+              "fox-news/sports",
+              "article"
+            ]
+          }
+        ],
+        "Tennis and Athletics Updates: Rybakina and Johnson": [
+          {
+            "id": "BBC:https://www.bbc.com/sport/tennis/articles/c9qd73y971eo?at_medium=RSS&at_campaign=rss",
+            "title": "Rybakina battles past Pegula to reach Miami semis",
+            "url": "https://www.bbc.com/sport/tennis/articles/c9qd73y971eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-25T20:59:45.000Z",
+            "description": "Elena Rybakina beats Jessica Pegula for a fifth straight time to move into the semi-finals of the Miami Open.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b63/live/a45afba0-288a-11f1-a79a-77e93010d956.jpg",
+            "categories": []
+          },
           {
             "id": "BBC:https://www.bbc.com/sport/athletics/articles/c0krvrvzzjvo?at_medium=RSS&at_campaign=rss",
             "title": "Johnson to give back alleged 'secret' payment of $500,000",
@@ -2876,19 +2870,9 @@
             "description": "Four-time Olympic champion Michael Johnson confirms he will refund a sum of $500,000 (£375,000) he allegedly \"secretly\" paid himself before his Grand Slam Track league collapsed.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9267/live/ec894b40-2888-11f1-b21f-b3f6be36815d.jpg",
             "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/sport/athletics/articles/cqxl8yn4gxwo?at_medium=RSS&at_campaign=rss",
-            "title": "London Marathon considers two-day event in 2027",
-            "url": "https://www.bbc.com/sport/athletics/articles/cqxl8yn4gxwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-25T15:18:45.000Z",
-            "description": "London Marathon organisers are \"looking at the intention\" for next year's event to take place across two days.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0916/live/56fc09e0-2857-11f1-937e-1d8f354c3b9a.jpg",
-            "categories": []
           }
         ],
-        "International Football Focus: Italy vs Northern Ireland and Wales World Cup Hopes": [
+        "Football Insights: Northern Ireland vs Italy & Wales World Cup Hopes": [
           {
             "id": "BBC:https://www.bbc.com/sport/football/articles/c208n2kxnpro?at_medium=RSS&at_campaign=rss",
             "title": "Northern Ireland deserve Italy's respect - Buffon",
@@ -2912,13 +2896,13 @@
         ],
         "Other Coverage": [
           {
-            "id": "BBC:https://www.bbc.com/sport/tennis/articles/c9qd73y971eo?at_medium=RSS&at_campaign=rss",
-            "title": "Rybakina battles past Pegula to reach Miami semis",
-            "url": "https://www.bbc.com/sport/tennis/articles/c9qd73y971eo?at_medium=RSS&at_campaign=rss",
+            "id": "BBC:https://www.bbc.com/sport/athletics/articles/cqxl8yn4gxwo?at_medium=RSS&at_campaign=rss",
+            "title": "London Marathon considers two-day event in 2027",
+            "url": "https://www.bbc.com/sport/athletics/articles/cqxl8yn4gxwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
-            "publishedAt": "2026-03-25T20:59:45.000Z",
-            "description": "Elena Rybakina beats Jessica Pegula for a fifth straight time to move into the semi-finals of the Miami Open.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b63/live/a45afba0-288a-11f1-a79a-77e93010d956.jpg",
+            "publishedAt": "2026-03-25T15:18:45.000Z",
+            "description": "London Marathon organisers are \"looking at the intention\" for next year's event to take place across two days.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0916/live/56fc09e0-2857-11f1-937e-1d8f354c3b9a.jpg",
             "categories": []
           },
           {
@@ -3318,6 +3302,22 @@
           "categories": []
         },
         {
+          "id": "New York Times:https://www.nytimes.com/2026/03/25/opinion/zach-polanski-green-party-britain.html",
+          "title": "Zack Polanski on the Rise of Britain’s Green Party",
+          "url": "https://www.nytimes.com/2026/03/25/opinion/zach-polanski-green-party-britain.html",
+          "source": "New York Times",
+          "publishedAt": "2026-03-25T19:00:04.000Z",
+          "description": "Zach Polanski of Britain’s left-populist party talks austerity, Labour and the establishment crackup.",
+          "imageUrl": null,
+          "categories": [
+            "Green Party (Britain)",
+            "Great Britain",
+            "Global Warming",
+            "Income Inequality",
+            "Populism (Theory and Philosophy)"
+          ]
+        },
+        {
           "id": "Daily Wire:https://www.dailywire.com/news/trump-moves-to-address-rising-gas-prices-as-iran-war-disrupts-global-market",
           "title": "Trump Moves To Address Rising Gas Prices As Iran War Disrupts Global Market",
           "url": "https://www.dailywire.com/news/trump-moves-to-address-rising-gas-prices-as-iran-war-disrupts-global-market",
@@ -3354,16 +3354,6 @@
           "source": "NPR",
           "publishedAt": "2026-03-25T16:03:41.000Z",
           "description": "\"There is an America that is more free — where there's more equality, where there is more justice, where there is less bigotry — and I think it's waiting for us,\" says lawyer Bryan Stevenson.",
-          "imageUrl": null,
-          "categories": []
-        },
-        {
-          "id": "NPR:https://www.npr.org/2026/03/25/nx-s1-5760832/cdc-turmoil-director",
-          "title": "A leadership vacuum adds to strains on the CDC",
-          "url": "https://www.npr.org/2026/03/25/nx-s1-5760832/cdc-turmoil-director",
-          "source": "NPR",
-          "publishedAt": "2026-03-25T16:01:04.000Z",
-          "description": "Low morale, staff turnover and budget issues have sapped the Centers for Disease Control and Prevention. The administration is expected to soon name a new director, who will have their hands full.",
           "imageUrl": null,
           "categories": []
         },
@@ -3568,7 +3558,7 @@
         }
       ],
       "subtopics": {
-        "Immigration Trends and Controversies": [
+        "Immigration and Border Issues": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/26/us/politics/us-census-county-immigration.html",
             "title": "Immigration Slowdown Hits Every Metro Area in the U.S., Census Shows",
@@ -3619,7 +3609,7 @@
             "categories": []
           }
         ],
-        "Missing Persons and Family Appeals": [
+        "Missing Persons Cases and Family Perspectives": [
           {
             "id": "Fox News:https://www.foxnews.com/us/missing-womans-sister-says-nancy-guthrie-case-now-hope-roller-coaster-family-search-continues",
             "title": "Missing woman’s sister says Nancy Guthrie case now a ‘hope roller coaster’ for family as search continues",
@@ -3653,7 +3643,7 @@
             "categories": []
           }
         ],
-        "Travel and Airport Delays": [
+        "Airport Security, TSA Delays, and ICE Involvement": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/25/us/ice-airports-checking-ids-security.html",
             "title": "ICE Agents at Some Airports Begin Checking IDs in Security Lines",
@@ -3697,6 +3687,16 @@
             "categories": []
           },
           {
+            "id": "Daily Wire:https://www.dailywire.com/news/paid-democrats-and-unpaid-tsa-agents-have-one-thing-in-common",
+            "title": "Paid Democrats And Unpaid TSA Agents Have One Thing In Common",
+            "url": "https://www.dailywire.com/news/paid-democrats-and-unpaid-tsa-agents-have-one-thing-in-common",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-25T14:38:22.000Z",
+            "description": "Democratic senators and the TSA agents they’re refusing to fund have one thing in common: Neither are showing up for work. There is also one key difference between the two: TSA agents haven’t been paid since February, while Democrat senators are still collecting their $175,000 salaries. Senate Commerce Committee Chairman Ted Cruz (R-TX) was ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Empty_Congress_Money_TSA.jpg",
+            "categories": []
+          },
+          {
             "id": "Daily Wire:https://www.dailywire.com/news/trump-weighs-major-move-as-americans-face-endless-airport-delays",
             "title": "Trump Weighs Major Move As Americans Face Endless Airport Delays",
             "url": "https://www.dailywire.com/news/trump-weighs-major-move-as-americans-face-endless-airport-delays",
@@ -3705,17 +3705,9 @@
             "description": "WASHINGTON—President Donald Trump may send the National Guard to assist ICE agents and TSA at airport security lines across the nation as travelers continue to face endless delays. The president weighed in on the situation again on Wednesday in a Truth Social post thanking ICE agents for assisting at airports, and hinting at deploying the ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/02/GettyImages-516940822.jpg",
             "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/united-airlines-just-changed-the-game-for-families-traveling-with-kids",
-            "title": "United Airlines Just Changed The Game For Families Traveling With Kids",
-            "url": "https://www.dailywire.com/news/united-airlines-just-changed-the-game-for-families-traveling-with-kids",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-25T13:44:04.000Z",
-            "description": "United Airlines is introducing a new seating option aimed at making long flights more comfortable, especially for families traveling with young children. The airline recently unveiled “Relax Row,” which transforms three adjacent economy seats into a lie-flat space. The feature, announced on social media, is expected to roll out in 2027. The entire row is ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Traveling-family.jpg",
-            "categories": []
-          },
+          }
+        ],
+        "Middle East Conflict and Related Political Developments": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss",
             "title": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
@@ -3725,26 +3717,59 @@
             "description": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1543/live/c1c12910-2837-11f1-b297-95b0a0a8331e.jpg",
             "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss",
+            "title": "British forces preparing to board Russian shadow fleet ships in UK waters",
+            "url": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-25T23:03:55.000Z",
+            "description": "The move will \"starve Putin's war machine\", Starmer says as he arrives in Finland for a military summit.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd23/live/f8eccb40-ef22-11f0-b1a3-cfac234d0717.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/trump-moves-to-address-rising-gas-prices-as-iran-war-disrupts-global-market",
+            "title": "Trump Moves To Address Rising Gas Prices As Iran War Disrupts Global Market",
+            "url": "https://www.dailywire.com/news/trump-moves-to-address-rising-gas-prices-as-iran-war-disrupts-global-market",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-25T17:32:47.000Z",
+            "description": "The Environmental Protection Agency temporarily is set to cut regulations on fuel blended with ethanol in an effort to address gas prices which have soared in recent weeks due to the ongoing conflict in Iran. President Donald Trump’s EPA said on Wednesday that it is waiving federal restrictions to allow the nationwide sale of gas ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2263930686.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/trump-takes-out-irans-top-terror-figure-but-newsoms-team-tips-cap-to-obama",
+            "title": "Trump Takes Out Iran’s Top Terror Figure But Newsom’s Team Tips Cap To Obama",
+            "url": "https://www.dailywire.com/news/trump-takes-out-irans-top-terror-figure-but-newsoms-team-tips-cap-to-obama",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-25T11:37:16.000Z",
+            "description": "In a display critics describe as historical revisionism, California Democratic Gov. Gavin Newsom’s press office claimed Tuesday that former President Barack Obama was “the man who actually got Iran to make a deal that kept Americans safe.” Critics argued that the statement ignores controversies surrounding the 2015 nuclear deal, including the humiliation of American servicemen, ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/trump_newsom_obama_blendy.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/trump-teases-mysterious-iran-prize-as-bigger-stakes-come-into-focus",
+            "title": "Trump Teases Mysterious Iran ‘Prize’ As Bigger Stakes Come Into Focus",
+            "url": "https://www.dailywire.com/news/trump-teases-mysterious-iran-prize-as-bigger-stakes-come-into-focus",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-25T09:16:56.000Z",
+            "description": "President Donald Trump said Tuesday that Iran had sent the United States “a very big present” as he pushes for a deal to end the war. “They’re going to make a deal. They did something yesterday that was amazing actually,” Trump told reporters at the White House. “They gave us a present and the present ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267243368.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/pentagon-trying-to-ramp-up-weapons-production-to-get-on-wartime-footing",
+            "title": "Pentagon Trying To Ramp Up Weapons Production To Get On ‘Wartime Footing’",
+            "url": "https://www.dailywire.com/news/pentagon-trying-to-ramp-up-weapons-production-to-get-on-wartime-footing",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-25T09:55:34.000Z",
+            "description": "The Department of War announced a series of new deals on Wednesday to quickly increase U.S. weapons production, as the Trump administration pushes to place the defense industrial base on a “wartime footing.” The initiatives — spanning missile systems, critical components, and missile defense — are part of a broader effort to accelerate production and ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/original.jpg",
+            "categories": []
           }
         ],
-        "US Politics and Legal Issues": [
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/25/us/matt-bevin-kentucky-arrest-contempt.html",
-            "title": "Judge Orders Arrest of Matt Bevin, Former Kentucky Governor, for Contempt",
-            "url": "https://www.nytimes.com/2026/03/25/us/matt-bevin-kentucky-arrest-contempt.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-25T23:27:24.000Z",
-            "description": "Seven years after leaving office, Matt Bevin, the combative ex-governor, faces charges for not providing financial records sought by his estranged son.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/26/multimedia/26-nat-ky-bevin-1-cjwf/26-nat-ky-bevin-1-cjwf-mediumSquareAt3X.jpg",
-            "categories": [
-              "Governors (US)",
-              "Child Custody and Support",
-              "Adoptions",
-              "Bevin, Matthew",
-              "Kentucky",
-              "Louisville (Ky)"
-            ]
-          },
+        "Crime and Legal Proceedings in the U.S.": [
           {
             "id": "Fox News:https://www.foxnews.com/us/gorman-family-calls-out-johnson-pritzker-following-college-students-killing-chicago",
             "title": "Gorman family calls out Johnson and Pritzker following college student's killing in Chicago",
@@ -3766,89 +3791,60 @@
             ]
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/in-race-to-become-newsoms-successor-democrats-have-fears-confirmed",
-            "title": "In Race To Become Newsom’s Successor, Democrats Have Fears Confirmed",
-            "url": "https://www.dailywire.com/news/in-race-to-become-newsoms-successor-democrats-have-fears-confirmed",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-25T14:58:21.000Z",
-            "description": "A recent poll of the California gubernatorial field backed by the California Democratic Party confirmed their own fears about the potential for a lockout in the top-two primary race. The EVITARUS Research survey of 2,000 likely voters from March 12-17 showed Republicans Steve Hilton and Chad Bianco leading the pack at 16% and 14%, respectively. ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/02/GettyImages-2261620375.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/paid-democrats-and-unpaid-tsa-agents-have-one-thing-in-common",
-            "title": "Paid Democrats And Unpaid TSA Agents Have One Thing In Common",
-            "url": "https://www.dailywire.com/news/paid-democrats-and-unpaid-tsa-agents-have-one-thing-in-common",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-25T14:38:22.000Z",
-            "description": "Democratic senators and the TSA agents they’re refusing to fund have one thing in common: Neither are showing up for work. There is also one key difference between the two: TSA agents haven’t been paid since February, while Democrat senators are still collecting their $175,000 salaries. Senate Commerce Committee Chairman Ted Cruz (R-TX) was ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Empty_Congress_Money_TSA.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/bidens-social-media-censorship-campaign-is-finally-dead",
-            "title": "Biden’s Social Media Censorship Campaign Is Finally Dead",
-            "url": "https://www.dailywire.com/news/bidens-social-media-censorship-campaign-is-finally-dead",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-25T11:10:33.000Z",
-            "description": "WASHINGTON—A civil rights group this week reached a sweeping settlement with the federal government, which will stop agencies from pressuring social media companies to remove or suppress lawful speech. The New Civil Liberties Alliance announced Tuesday that it had reached a consent decree on behalf of its clients in the case Missouri v. Biden, a long-running ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/02/GettyImages-2161687463.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/trump-takes-out-irans-top-terror-figure-but-newsoms-team-tips-cap-to-obama",
-            "title": "Trump Takes Out Iran’s Top Terror Figure But Newsom’s Team Tips Cap To Obama",
-            "url": "https://www.dailywire.com/news/trump-takes-out-irans-top-terror-figure-but-newsoms-team-tips-cap-to-obama",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-25T11:37:16.000Z",
-            "description": "In a display critics describe as historical revisionism, California Democratic Gov. Gavin Newsom’s press office claimed Tuesday that former President Barack Obama was “the man who actually got Iran to make a deal that kept Americans safe.” Critics argued that the statement ignores controversies surrounding the 2015 nuclear deal, including the humiliation of American servicemen, ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/trump_newsom_obama_blendy.jpg",
-            "categories": []
-          }
-        ],
-        "Health and Science Developments": [
-          {
-            "id": "Fox News:https://www.foxnews.com/health/chronic-back-pain-may-have-met-its-match-hormone-treatment-scientists-say",
-            "title": "Chronic back pain may have met its match with hormone treatment, scientists say",
-            "url": "https://www.foxnews.com/health/chronic-back-pain-may-have-met-its-match-hormone-treatment-scientists-say",
+            "id": "Fox News:https://www.foxnews.com/us/cop-trial-denies-gunning-fellow-officer-clash-home-prosecutors-argue-lethal-risk-real",
+            "title": "Cop on trial denies gunning for fellow officer in clash at home; prosecutors argue lethal risk was real",
+            "url": "https://www.foxnews.com/us/cop-trial-denies-gunning-fellow-officer-clash-home-prosecutors-argue-lethal-risk-real",
             "source": "Fox News",
-            "publishedAt": "2026-03-25T23:27:45.000Z",
-            "description": "A Johns Hopkins study suggests the parathyroid hormone may stop chronic back pain at its source by reversing nerve growth in degenerating spinal discs.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/senior-man-back-pain-doctor-fox-news_.jpeg?ve=1&tl=1",
+            "publishedAt": "2026-03-26T00:39:24.000Z",
+            "description": "Former North Andover Officer Kelsey Fitzsimmons testified she never aimed her gun at Officer Patrick Noonan, claiming she was attempting suicide when shot.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kelsey-fitzsimmons-testifies-that-she-wanted-to-die-in-assault-trial-1.jpg?ve=1&tl=1",
             "categories": [
-              "2843d817-0981-5d45-ba3b-55c0be16daac",
+              "03a88e5d-838f-5757-9e69-4dfa9478a49a",
               "fnc",
               "Fox News",
-              "fox-news/health",
-              "fox-news/health/orthopedics",
-              "fox-news/health/medical-research",
-              "fox-news/health/pain-management",
-              "fox-news/health/pain-management/back-pain",
-              "fox-news/health/endocrine",
-              "fox-news/lifestyle",
-              "fox-news/health",
+              "fox-news/us/us-regions/northeast/massachusetts",
+              "fox-news/us/crime/police-and-law-enforcement",
+              "fox-news/us",
+              "fox-news/crime",
+              "fox-news/us/crime/trials",
+              "fox-news/us/true-crime",
+              "fox-news/us",
               "article"
             ]
           },
           {
-            "id": "NPR:https://www.npr.org/2026/03/25/nx-s1-5729092/fda-rsv-antibodies-shots-babies",
-            "title": "Doctors worry about FDA scrutiny of RSV shots to protect babies",
-            "url": "https://www.npr.org/2026/03/25/nx-s1-5729092/fda-rsv-antibodies-shots-babies",
-            "source": "NPR",
-            "publishedAt": "2026-03-25T20:26:59.000Z",
-            "description": "The antibody shots are about 80% effective at preventing babies from ending up in intensive care because of RSV. The drugmakers behind them maintain they're safe.",
-            "imageUrl": null,
-            "categories": []
+            "id": "New York Times:https://www.nytimes.com/2026/03/25/us/matt-bevin-kentucky-arrest-contempt.html",
+            "title": "Judge Orders Arrest of Matt Bevin, Former Kentucky Governor, for Contempt",
+            "url": "https://www.nytimes.com/2026/03/25/us/matt-bevin-kentucky-arrest-contempt.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-25T23:27:24.000Z",
+            "description": "Seven years after leaving office, Matt Bevin, the combative ex-governor, faces charges for not providing financial records sought by his estranged son.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/26/multimedia/26-nat-ky-bevin-1-cjwf/26-nat-ky-bevin-1-cjwf-mediumSquareAt3X.jpg",
+            "categories": [
+              "Governors (US)",
+              "Child Custody and Support",
+              "Adoptions",
+              "Bevin, Matthew",
+              "Kentucky",
+              "Louisville (Ky)"
+            ]
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/even-religious-minded-americans-are-willing-to-accept-assisted-suicide",
-            "title": "Even Religious-minded Americans Are Willing To Accept Assisted Suicide",
-            "url": "https://www.dailywire.com/news/even-religious-minded-americans-are-willing-to-accept-assisted-suicide",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-25T11:22:25.000Z",
-            "description": "America is developing an appetite for killing its elderly. A recent Pew Research poll suggests that comfort is growing: 63 percent of Americans now say physician-assisted death is either morally acceptable or simply not a moral issue at all. Only 35 percent call it morally wrong. The conscience is not yet gone. But it is ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-1720061.jpg",
-            "categories": []
+            "id": "New York Times:https://www.nytimes.com/2026/03/25/nyregion/daycare-brooklyn-theft-wwe.html",
+            "title": "Day Care Worker Stole Millions for Trips and W.W.E. Tickets, U.S. Says",
+            "url": "https://www.nytimes.com/2026/03/25/nyregion/daycare-brooklyn-theft-wwe.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-25T22:33:59.000Z",
+            "description": "Murielle Misczak was arrested Wednesday morning and is accused of using the money on wrestling tickets, luxury vacations and food deliveries.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/25/multimedia/25met-daycare-flmz/25met-daycare-flmz-mediumSquareAt3X.jpg",
+            "categories": [
+              "Child Care",
+              "Day Care Centers",
+              "Federal Bureau of Investigation",
+              "Brooklyn (NYC)",
+              "New York City",
+              "Robberies and Thefts"
+            ]
           }
         ],
         "Other Coverage": [
@@ -3920,28 +3916,6 @@
             ]
           },
           {
-            "id": "Fox News:https://www.foxnews.com/us/cop-trial-denies-gunning-fellow-officer-clash-home-prosecutors-argue-lethal-risk-real",
-            "title": "Cop on trial denies gunning for fellow officer in clash at home; prosecutors argue lethal risk was real",
-            "url": "https://www.foxnews.com/us/cop-trial-denies-gunning-fellow-officer-clash-home-prosecutors-argue-lethal-risk-real",
-            "source": "Fox News",
-            "publishedAt": "2026-03-26T00:39:24.000Z",
-            "description": "Former North Andover Officer Kelsey Fitzsimmons testified she never aimed her gun at Officer Patrick Noonan, claiming she was attempting suicide when shot.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kelsey-fitzsimmons-testifies-that-she-wanted-to-die-in-assault-trial-1.jpg?ve=1&tl=1",
-            "categories": [
-              "03a88e5d-838f-5757-9e69-4dfa9478a49a",
-              "fnc",
-              "Fox News",
-              "fox-news/us/us-regions/northeast/massachusetts",
-              "fox-news/us/crime/police-and-law-enforcement",
-              "fox-news/us",
-              "fox-news/crime",
-              "fox-news/us/crime/trials",
-              "fox-news/us/true-crime",
-              "fox-news/us",
-              "article"
-            ]
-          },
-          {
             "id": "BBC:https://www.bbc.com/news/articles/c3w3e0jjx3xo?at_medium=RSS&at_campaign=rss",
             "title": "Camilla's love of books explored in BBC documentary",
             "url": "https://www.bbc.com/news/articles/c3w3e0jjx3xo?at_medium=RSS&at_campaign=rss",
@@ -3950,6 +3924,29 @@
             "description": "The Queen will reflect on the childhood experiences that sparked her passion for reading and reflect on the comfort she still finds in books.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc1/live/46cb2f10-28a2-11f1-b297-95b0a0a8331e.jpg",
             "categories": []
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/health/chronic-back-pain-may-have-met-its-match-hormone-treatment-scientists-say",
+            "title": "Chronic back pain may have met its match with hormone treatment, scientists say",
+            "url": "https://www.foxnews.com/health/chronic-back-pain-may-have-met-its-match-hormone-treatment-scientists-say",
+            "source": "Fox News",
+            "publishedAt": "2026-03-25T23:27:45.000Z",
+            "description": "A Johns Hopkins study suggests the parathyroid hormone may stop chronic back pain at its source by reversing nerve growth in degenerating spinal discs.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/senior-man-back-pain-doctor-fox-news_.jpeg?ve=1&tl=1",
+            "categories": [
+              "2843d817-0981-5d45-ba3b-55c0be16daac",
+              "fnc",
+              "Fox News",
+              "fox-news/health",
+              "fox-news/health/orthopedics",
+              "fox-news/health/medical-research",
+              "fox-news/health/pain-management",
+              "fox-news/health/pain-management/back-pain",
+              "fox-news/health/endocrine",
+              "fox-news/lifestyle",
+              "fox-news/health",
+              "article"
+            ]
           },
           {
             "id": "Daily Wire:https://www.dailywire.com/news/the-army-just-made-a-few-changes-that-make-me-think-one-thing",
@@ -3962,16 +3959,6 @@
             "categories": []
           },
           {
-            "id": "BBC:https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss",
-            "title": "British forces preparing to board Russian shadow fleet ships in UK waters",
-            "url": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-25T23:03:55.000Z",
-            "description": "The move will \"starve Putin's war machine\", Starmer says as he arrives in Finland for a military summit.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd23/live/f8eccb40-ef22-11f0-b1a3-cfac234d0717.jpg",
-            "categories": []
-          },
-          {
             "id": "BBC:https://www.bbc.com/news/articles/ce84xjl0gx8o?at_medium=RSS&at_campaign=rss",
             "title": "Peers defy government by pushing for UK social media ban for under-16s",
             "url": "https://www.bbc.com/news/articles/ce84xjl0gx8o?at_medium=RSS&at_campaign=rss",
@@ -3980,23 +3967,6 @@
             "description": "The government is consulting on whether the UK should follow Australia by introducing a ban.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b72a/live/baaa0ec0-f6a1-11f0-a917-d3d793525367.jpg",
             "categories": []
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/25/nyregion/daycare-brooklyn-theft-wwe.html",
-            "title": "Day Care Worker Stole Millions for Trips and W.W.E. Tickets, U.S. Says",
-            "url": "https://www.nytimes.com/2026/03/25/nyregion/daycare-brooklyn-theft-wwe.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-25T22:33:59.000Z",
-            "description": "Murielle Misczak was arrested Wednesday morning and is accused of using the money on wrestling tickets, luxury vacations and food deliveries.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/25/multimedia/25met-daycare-flmz/25met-daycare-flmz-mediumSquareAt3X.jpg",
-            "categories": [
-              "Child Care",
-              "Day Care Centers",
-              "Federal Bureau of Investigation",
-              "Brooklyn (NYC)",
-              "New York City",
-              "Robberies and Thefts"
-            ]
           },
           {
             "id": "Daily Wire:https://www.dailywire.com/news/everything-is-fake-now-and-its-worse-than-you-think",
@@ -4019,14 +3989,30 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/trump-moves-to-address-rising-gas-prices-as-iran-war-disrupts-global-market",
-            "title": "Trump Moves To Address Rising Gas Prices As Iran War Disrupts Global Market",
-            "url": "https://www.dailywire.com/news/trump-moves-to-address-rising-gas-prices-as-iran-war-disrupts-global-market",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-25T17:32:47.000Z",
-            "description": "The Environmental Protection Agency temporarily is set to cut regulations on fuel blended with ethanol in an effort to address gas prices which have soared in recent weeks due to the ongoing conflict in Iran. President Donald Trump’s EPA said on Wednesday that it is waiving federal restrictions to allow the nationwide sale of gas ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2263930686.jpg",
+            "id": "NPR:https://www.npr.org/2026/03/25/nx-s1-5729092/fda-rsv-antibodies-shots-babies",
+            "title": "Doctors worry about FDA scrutiny of RSV shots to protect babies",
+            "url": "https://www.npr.org/2026/03/25/nx-s1-5729092/fda-rsv-antibodies-shots-babies",
+            "source": "NPR",
+            "publishedAt": "2026-03-25T20:26:59.000Z",
+            "description": "The antibody shots are about 80% effective at preventing babies from ending up in intensive care because of RSV. The drugmakers behind them maintain they're safe.",
+            "imageUrl": null,
             "categories": []
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/25/opinion/zach-polanski-green-party-britain.html",
+            "title": "Zack Polanski on the Rise of Britain’s Green Party",
+            "url": "https://www.nytimes.com/2026/03/25/opinion/zach-polanski-green-party-britain.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-25T19:00:04.000Z",
+            "description": "Zach Polanski of Britain’s left-populist party talks austerity, Labour and the establishment crackup.",
+            "imageUrl": null,
+            "categories": [
+              "Green Party (Britain)",
+              "Great Britain",
+              "Global Warming",
+              "Income Inequality",
+              "Populism (Theory and Philosophy)"
+            ]
           },
           {
             "id": "NPR:https://www.npr.org/2026/03/25/nx-s1-5753707/archbishop-canterbury-church-england-sarah-mullally",
@@ -4045,16 +4031,6 @@
             "source": "NPR",
             "publishedAt": "2026-03-25T16:03:41.000Z",
             "description": "\"There is an America that is more free — where there's more equality, where there is more justice, where there is less bigotry — and I think it's waiting for us,\" says lawyer Bryan Stevenson.",
-            "imageUrl": null,
-            "categories": []
-          },
-          {
-            "id": "NPR:https://www.npr.org/2026/03/25/nx-s1-5760832/cdc-turmoil-director",
-            "title": "A leadership vacuum adds to strains on the CDC",
-            "url": "https://www.npr.org/2026/03/25/nx-s1-5760832/cdc-turmoil-director",
-            "source": "NPR",
-            "publishedAt": "2026-03-25T16:01:04.000Z",
-            "description": "Low morale, staff turnover and budget issues have sapped the Centers for Disease Control and Prevention. The administration is expected to soon name a new director, who will have their hands full.",
             "imageUrl": null,
             "categories": []
           },
@@ -4084,6 +4060,16 @@
             "categories": []
           },
           {
+            "id": "Daily Wire:https://www.dailywire.com/news/in-race-to-become-newsoms-successor-democrats-have-fears-confirmed",
+            "title": "In Race To Become Newsom’s Successor, Democrats Have Fears Confirmed",
+            "url": "https://www.dailywire.com/news/in-race-to-become-newsoms-successor-democrats-have-fears-confirmed",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-25T14:58:21.000Z",
+            "description": "A recent poll of the California gubernatorial field backed by the California Democratic Party confirmed their own fears about the potential for a lockout in the top-two primary race. The EVITARUS Research survey of 2,000 likely voters from March 12-17 showed Republicans Steve Hilton and Chad Bianco leading the pack at 16% and 14%, respectively. ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/02/GettyImages-2261620375.jpg",
+            "categories": []
+          },
+          {
             "id": "Daily Wire:https://www.dailywire.com/news/cocaine-with-the-castros",
             "title": "Cocaine With The Castros",
             "url": "https://www.dailywire.com/news/cocaine-with-the-castros",
@@ -4091,6 +4077,36 @@
             "publishedAt": "2026-03-25T13:58:07.000Z",
             "description": "“You know what we call a gram of coke here in Cuba?” In the humid outskirts of Havana, I felt like I’d drifted into a sepia-tinted parallel timeline. “A ‘Fidel’.” My laughter wasn’t forthcoming. Not that it wasn’t funny. I was paralyzed by the surrealism. It was the last week of six decades of Castro ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-545012993.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/united-airlines-just-changed-the-game-for-families-traveling-with-kids",
+            "title": "United Airlines Just Changed The Game For Families Traveling With Kids",
+            "url": "https://www.dailywire.com/news/united-airlines-just-changed-the-game-for-families-traveling-with-kids",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-25T13:44:04.000Z",
+            "description": "United Airlines is introducing a new seating option aimed at making long flights more comfortable, especially for families traveling with young children. The airline recently unveiled “Relax Row,” which transforms three adjacent economy seats into a lie-flat space. The feature, announced on social media, is expected to roll out in 2027. The entire row is ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Traveling-family.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/even-religious-minded-americans-are-willing-to-accept-assisted-suicide",
+            "title": "Even Religious-minded Americans Are Willing To Accept Assisted Suicide",
+            "url": "https://www.dailywire.com/news/even-religious-minded-americans-are-willing-to-accept-assisted-suicide",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-25T11:22:25.000Z",
+            "description": "America is developing an appetite for killing its elderly. A recent Pew Research poll suggests that comfort is growing: 63 percent of Americans now say physician-assisted death is either morally acceptable or simply not a moral issue at all. Only 35 percent call it morally wrong. The conscience is not yet gone. But it is ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-1720061.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/bidens-social-media-censorship-campaign-is-finally-dead",
+            "title": "Biden’s Social Media Censorship Campaign Is Finally Dead",
+            "url": "https://www.dailywire.com/news/bidens-social-media-censorship-campaign-is-finally-dead",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-25T11:10:33.000Z",
+            "description": "WASHINGTON—A civil rights group this week reached a sweeping settlement with the federal government, which will stop agencies from pressuring social media companies to remove or suppress lawful speech. The New Civil Liberties Alliance announced Tuesday that it had reached a consent decree on behalf of its clients in the case Missouri v. Biden, a long-running ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/02/GettyImages-2161687463.jpg",
             "categories": []
           },
           {
@@ -4124,16 +4140,6 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/pentagon-trying-to-ramp-up-weapons-production-to-get-on-wartime-footing",
-            "title": "Pentagon Trying To Ramp Up Weapons Production To Get On ‘Wartime Footing’",
-            "url": "https://www.dailywire.com/news/pentagon-trying-to-ramp-up-weapons-production-to-get-on-wartime-footing",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-25T09:55:34.000Z",
-            "description": "The Department of War announced a series of new deals on Wednesday to quickly increase U.S. weapons production, as the Trump administration pushes to place the defense industrial base on a “wartime footing.” The initiatives — spanning missile systems, critical components, and missile defense — are part of a broader effort to accelerate production and ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/original.jpg",
-            "categories": []
-          },
-          {
             "id": "Daily Wire:https://www.dailywire.com/news/were-taking-a-different-approach-to-the-culture-fight-heres-how",
             "title": "We’re Taking A Different Approach To The Culture Fight. Here’s How.",
             "url": "https://www.dailywire.com/news/were-taking-a-different-approach-to-the-culture-fight-heres-how",
@@ -4141,16 +4147,6 @@
             "publishedAt": "2026-03-25T09:32:24.000Z",
             "description": "This article is part of Upstream, The Daily Wire’s new home for culture and lifestyle. Real human insight and human stories — from our featured writers to you. *** It’s been more than 20 years since I first started speaking to conservative groups about the leftist monopoly on the arts. I would tell them that feminine women ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-1415192975.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/trump-teases-mysterious-iran-prize-as-bigger-stakes-come-into-focus",
-            "title": "Trump Teases Mysterious Iran ‘Prize’ As Bigger Stakes Come Into Focus",
-            "url": "https://www.dailywire.com/news/trump-teases-mysterious-iran-prize-as-bigger-stakes-come-into-focus",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-25T09:16:56.000Z",
-            "description": "President Donald Trump said Tuesday that Iran had sent the United States “a very big present” as he pushes for a deal to end the war. “They’re going to make a deal. They did something yesterday that was amazing actually,” Trump told reporters at the White House. “They gave us a present and the present ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267243368.jpg",
             "categories": []
           },
           {
@@ -4192,6 +4188,61 @@
     }
   },
   "latestArticles": [
+    {
+      "id": "NPR:https://www.npr.org/2026/03/26/nx-s1-5761896/un-reparations-slavery-africa",
+      "title": "UN calls for reparations to remedy the 'historical wrongs' of trafficking enslaved Africans",
+      "url": "https://www.npr.org/2026/03/26/nx-s1-5761896/un-reparations-slavery-africa",
+      "source": "NPR",
+      "publishedAt": "2026-03-26T05:21:13.000Z",
+      "description": "The U.N. General Assembly adopted a resolution declaring the trafficking of enslaved Africans \"the gravest crime against humanity\" and calling for reparations.",
+      "imageUrl": null,
+      "categories": []
+    },
+    {
+      "id": "New York Times:https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
+      "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial",
+      "url": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
+      "source": "New York Times",
+      "publishedAt": "2026-03-26T05:19:29.000Z",
+      "description": "A jury found the companies harmed a young user with design features that were addictive and led to her mental health distress.",
+      "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/00biz-social-media-verdict-HFO-mark-ctqz/00biz-social-media-verdict-HFO-mark-ctqz-mediumSquareAt3X.jpg",
+      "categories": [
+        "Liability for Products",
+        "Social Media",
+        "Suits and Litigation (Civil)",
+        "Decisions and Verdicts",
+        "Addiction (Psychology)",
+        "Youth",
+        "Jury System",
+        "Mental Health and Disorders",
+        "Computers and the Internet",
+        "Instagram Inc",
+        "Meta Platforms Inc",
+        "YouTube.com",
+        "Los Angeles County (Calif)",
+        "internal-open-access-from-nl"
+      ]
+    },
+    {
+      "id": "New York Times:https://www.nytimes.com/2026/03/26/opinion/congo-lumumba-cia-assassination.html",
+      "title": "It Was One of the Cold War’s Greatest Crimes. No One Has Paid a Price.",
+      "url": "https://www.nytimes.com/2026/03/26/opinion/congo-lumumba-cia-assassination.html",
+      "source": "New York Times",
+      "publishedAt": "2026-03-26T05:00:06.000Z",
+      "description": "No one apart from the Congolese people has ever paid a price for the CIA-backed assassination of Patrice Lumumba.",
+      "imageUrl": "https://static01.nyt.com/images/2026/03/26/opinion/26reid-lumumba/26reid-lumumba-mediumSquareAt3X-v2.jpg",
+      "categories": [
+        "Lumumba, Patrice",
+        "Central Intelligence Agency",
+        "Murders, Attempted Murders and Homicides",
+        "Mobutu Sese Seko",
+        "Eisenhower, Dwight David",
+        "Cold War Era",
+        "Belgium",
+        "Leopold II",
+        "Congo, Democratic Republic of (Congo-Kinshasa)"
+      ]
+    },
     {
       "id": "New York Times:https://www.nytimes.com/2026/03/26/world/europe/iran-trump-hormuz-europe-dilemma.html",
       "title": "Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran",
@@ -4348,50 +4399,6 @@
       "description": "The Conservatives said the changes were being made by a government \"stuck in consultation paralysis\".",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0e9/live/bcd4a260-05b4-11f1-9972-d3f265c101c6.jpg",
       "categories": []
-    },
-    {
-      "id": "BBC:https://www.bbc.com/news/articles/c0q90kekw08o?at_medium=RSS&at_campaign=rss",
-      "title": "Chris Mason: How will the UK respond to US court verdict on social media?",
-      "url": "https://www.bbc.com/news/articles/c0q90kekw08o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-03-26T03:40:16.000Z",
-      "description": "Will the decision of a Los Angeles jury have an impact on the UK government as it considers potential future regulations on social media, writes the BBC's political editor.",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e81/live/de91aa80-28c6-11f1-90f6-530f10a736fc.jpg",
-      "categories": []
-    },
-    {
-      "id": "Fox News:https://www.foxnews.com/politics/trump-admin-makes-new-criminal-referrals-doj-targeting-new-york-ag-letitia-james",
-      "title": "Trump admin makes new criminal referrals to DOJ targeting New York AG Letitia James",
-      "url": "https://www.foxnews.com/politics/trump-admin-makes-new-criminal-referrals-doj-targeting-new-york-ag-letitia-james",
-      "source": "Fox News",
-      "publishedAt": "2026-03-26T03:34:14.000Z",
-      "description": "The Trump administration has made criminal referrals to the DOJ alleging New York AG Letitia James committed homeowners insurance fraud, officials confirmed.",
-      "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/new-york-attorney-general-letitia-james.jpg?ve=1&tl=1",
-      "categories": [
-        "1e5d3d63-4e27-5bf1-a413-4fd0fec9a574",
-        "fnc",
-        "Fox News",
-        "fox-news/politics/justice-department",
-        "fox-news/crime",
-        "fox-news/us/us-regions/southeast/florida",
-        "fox-news/politics",
-        "article"
-      ]
-    },
-    {
-      "id": "New York Times:https://www.nytimes.com/2026/03/25/arts/music/chip-taylor-dead.html",
-      "title": "Chip Taylor, Writer of ‘Wild Thing’ and Other Classic Rock Hits, Dies at 86",
-      "url": "https://www.nytimes.com/2026/03/25/arts/music/chip-taylor-dead.html",
-      "source": "New York Times",
-      "publishedAt": "2026-03-26T02:38:04.000Z",
-      "description": "Mr. Taylor, the younger brother of the actor Jon Voight, found success as a songwriter for the likes of Janis Joplin and Juice Newton.",
-      "imageUrl": "https://static01.nyt.com/images/2026/03/25/multimedia/25xp-taylor-jltg/25xp-taylor-jltg-mediumSquareAt3X.jpg",
-      "categories": [
-        "Taylor, Chip",
-        "Deaths (Obituaries)",
-        "Pop and Rock Music",
-        "Songwriters Hall of Fame"
-      ]
     }
   ]
 }
