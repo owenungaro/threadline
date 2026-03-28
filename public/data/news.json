@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-28T05:29:17.838Z",
+  "generatedAt": "2026-03-28T06:21:19.820Z",
   "stats": {
     "articleCount": 153,
     "sourceCount": 5,
@@ -7,7 +7,7 @@
   },
   "topics": {
     "Politics": {
-      "articleCount": 40,
+      "articleCount": 39,
       "sourceCount": 5,
       "articles": [
         {
@@ -457,16 +457,6 @@
           ]
         },
         {
-          "id": "BBC:https://www.bbc.com/news/articles/clyxeqpzz2no?at_medium=RSS&at_campaign=rss",
-          "title": "No evidence of 'family voting' in Gorton and Denton by-election",
-          "url": "https://www.bbc.com/news/articles/clyxeqpzz2no?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-27T17:20:30.000Z",
-          "description": "An investigation into alleged \"family voting\" finds no evidence of intent to influence voting.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3be6/live/b4b1ad00-29f7-11f1-8f65-5dbc9a6a5bd5.jpg",
-          "categories": []
-        },
-        {
           "id": "Daily Wire:https://www.dailywire.com/news/vance-drops-immigration-fraud-bombshell-on-squad-member",
           "title": "Vance Drops ‘Immigration Fraud’ Bombshell On ‘Squad’ Member",
           "url": "https://www.dailywire.com/news/vance-drops-immigration-fraud-bombshell-on-squad-member",
@@ -638,7 +628,7 @@
         }
       ],
       "subtopics": {
-        "DHS Funding Shutdown and Congressional Standoff": [
+        "DHS Funding Standoff and Shutdown Impact": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html",
             "title": "House Vote Sets Up Clash With the Senate on D.H.S. Funding, Prolonging Shutdown",
@@ -755,36 +745,6 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/why-dhs-funding-negotiations-are-falling-apart",
-            "title": "Why DHS Funding Negotiations Are Falling Apart",
-            "url": "https://www.dailywire.com/news/why-dhs-funding-negotiations-are-falling-apart",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-26T13:44:23.000Z",
-            "description": "Negotiations on Capitol Hill appear to be at a standstill after both Republicans and Democrats have rejected each other’s offers to break the stalemate, fully fund the Department of Homeland Security, and put an end to the ongoing partial government shutdown. Senate Majority Leader John Thune said on Thursday that Democrats are “now in possession ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/02/GettyImages-2262890566.jpg",
-            "categories": []
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/politics/white-house-slams-trash-reporting-over-claims-ice-chief-hospitalized-stress-yelled-trump-admin",
-            "title": "White House slams ‘trash reporting’ over claims ICE chief hospitalized for stress, yelled at by Trump admin",
-            "url": "https://www.foxnews.com/politics/white-house-slams-trash-reporting-over-claims-ice-chief-hospitalized-stress-yelled-trump-admin",
-            "source": "Fox News",
-            "publishedAt": "2026-03-27T23:08:00.000Z",
-            "description": "Politico reported that ICE acting Director Todd Lyons was hospitalized for stress linked to Trump's deportation push, but the White House calls it trash reporting.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/todd-lyons-ice-agents.jpg?ve=1&tl=1",
-            "categories": [
-              "29beed52-bf19-5882-ae4a-45a3a9fe82d5",
-              "fnc",
-              "Fox News",
-              "fox-news/politics/executive/white-house",
-              "fox-news/us/crime/police-and-law-enforcement",
-              "fox-news/us",
-              "fox-news/us/immigration/border-security",
-              "fox-news/politics",
-              "article"
-            ]
-          },
-          {
             "id": "Daily Wire:https://www.dailywire.com/news/trump-steps-in-on-tsa-pay-warns-dems-cannot-hold-our-country-hostage",
             "title": "Trump Steps In On TSA Pay, Warns Dems Cannot ‘Hold Our Country Hostage’",
             "url": "https://www.dailywire.com/news/trump-steps-in-on-tsa-pay-warns-dems-cannot-hold-our-country-hostage",
@@ -795,17 +755,27 @@
             "categories": []
           },
           {
-            "id": "NPR:https://www.npr.org/2026/03/27/nx-s1-5764266/voter-data-trump-doj-dhs",
-            "title": "The Justice Department plans to share sensitive voter data with Homeland Security",
-            "url": "https://www.npr.org/2026/03/27/nx-s1-5764266/voter-data-trump-doj-dhs",
-            "source": "NPR",
-            "publishedAt": "2026-03-27T21:53:16.000Z",
-            "description": "The Justice Department has sought voter data from states. It now says it plans to share that data with the Department of Homeland Security, to run it through a controversial citizenship check tool.",
-            "imageUrl": null,
+            "id": "Daily Wire:https://www.dailywire.com/news/why-dhs-funding-negotiations-are-falling-apart",
+            "title": "Why DHS Funding Negotiations Are Falling Apart",
+            "url": "https://www.dailywire.com/news/why-dhs-funding-negotiations-are-falling-apart",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-26T13:44:23.000Z",
+            "description": "Negotiations on Capitol Hill appear to be at a standstill after both Republicans and Democrats have rejected each other’s offers to break the stalemate, fully fund the Department of Homeland Security, and put an end to the ongoing partial government shutdown. Senate Majority Leader John Thune said on Thursday that Democrats are “now in possession ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/02/GettyImages-2262890566.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
+            "title": "Nepal's ex-PM arrested over fatal protest crackdown",
+            "url": "https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-28T03:37:04.000Z",
+            "description": "More than 70 people were killed during an uprising last year which ousted Oli's government.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79a9/live/b76c9130-2a4d-11f1-8322-4318ee346f27.jpg",
             "categories": []
           }
         ],
-        "Trump’s Iran War and Political Impact": [
+        "Trump's Iran War and Foreign Policy Controversies": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/27/us/politics/cpac-trump-iran-war.html",
             "title": "At CPAC, the ‘America First’ Crowd Ponders Giving War a Chance",
@@ -824,16 +794,6 @@
               "Trump, Donald J",
               "Bannon, Stephen K"
             ]
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
-            "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
-            "url": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-28T00:05:47.000Z",
-            "description": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4621/live/c66ed310-2a2e-11f1-a79a-77e93010d956.png",
-            "categories": []
           },
           {
             "id": "Fox News:https://www.foxnews.com/politics/trump-touts-iran-talks-progress-success-venezuela-says-cuba-next",
@@ -859,23 +819,14 @@
             ]
           },
           {
-            "id": "New York Times:https://www.nytimes.com/2026/03/27/opinion/republicans-iran-war.html",
-            "title": "Republicans Know This War Is Going Badly",
-            "url": "https://www.nytimes.com/2026/03/27/opinion/republicans-iran-war.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-27T18:34:59.000Z",
-            "description": "Never before has America arrived at the threshold of a quagmire so quickly.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/28/multimedia/27goldberg-zkph/27goldberg-zkph-mediumSquareAt3X.jpg",
-            "categories": [
-              "US and Israeli Attack on Iran (2026)",
-              "Trump, Donald J",
-              "Iran",
-              "United States International Relations",
-              "United States Politics and Government",
-              "Republican Party",
-              "United States Defense and Military Forces",
-              "Polls and Public Opinion"
-            ]
+            "id": "BBC:https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
+            "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
+            "url": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-28T00:05:47.000Z",
+            "description": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4621/live/c66ed310-2a2e-11f1-a79a-77e93010d956.png",
+            "categories": []
           },
           {
             "id": "Fox News:https://www.foxnews.com/media/rogan-dave-smith-speak-about-how-trumps-iran-war-broke-his-coalition-could-hand-country-right-back-dems",
@@ -920,25 +871,26 @@
             ]
           },
           {
-            "id": "Fox News:https://www.foxnews.com/media/carville-doubles-down-theory-trump-walk-away-from-office-after-midterms-get-pardon-from-jd-vance",
-            "title": "Carville doubles down on theory Trump will 'walk away' from office after midterms, get pardon from JD Vance",
-            "url": "https://www.foxnews.com/media/carville-doubles-down-theory-trump-walk-away-from-office-after-midterms-get-pardon-from-jd-vance",
-            "source": "Fox News",
-            "publishedAt": "2026-03-28T01:00:24.000Z",
-            "description": "Carville doubled down on his theory that Trump will resign after the midterms, suggesting Trump will seek a pardon from JD Vance to avoid potential prosecutions after leaving office.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/carville-trump.jpg?ve=1&tl=1",
+            "id": "New York Times:https://www.nytimes.com/2026/03/27/opinion/republicans-iran-war.html",
+            "title": "Republicans Know This War Is Going Badly",
+            "url": "https://www.nytimes.com/2026/03/27/opinion/republicans-iran-war.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-27T18:34:59.000Z",
+            "description": "Never before has America arrived at the threshold of a quagmire so quickly.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/28/multimedia/27goldberg-zkph/27goldberg-zkph-mediumSquareAt3X.jpg",
             "categories": [
-              "fa932d36-8def-51a1-9247-885b99499fa1",
-              "fnc",
-              "Fox News",
-              "fox-news/media",
-              "fox-news/person/donald-trump",
-              "fox-news/politics/elections/midterm-elections",
-              "fox-news/politics",
-              "fox-news/media",
-              "article"
+              "US and Israeli Attack on Iran (2026)",
+              "Trump, Donald J",
+              "Iran",
+              "United States International Relations",
+              "United States Politics and Government",
+              "Republican Party",
+              "United States Defense and Military Forces",
+              "Polls and Public Opinion"
             ]
-          },
+          }
+        ],
+        "Political Figures and Election-Related Developments": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/27/us/politics/cpac-trump-vance-rubio.html",
             "title": "CPAC Considers Vance, Rubio and Life After Trump",
@@ -964,9 +916,37 @@
               "Piker, Hasan",
               "Texas"
             ]
-          }
-        ],
-        "Domestic Political Controversies and Scandals": [
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/media/carville-doubles-down-theory-trump-walk-away-from-office-after-midterms-get-pardon-from-jd-vance",
+            "title": "Carville doubles down on theory Trump will 'walk away' from office after midterms, get pardon from JD Vance",
+            "url": "https://www.foxnews.com/media/carville-doubles-down-theory-trump-walk-away-from-office-after-midterms-get-pardon-from-jd-vance",
+            "source": "Fox News",
+            "publishedAt": "2026-03-28T01:00:24.000Z",
+            "description": "Carville doubled down on his theory that Trump will resign after the midterms, suggesting Trump will seek a pardon from JD Vance to avoid potential prosecutions after leaving office.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/carville-trump.jpg?ve=1&tl=1",
+            "categories": [
+              "fa932d36-8def-51a1-9247-885b99499fa1",
+              "fnc",
+              "Fox News",
+              "fox-news/media",
+              "fox-news/person/donald-trump",
+              "fox-news/politics/elections/midterm-elections",
+              "fox-news/politics",
+              "fox-news/media",
+              "article"
+            ]
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/vance-drops-immigration-fraud-bombshell-on-squad-member",
+            "title": "Vance Drops ‘Immigration Fraud’ Bombshell On ‘Squad’ Member",
+            "url": "https://www.dailywire.com/news/vance-drops-immigration-fraud-bombshell-on-squad-member",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-27T16:58:06.000Z",
+            "description": "Vice President JD Vance said on Friday that Somali-born Minnesota Congresswoman Ilhan Omar “definitely committed immigration fraud against the United States of America” and added that the Trump administration is seeking to “go after her.” Vance, who is leading President Donald Trump’s anti-fraud crackdown throughout the United States, was asked about fraud allegations against Omar ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-2026-03-27T161132.319.jpg",
+            "categories": []
+          },
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/27/us/politics/elsayed-piker-michigan-rally-backlash.html",
             "title": "Hasan Piker Rallies Spark Backlash in Michigan’s Democratic Senate Primary",
@@ -985,6 +965,29 @@
               "Michigan"
             ]
           },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/27/us/politics/sam-graves-retirement.html",
+            "title": "Rep. Sam Graves, a Senior House Republican, Will Retire as Midterm Exodus Grows",
+            "url": "https://www.nytimes.com/2026/03/27/us/politics/sam-graves-retirement.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-27T16:35:51.000Z",
+            "description": "Representative Sam Graves, the chairman of the Transportation and Infrastructure Committee, said he would leave Congress after nearly three decades, the latest sign that the G.O.P. is bracing for big losses.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/27/multimedia/27trump-news-graves-cplk/27trump-news-graves-cplk-mediumSquareAt3X.jpg",
+            "categories": [
+              "Graves, Sam",
+              "Homeland Security Department",
+              "House Committee on Transportation",
+              "House Committee on Small Business",
+              "House of Representatives",
+              "Transportation Security Administration",
+              "Midterm Elections (2026)",
+              "Elections, House of Representatives",
+              "Republican Party",
+              "Missouri"
+            ]
+          }
+        ],
+        "Pro-Israel Extremism and Related Legal Cases": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/27/nyregion/nerdeen-kiswani-assassination-plot.html",
             "title": "Man Tied to Pro-Israel Extremists Accused of Targeting Palestinian Activist",
@@ -1009,70 +1012,9 @@
             "description": "An official who was briefed on the investigation said Alexander Heifler, 26, identified as a member of the JDL 613 Brotherhood, which describes its membership as \"Jewish warriors\" fighting back against rising antisemitism.",
             "imageUrl": null,
             "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/vance-drops-immigration-fraud-bombshell-on-squad-member",
-            "title": "Vance Drops ‘Immigration Fraud’ Bombshell On ‘Squad’ Member",
-            "url": "https://www.dailywire.com/news/vance-drops-immigration-fraud-bombshell-on-squad-member",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-27T16:58:06.000Z",
-            "description": "Vice President JD Vance said on Friday that Somali-born Minnesota Congresswoman Ilhan Omar “definitely committed immigration fraud against the United States of America” and added that the Trump administration is seeking to “go after her.” Vance, who is leading President Donald Trump’s anti-fraud crackdown throughout the United States, was asked about fraud allegations against Omar ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Untitled-design-2026-03-27T161132.319.jpg",
-            "categories": []
-          },
-          {
-            "id": "NPR:https://www.npr.org/2026/03/27/g-s1-115336/house-panel-finds-florida-democrat-guilty-of-ethics-violations",
-            "title": "House panel finds Florida Democrat guilty of ethics violations",
-            "url": "https://www.npr.org/2026/03/27/g-s1-115336/house-panel-finds-florida-democrat-guilty-of-ethics-violations",
-            "source": "NPR",
-            "publishedAt": "2026-03-27T15:32:06.000Z",
-            "description": "The House Ethics Committee has found evidence that Rep. Sheila Cherfilus-McCormick violated House rules. This comes after the panel held a rare public hearing to review investigations into allegations against the Florida Democrat.",
-            "imageUrl": null,
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/democrat-seat-on-the-line-as-5m-fema-scandal-sparks-offensive-hearing-clash",
-            "title": "Democrat Seat On The Line As $5M FEMA Scandal Sparks ‘Offensive’ Hearing Clash",
-            "url": "https://www.dailywire.com/news/democrat-seat-on-the-line-as-5m-fema-scandal-sparks-offensive-hearing-clash",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-27T08:33:47.000Z",
-            "description": "A Democratic House seat could be on the line after lawmakers on the House Ethics Committee held a rare public hearing on allegations that a Florida Democrat illegally funneled millions of dollars into her campaign. Rep. Sheila Cherfilus-McCormick (D-FL) appeared before the committee’s adjudicatory panel on Thursday during a six-hour hearing marked by repeated clashes ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267947094.jpg",
-            "categories": []
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/27/us/politics/sam-graves-retirement.html",
-            "title": "Rep. Sam Graves, a Senior House Republican, Will Retire as Midterm Exodus Grows",
-            "url": "https://www.nytimes.com/2026/03/27/us/politics/sam-graves-retirement.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-27T16:35:51.000Z",
-            "description": "Representative Sam Graves, the chairman of the Transportation and Infrastructure Committee, said he would leave Congress after nearly three decades, the latest sign that the G.O.P. is bracing for big losses.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/27/multimedia/27trump-news-graves-cplk/27trump-news-graves-cplk-mediumSquareAt3X.jpg",
-            "categories": [
-              "Graves, Sam",
-              "Homeland Security Department",
-              "House Committee on Transportation",
-              "House Committee on Small Business",
-              "House of Representatives",
-              "Transportation Security Administration",
-              "Midterm Elections (2026)",
-              "Elections, House of Representatives",
-              "Republican Party",
-              "Missouri"
-            ]
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/clyxeqpzz2no?at_medium=RSS&at_campaign=rss",
-            "title": "No evidence of 'family voting' in Gorton and Denton by-election",
-            "url": "https://www.bbc.com/news/articles/clyxeqpzz2no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-27T17:20:30.000Z",
-            "description": "An investigation into alleged \"family voting\" finds no evidence of intent to influence voting.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3be6/live/b4b1ad00-29f7-11f1-8f65-5dbc9a6a5bd5.jpg",
-            "categories": []
           }
         ],
-        "Protests and Political Activism": [
+        "Culture and Protest Against Trump's Influence": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/27/arts/jane-fonda-joan-baez-kennedy-center-protest.html",
             "title": "Outside Kennedy Center, Jane Fonda and Joan Baez Raise Voices in Protest",
@@ -1115,74 +1057,46 @@
             ]
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/watch-stanford-student-tells-congress-chilling-story-about-chinese-communist-party-targeting-her",
-            "title": "WATCH: Stanford Student Tells Congress Chilling Story About Chinese Communist Party Targeting Her",
-            "url": "https://www.dailywire.com/news/watch-stanford-student-tells-congress-chilling-story-about-chinese-communist-party-targeting-her",
+            "id": "Daily Wire:https://www.dailywire.com/news/bruce-springsteen-braces-for-backlash-as-political-tour-approaches",
+            "title": "Bruce Springsteen Braces For Backlash As ‘Political’ Tour Approaches",
+            "url": "https://www.dailywire.com/news/bruce-springsteen-braces-for-backlash-as-political-tour-approaches",
             "source": "Daily Wire",
-            "publishedAt": "2026-03-27T09:54:21.000Z",
-            "description": "In harrowing testimony before Congress on Thursday, a Stanford University junior detailed a sophisticated and terrifying campaign of transnational repression she says was orchestrated by the Chinese Communist Party (CCP) on American soil. Elsa Johnson, editor-in-chief of the Stanford Review, told lawmakers that she and her family are currently being physically monitored by foreign agents ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Stanford.jpg",
+            "publishedAt": "2026-03-27T11:44:21.000Z",
+            "description": "Bruce Springsteen straight-up said he does not care if he alienates part of his fan base as he prepares to launch a politically charged tour later this month. The 76-year-old New Jersey native will kick off his “Land of Hope & Dreams American Tour” in Minneapolis on March 31. Ahead of the tour, he is ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Bruce-Springsteen.jpg",
             "categories": []
           },
           {
-            "id": "Fox News:https://www.foxnews.com/politics/fox-news-campus-radicals-newsletter-fake-diplomas-foreigners-black-only-programs-new-groping-scandals",
-            "title": "Fox News Campus Radicals Newsletter: Alleged fake diplomas, Black-only programs, illegal alien groping scandal",
-            "url": "https://www.foxnews.com/politics/fox-news-campus-radicals-newsletter-fake-diplomas-foreigners-black-only-programs-new-groping-scandals",
-            "source": "Fox News",
-            "publishedAt": "2026-03-27T22:26:43.000Z",
-            "description": "Stay up to date with the Fox News Campus Radicals newsletter, which brings you the in-depth investigative stories from college campuses nationwide.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/524/china-graduation-diploma.jpg?ve=1&tl=1",
-            "categories": [
-              "a63c3ad5-54c3-56bd-b0a7-7442eea4e6f6",
-              "fnc",
-              "Fox News",
-              "fox-news/columns/campus-radicals-newsletter",
-              "fox-news/politics",
-              "article"
-            ]
-          }
-        ],
-        "Immigration Policies and Enforcement": [
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/27/us/florida-immigration-desantis-republicans.html",
-            "title": "Florida’s Immigration Crackdown, Led by DeSantis, Is Showing Cracks",
-            "url": "https://www.nytimes.com/2026/03/27/us/florida-immigration-desantis-republicans.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-27T14:13:33.000Z",
-            "description": "Some conservative sheriffs have raised concerns about the aggressive enforcement tactics that Gov. Ron DeSantis, a Republican, has embraced.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/26/multimedia/26nat-florida-immigration-01-wklf/26nat-florida-immigration-01-wklf-mediumSquareAt3X.jpg",
-            "categories": [
-              "Deportation",
-              "Illegal Immigration",
-              "Immigration Detention",
-              "Immigration and Emigration",
-              "Midterm Elections (2026)",
-              "Sheriffs",
-              "Alligator Alcatraz (Fla)",
-              "Homeland Security Department",
-              "Immigration and Customs Enforcement (US)",
-              "Republican Party",
-              "DeSantis, Ron",
-              "Judd, Grady",
-              "Mullin, Markwayne",
-              "Trump, Donald J",
-              "Orlando (Fla)",
-              "Orange County (Fla)",
-              "Florida",
-              "Everglades (Fla)"
-            ]
+            "id": "Daily Wire:https://www.dailywire.com/news/yes-we-can-learn-to-communicate-across-the-political-aisle-heres-how",
+            "title": "Yes, We Can Learn To Communicate Across The Political Aisle. Here’s How.",
+            "url": "https://www.dailywire.com/news/yes-we-can-learn-to-communicate-across-the-political-aisle-heres-how",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-27T13:00:03.000Z",
+            "description": "You know, I’m old enough to remember a kinder, gentler America, with safe suburban streets of well-kept houses where a kid could go out on his bike after school and not return until sunset around six years later after which he would just sit silently in a corner of the house staring into the middle ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/02/GettyImages-2263417870.jpg",
+            "categories": []
           }
         ],
         "Other Coverage": [
           {
-            "id": "BBC:https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
-            "title": "Nepal's ex-PM arrested over fatal protest crackdown",
-            "url": "https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-28T03:37:04.000Z",
-            "description": "More than 70 people were killed during an uprising last year which ousted Oli's government.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79a9/live/b76c9130-2a4d-11f1-8322-4318ee346f27.jpg",
-            "categories": []
+            "id": "Fox News:https://www.foxnews.com/politics/white-house-slams-trash-reporting-over-claims-ice-chief-hospitalized-stress-yelled-trump-admin",
+            "title": "White House slams ‘trash reporting’ over claims ICE chief hospitalized for stress, yelled at by Trump admin",
+            "url": "https://www.foxnews.com/politics/white-house-slams-trash-reporting-over-claims-ice-chief-hospitalized-stress-yelled-trump-admin",
+            "source": "Fox News",
+            "publishedAt": "2026-03-27T23:08:00.000Z",
+            "description": "Politico reported that ICE acting Director Todd Lyons was hospitalized for stress linked to Trump's deportation push, but the White House calls it trash reporting.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/todd-lyons-ice-agents.jpg?ve=1&tl=1",
+            "categories": [
+              "29beed52-bf19-5882-ae4a-45a3a9fe82d5",
+              "fnc",
+              "Fox News",
+              "fox-news/politics/executive/white-house",
+              "fox-news/us/crime/police-and-law-enforcement",
+              "fox-news/us",
+              "fox-news/us/immigration/border-security",
+              "fox-news/politics",
+              "article"
+            ]
           },
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/27/us/politics/trump-farmers.html",
@@ -1226,6 +1140,23 @@
             ]
           },
           {
+            "id": "Fox News:https://www.foxnews.com/politics/fox-news-campus-radicals-newsletter-fake-diplomas-foreigners-black-only-programs-new-groping-scandals",
+            "title": "Fox News Campus Radicals Newsletter: Alleged fake diplomas, Black-only programs, illegal alien groping scandal",
+            "url": "https://www.foxnews.com/politics/fox-news-campus-radicals-newsletter-fake-diplomas-foreigners-black-only-programs-new-groping-scandals",
+            "source": "Fox News",
+            "publishedAt": "2026-03-27T22:26:43.000Z",
+            "description": "Stay up to date with the Fox News Campus Radicals newsletter, which brings you the in-depth investigative stories from college campuses nationwide.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/524/china-graduation-diploma.jpg?ve=1&tl=1",
+            "categories": [
+              "a63c3ad5-54c3-56bd-b0a7-7442eea4e6f6",
+              "fnc",
+              "Fox News",
+              "fox-news/columns/campus-radicals-newsletter",
+              "fox-news/politics",
+              "article"
+            ]
+          },
+          {
             "id": "New York Times:https://www.nytimes.com/2026/03/27/us/politics/hegseth-generals-promotion.html",
             "title": "Hegseth Criticized for Removing Four Officers From Promotion List",
             "url": "https://www.nytimes.com/2026/03/27/us/politics/hegseth-generals-promotion.html",
@@ -1246,23 +1177,72 @@
             ]
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/yes-we-can-learn-to-communicate-across-the-political-aisle-heres-how",
-            "title": "Yes, We Can Learn To Communicate Across The Political Aisle. Here’s How.",
-            "url": "https://www.dailywire.com/news/yes-we-can-learn-to-communicate-across-the-political-aisle-heres-how",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-27T13:00:03.000Z",
-            "description": "You know, I’m old enough to remember a kinder, gentler America, with safe suburban streets of well-kept houses where a kid could go out on his bike after school and not return until sunset around six years later after which he would just sit silently in a corner of the house staring into the middle ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/02/GettyImages-2263417870.jpg",
+            "id": "NPR:https://www.npr.org/2026/03/27/nx-s1-5764266/voter-data-trump-doj-dhs",
+            "title": "The Justice Department plans to share sensitive voter data with Homeland Security",
+            "url": "https://www.npr.org/2026/03/27/nx-s1-5764266/voter-data-trump-doj-dhs",
+            "source": "NPR",
+            "publishedAt": "2026-03-27T21:53:16.000Z",
+            "description": "The Justice Department has sought voter data from states. It now says it plans to share that data with the Department of Homeland Security, to run it through a controversial citizenship check tool.",
+            "imageUrl": null,
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/bruce-springsteen-braces-for-backlash-as-political-tour-approaches",
-            "title": "Bruce Springsteen Braces For Backlash As ‘Political’ Tour Approaches",
-            "url": "https://www.dailywire.com/news/bruce-springsteen-braces-for-backlash-as-political-tour-approaches",
+            "id": "NPR:https://www.npr.org/2026/03/27/g-s1-115336/house-panel-finds-florida-democrat-guilty-of-ethics-violations",
+            "title": "House panel finds Florida Democrat guilty of ethics violations",
+            "url": "https://www.npr.org/2026/03/27/g-s1-115336/house-panel-finds-florida-democrat-guilty-of-ethics-violations",
+            "source": "NPR",
+            "publishedAt": "2026-03-27T15:32:06.000Z",
+            "description": "The House Ethics Committee has found evidence that Rep. Sheila Cherfilus-McCormick violated House rules. This comes after the panel held a rare public hearing to review investigations into allegations against the Florida Democrat.",
+            "imageUrl": null,
+            "categories": []
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/27/us/florida-immigration-desantis-republicans.html",
+            "title": "Florida’s Immigration Crackdown, Led by DeSantis, Is Showing Cracks",
+            "url": "https://www.nytimes.com/2026/03/27/us/florida-immigration-desantis-republicans.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-27T14:13:33.000Z",
+            "description": "Some conservative sheriffs have raised concerns about the aggressive enforcement tactics that Gov. Ron DeSantis, a Republican, has embraced.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/26/multimedia/26nat-florida-immigration-01-wklf/26nat-florida-immigration-01-wklf-mediumSquareAt3X.jpg",
+            "categories": [
+              "Deportation",
+              "Illegal Immigration",
+              "Immigration Detention",
+              "Immigration and Emigration",
+              "Midterm Elections (2026)",
+              "Sheriffs",
+              "Alligator Alcatraz (Fla)",
+              "Homeland Security Department",
+              "Immigration and Customs Enforcement (US)",
+              "Republican Party",
+              "DeSantis, Ron",
+              "Judd, Grady",
+              "Mullin, Markwayne",
+              "Trump, Donald J",
+              "Orlando (Fla)",
+              "Orange County (Fla)",
+              "Florida",
+              "Everglades (Fla)"
+            ]
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/watch-stanford-student-tells-congress-chilling-story-about-chinese-communist-party-targeting-her",
+            "title": "WATCH: Stanford Student Tells Congress Chilling Story About Chinese Communist Party Targeting Her",
+            "url": "https://www.dailywire.com/news/watch-stanford-student-tells-congress-chilling-story-about-chinese-communist-party-targeting-her",
             "source": "Daily Wire",
-            "publishedAt": "2026-03-27T11:44:21.000Z",
-            "description": "Bruce Springsteen straight-up said he does not care if he alienates part of his fan base as he prepares to launch a politically charged tour later this month. The 76-year-old New Jersey native will kick off his “Land of Hope & Dreams American Tour” in Minneapolis on March 31. Ahead of the tour, he is ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Bruce-Springsteen.jpg",
+            "publishedAt": "2026-03-27T09:54:21.000Z",
+            "description": "In harrowing testimony before Congress on Thursday, a Stanford University junior detailed a sophisticated and terrifying campaign of transnational repression she says was orchestrated by the Chinese Communist Party (CCP) on American soil. Elsa Johnson, editor-in-chief of the Stanford Review, told lawmakers that she and her family are currently being physically monitored by foreign agents ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Stanford.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/democrat-seat-on-the-line-as-5m-fema-scandal-sparks-offensive-hearing-clash",
+            "title": "Democrat Seat On The Line As $5M FEMA Scandal Sparks ‘Offensive’ Hearing Clash",
+            "url": "https://www.dailywire.com/news/democrat-seat-on-the-line-as-5m-fema-scandal-sparks-offensive-hearing-clash",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-27T08:33:47.000Z",
+            "description": "A Democratic House seat could be on the line after lawmakers on the House Ethics Committee held a rare public hearing on allegations that a Florida Democrat illegally funneled millions of dollars into her campaign. Rep. Sheila Cherfilus-McCormick (D-FL) appeared before the committee’s adjudicatory panel on Thursday during a six-hour hearing marked by repeated clashes ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267947094.jpg",
             "categories": []
           },
           {
@@ -1282,6 +1262,16 @@
       "articleCount": 8,
       "sourceCount": 5,
       "articles": [
+        {
+          "id": "BBC:https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+          "title": "Gaza peace doubts deepen as attention shifts to Iran",
+          "url": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "publishedAt": "2026-03-28T06:00:37.000Z",
+          "description": "With the world focused on the Iran war, there is increasing uncertainty about what happens next for Gaza.",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fbe/live/3fcf8ca0-29fc-11f1-99ef-b5dfea7d5974.jpg",
+          "categories": []
+        },
         {
           "id": "Fox News:https://www.foxnews.com/us/least-2-students-killed-several-injured-school-bus-crash-tennessee-parents-worst-nightmare",
           "title": "At least 2 students killed, several injured in school bus crash in Tennessee: 'A parent's worst nightmare'",
@@ -1346,16 +1336,6 @@
           "categories": []
         },
         {
-          "id": "BBC:https://www.bbc.com/news/articles/czx9852nkexo?at_medium=RSS&at_campaign=rss",
-          "title": "PS5 price hiked by £90 due to global 'pressures'",
-          "url": "https://www.bbc.com/news/articles/czx9852nkexo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-27T16:07:08.000Z",
-          "description": "The changes will see the recommended retail price of the PS5 rise from £479.99 to £569.99 in the UK.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d201/live/6d2be880-29f0-11f1-81d4-f1e3c77fafb4.jpg",
-          "categories": []
-        },
-        {
           "id": "Daily Wire:https://www.dailywire.com/news/kash-patels-personal-email-hacked-by-iranians",
           "title": "Kash Patel’s Personal Email Hacked By Iranians",
           "url": "https://www.dailywire.com/news/kash-patels-personal-email-hacked-by-iranians",
@@ -1387,7 +1367,17 @@
         }
       ],
       "subtopics": {
-        "Iran conflict impacts and attacks": [
+        "Iran conflict and related impacts": [
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+            "title": "Gaza peace doubts deepen as attention shifts to Iran",
+            "url": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-28T06:00:37.000Z",
+            "description": "With the world focused on the Iran war, there is increasing uncertainty about what happens next for Gaza.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fbe/live/3fcf8ca0-29fc-11f1-99ef-b5dfea7d5974.jpg",
+            "categories": []
+          },
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/27/business/iran-war-stock-market-investors.html",
             "title": "Stocks Keep Falling as Investor Lose Patience With the War in Iran",
@@ -1430,7 +1420,7 @@
             "categories": []
           }
         ],
-        "Tragic school bus crash in Tennessee": [
+        "Tragic school bus accident in Tennessee": [
           {
             "id": "Fox News:https://www.foxnews.com/us/least-2-students-killed-several-injured-school-bus-crash-tennessee-parents-worst-nightmare",
             "title": "At least 2 students killed, several injured in school bus crash in Tennessee: 'A parent's worst nightmare'",
@@ -1454,7 +1444,7 @@
             ]
           }
         ],
-        "Calls for reparations from slavery at the UN": [
+        "UN vote and reparations discussion on slavery": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/c0rxqng5pyno?at_medium=RSS&at_campaign=rss",
             "title": "'The gravest crime against humanity': What does the UN vote on slavery mean?",
@@ -1466,19 +1456,7 @@
             "categories": []
           }
         ],
-        "PS5 price increase due to global pressures": [
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/czx9852nkexo?at_medium=RSS&at_campaign=rss",
-            "title": "PS5 price hiked by £90 due to global 'pressures'",
-            "url": "https://www.bbc.com/news/articles/czx9852nkexo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-27T16:07:08.000Z",
-            "description": "The changes will see the recommended retail price of the PS5 rise from £479.99 to £569.99 in the UK.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d201/live/6d2be880-29f0-11f1-81d4-f1e3c77fafb4.jpg",
-            "categories": []
-          }
-        ],
-        "Personal stories and societal issues in health and ethics": [
+        "Innovations in dementia caregiving from Kenya": [
           {
             "id": "NPR:https://www.npr.org/2026/03/27/nx-s1-5732794/dementia-caregiving-alzheimers-kenya-support",
             "title": "Her dad's dementia inspired her to create a guide for family caregivers",
@@ -1488,7 +1466,9 @@
             "description": "Wambūi Karanja of Kenya is \"one to watch,\" says the Alzheimer's Association. Coping with her dad's condition inspired her to develop a training program for families on the art of caregiving.",
             "imageUrl": null,
             "categories": []
-          },
+          }
+        ],
+        "Controversial euthanasia case in Europe": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/the-state-took-her-from-her-family-then-it-decided-she-should-die",
             "title": "The State Took Her From Her Family. Then It Decided She Should Die.",
@@ -1649,7 +1629,7 @@
         }
       ],
       "subtopics": {
-        "Social Media Addiction Legal Battles and Research": [
+        "Social media addiction and legal challenges": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/c86e3eglv2go?at_medium=RSS&at_campaign=rss",
             "title": "'We're having a moment' - fear and denial in Silicon Valley over social media addiction trial",
@@ -1691,57 +1671,7 @@
             "categories": []
           }
         ],
-        "Controversies and Scandals Involving Technology Figures and Companies": [
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/27/us/clavicular-arrested-florida-fight-video.html",
-            "title": "Clavicular, an Internet Narcissus, Is Arrested After Posting a Fight Video",
-            "url": "https://www.nytimes.com/2026/03/27/us/clavicular-arrested-florida-fight-video.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-28T00:44:59.000Z",
-            "description": "The influencer, known for promoting handsomeness, is accused of arranging a brawl between two women. Separately, the authorities are investigating a video showing him shooting an alligator.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/27/multimedia/27nat-clavicular-battery-fpjm/27nat-clavicular-battery-fpjm-mediumSquareAt3X.jpg",
-            "categories": [
-              "Clavicular (Braden Peters)",
-              "Social Media",
-              "Video Recordings, Downloads and Streaming",
-              "Everglades (Fla)",
-              "Alligators"
-            ]
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/t-mobile-distances-itself-from-chief-switching-officer-druski-after-sketch-mocking-erika-kirk",
-            "title": "T-Mobile Distances Itself From ‘Chief Switching Officer’ Druski After Sketch Mocking Erika Kirk",
-            "url": "https://www.dailywire.com/news/t-mobile-distances-itself-from-chief-switching-officer-druski-after-sketch-mocking-erika-kirk",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-27T16:09:25.000Z",
-            "description": "There’s a thought experiment I want you to sit with for a moment. God forbid Barack Obama passed away — shot in front of thousands of people, the moment captured on every phone in the crowd and splashed across every screen in the country within minutes — and Michelle Obama was left to pick up ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2263118932.jpg",
-            "categories": []
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/us/la-united-school-district-scandal-leads-charges-22m-scheme-allegedly-drained-funds-meant-students",
-            "title": "LA United School District scandal leads to charges as $22M scheme allegedly drained funds meant for students",
-            "url": "https://www.foxnews.com/us/la-united-school-district-scandal-leads-charges-22m-scheme-allegedly-drained-funds-meant-students",
-            "source": "Fox News",
-            "publishedAt": "2026-03-28T00:01:05.000Z",
-            "description": "A former LAUSD IT employee and a tech firm owner face felony charges in an alleged $22 million pay-to-play money laundering scheme, prosecutors say.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/da-hochman-and-lausd-building-hq.jpg?ve=1&tl=1",
-            "categories": [
-              "971ce02a-1ebe-5039-9d3d-8b4f02fab786",
-              "fnc",
-              "Fox News",
-              "fox-news/us/los-angeles",
-              "fox-news/crime",
-              "fox-news/us/crime/police-and-law-enforcement",
-              "fox-news/us/education",
-              "fox-news/us/us-regions/west/california",
-              "fox-news/us",
-              "fox-news/us",
-              "article"
-            ]
-          }
-        ],
-        "National Security and Technology Conflicts": [
+        "Cybersecurity and hacking incidents": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/27/us/fbi-director-kash-patel-hacked-email-iran.html",
             "title": "Kash Patel’s Emails Circulate Online as Iran Takes Responsibility for Release",
@@ -1764,7 +1694,9 @@
               "Russia",
               "Tonga"
             ]
-          },
+          }
+        ],
+        "Legal issues involving technology and military AI": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/is-a-leftist-judge-taking-risks-with-americas-military",
             "title": "Is A Leftist Judge Taking Risks With America’s Military?",
@@ -1776,7 +1708,57 @@
             "categories": []
           }
         ],
-        "Military Technology and Missile Strikes": [
+        "Technology-related criminal scandals and controversies": [
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/27/us/clavicular-arrested-florida-fight-video.html",
+            "title": "Clavicular, an Internet Narcissus, Is Arrested After Posting a Fight Video",
+            "url": "https://www.nytimes.com/2026/03/27/us/clavicular-arrested-florida-fight-video.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-28T00:44:59.000Z",
+            "description": "The influencer, known for promoting handsomeness, is accused of arranging a brawl between two women. Separately, the authorities are investigating a video showing him shooting an alligator.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/27/multimedia/27nat-clavicular-battery-fpjm/27nat-clavicular-battery-fpjm-mediumSquareAt3X.jpg",
+            "categories": [
+              "Clavicular (Braden Peters)",
+              "Social Media",
+              "Video Recordings, Downloads and Streaming",
+              "Everglades (Fla)",
+              "Alligators"
+            ]
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/us/la-united-school-district-scandal-leads-charges-22m-scheme-allegedly-drained-funds-meant-students",
+            "title": "LA United School District scandal leads to charges as $22M scheme allegedly drained funds meant for students",
+            "url": "https://www.foxnews.com/us/la-united-school-district-scandal-leads-charges-22m-scheme-allegedly-drained-funds-meant-students",
+            "source": "Fox News",
+            "publishedAt": "2026-03-28T00:01:05.000Z",
+            "description": "A former LAUSD IT employee and a tech firm owner face felony charges in an alleged $22 million pay-to-play money laundering scheme, prosecutors say.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/da-hochman-and-lausd-building-hq.jpg?ve=1&tl=1",
+            "categories": [
+              "971ce02a-1ebe-5039-9d3d-8b4f02fab786",
+              "fnc",
+              "Fox News",
+              "fox-news/us/los-angeles",
+              "fox-news/crime",
+              "fox-news/us/crime/police-and-law-enforcement",
+              "fox-news/us/education",
+              "fox-news/us/us-regions/west/california",
+              "fox-news/us",
+              "fox-news/us",
+              "article"
+            ]
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/t-mobile-distances-itself-from-chief-switching-officer-druski-after-sketch-mocking-erika-kirk",
+            "title": "T-Mobile Distances Itself From ‘Chief Switching Officer’ Druski After Sketch Mocking Erika Kirk",
+            "url": "https://www.dailywire.com/news/t-mobile-distances-itself-from-chief-switching-officer-druski-after-sketch-mocking-erika-kirk",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-27T16:09:25.000Z",
+            "description": "There’s a thought experiment I want you to sit with for a moment. God forbid Barack Obama passed away — shot in front of thousands of people, the moment captured on every phone in the crowd and splashed across every screen in the country within minutes — and Michelle Obama was left to pick up ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2263118932.jpg",
+            "categories": []
+          }
+        ],
+        "Military technology footage and related analysis": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/cx29mzmwdw2o?at_medium=RSS&at_campaign=rss",
             "title": "Video shows US missile likely used in deadly strike on Iranian town, experts say",
@@ -1803,7 +1785,7 @@
       }
     },
     "Business": {
-      "articleCount": 4,
+      "articleCount": 3,
       "sourceCount": 3,
       "articles": [
         {
@@ -1836,16 +1818,6 @@
           ]
         },
         {
-          "id": "BBC:https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss",
-          "title": "Asda boss rejects profiteering claims as petrol price tops 150p",
-          "url": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "publishedAt": "2026-03-27T18:28:34.000Z",
-          "description": "Motorists are facing higher fuel prices ahead of Easter break due to the conflict in the Middle East, the RAC says.",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc24/live/04a04af0-29d6-11f1-9def-51999882d8d7.jpg",
-          "categories": []
-        },
-        {
           "id": "NPR:https://www.npr.org/2026/03/27/nx-s1-5757946/oil-iran-war-markets-uncertainty",
           "title": "How long will the war last? No one knows, and it's making oil prices weird",
           "url": "https://www.npr.org/2026/03/27/nx-s1-5757946/oil-iran-war-markets-uncertainty",
@@ -1857,7 +1829,7 @@
         }
       ],
       "subtopics": {
-        "Youth Employment Challenges": [
+        "Teen Job Market Challenges": [
           {
             "id": "BBC:https://www.bbc.com/news/articles/cwywxlvelevo?at_medium=RSS&at_campaign=rss",
             "title": "Where have weekend jobs for teenagers gone?",
@@ -1869,17 +1841,7 @@
             "categories": []
           }
         ],
-        "Fuel Price Increases and Market Reactions": [
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss",
-            "title": "Asda boss rejects profiteering claims as petrol price tops 150p",
-            "url": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-27T18:28:34.000Z",
-            "description": "Motorists are facing higher fuel prices ahead of Easter break due to the conflict in the Middle East, the RAC says.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc24/live/04a04af0-29d6-11f1-9def-51999882d8d7.jpg",
-            "categories": []
-          },
+        "Impact of Geopolitical Conflict on Oil Prices": [
           {
             "id": "NPR:https://www.npr.org/2026/03/27/nx-s1-5757946/oil-iran-war-markets-uncertainty",
             "title": "How long will the war last? No one knows, and it's making oil prices weird",
@@ -1891,7 +1853,7 @@
             "categories": []
           }
         ],
-        "Idaho Bathroom Law and Business Impact": [
+        "Legislation Affecting Business and Social Policies": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/27/us/idaho-transgender-bathroom-law.html",
             "title": "Idaho Criminalizes Transgender Use of Some Bathrooms in Private Businesses",
@@ -1919,9 +1881,9 @@
       "sourceCount": 1,
       "articles": [
         {
-          "id": "BBC:https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+          "id": "BBC:https://www.bbc.co.uk/sounds/play/w3ct8bzb?at_medium=RSS&at_campaign=rss",
           "title": "What is RFK doing to vaccines for children in America?",
-          "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/sounds/play/w3ct8bzb?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
           "publishedAt": "2026-03-27T16:01:00.000Z",
           "description": "Trump’s Health Secretary hits a major setback to “Make America Healthy Again”",
@@ -1930,11 +1892,11 @@
         }
       ],
       "subtopics": {
-        "US Vaccine Policy and Political Changes": [
+        "US Vaccine Policy Developments": [
           {
-            "id": "BBC:https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+            "id": "BBC:https://www.bbc.co.uk/sounds/play/w3ct8bzb?at_medium=RSS&at_campaign=rss",
             "title": "What is RFK doing to vaccines for children in America?",
-            "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+            "url": "https://www.bbc.co.uk/sounds/play/w3ct8bzb?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
             "publishedAt": "2026-03-27T16:01:00.000Z",
             "description": "Trump’s Health Secretary hits a major setback to “Make America Healthy Again”",
@@ -2144,7 +2106,7 @@
         }
       ],
       "subtopics": {
-        "Controversial Influencers and Celebrity Family Revelations": [
+        "Viral Influencer Arrest and Entertainment Controversies": [
           {
             "id": "Fox News:https://www.foxnews.com/media/controversial-viral-influencer-clavicular-arrested-florida-battery-charges",
             "title": "Controversial viral influencer 'Clavicular' arrested in Florida on battery charges",
@@ -2167,28 +2129,6 @@
             ]
           },
           {
-            "id": "Fox News:https://www.foxnews.com/entertainment/chuck-norris-learned-secret-daughter-nearly-30-years-after-brief-affair",
-            "title": "Chuck Norris learned of secret daughter nearly 30 years after brief affair",
-            "url": "https://www.foxnews.com/entertainment/chuck-norris-learned-secret-daughter-nearly-30-years-after-brief-affair",
-            "source": "Fox News",
-            "publishedAt": "2026-03-27T22:50:35.000Z",
-            "description": "Chuck Norris revealed in his 2004 memoir \"Against All Odds\" that a letter from his unknown daughter Dina changed his life after nearly 30 years apart.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/chuck-norris-memoir.jpg?ve=1&tl=1",
-            "categories": [
-              "ada2f634-f13e-54b8-b716-a123383f1252",
-              "fnc",
-              "Fox News",
-              "fox-news/entertainment/genres/books",
-              "fox-news/entertainment/genres/family",
-              "fox-news/entertainment/genres/then-and-now",
-              "fox-news/entertainment",
-              "fox-news/entertainment",
-              "article"
-            ]
-          }
-        ],
-        "Celebrity Opinions and Industry Critiques": [
-          {
             "id": "Fox News:https://www.foxnews.com/media/andrew-garfield-warns-fans-against-watching-harry-potter-calls-rowling-she-shall-remain-nameless",
             "title": "Andrew Garfield warns fans against watching 'Harry Potter,' calls Rowling ‘she that shall remain nameless’",
             "url": "https://www.foxnews.com/media/andrew-garfield-warns-fans-against-watching-harry-potter-calls-rowling-she-shall-remain-nameless",
@@ -2209,7 +2149,41 @@
               "fox-news/media",
               "article"
             ]
+          }
+        ],
+        "Celebrity Personal Revelations and Family Stories": [
+          {
+            "id": "Fox News:https://www.foxnews.com/entertainment/chuck-norris-learned-secret-daughter-nearly-30-years-after-brief-affair",
+            "title": "Chuck Norris learned of secret daughter nearly 30 years after brief affair",
+            "url": "https://www.foxnews.com/entertainment/chuck-norris-learned-secret-daughter-nearly-30-years-after-brief-affair",
+            "source": "Fox News",
+            "publishedAt": "2026-03-27T22:50:35.000Z",
+            "description": "Chuck Norris revealed in his 2004 memoir \"Against All Odds\" that a letter from his unknown daughter Dina changed his life after nearly 30 years apart.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/chuck-norris-memoir.jpg?ve=1&tl=1",
+            "categories": [
+              "ada2f634-f13e-54b8-b716-a123383f1252",
+              "fnc",
+              "Fox News",
+              "fox-news/entertainment/genres/books",
+              "fox-news/entertainment/genres/family",
+              "fox-news/entertainment/genres/then-and-now",
+              "fox-news/entertainment",
+              "fox-news/entertainment",
+              "article"
+            ]
           },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/rfk-jr-s-wife-cheryl-hines-fires-back-at-chelsea-handler-over-toxic-accusation",
+            "title": "RFK Jr.’s Wife Cheryl Hines Fires Back At Chelsea Handler Over ‘Toxic’ Accusation",
+            "url": "https://www.dailywire.com/news/rfk-jr-s-wife-cheryl-hines-fires-back-at-chelsea-handler-over-toxic-accusation",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-27T13:33:03.000Z",
+            "description": "Cheryl Hines is pushing back on claims from leftist comedian Chelsea Handler that she and her husband, Health and Human Services Secretary Robert F. Kennedy, Jr., sold her a “toxic” $6 million home in Los Angeles. The “Curb Your Enthusiasm” alum provided her version of events on an upcoming episode of the “Tomi Lahren is ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Cheryl-Hines.jpg",
+            "categories": []
+          }
+        ],
+        "Entertainment Industry Discussions and Critiques": [
           {
             "id": "Daily Wire:https://www.dailywire.com/news/the-porn-myth-how-adult-entertainment-makes-us-more-juvenile",
             "title": "The Porn Myth: How ‘Adult’ Entertainment Makes Us More Juvenile",
@@ -2229,9 +2203,17 @@
             "description": "Here’s something you probably don’t realize about how Hollywood works. I know I wasn’t familiar with it. But it turns out that, for some of the biggest franchises in the industry, studios often sign “use-it-or-lose-it agreements.” What this means is that they buy the rights to a franchise for a certain number of years. But ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-459028801.jpg",
             "categories": []
-          }
-        ],
-        "Entertainment Industry Personalities and New Shows": [
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/jimmy-kimmel-mocks-markwayne-mullins-blue-collar-roots",
+            "title": "Jimmy Kimmel Mocks Markwayne Mullin’s Blue-Collar Roots",
+            "url": "https://www.dailywire.com/news/jimmy-kimmel-mocks-markwayne-mullins-blue-collar-roots",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-26T13:35:12.000Z",
+            "description": "Late-night host Jimmy Kimmel, the quintessential avatar of Hollywood’s detached elite, recently took to the airwaves to demonstrate exactly why “flyover country” has tuned him out. In a segment dripping with the kind of coastal condescension that has become his trademark, Kimmel mocked President Donald Trump’s selection of Markwayne Mullin to lead the Department of ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Kimmel-Mullin-Blendy-.jpeg",
+            "categories": []
+          },
           {
             "id": "Daily Wire:https://www.dailywire.com/news/vince-vaughn-is-the-everyman-hero-comedy-needs",
             "title": "Vince Vaughn Is The Everyman Hero Comedy Needs",
@@ -2241,7 +2223,9 @@
             "description": "Actor and producer Vince Vaughn might have cultivated a certain reputation based on his popular roles as the “Vegas, Baby!” wingman, frat boy who never grew up, or any number of smart-mouthed, fast-talking bros who always seem to land on their feet. It wasn’t a surprise, then, to hear him talking earlier this week with ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2268219104.jpg",
             "categories": []
-          },
+          }
+        ],
+        "TV Shows and Popular Culture Reflections": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/27/arts/television/love-story-jfk-bessette-90s-nyc.html",
             "title": "How ‘Love Story’ Gave Viewers a History Lesson on the Kennedys and ’90s NYC",
@@ -2271,16 +2255,6 @@
             ]
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/rfk-jr-s-wife-cheryl-hines-fires-back-at-chelsea-handler-over-toxic-accusation",
-            "title": "RFK Jr.’s Wife Cheryl Hines Fires Back At Chelsea Handler Over ‘Toxic’ Accusation",
-            "url": "https://www.dailywire.com/news/rfk-jr-s-wife-cheryl-hines-fires-back-at-chelsea-handler-over-toxic-accusation",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-27T13:33:03.000Z",
-            "description": "Cheryl Hines is pushing back on claims from leftist comedian Chelsea Handler that she and her husband, Health and Human Services Secretary Robert F. Kennedy, Jr., sold her a “toxic” $6 million home in Los Angeles. The “Curb Your Enthusiasm” alum provided her version of events on an upcoming episode of the “Tomi Lahren is ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Cheryl-Hines.jpg",
-            "categories": []
-          },
-          {
             "id": "BBC:https://www.bbc.co.uk/iplayer/episode/m002stnp?at_mid=4NWuGGi9Mj&at_campaign=Spiderman_Into_the_Spider_Verse&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002stnp&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Spiderman_Into_the_Spider_Verse&at_bbc_team=BBC",
             "title": "Lively, bold animated Spider-Man adventure",
             "url": "https://www.bbc.co.uk/iplayer/episode/m002stnp?at_mid=4NWuGGi9Mj&at_campaign=Spiderman_Into_the_Spider_Verse&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002stnp&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Spiderman_Into_the_Spider_Verse&at_bbc_team=BBC",
@@ -2291,19 +2265,7 @@
             "categories": []
           }
         ],
-        "Other News From Entertainment-Related Hosts and Shows": [
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/jimmy-kimmel-mocks-markwayne-mullins-blue-collar-roots",
-            "title": "Jimmy Kimmel Mocks Markwayne Mullin’s Blue-Collar Roots",
-            "url": "https://www.dailywire.com/news/jimmy-kimmel-mocks-markwayne-mullins-blue-collar-roots",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-26T13:35:12.000Z",
-            "description": "Late-night host Jimmy Kimmel, the quintessential avatar of Hollywood’s detached elite, recently took to the airwaves to demonstrate exactly why “flyover country” has tuned him out. In a segment dripping with the kind of coastal condescension that has become his trademark, Kimmel mocked President Donald Trump’s selection of Markwayne Mullin to lead the Department of ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Kimmel-Mullin-Blendy-.jpeg",
-            "categories": []
-          }
-        ],
-        "Non-Entertainment News Included in Feed": [
+        "Unique Human Interest and Lifestyle Stories": [
           {
             "id": "Fox News:https://www.foxnews.com/travel/captain-hauls-nearly-500-pound-sea-giant-after-grueling-battle-feeds-most-town",
             "title": "Captain hauls in nearly 500-pound sea giant after grueling battle, feeds most of town",
@@ -2336,7 +2298,9 @@
             "description": "Parents say new government guidance on restricting children's screen time has to be \"realistic\".",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c96d/live/9b899780-29d3-11f1-9def-51999882d8d7.jpg",
             "categories": []
-          },
+          }
+        ],
+        "Other Coverage": [
           {
             "id": "BBC:https://www.bbc.com/weather/articles/c8xye522g9xo?at_medium=RSS&at_campaign=rss",
             "title": "When and why do the clocks go forward?",
@@ -2695,7 +2659,28 @@
             "categories": []
           }
         ],
-        "Football: England Performances and VAR Controversy": [
+        "Football: England and Coaching Changes": [
+          {
+            "id": "Fox News:https://www.foxnews.com/sports/former-unc-basketball-star-kenny-smith-reacts-hubert-davis-firing-shuts-down-coaching-job-interest",
+            "title": "Former UNC basketball star Kenny Smith reacts to Hubert Davis' firing, shuts down coaching job interest",
+            "url": "https://www.foxnews.com/sports/former-unc-basketball-star-kenny-smith-reacts-hubert-davis-firing-shuts-down-coaching-job-interest",
+            "source": "Fox News",
+            "publishedAt": "2026-03-27T23:55:54.000Z",
+            "description": "Former UNC star Kenny Smith said talk of him potentially taking the Tar Heels’ coaching job is “disrespectful.\" He added that the next coach should want to retire at Chapel Hill.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kenny-smith-looks-on.jpg?ve=1&tl=1",
+            "categories": [
+              "9d92a6c2-735b-54eb-b6a4-4cda662b851f",
+              "fnc",
+              "Fox News",
+              "fox-news/sports/ncaa/north-carolina-tar-heels",
+              "fox-news/sports/ncaa-bk",
+              "fox-news/sports",
+              "fox-news/media",
+              "fox-news/sports/ncaa-bk/march-madness",
+              "fox-news/sports",
+              "article"
+            ]
+          },
           {
             "id": "BBC:https://www.bbc.com/sport/football/articles/c4gj9qq8d5ko?at_medium=RSS&at_campaign=rss",
             "title": "If these were the Tuchel trials, Foden - among others - failed",
@@ -2725,9 +2710,29 @@
             "description": "Who impressed for England in Friday's friendly against Uruguay? Alex Howell rates the players.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca7c/live/fd3a50d0-2a25-11f1-841d-036b1ed79cac.jpg",
             "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/sport/football/articles/cdj7d0vv98go?at_medium=RSS&at_campaign=rss",
+            "title": "'Irreplaceable' Salah could play for seven more years - Klopp",
+            "url": "https://www.bbc.com/sport/football/articles/cdj7d0vv98go?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-27T16:58:05.000Z",
+            "description": "Jurgen Klopp says Mohamed Salah could carry on playing until the age of 40 after the forward leaves Liverpool at the end of the season.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7f/live/b9f68850-2a09-11f1-b297-95b0a0a8331e.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/sport/football/articles/ckg97pgj2q0o?at_medium=RSS&at_campaign=rss",
+            "title": "The remarkable return of Roy Hodgson aged 78",
+            "url": "https://www.bbc.com/sport/football/articles/ckg97pgj2q0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-27T13:24:43.000Z",
+            "description": "Roy Hodgson's idea of celebrating 50 years in management is not to sit back reflecting on his career, but instead to return to the dugout at Bristol City.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bb4/live/e31fba40-29db-11f1-9def-51999882d8d7.jpg",
+            "categories": []
           }
         ],
-        "Sports Figures' Life Updates and Tragedies": [
+        "Other Sports News: Player Legacies and Personal Stories": [
           {
             "id": "Fox News:https://www.foxnews.com/sports/former-raiders-all-pro-center-barret-robbins-dead-52-deeply-saddened",
             "title": "Former Raiders All-Pro center Barret Robbins dead at 52: 'Deeply saddened'",
@@ -2743,6 +2748,27 @@
               "fox-news/sports/nfl/las-vegas-raiders",
               "fox-news/sports/nfl",
               "fox-news/sports",
+              "fox-news/sports",
+              "article"
+            ]
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/sports/ole-miss-trinidad-chambliss-officially-eligible-sixth-college-season-after-ncaas-appeal-denied-judge",
+            "title": "Ole Miss' Trinidad Chambliss eligible for sixth college season after NCAA's appeal denied by judge",
+            "url": "https://www.foxnews.com/sports/ole-miss-trinidad-chambliss-officially-eligible-sixth-college-season-after-ncaas-appeal-denied-judge",
+            "source": "Fox News",
+            "publishedAt": "2026-03-27T23:02:13.000Z",
+            "description": "Ole Miss quarterback Trinidad Chambliss has been granted eligibility for a sixth season after a judge rejected the NCAA’s attempt to prevent his return.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/trinidad-chambliss-in-court.jpg?ve=1&tl=1",
+            "categories": [
+              "6c092f4a-4b94-5761-a12d-3b24f03c0b45",
+              "fnc",
+              "Fox News",
+              "fox-news/sports/ncaa/ole-miss-rebels",
+              "fox-news/sports/ncaa-fb",
+              "fox-news/sports/ncaa",
+              "fox-news/sports",
+              "fox-news/entertainment/events/in-court",
               "fox-news/sports",
               "article"
             ]
@@ -2768,69 +2794,13 @@
             ]
           },
           {
-            "id": "Fox News:https://www.foxnews.com/sports/former-unc-basketball-star-kenny-smith-reacts-hubert-davis-firing-shuts-down-coaching-job-interest",
-            "title": "Former UNC basketball star Kenny Smith reacts to Hubert Davis' firing, shuts down coaching job interest",
-            "url": "https://www.foxnews.com/sports/former-unc-basketball-star-kenny-smith-reacts-hubert-davis-firing-shuts-down-coaching-job-interest",
-            "source": "Fox News",
-            "publishedAt": "2026-03-27T23:55:54.000Z",
-            "description": "Former UNC star Kenny Smith said talk of him potentially taking the Tar Heels’ coaching job is “disrespectful.\" He added that the next coach should want to retire at Chapel Hill.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kenny-smith-looks-on.jpg?ve=1&tl=1",
-            "categories": [
-              "9d92a6c2-735b-54eb-b6a4-4cda662b851f",
-              "fnc",
-              "Fox News",
-              "fox-news/sports/ncaa/north-carolina-tar-heels",
-              "fox-news/sports/ncaa-bk",
-              "fox-news/sports",
-              "fox-news/media",
-              "fox-news/sports/ncaa-bk/march-madness",
-              "fox-news/sports",
-              "article"
-            ]
-          }
-        ],
-        "College Sports Eligibility and Coaching": [
-          {
-            "id": "Fox News:https://www.foxnews.com/sports/ole-miss-trinidad-chambliss-officially-eligible-sixth-college-season-after-ncaas-appeal-denied-judge",
-            "title": "Ole Miss' Trinidad Chambliss eligible for sixth college season after NCAA's appeal denied by judge",
-            "url": "https://www.foxnews.com/sports/ole-miss-trinidad-chambliss-officially-eligible-sixth-college-season-after-ncaas-appeal-denied-judge",
-            "source": "Fox News",
-            "publishedAt": "2026-03-27T23:02:13.000Z",
-            "description": "Ole Miss quarterback Trinidad Chambliss has been granted eligibility for a sixth season after a judge rejected the NCAA’s attempt to prevent his return.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/trinidad-chambliss-in-court.jpg?ve=1&tl=1",
-            "categories": [
-              "6c092f4a-4b94-5761-a12d-3b24f03c0b45",
-              "fnc",
-              "Fox News",
-              "fox-news/sports/ncaa/ole-miss-rebels",
-              "fox-news/sports/ncaa-fb",
-              "fox-news/sports/ncaa",
-              "fox-news/sports",
-              "fox-news/entertainment/events/in-court",
-              "fox-news/sports",
-              "article"
-            ]
-          }
-        ],
-        "Other Sports News": [
-          {
-            "id": "BBC:https://www.bbc.com/sport/football/articles/cdj7d0vv98go?at_medium=RSS&at_campaign=rss",
-            "title": "'Irreplaceable' Salah could play for seven more years - Klopp",
-            "url": "https://www.bbc.com/sport/football/articles/cdj7d0vv98go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-27T16:58:05.000Z",
-            "description": "Jurgen Klopp says Mohamed Salah could carry on playing until the age of 40 after the forward leaves Liverpool at the end of the season.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7f/live/b9f68850-2a09-11f1-b297-95b0a0a8331e.jpg",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/sport/football/articles/ckg97pgj2q0o?at_medium=RSS&at_campaign=rss",
-            "title": "The remarkable return of Roy Hodgson aged 78",
-            "url": "https://www.bbc.com/sport/football/articles/ckg97pgj2q0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-27T13:24:43.000Z",
-            "description": "Roy Hodgson's idea of celebrating 50 years in management is not to sit back reflecting on his career, but instead to return to the dugout at Bristol City.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bb4/live/e31fba40-29db-11f1-9def-51999882d8d7.jpg",
+            "id": "Daily Wire:https://www.dailywire.com/news/looksmaxxer-clavicular-gets-florida-mugshot-after-hes-filmed-unloading-a-clip-on-gator",
+            "title": "‘Looksmaxxer’ Clavicular Gets Florida Mugshot After He Filmed Opening Fire On Gator",
+            "url": "https://www.dailywire.com/news/looksmaxxer-clavicular-gets-florida-mugshot-after-hes-filmed-unloading-a-clip-on-gator",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-27T14:32:34.000Z",
+            "description": "The man known online by millions for the new phrase “looksmaxxing” — the practice of maximizing appearance — got to pose for a mugshot on Thursday after being arrested on a battery charge in Florida. Clavicular, whose real name is Braden Peters, has long been controversial for the methods he employs to achieve his physique, ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Screenshot-2026-03-27-at-2.05.39-PM-scaled.png",
             "categories": []
           },
           {
@@ -2841,16 +2811,6 @@
             "publishedAt": "2026-03-27T12:51:16.000Z",
             "description": "Figure Skating World Championships in Prague end on Saturday. Americans Amber Glenn and Ilia Malinin are within medals' reach after disappointing finishes at last month's Olympics.",
             "imageUrl": null,
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/looksmaxxer-clavicular-gets-florida-mugshot-after-hes-filmed-unloading-a-clip-on-gator",
-            "title": "‘Looksmaxxer’ Clavicular Gets Florida Mugshot After He Filmed Opening Fire On Gator",
-            "url": "https://www.dailywire.com/news/looksmaxxer-clavicular-gets-florida-mugshot-after-hes-filmed-unloading-a-clip-on-gator",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-27T14:32:34.000Z",
-            "description": "The man known online by millions for the new phrase “looksmaxxing” — the practice of maximizing appearance — got to pose for a mugshot on Thursday after being arrested on a battery charge in Florida. Clavicular, whose real name is Braden Peters, has long been controversial for the methods he employs to achieve his physique, ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Screenshot-2026-03-27-at-2.05.39-PM-scaled.png",
             "categories": []
           },
           {
@@ -2877,9 +2837,29 @@
       }
     },
     "Other": {
-      "articleCount": 58,
+      "articleCount": 60,
       "sourceCount": 5,
       "articles": [
+        {
+          "id": "BBC:https://www.bbc.com/news/videos/clyr530yry5o?at_medium=RSS&at_campaign=rss",
+          "title": "'Our home is gone': BBC speaks to displaced families in Lebanon",
+          "url": "https://www.bbc.com/news/videos/clyr530yry5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "publishedAt": "2026-03-28T06:00:25.000Z",
+          "description": "The BBC's Hugo Bachega speaks to families in Beirut as more than a million people have been displaced in Lebanon.",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beeb/live/375f83b0-29d7-11f1-a79a-77e93010d956.jpg",
+          "categories": []
+        },
+        {
+          "id": "BBC:https://www.bbc.com/news/articles/ckg0xxwn041o?at_medium=RSS&at_campaign=rss",
+          "title": "'He would have been horrified' - error in drug warnings 'misled' families",
+          "url": "https://www.bbc.com/news/articles/ckg0xxwn041o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "publishedAt": "2026-03-28T06:00:22.000Z",
+          "description": "Warnings for dopamine agonist drugs are to be reviewed after BBC identified an error in patient leaflets.",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd50/live/22a171c0-2934-11f1-a79a-77e93010d956.png",
+          "categories": []
+        },
         {
           "id": "BBC:https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss",
           "title": "How Trump and the oil markets move in sync: a tango in six charts",
@@ -3580,7 +3560,7 @@
         }
       ],
       "subtopics": {
-        "Epstein-Related Legal Cases and Allegations": [
+        "Epstein Case and Related Legal Actions": [
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/27/business/bank-of-america-epstein-victims-settlement.html",
             "title": "Bank of America Pays $72.5 Million to Settle Lawsuit by Epstein Victims",
@@ -3613,7 +3593,7 @@
             "categories": []
           }
         ],
-        "Airport Safety and TSA Funding Issues": [
+        "Airport and TSA Funding Issues and Incidents": [
           {
             "id": "New York Times:https://www.nytimes.com/video/nyregion/nyregionspecial/100000010800839/we-analyzed-the-deadly-crash-at-laguardia.html",
             "title": "We Analyzed the Deadly Crash at LaGuardia",
@@ -3649,6 +3629,38 @@
             ]
           },
           {
+            "id": "New York Times:https://www.nytimes.com/2026/03/27/nyregion/laguardia-firefighters-truck-air-canada.html",
+            "title": "After Being Struck by Air Canada Plane, Last Firefighter Is Released From Hospital",
+            "url": "https://www.nytimes.com/2026/03/27/nyregion/laguardia-firefighters-truck-air-canada.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-27T20:03:45.000Z",
+            "description": "Days after the disaster on a LaGuardia runway, two veterans of a specialized rescue unit have been released from the hospital.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/27/multimedia/27met-laguardia-firefighters-01-vfzm/27met-laguardia-firefighters-01-vfzm-mediumSquareAt3X.jpg",
+            "categories": [
+              "Airlines and Airplanes",
+              "Regulation and Deregulation of Industry",
+              "Radio",
+              "Queens (NYC)"
+            ]
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/27/us/wait-times-airports-tsa-confusion.html",
+            "title": "How Long of a Wait at Security? For Many Passengers, It Was Anyone’s Guess.",
+            "url": "https://www.nytimes.com/2026/03/27/us/wait-times-airports-tsa-confusion.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-27T23:15:12.000Z",
+            "description": "As T.S.A. staff shortages continued on Friday, some airports saw interminably long wait times, while others barely had a wait at all, adding to travelers’ confusion.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/27/multimedia/27nat-airports/27nat-airports-mediumSquareAt3X.jpg",
+            "categories": [
+              "Airports",
+              "Airport Security",
+              "Shutdowns (Institutional)",
+              "Atlanta (Ga)",
+              "Baltimore (Md)",
+              "Houston (Tex)"
+            ]
+          },
+          {
             "id": "Daily Wire:https://www.dailywire.com/news/trump-just-funded-tsa-heres-when-you-can-expect-shorter-lines-at-airports",
             "title": "Trump Just Funded TSA. Here’s When You Can Expect Shorter Lines At Airports.",
             "url": "https://www.dailywire.com/news/trump-just-funded-tsa-heres-when-you-can-expect-shorter-lines-at-airports",
@@ -3679,24 +3691,92 @@
             "categories": []
           },
           {
-            "id": "New York Times:https://www.nytimes.com/2026/03/27/us/wait-times-airports-tsa-confusion.html",
-            "title": "How Long of a Wait at Security? For Many Passengers, It Was Anyone’s Guess.",
-            "url": "https://www.nytimes.com/2026/03/27/us/wait-times-airports-tsa-confusion.html",
+            "id": "Daily Wire:https://www.dailywire.com/news/dhs-deal-sets-washington-on-edge-as-house-prepares-for-funding-vote",
+            "title": "DHS Deal Funding TSA Clears First Hurdle — Now The Real Battle Begins",
+            "url": "https://www.dailywire.com/news/dhs-deal-sets-washington-on-edge-as-house-prepares-for-funding-vote",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-27T11:28:43.000Z",
+            "description": "WASHINGTON—The Senate voted to fund portions of the Department of Homeland Security early Friday morning, bringing a partial resolution to the funding lapse that began in February. The bill now heads to the House of Representatives, which will scramble to pass the bill before the weekend. Lawmakers spent Friday morning reacting to the long-awaited action ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/House_TSA_Funding-1.jpg",
+            "categories": []
+          }
+        ],
+        "Middle East Conflict and Iran-Related Stories": [
+          {
+            "id": "BBC:https://www.bbc.com/news/videos/clyr530yry5o?at_medium=RSS&at_campaign=rss",
+            "title": "'Our home is gone': BBC speaks to displaced families in Lebanon",
+            "url": "https://www.bbc.com/news/videos/clyr530yry5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-28T06:00:25.000Z",
+            "description": "The BBC's Hugo Bachega speaks to families in Beirut as more than a million people have been displaced in Lebanon.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beeb/live/375f83b0-29d7-11f1-a79a-77e93010d956.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss",
+            "title": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
+            "url": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-27T21:30:12.000Z",
+            "description": "One month since the US and Israel launched strikes on Iran, Tehran residents tell the BBC their lives have been devastated.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2a5/live/59372420-29c8-11f1-952c-77491ff53aff.jpg",
+            "categories": []
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/27/us/antitank-mines-iran.html",
+            "title": "U.S. Antitank Mines Discovered in Neighborhood in Iran",
+            "url": "https://www.nytimes.com/2026/03/27/us/antitank-mines-iran.html",
             "source": "New York Times",
-            "publishedAt": "2026-03-27T23:15:12.000Z",
-            "description": "As T.S.A. staff shortages continued on Friday, some airports saw interminably long wait times, while others barely had a wait at all, adding to travelers’ confusion.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/27/multimedia/27nat-airports/27nat-airports-mediumSquareAt3X.jpg",
+            "publishedAt": "2026-03-28T00:18:03.000Z",
+            "description": "Photos and video verified by The New York Times show mines dispensed by cluster bombs in a village a few miles from a missile site.",
+            "imageUrl": null,
             "categories": [
-              "Airports",
-              "Airport Security",
-              "Shutdowns (Institutional)",
-              "Atlanta (Ga)",
-              "Baltimore (Md)",
-              "Houston (Tex)"
+              "US and Israeli Attack on Iran (2026)",
+              "Cluster Munitions",
+              "Bombs and Explosives",
+              "Defense Department",
+              "Trump, Donald J",
+              "Iran"
+            ]
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/iran-sparks-international-outrage-turns-12-year-olds-into-expendable-tools-of-war",
+            "title": "Iran Sparks International Outrage, Turns 12-Year-Olds into Expendable Tools Of War",
+            "url": "https://www.dailywire.com/news/iran-sparks-international-outrage-turns-12-year-olds-into-expendable-tools-of-war",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-26T17:11:13.000Z",
+            "description": "In a move that has sparked international condemnation and revived memories of some of the darkest chapters of the Iran-Iraq War, the Iranian government announced Thursday that it has officially lowered the minimum age for military support roles to just 12 years old. Speaking on state television, Rahim Nadali, a cultural official with the Islamic ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-899655072.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cp3lw02ndr5o?at_medium=RSS&at_campaign=rss",
+            "title": "Sanctioned oil tanker enters UK waters day after government crackdown threat",
+            "url": "https://www.bbc.com/news/articles/cp3lw02ndr5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-27T18:48:33.000Z",
+            "description": "Ministers said earlier this week that sanctioned vessels can now be boarded by UK armed forces.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c67/live/b9ce2780-2a03-11f1-985a-c53c841441b5.jpg",
+            "categories": []
+          },
+          {
+            "id": "New York Times:https://www.nytimes.com/2026/03/27/opinion/ezra-klein-podcast-christopher-caldwell.html",
+            "title": "Will Iran Break Trumpism?",
+            "url": "https://www.nytimes.com/2026/03/27/opinion/ezra-klein-podcast-christopher-caldwell.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-27T12:24:44.000Z",
+            "description": "The right-wing thinker Christopher Caldwell believes the Iran war is the end of Trumpism. Is he right? What was Trumpism in the first place?",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/27/opinion/27eks-caldwell-image/27eks-caldwell-image-mediumSquareAt3X.jpg",
+            "categories": [
+              "Caldwell, Christopher",
+              "Trump, Donald J",
+              "Make America Great Again (MAGA) Inc",
+              "Iran",
+              "internal-open-access-audio"
             ]
           }
         ],
-        "Illegal Immigration and Crime in the US": [
+        "Immigration, Sanctuary Policies, and Crime Cases": [
           {
             "id": "Fox News:https://www.foxnews.com/media/chicago-area-student-paper-unveils-ice-tracker-days-after-illegal-migrant-charged-sheridan-gorman-murder",
             "title": "Chicago-area student paper unveils ICE tracker days after illegal migrant charged in Sheridan Gorman's murder",
@@ -3735,6 +3815,16 @@
             ]
           },
           {
+            "id": "Daily Wire:https://www.dailywire.com/news/sheridan-gormans-family-rips-chicago-mayor-illinois-gov-over-response-to-her-killing",
+            "title": "Sheridan Gorman’s Family Rips Chicago Mayor, Illinois Gov Over Response To Her Killing",
+            "url": "https://www.dailywire.com/news/sheridan-gormans-family-rips-chicago-mayor-illinois-gov-over-response-to-her-killing",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-27T12:55:11.000Z",
+            "description": "The family of Sheridan Gorman, the college student who was fatally shot by an illegal immigrant in Chicago, are slamming the sanctuary-policy-supporting leaders in Illinois for their response to her killing. Jose Medina-Medina, 25, an illegal immigrant from Venezuela, allegedly approached the college freshman wearing a black mask around 1 a.m. on March 19, and ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2239438449.jpg",
+            "categories": []
+          },
+          {
             "id": "Fox News:https://www.foxnews.com/us/ice-arrests-latin-kings-member-after-nyc-sanctuary-release-despite-assault-charge-first-responder",
             "title": "ICE arrests Latin Kings member after NYC sanctuary release despite assault charge on first responder",
             "url": "https://www.foxnews.com/us/ice-arrests-latin-kings-member-after-nyc-sanctuary-release-despite-assault-charge-first-responder",
@@ -3756,16 +3846,6 @@
             ]
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/sheridan-gormans-family-rips-chicago-mayor-illinois-gov-over-response-to-her-killing",
-            "title": "Sheridan Gorman’s Family Rips Chicago Mayor, Illinois Gov Over Response To Her Killing",
-            "url": "https://www.dailywire.com/news/sheridan-gormans-family-rips-chicago-mayor-illinois-gov-over-response-to-her-killing",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-27T12:55:11.000Z",
-            "description": "The family of Sheridan Gorman, the college student who was fatally shot by an illegal immigrant in Chicago, are slamming the sanctuary-policy-supporting leaders in Illinois for their response to her killing. Jose Medina-Medina, 25, an illegal immigrant from Venezuela, allegedly approached the college freshman wearing a black mask around 1 a.m. on March 19, and ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2239438449.jpg",
-            "categories": []
-          },
-          {
             "id": "Daily Wire:https://www.dailywire.com/news/elderly-veteran-dies-after-being-pushed-onto-subway-tracks-illegal-alien-charged",
             "title": "Elderly Veteran Dies After Being Pushed Onto Subway Tracks, Illegal Alien Charged",
             "url": "https://www.dailywire.com/news/elderly-veteran-dies-after-being-pushed-onto-subway-tracks-illegal-alien-charged",
@@ -3776,82 +3856,108 @@
             "categories": []
           }
         ],
-        "Iran Conflict and International Reactions": [
+        "US Political and Military Controversies": [
           {
-            "id": "New York Times:https://www.nytimes.com/2026/03/27/us/antitank-mines-iran.html",
-            "title": "U.S. Antitank Mines Discovered in Neighborhood in Iran",
-            "url": "https://www.nytimes.com/2026/03/27/us/antitank-mines-iran.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-28T00:18:03.000Z",
-            "description": "Photos and video verified by The New York Times show mines dispensed by cluster bombs in a village a few miles from a missile site.",
+            "id": "NPR:https://www.npr.org/2026/03/27/g-s1-115318/antibiotic-resistance-bacteria-drought-climate-change",
+            "title": "Here's some new dirt on an unusual source of antibiotic resistance",
+            "url": "https://www.npr.org/2026/03/27/g-s1-115318/antibiotic-resistance-bacteria-drought-climate-change",
+            "source": "NPR",
+            "publishedAt": "2026-03-27T12:59:30.000Z",
+            "description": "New research suggests drought can stoke antibiotic resistance in soil bacteria — and that can have an impact on humans.",
             "imageUrl": null,
-            "categories": [
-              "US and Israeli Attack on Iran (2026)",
-              "Cluster Munitions",
-              "Bombs and Explosives",
-              "Defense Department",
-              "Trump, Donald J",
-              "Iran"
-            ]
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss",
-            "title": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
-            "url": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-27T21:30:12.000Z",
-            "description": "One month since the US and Israel launched strikes on Iran, Tehran residents tell the BBC their lives have been devastated.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2a5/live/59372420-29c8-11f1-952c-77491ff53aff.jpg",
             "categories": []
           },
           {
-            "id": "BBC:https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
-            "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
-            "url": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-27T13:25:57.000Z",
-            "description": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48c/live/ada8ef80-29c2-11f1-952c-77491ff53aff.jpg",
+            "id": "NPR:https://www.npr.org/2026/03/27/g-s1-115540/tiger-woods-arrest-dui-suspicion-masters-golf",
+            "title": "Tiger Woods arrested on suspicion of DUI, authorities say",
+            "url": "https://www.npr.org/2026/03/27/g-s1-115540/tiger-woods-arrest-dui-suspicion-masters-golf",
+            "source": "NPR",
+            "publishedAt": "2026-03-27T21:37:56.000Z",
+            "description": "Woods was arrested on suspicion of DUI after he struck another vehicle and rolled his Land Rover, not far from where he lives on Jupiter Island, Florida. The sheriff's office said he was not injured.",
+            "imageUrl": null,
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/iran-sparks-international-outrage-turns-12-year-olds-into-expendable-tools-of-war",
-            "title": "Iran Sparks International Outrage, Turns 12-Year-Olds into Expendable Tools Of War",
-            "url": "https://www.dailywire.com/news/iran-sparks-international-outrage-turns-12-year-olds-into-expendable-tools-of-war",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-26T17:11:13.000Z",
-            "description": "In a move that has sparked international condemnation and revived memories of some of the darkest chapters of the Iran-Iraq War, the Iranian government announced Thursday that it has officially lowered the minimum age for military support roles to just 12 years old. Speaking on state television, Rahim Nadali, a cultural official with the Islamic ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-899655072.jpg",
+            "id": "NPR:https://www.npr.org/2026/03/27/nx-s1-5763863/hegseth-soldiers-promotions",
+            "title": "Defense Secretary Hegseth intervened to stop promotions of Black and female officers",
+            "url": "https://www.npr.org/2026/03/27/nx-s1-5763863/hegseth-soldiers-promotions",
+            "source": "NPR",
+            "publishedAt": "2026-03-27T19:06:19.000Z",
+            "description": "Four Army officers were on track to become one-star generals, NPR confirms. Defense secretary Pete Hegseth's involvement in the promotion process is highly unusual.",
+            "imageUrl": null,
             "categories": []
           },
           {
-            "id": "New York Times:https://www.nytimes.com/2026/03/27/opinion/ezra-klein-podcast-christopher-caldwell.html",
-            "title": "Will Iran Break Trumpism?",
-            "url": "https://www.nytimes.com/2026/03/27/opinion/ezra-klein-podcast-christopher-caldwell.html",
+            "id": "New York Times:https://www.nytimes.com/2026/03/27/us/hegseth-promotion-list.html",
+            "title": "Hegseth Strikes Two Black and Two Female Officers From Promotion List",
+            "url": "https://www.nytimes.com/2026/03/27/us/hegseth-promotion-list.html",
             "source": "New York Times",
-            "publishedAt": "2026-03-27T12:24:44.000Z",
-            "description": "The right-wing thinker Christopher Caldwell believes the Iran war is the end of Trumpism. Is he right? What was Trumpism in the first place?",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/27/opinion/27eks-caldwell-image/27eks-caldwell-image-mediumSquareAt3X.jpg",
+            "publishedAt": "2026-03-27T17:00:01.000Z",
+            "description": "Defense Secretary Pete Hegseth’s highly unusual decision to remove officers from a one-star promotion list has spurred allegations of racial and gender bias.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/26/multimedia/00dc-generals-01-tmkw/00dc-generals-01-tmkw-mediumSquareAt3X.jpg",
             "categories": [
-              "Caldwell, Christopher",
-              "Trump, Donald J",
-              "Make America Great Again (MAGA) Inc",
-              "Iran",
-              "internal-open-access-audio"
+              "United States Defense and Military Forces",
+              "Minorities",
+              "Discrimination",
+              "Defense Department",
+              "United States Army",
+              "Driscoll, Daniel P",
+              "Hegseth, Pete",
+              "Trump, Donald J"
             ]
           },
           {
-            "id": "BBC:https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss",
-            "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
-            "url": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-27T19:21:19.000Z",
-            "description": "A hacker group shares Patel's purported resume and photos - information, the FBI says, is \"historical in nature\".",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4099/live/2015bff0-2a07-11f1-af48-7dd725bb0b8b.jpg",
+            "id": "Daily Wire:https://www.dailywire.com/news/doj-demands-answers-after-women-housed-with-hulking-transgender-murderer",
+            "title": "DOJ Demands Answers After Women Housed With Hulking Transgender Murderer",
+            "url": "https://www.dailywire.com/news/doj-demands-answers-after-women-housed-with-hulking-transgender-murderer",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-27T11:53:57.000Z",
+            "description": "The Justice Department launched a probe Thursday into multiple women’s prisons across California and Maine, where transgender-identifying men have been accused of rape and making other sexual advances toward female inmates. The investigation from the Justice Department will look at whether the states violated the constitutional rights of the imprisoned women with their policies of ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/MixCollage-27-Mar-2026-10-32-AM-6603.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/explosive-device-found-at-u-s-military-base-suspect-linked-to-china",
+            "title": "Explosive Device Found At U.S. Military Base — Suspect Linked To China",
+            "url": "https://www.dailywire.com/news/explosive-device-found-at-u-s-military-base-suspect-linked-to-china",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-26T15:24:59.000Z",
+            "description": "A brother and sister are facing federal charges for allegations surrounding an explosive device found at the MacDill Air Force Base in Florida. The indictments come after a suspicious package was placed at the base’s visitor center on March 16. Ann Mary Zheng, 27, is in custody. Her 20-year-old brother Alen is in China, according ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2025/11/GettyImages-2246889622.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/secret-service-agent-shoots-himself-in-the-leg-while-protecting-jill-biden",
+            "title": "Secret Service Agent Shoots Himself In The Leg While Protecting Jill Biden",
+            "url": "https://www.dailywire.com/news/secret-service-agent-shoots-himself-in-the-leg-while-protecting-jill-biden",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-27T10:59:45.000Z",
+            "description": "A Secret Service agent was injured Friday morning after negligently discharging his firearm and shooting himself in the leg while escorting former first lady Jill Biden through the Philadelphia International Airport, the agency told The Daily Wire. The agent fired the weapon just after 8:30 a.m. while on a protective assignment. He was transported to ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2061694070.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/maduros-bid-to-dismiss-federal-charges-met-with-brutal-reality-check",
+            "title": "Maduro’s Bid To Dismiss Federal Charges Met With Brutal Reality Check",
+            "url": "https://www.dailywire.com/news/maduros-bid-to-dismiss-federal-charges-met-with-brutal-reality-check",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-26T14:51:15.000Z",
+            "description": "A U.S. federal judge refused to dismiss the case against Venezuelan dictator Nicolás Maduro on Thursday after Maduro raised concerns about how he would pay for his powerhouse legal team. Maduro appeared in court in Manhattan for the first time since his arraignment in early January. Outside of the federal courthouse, demonstrators waved Venezuelan flags ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Maduro.jpg",
             "categories": []
           }
         ],
-        "Miscellaneous News and Culture Stories": [
+        "Other Coverage": [
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/ckg0xxwn041o?at_medium=RSS&at_campaign=rss",
+            "title": "'He would have been horrified' - error in drug warnings 'misled' families",
+            "url": "https://www.bbc.com/news/articles/ckg0xxwn041o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-28T06:00:22.000Z",
+            "description": "Warnings for dopamine agonist drugs are to be reviewed after BBC identified an error in patient leaflets.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd50/live/22a171c0-2934-11f1-a79a-77e93010d956.png",
+            "categories": []
+          },
           {
             "id": "BBC:https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss",
             "title": "How Trump and the oil markets move in sync: a tango in six charts",
@@ -3913,6 +4019,43 @@
             "categories": []
           },
           {
+            "id": "New York Times:https://www.nytimes.com/2026/03/27/us/politics/breonna-taylor-officer-charges-dropped.html",
+            "title": "Judge Agrees to Drop Charges Against Officers in Breonna Taylor’s Death",
+            "url": "https://www.nytimes.com/2026/03/27/us/politics/breonna-taylor-officer-charges-dropped.html",
+            "source": "New York Times",
+            "publishedAt": "2026-03-27T23:59:23.000Z",
+            "description": "The Trump administration had asked the court to dismiss the charges, describing them as an example of “weaponized federal overreach” by the Biden administration.",
+            "imageUrl": "https://static01.nyt.com/images/2026/03/27/multimedia/27trump-news-taylor1-cjmz/27trump-news-taylor1-cjmz-mediumSquareAt3X.jpg",
+            "categories": [
+              "Taylor, Breonna (1993-2020)",
+              "Louisville (Ky)",
+              "Police Brutality, Misconduct and Shootings",
+              "Black Lives Matter Movement",
+              "Decisions and Verdicts",
+              "Justice Department"
+            ]
+          },
+          {
+            "id": "Fox News:https://www.foxnews.com/us/pima-county-deputy-accused-kidnapping-woman-custody-fired-from-department-investigating-guthrie-case",
+            "title": "Pima County deputy accused of kidnapping woman in custody, fired from department investigating Guthrie case",
+            "url": "https://www.foxnews.com/us/pima-county-deputy-accused-kidnapping-woman-custody-fired-from-department-investigating-guthrie-case",
+            "source": "Fox News",
+            "publishedAt": "2026-03-27T23:40:20.000Z",
+            "description": "Travis Reynolds, a 22-year-old Arizona deputy, faces a kidnapping charge after allegedly exploiting a detainee while on duty. His bond was set at $200,000.",
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/dputy-arrested-2.png?ve=1&tl=1",
+            "categories": [
+              "640fd08a-f7cb-5010-bf92-696e27c70dd3",
+              "fnc",
+              "Fox News",
+              "fox-news/crime",
+              "fox-news/us/crime/police-and-law-enforcement",
+              "fox-news/us/us-regions/southwest/arizona",
+              "fox-news/us",
+              "fox-news/us",
+              "article"
+            ]
+          },
+          {
             "id": "BBC:https://www.bbc.com/news/articles/c15dz7ql59yo?at_medium=RSS&at_campaign=rss",
             "title": "'Memory of a generation': China mourns the sudden death of a controversial education influencer",
             "url": "https://www.bbc.com/news/articles/c15dz7ql59yo?at_medium=RSS&at_campaign=rss",
@@ -3930,86 +4073,6 @@
             "publishedAt": "2026-03-27T22:05:42.000Z",
             "description": "Geumseong survived a dangerous journey to South Korea, but his mother is stuck in a Chinese prison and may be forcibly repatriated.",
             "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dc8/live/41c46680-29f6-11f1-934f-036468834728.png",
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.co.uk/sounds/play/p0n6h1fk?at_medium=RSS&at_campaign=rss",
-            "title": "The Social Media Addiction Trial",
-            "url": "https://www.bbc.co.uk/sounds/play/p0n6h1fk?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-26T18:46:00.000Z",
-            "description": "Campaigners win landmark legal battle against social media giants.",
-            "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/your-therapist-is-being-told-to-affirm-child-transgenderism",
-            "title": "Your Therapist Is Being Told To ‘Affirm’ Child Transgenderism",
-            "url": "https://www.dailywire.com/news/your-therapist-is-being-told-to-affirm-child-transgenderism",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-27T17:00:34.000Z",
-            "description": "America’s most influential psychological association told The Daily Wire it still recommends children receive so-called gender affirming medical interventions, despite downplaying its support of child transgenderism in a letter to government officials investigating fraud in pediatric gender medicine. The American Psychological Association (APA) confirmed in a written statement that it continues to “support treatments for ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2223958950-scaled.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/doj-demands-answers-after-women-housed-with-hulking-transgender-murderer",
-            "title": "DOJ Demands Answers After Women Housed With Hulking Transgender Murderer",
-            "url": "https://www.dailywire.com/news/doj-demands-answers-after-women-housed-with-hulking-transgender-murderer",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-27T11:53:57.000Z",
-            "description": "The Justice Department launched a probe Thursday into multiple women’s prisons across California and Maine, where transgender-identifying men have been accused of rape and making other sexual advances toward female inmates. The investigation from the Justice Department will look at whether the states violated the constitutional rights of the imprisoned women with their policies of ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/MixCollage-27-Mar-2026-10-32-AM-6603.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/dhs-deal-sets-washington-on-edge-as-house-prepares-for-funding-vote",
-            "title": "DHS Deal Funding TSA Clears First Hurdle — Now The Real Battle Begins",
-            "url": "https://www.dailywire.com/news/dhs-deal-sets-washington-on-edge-as-house-prepares-for-funding-vote",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-27T11:28:43.000Z",
-            "description": "WASHINGTON—The Senate voted to fund portions of the Department of Homeland Security early Friday morning, bringing a partial resolution to the funding lapse that began in February. The bill now heads to the House of Representatives, which will scramble to pass the bill before the weekend. Lawmakers spent Friday morning reacting to the long-awaited action ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/House_TSA_Funding-1.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/the-propaganda-press-cannot-stomach-victory-and-its-mendacity-shows",
-            "title": "The Propaganda Press Cannot Stomach Victory And Its Mendacity Shows",
-            "url": "https://www.dailywire.com/news/the-propaganda-press-cannot-stomach-victory-and-its-mendacity-shows",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-27T11:24:09.000Z",
-            "description": "It is said that the first casualty of war is truth. Perhaps so. But consider the compensating benefit: the humor to be found in the frantic, self-infatuated verbiage that gushes in to coddle the lies and float the narrative. The propaganda press has been working overtime since February 28, when Donald Trump determined to end ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267811245.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/secret-service-agent-shoots-himself-in-the-leg-while-protecting-jill-biden",
-            "title": "Secret Service Agent Shoots Himself In The Leg While Protecting Jill Biden",
-            "url": "https://www.dailywire.com/news/secret-service-agent-shoots-himself-in-the-leg-while-protecting-jill-biden",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-27T10:59:45.000Z",
-            "description": "A Secret Service agent was injured Friday morning after negligently discharging his firearm and shooting himself in the leg while escorting former first lady Jill Biden through the Philadelphia International Airport, the agency told The Daily Wire. The agent fired the weapon just after 8:30 a.m. while on a protective assignment. He was transported to ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2061694070.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/churches-are-burning-and-the-lie-fueling-it-still-holds",
-            "title": "Churches Are Burning, And The Lie Fueling It Still Holds",
-            "url": "https://www.dailywire.com/news/churches-are-burning-and-the-lie-fueling-it-still-holds",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-27T10:00:46.000Z",
-            "description": "Since 2021, more than 80 churches across Canada have suffered arson attacks. The most recent casualty is the reported fire at the historic Christ Church Anglican in Maugerville, New Brunswick. If Canadian media covers the fires at all, they will claim a total of 30 to 35 churches have burned across Canada, meaning churches that have ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-1233762600.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/tabloid-trash-scott-bessent-issues-scathing-response-to-media-story-on-plans-for-the-fed",
-            "title": "‘Tabloid Trash’: Scott Bessent Issues Scathing Response To Media Story On Plans For The Fed",
-            "url": "https://www.dailywire.com/news/tabloid-trash-scott-bessent-issues-scathing-response-to-media-story-on-plans-for-the-fed",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-27T12:46:17.000Z",
-            "description": "Treasury Secretary Scott Bessent delivered a scathing response to The Financial Times after the outlet published a story — which he labeled “explicitly false” — about his plans for the future of the Federal Reserve. The Financial Times headline read, “Scott Bessent praised Bank of England as model for tighter oversight of Federal Reserve.” An ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2025/04/GettyImages-2211619226-e1745762167354.jpg",
             "categories": []
           },
           {
@@ -4040,6 +4103,106 @@
               "New York City Ballet",
               "Washington (DC)"
             ]
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss",
+            "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
+            "url": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-27T19:21:19.000Z",
+            "description": "A hacker group shares Patel's purported resume and photos - information, the FBI says, is \"historical in nature\".",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4099/live/2015bff0-2a07-11f1-af48-7dd725bb0b8b.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/your-therapist-is-being-told-to-affirm-child-transgenderism",
+            "title": "Your Therapist Is Being Told To ‘Affirm’ Child Transgenderism",
+            "url": "https://www.dailywire.com/news/your-therapist-is-being-told-to-affirm-child-transgenderism",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-27T17:00:34.000Z",
+            "description": "America’s most influential psychological association told The Daily Wire it still recommends children receive so-called gender affirming medical interventions, despite downplaying its support of child transgenderism in a letter to government officials investigating fraud in pediatric gender medicine. The American Psychological Association (APA) confirmed in a written statement that it continues to “support treatments for ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2223958950-scaled.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/american-arrested-accused-of-sabotaging-drone-factory-over-israel",
+            "title": "American Arrested, Accused Of Sabotaging Drone Factory Over Israel",
+            "url": "https://www.dailywire.com/news/american-arrested-accused-of-sabotaging-drone-factory-over-israel",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-27T15:37:29.000Z",
+            "description": "An American was among three people arrested in connection with a fire that destroyed a warehouse in the Czech Republic linked to a company supplying drones to Ukraine. Two suspects were arrested in the Czech Republic, while a third was detained in Slovakia and faces possible extradition. Authorities are investigating the suspected arson attack as ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267045531.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/c9vlmxwk2jmo?at_medium=RSS&at_campaign=rss",
+            "title": "Whale swims for freedom after big German rescue effort on Baltic coast",
+            "url": "https://www.bbc.com/news/articles/c9vlmxwk2jmo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-27T15:03:32.000Z",
+            "description": "Rescue teams now believe the whale has reached deeper water in Lübeck Bay and hope it will head for the wider sea.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee7e/live/5267dea0-29be-11f1-952c-77491ff53aff.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/videos/cx24jk0z74yo?at_medium=RSS&at_campaign=rss",
+            "title": "Why mountainous coastline gives Iran such control over Strait of Hormuz",
+            "url": "https://www.bbc.com/news/videos/cx24jk0z74yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-27T14:10:30.000Z",
+            "description": "Paul Adams explains why it is so dangerous to navigate the strait, one of the world's busiest oil shipping channels.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e26/live/981c2660-29e4-11f1-b297-95b0a0a8331e.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
+            "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
+            "url": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-27T13:25:57.000Z",
+            "description": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48c/live/ada8ef80-29c2-11f1-952c-77491ff53aff.jpg",
+            "categories": []
+          },
+          {
+            "id": "BBC:https://www.bbc.com/news/articles/c4g4x2zyer2o?at_medium=RSS&at_campaign=rss",
+            "title": "Afghan asylum seeker jailed for raping girl, 12",
+            "url": "https://www.bbc.com/news/articles/c4g4x2zyer2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC",
+            "publishedAt": "2026-03-27T13:12:01.000Z",
+            "description": "The sex attack carried out by Ahmad Mulakhil in Nuneaton in July last year led to protests.",
+            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f4/live/687e5470-059d-11f1-b7e1-afb6d0884c18.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/tabloid-trash-scott-bessent-issues-scathing-response-to-media-story-on-plans-for-the-fed",
+            "title": "‘Tabloid Trash’: Scott Bessent Issues Scathing Response To Media Story On Plans For The Fed",
+            "url": "https://www.dailywire.com/news/tabloid-trash-scott-bessent-issues-scathing-response-to-media-story-on-plans-for-the-fed",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-27T12:46:17.000Z",
+            "description": "Treasury Secretary Scott Bessent delivered a scathing response to The Financial Times after the outlet published a story — which he labeled “explicitly false” — about his plans for the future of the Federal Reserve. The Financial Times headline read, “Scott Bessent praised Bank of England as model for tighter oversight of Federal Reserve.” An ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2025/04/GettyImages-2211619226-e1745762167354.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/the-propaganda-press-cannot-stomach-victory-and-its-mendacity-shows",
+            "title": "The Propaganda Press Cannot Stomach Victory And Its Mendacity Shows",
+            "url": "https://www.dailywire.com/news/the-propaganda-press-cannot-stomach-victory-and-its-mendacity-shows",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-27T11:24:09.000Z",
+            "description": "It is said that the first casualty of war is truth. Perhaps so. But consider the compensating benefit: the humor to be found in the frantic, self-infatuated verbiage that gushes in to coddle the lies and float the narrative. The propaganda press has been working overtime since February 28, when Donald Trump determined to end ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267811245.jpg",
+            "categories": []
+          },
+          {
+            "id": "Daily Wire:https://www.dailywire.com/news/churches-are-burning-and-the-lie-fueling-it-still-holds",
+            "title": "Churches Are Burning, And The Lie Fueling It Still Holds",
+            "url": "https://www.dailywire.com/news/churches-are-burning-and-the-lie-fueling-it-still-holds",
+            "source": "Daily Wire",
+            "publishedAt": "2026-03-27T10:00:46.000Z",
+            "description": "Since 2021, more than 80 churches across Canada have suffered arson attacks. The most recent casualty is the reported fire at the historic Christ Church Anglican in Maugerville, New Brunswick. If Canadian media covers the fires at all, they will claim a total of 30 to 35 churches have burned across Canada, meaning churches that have ...",
+            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-1233762600.jpg",
+            "categories": []
           },
           {
             "id": "New York Times:https://www.nytimes.com/2026/03/27/books/review/love-story-jfk-jr-carolyn-bessette-books.html",
@@ -4087,23 +4250,13 @@
             "categories": []
           },
           {
-            "id": "BBC:https://www.bbc.com/news/videos/cx24jk0z74yo?at_medium=RSS&at_campaign=rss",
-            "title": "Why mountainous coastline gives Iran such control over Strait of Hormuz",
-            "url": "https://www.bbc.com/news/videos/cx24jk0z74yo?at_medium=RSS&at_campaign=rss",
+            "id": "BBC:https://www.bbc.co.uk/sounds/play/p0n6h1fk?at_medium=RSS&at_campaign=rss",
+            "title": "The Social Media Addiction Trial",
+            "url": "https://www.bbc.co.uk/sounds/play/p0n6h1fk?at_medium=RSS&at_campaign=rss",
             "source": "BBC",
-            "publishedAt": "2026-03-27T14:10:30.000Z",
-            "description": "Paul Adams explains why it is so dangerous to navigate the strait, one of the world's busiest oil shipping channels.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e26/live/981c2660-29e4-11f1-b297-95b0a0a8331e.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/american-arrested-accused-of-sabotaging-drone-factory-over-israel",
-            "title": "American Arrested, Accused Of Sabotaging Drone Factory Over Israel",
-            "url": "https://www.dailywire.com/news/american-arrested-accused-of-sabotaging-drone-factory-over-israel",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-27T15:37:29.000Z",
-            "description": "An American was among three people arrested in connection with a fire that destroyed a warehouse in the Czech Republic linked to a company supplying drones to Ukraine. Two suspects were arrested in the Czech Republic, while a third was detained in Slovakia and faces possible extradition. Authorities are investigating the suspected arson attack as ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267045531.jpg",
+            "publishedAt": "2026-03-26T18:46:00.000Z",
+            "description": "Campaigners win landmark legal battle against social media giants.",
+            "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
             "categories": []
           },
           {
@@ -4127,26 +4280,6 @@
             "categories": []
           },
           {
-            "id": "Daily Wire:https://www.dailywire.com/news/explosive-device-found-at-u-s-military-base-suspect-linked-to-china",
-            "title": "Explosive Device Found At U.S. Military Base — Suspect Linked To China",
-            "url": "https://www.dailywire.com/news/explosive-device-found-at-u-s-military-base-suspect-linked-to-china",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-26T15:24:59.000Z",
-            "description": "A brother and sister are facing federal charges for allegations surrounding an explosive device found at the MacDill Air Force Base in Florida. The indictments come after a suspicious package was placed at the base’s visitor center on March 16. Ann Mary Zheng, 27, is in custody. Her 20-year-old brother Alen is in China, according ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2025/11/GettyImages-2246889622.jpg",
-            "categories": []
-          },
-          {
-            "id": "Daily Wire:https://www.dailywire.com/news/maduros-bid-to-dismiss-federal-charges-met-with-brutal-reality-check",
-            "title": "Maduro’s Bid To Dismiss Federal Charges Met With Brutal Reality Check",
-            "url": "https://www.dailywire.com/news/maduros-bid-to-dismiss-federal-charges-met-with-brutal-reality-check",
-            "source": "Daily Wire",
-            "publishedAt": "2026-03-26T14:51:15.000Z",
-            "description": "A U.S. federal judge refused to dismiss the case against Venezuelan dictator Nicolás Maduro on Thursday after Maduro raised concerns about how he would pay for his powerhouse legal team. Maduro appeared in court in Manhattan for the first time since his arraignment in early January. Outside of the federal courthouse, demonstrators waved Venezuelan flags ...",
-            "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Maduro.jpg",
-            "categories": []
-          },
-          {
             "id": "Daily Wire:https://www.dailywire.com/news/watch-ice-agent-saves-baby-who-stopped-breathing-in-tsa-line",
             "title": "WATCH: ICE Agent Saves Baby Who Stopped Breathing In TSA Line",
             "url": "https://www.dailywire.com/news/watch-ice-agent-saves-baby-who-stopped-breathing-in-tsa-line",
@@ -4155,145 +4288,42 @@
             "description": "An Immigration and Customs Enforcement agent jumped into action after a baby stuck in a crowded TSA line with his family stopped breathing at JFK International Airport in New York on Thursday. Video footage released by the Department of Homeland Security showed a man holding a baby notice something wrong with the child and begin ...",
             "imageUrl": "https://dw-wp-production.imgix.net/2026/03/GettyImages-2267715627.jpg",
             "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/c4g4x2zyer2o?at_medium=RSS&at_campaign=rss",
-            "title": "Afghan asylum seeker jailed for raping girl, 12",
-            "url": "https://www.bbc.com/news/articles/c4g4x2zyer2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-27T13:12:01.000Z",
-            "description": "The sex attack carried out by Ahmad Mulakhil in Nuneaton in July last year led to protests.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f4/live/687e5470-059d-11f1-b7e1-afb6d0884c18.jpg",
-            "categories": []
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/27/us/politics/breonna-taylor-officer-charges-dropped.html",
-            "title": "Judge Agrees to Drop Charges Against Officers in Breonna Taylor’s Death",
-            "url": "https://www.nytimes.com/2026/03/27/us/politics/breonna-taylor-officer-charges-dropped.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-27T23:59:23.000Z",
-            "description": "The Trump administration had asked the court to dismiss the charges, describing them as an example of “weaponized federal overreach” by the Biden administration.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/27/multimedia/27trump-news-taylor1-cjmz/27trump-news-taylor1-cjmz-mediumSquareAt3X.jpg",
-            "categories": [
-              "Taylor, Breonna (1993-2020)",
-              "Louisville (Ky)",
-              "Police Brutality, Misconduct and Shootings",
-              "Black Lives Matter Movement",
-              "Decisions and Verdicts",
-              "Justice Department"
-            ]
-          },
-          {
-            "id": "Fox News:https://www.foxnews.com/us/pima-county-deputy-accused-kidnapping-woman-custody-fired-from-department-investigating-guthrie-case",
-            "title": "Pima County deputy accused of kidnapping woman in custody, fired from department investigating Guthrie case",
-            "url": "https://www.foxnews.com/us/pima-county-deputy-accused-kidnapping-woman-custody-fired-from-department-investigating-guthrie-case",
-            "source": "Fox News",
-            "publishedAt": "2026-03-27T23:40:20.000Z",
-            "description": "Travis Reynolds, a 22-year-old Arizona deputy, faces a kidnapping charge after allegedly exploiting a detainee while on duty. His bond was set at $200,000.",
-            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/dputy-arrested-2.png?ve=1&tl=1",
-            "categories": [
-              "640fd08a-f7cb-5010-bf92-696e27c70dd3",
-              "fnc",
-              "Fox News",
-              "fox-news/crime",
-              "fox-news/us/crime/police-and-law-enforcement",
-              "fox-news/us/us-regions/southwest/arizona",
-              "fox-news/us",
-              "fox-news/us",
-              "article"
-            ]
-          }
-        ],
-        "Other Coverage": [
-          {
-            "id": "NPR:https://www.npr.org/2026/03/27/g-s1-115540/tiger-woods-arrest-dui-suspicion-masters-golf",
-            "title": "Tiger Woods arrested on suspicion of DUI, authorities say",
-            "url": "https://www.npr.org/2026/03/27/g-s1-115540/tiger-woods-arrest-dui-suspicion-masters-golf",
-            "source": "NPR",
-            "publishedAt": "2026-03-27T21:37:56.000Z",
-            "description": "Woods was arrested on suspicion of DUI after he struck another vehicle and rolled his Land Rover, not far from where he lives on Jupiter Island, Florida. The sheriff's office said he was not injured.",
-            "imageUrl": null,
-            "categories": []
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/27/nyregion/laguardia-firefighters-truck-air-canada.html",
-            "title": "After Being Struck by Air Canada Plane, Last Firefighter Is Released From Hospital",
-            "url": "https://www.nytimes.com/2026/03/27/nyregion/laguardia-firefighters-truck-air-canada.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-27T20:03:45.000Z",
-            "description": "Days after the disaster on a LaGuardia runway, two veterans of a specialized rescue unit have been released from the hospital.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/27/multimedia/27met-laguardia-firefighters-01-vfzm/27met-laguardia-firefighters-01-vfzm-mediumSquareAt3X.jpg",
-            "categories": [
-              "Airlines and Airplanes",
-              "Regulation and Deregulation of Industry",
-              "Radio",
-              "Queens (NYC)"
-            ]
-          },
-          {
-            "id": "NPR:https://www.npr.org/2026/03/27/nx-s1-5763863/hegseth-soldiers-promotions",
-            "title": "Defense Secretary Hegseth intervened to stop promotions of Black and female officers",
-            "url": "https://www.npr.org/2026/03/27/nx-s1-5763863/hegseth-soldiers-promotions",
-            "source": "NPR",
-            "publishedAt": "2026-03-27T19:06:19.000Z",
-            "description": "Four Army officers were on track to become one-star generals, NPR confirms. Defense secretary Pete Hegseth's involvement in the promotion process is highly unusual.",
-            "imageUrl": null,
-            "categories": []
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/cp3lw02ndr5o?at_medium=RSS&at_campaign=rss",
-            "title": "Sanctioned oil tanker enters UK waters day after government crackdown threat",
-            "url": "https://www.bbc.com/news/articles/cp3lw02ndr5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-27T18:48:33.000Z",
-            "description": "Ministers said earlier this week that sanctioned vessels can now be boarded by UK armed forces.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c67/live/b9ce2780-2a03-11f1-985a-c53c841441b5.jpg",
-            "categories": []
-          },
-          {
-            "id": "New York Times:https://www.nytimes.com/2026/03/27/us/hegseth-promotion-list.html",
-            "title": "Hegseth Strikes Two Black and Two Female Officers From Promotion List",
-            "url": "https://www.nytimes.com/2026/03/27/us/hegseth-promotion-list.html",
-            "source": "New York Times",
-            "publishedAt": "2026-03-27T17:00:01.000Z",
-            "description": "Defense Secretary Pete Hegseth’s highly unusual decision to remove officers from a one-star promotion list has spurred allegations of racial and gender bias.",
-            "imageUrl": "https://static01.nyt.com/images/2026/03/26/multimedia/00dc-generals-01-tmkw/00dc-generals-01-tmkw-mediumSquareAt3X.jpg",
-            "categories": [
-              "United States Defense and Military Forces",
-              "Minorities",
-              "Discrimination",
-              "Defense Department",
-              "United States Army",
-              "Driscoll, Daniel P",
-              "Hegseth, Pete",
-              "Trump, Donald J"
-            ]
-          },
-          {
-            "id": "BBC:https://www.bbc.com/news/articles/c9vlmxwk2jmo?at_medium=RSS&at_campaign=rss",
-            "title": "Whale swims for freedom after big German rescue effort on Baltic coast",
-            "url": "https://www.bbc.com/news/articles/c9vlmxwk2jmo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC",
-            "publishedAt": "2026-03-27T15:03:32.000Z",
-            "description": "Rescue teams now believe the whale has reached deeper water in Lübeck Bay and hope it will head for the wider sea.",
-            "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee7e/live/5267dea0-29be-11f1-952c-77491ff53aff.jpg",
-            "categories": []
-          },
-          {
-            "id": "NPR:https://www.npr.org/2026/03/27/g-s1-115318/antibiotic-resistance-bacteria-drought-climate-change",
-            "title": "Here's some new dirt on an unusual source of antibiotic resistance",
-            "url": "https://www.npr.org/2026/03/27/g-s1-115318/antibiotic-resistance-bacteria-drought-climate-change",
-            "source": "NPR",
-            "publishedAt": "2026-03-27T12:59:30.000Z",
-            "description": "New research suggests drought can stoke antibiotic resistance in soil bacteria — and that can have an impact on humans.",
-            "imageUrl": null,
-            "categories": []
           }
         ]
       }
     }
   },
   "latestArticles": [
+    {
+      "id": "BBC:https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+      "title": "Gaza peace doubts deepen as attention shifts to Iran",
+      "url": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-03-28T06:00:37.000Z",
+      "description": "With the world focused on the Iran war, there is increasing uncertainty about what happens next for Gaza.",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fbe/live/3fcf8ca0-29fc-11f1-99ef-b5dfea7d5974.jpg",
+      "categories": []
+    },
+    {
+      "id": "BBC:https://www.bbc.com/news/videos/clyr530yry5o?at_medium=RSS&at_campaign=rss",
+      "title": "'Our home is gone': BBC speaks to displaced families in Lebanon",
+      "url": "https://www.bbc.com/news/videos/clyr530yry5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-03-28T06:00:25.000Z",
+      "description": "The BBC's Hugo Bachega speaks to families in Beirut as more than a million people have been displaced in Lebanon.",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beeb/live/375f83b0-29d7-11f1-a79a-77e93010d956.jpg",
+      "categories": []
+    },
+    {
+      "id": "BBC:https://www.bbc.com/news/articles/ckg0xxwn041o?at_medium=RSS&at_campaign=rss",
+      "title": "'He would have been horrified' - error in drug warnings 'misled' families",
+      "url": "https://www.bbc.com/news/articles/ckg0xxwn041o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-03-28T06:00:22.000Z",
+      "description": "Warnings for dopamine agonist drugs are to be reviewed after BBC identified an error in patient leaflets.",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd50/live/22a171c0-2934-11f1-a79a-77e93010d956.png",
+      "categories": []
+    },
     {
       "id": "New York Times:https://www.nytimes.com/2026/03/27/us/politics/cpac-trump-iran-war.html",
       "title": "At CPAC, the ‘America First’ Crowd Ponders Giving War a Chance",
@@ -4436,48 +4466,6 @@
       "description": "The planned vote is unlikely to end the funding impasse as long security lines at US airports continue.",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ab/live/5cf32210-29c5-11f1-952c-77491ff53aff.jpg",
       "categories": []
-    },
-    {
-      "id": "BBC:https://www.bbc.com/news/articles/czjw37ne208o?at_medium=RSS&at_campaign=rss",
-      "title": "Noah Wyle is back in A&E with new drama The Pitt: 'I hope people watch with empathy'",
-      "url": "https://www.bbc.com/news/articles/czjw37ne208o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-03-28T01:36:23.000Z",
-      "description": "The former ER star is back playing a physician with PTSD in a new US medical drama.",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9298/live/70dba610-2a1c-11f1-b445-970559cc3350.jpg",
-      "categories": []
-    },
-    {
-      "id": "BBC:https://www.bbc.com/news/articles/c79jd9d0n4zo?at_medium=RSS&at_campaign=rss",
-      "title": "The Papers:  'War to end in weeks' and '50% of public cut their spending'",
-      "url": "https://www.bbc.com/news/articles/c79jd9d0n4zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-03-28T01:17:11.000Z",
-      "description": "The US saying the Middle East war will \"end in weeks\" and pressure on UK household budgets lead Saturday's papers.",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/657c/live/38856470-2a37-11f1-a79a-77e93010d956.jpg",
-      "categories": []
-    },
-    {
-      "id": "Fox News:https://www.foxnews.com/us/least-2-students-killed-several-injured-school-bus-crash-tennessee-parents-worst-nightmare",
-      "title": "At least 2 students killed, several injured in school bus crash in Tennessee: 'A parent's worst nightmare'",
-      "url": "https://www.foxnews.com/us/least-2-students-killed-several-injured-school-bus-crash-tennessee-parents-worst-nightmare",
-      "source": "Fox News",
-      "publishedAt": "2026-03-28T01:16:05.000Z",
-      "description": "Two students were killed and seven were injured in a school bus crash on Highway 70 in Carroll County, Tennessee, during a Kenwood Middle School field trip.",
-      "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/school-bus-crash-tennessee-students-killed.jpg?ve=1&tl=1",
-      "categories": [
-        "ea19ba34-e1e1-5923-809d-a02b22979736",
-        "fnc",
-        "Fox News",
-        "fox-news/us/us-regions/southeast/tennessee",
-        "fox-news/world/disasters/transportation",
-        "fox-news/us/crime/police-and-law-enforcement",
-        "fox-news/auto/style/trucks",
-        "fox-news/us",
-        "fox-news/us/disasters",
-        "fox-news/us",
-        "article"
-      ]
     }
   ]
 }
